@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="99-99">
-    <display-name lang="es">TEMPLATE</display-name>
+    <display-name lang="es">CANAL DE PRUEBA</display-name>
     <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
