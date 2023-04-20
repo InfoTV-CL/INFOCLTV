@@ -5318,11 +5318,11 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420060000 -0400" stop="20230420080000 -0400" channel="01-27">
+  <programme start="20230420060000 -0400" stop="20230420120000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420120000 -0400" stop="20230420180000 -0400" channel="01-27">
+  <programme start="20230420120000 -0400" stop="20230420130000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7779,7 +7779,11 @@
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420060000 -0400" stop="20230420103000 -0400" channel="02-12">
+  <programme start="20230420060000 -0400" stop="20230420120000 -0400" channel="02-12">
+    <title lang="en">Chilevision Noticias</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230420120000 -0400" stop="20230420140000 -0400" channel="02-12">
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7791,9 +7795,9 @@
     <title lang="en">Bolsillo CHV</title>
     <desc lang="en">El resumen económico semanal, para entender cómo gastar y en qué gastar. Notas de consumo y consejos prácticos para ayudar a la economía del hogar. Exclusivo en Pluto TV.</desc>
   </programme>
-  <programme start="20230421060000 -0400" stop="20230421120000 -0400" channel="02-12">
-    <title lang="en">Chilevision Noticias</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230421050000 -0400" stop="20230421064500 -0400" channel="02-12">
+    <title lang="en">CHV Noticias Central</title>
+    <desc lang="en">Macarena Pizarro y Daniel Matamala presentan el noticiero más creíble del país. Coberturas, notas y reportajes exclusivos para estar informado con todo lo que ocurrió durante la jornada.</desc>
   </programme>
   <programme start="20230421120000 -0400" stop="20230421180000 -0400" channel="02-12">
     <title lang="en">Chilevision Noticias</title>
@@ -7807,11 +7811,11 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420060000 -0400" stop="20230420100000 -0400" channel="02-13">
+  <programme start="20230420060000 -0400" stop="20230420120000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420120000 -0400" stop="20230420180000 -0400" channel="02-13">
+  <programme start="20230420120000 -0400" stop="20230420140000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -16878,8 +16882,9 @@
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
   </programme>
   <programme start="20230420110000 -0400" stop="20230420120000 -0400" channel="04-11">
-    <title lang="es">ESPN F90</title>
-    <desc lang="es">Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.</desc>
+    <title lang="es">ESPN Compact - UEFA Champions League</title>
+    <sub-title lang="es">Bayern Munich (Ale) vs. Manchester City (Ing), Cuartos de final Vuelta, Fußball Arena München</sub-title>
+    <desc lang="es">Revive en imágenes los resúmenes y mejores momentos de los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
   </programme>
   <programme start="20230420120000 -0400" stop="20230420130000 -0400" channel="04-11">
     <title lang="es">SportsCenter</title>
@@ -17305,21 +17310,21 @@
     <title lang="es">Inside Serie A</title>
     <desc lang="es">Con la presencia de numerosas estrellas del fútbol mundial, el Calcio siempre nos invita a atrayentes partidos. En esta competencia se lucha en varios frentes: por el título, la clasificación a la UEFA Champions League, la Copa UEFA y para esquivar la caliente zona de descenso.</desc>
   </programme>
-  <programme start="20230421143000 -0400" stop="20230421164000 -0400" channel="04-13">
-    <title lang="es">Serie A</title>
-    <sub-title lang="es">Hellas Verona vs. Bologna, Fecha 31, Estadio Marcantonio Bentegodi</sub-title>
-    <desc lang="es">Viví los partidos de la nonagésima primera edición de la máxima competición futbolística de Italia, desde su creación en 1929.</desc>
+  <programme start="20230421143000 -0400" stop="20230421164500 -0400" channel="04-13">
+    <title lang="es">Premiership</title>
+    <sub-title lang="es">Newcastle Falcons vs. Northampton Saints</sub-title>
+    <desc lang="es">La Premiership Inglesa, conocida como Aviva Premiership por el nombre de su actual patrocinador, es la máxima competición oficial de rugby unión de Inglaterra. En la actualidad cuenta con doce equipos. Los participantes se clasifican para las dos competiciones de clubes europeas: la Heineken Cup y la European Challenge Cup.</desc>
   </programme>
-  <programme start="20230421164000 -0400" stop="20230421170500 -0400" channel="04-13">
+  <programme start="20230421164500 -0400" stop="20230421170500 -0400" channel="04-13">
     <title lang="es">ATP Tour Uncovered</title>
     <desc lang="es">La actualidad del circuito profesional masculino de tenis.</desc>
   </programme>
-  <programme start="20230421170500 -0400" stop="20230421180000 -0400" channel="04-13">
+  <programme start="20230421170500 -0400" stop="20230421180500 -0400" channel="04-13">
     <title lang="es">ESPN Compact - UEFA Champions League</title>
     <sub-title lang="es">Napoli (Ita) vs. Milan (Ita), Cuartos de final Vuelta, Stadio Diego Armando Maradona</sub-title>
     <desc lang="es">Revive en imágenes los resúmenes y mejores momentos de los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
   </programme>
-  <programme start="20230421180000 -0400" stop="20230421190000 -0400" channel="04-13">
+  <programme start="20230421180500 -0400" stop="20230421190000 -0400" channel="04-13">
     <title lang="es">ESPN Compact - UEFA Europa League</title>
     <sub-title lang="es">Sporting Lisboa (Por) vs. Juventus (Ita), Cuartos de final Vuelta, Estádio José Alvalade</sub-title>
     <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.</desc>
@@ -22087,13 +22092,13 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420060000 -0400" stop="20230420103100 -0400" channel="05-44">
+  <programme start="20230420060000 -0400" stop="20230420120000 -0400" channel="05-44">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420103100 -0400" stop="20230420125100 -0400" channel="05-44">
-    <title lang="en">AC/DC - Live in Madrid</title>
-    <desc lang="en">No Bull es un concierto filmado en 16 mm en la Plaza de Toros de Las Ventas, Madrid, el 10 de julio de 1996, durante la gira Ballbreaker de la banda australiana de hard rock AC/DC, lanzado en VHS en 1996 y en DVD en 2000.</desc>
+  <programme start="20230420120000 -0400" stop="20230420143700 -0400" channel="05-44">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230420232900 -0400" stop="20230421004500 -0400" channel="05-44">
     <title lang="en">Chic - Live at iTunes Festival</title>
@@ -22115,11 +22120,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420060000 -0400" stop="20230420100000 -0400" channel="05-45">
+  <programme start="20230420060000 -0400" stop="20230420120000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420120000 -0400" stop="20230420180000 -0400" channel="05-45">
+  <programme start="20230420120000 -0400" stop="20230420140000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -25238,11 +25243,11 @@
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420060000 -0400" stop="20230420100000 -0400" channel="06-12">
+  <programme start="20230420060000 -0400" stop="20230420120000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230420120000 -0400" stop="20230420180000 -0400" channel="06-12">
+  <programme start="20230420120000 -0400" stop="20230420140000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -30841,154 +30846,154 @@
     <sub-title lang="es">20 Constructores</sub-title>
     <desc lang="es">Programa que reúne a cientos de idiotas cayéndose de cara mientras intentan convertirse en la próxima sensación de YouTube. Los percances más estúpidos y chistosos, involucrando animales, bodas, deportes, criminales, niños y más. Los constructores reciben un tratamiento de lo más ridículo, desde calamidades con mezcladoras de cemento a demoliciones peligrosas.</desc>
   </programme>
-  <programme start="20230421060000 -0400" stop="20230421063000 -0400" channel="08-12">
+  <programme start="20230421060000 -0400" stop="20230421062400 -0400" channel="08-12">
     <title lang="es">Schitt's Creek</title>
     <sub-title lang="es">5 Rooms by the Hour</sub-title>
     <desc lang="es">Cuando el rico magnate de la tienda de videos Johnny Rose y su familia se encuentran repentinamente en bancarrota, se ven obligados a abandonar sus mimadas vidas para reagruparse y reconstruir su imperio dentro de los límites de la ciudad rural de su único activo restante: Schitt's Creek, una axila de un pueblo que alguna vez compraron como broma. Johnny pone al motel en riesgo cuando renta una habitación para un sospechoso emprendimiento. Mientras tanto, David ayuda a Moira con una audición.</desc>
   </programme>
-  <programme start="20230421063000 -0400" stop="20230421070000 -0400" channel="08-12">
+  <programme start="20230421062400 -0400" stop="20230421070200 -0400" channel="08-12">
     <title lang="es">Schitt's Creek</title>
     <sub-title lang="es">6 Murder Mystery</sub-title>
     <desc lang="es">Cuando el rico magnate de la tienda de videos Johnny Rose y su familia se encuentran repentinamente en bancarrota, se ven obligados a abandonar sus mimadas vidas para reagruparse y reconstruir su imperio dentro de los límites de la ciudad rural de su único activo restante: Schitt's Creek, una axila de un pueblo que alguna vez compraron como broma. Johnny y Stevie hacen lanzamientos en un campo de golf cercano por un paquete del motel. Moira intenta librarse de una invitación para la fiesta temática de un asesinato misterioso de Twyla.</desc>
   </programme>
-  <programme start="20230421070000 -0400" stop="20230421073000 -0400" channel="08-12">
+  <programme start="20230421070200 -0400" stop="20230421072600 -0400" channel="08-12">
     <title lang="es">Idiotas por accidente</title>
     <sub-title lang="es">21 Bebés</sub-title>
     <desc lang="es">Programa que reúne a cientos de idiotas cayéndose de cara mientras intentan convertirse en la próxima sensación de YouTube. Los percances más estúpidos y chistosos, involucrando animales, bodas, deportes, criminales, niños y más. Los bebés reciben un tratamiento de lo más ridículo, desde pequeños creadores de desastres hasta niños no tan talentosos.</desc>
   </programme>
-  <programme start="20230421073000 -0400" stop="20230421080000 -0400" channel="08-12">
+  <programme start="20230421072600 -0400" stop="20230421080500 -0400" channel="08-12">
     <title lang="es">Idiotas por accidente</title>
     <sub-title lang="es">22 Amigos</sub-title>
     <desc lang="es">Programa que reúne a cientos de idiotas cayéndose de cara mientras intentan convertirse en la próxima sensación de YouTube. Los percances más estúpidos y chistosos, involucrando animales, bodas, deportes, criminales, niños y más. Los amigos reciben un tratamiento de lo más ridículo, desde los compañeros más locos del planeta hasta los que se asustan entre sí.</desc>
   </programme>
-  <programme start="20230421080000 -0400" stop="20230421083000 -0400" channel="08-12">
+  <programme start="20230421080500 -0400" stop="20230421083300 -0400" channel="08-12">
     <title lang="es">Casados con hijos</title>
     <sub-title lang="es">82 Paola la empleada del mes</sub-title>
     <desc lang="es">Una familia muy particular, de clase media, compuesta por el padre, vendedor de zapatos, la madre, una mujer poco afectada ante las tareas de la casa, y sus dos hijos, un varón y una chica adolescente. Un excelente retrato sobre la supervivencia marital, que romperá con el concepto tradicional de lo típico de Argentina. Paola comienza a trabajar en una hamburguesería, pero su torpeza causa su despido sin el pago correspondiente, así que María Elena organiza una revolución.</desc>
   </programme>
-  <programme start="20230421083000 -0400" stop="20230421085500 -0400" channel="08-12">
+  <programme start="20230421083300 -0400" stop="20230421085800 -0400" channel="08-12">
     <title lang="es">Casados con hijos</title>
     <sub-title lang="es">83 Un Argento suelto en la universidad</sub-title>
     <desc lang="es">Una familia muy particular, de clase media, compuesta por el padre, vendedor de zapatos, la madre, una mujer poco afectada ante las tareas de la casa, y sus dos hijos, un varón y una chica adolescente. Un excelente retrato sobre la supervivencia marital, que romperá con el concepto tradicional de lo típico de Argentina. Coqui gana una beca universitaria y recibe ARS 25.000 que deposita en la cuenta bancaria de la familia, pero Pepe y Moni creen que es un error del banco y gastan el dinero.</desc>
   </programme>
-  <programme start="20230421085500 -0400" stop="20230421092500 -0400" channel="08-12">
+  <programme start="20230421085800 -0400" stop="20230421092400 -0400" channel="08-12">
     <title lang="es">Kenan</title>
     <sub-title lang="es">1 Pilot</sub-title>
     <desc lang="es">Una personalidad de la televisión local de Atlanta equilibra su carrera como presentador de un popular programa matutino con la crianza de sus dos enérgicas hijas. Kenan cree que se ha adaptado a la vida como un padre soltero ocupado, pero después de que todos lo confrontan por negar su dolor, se da cuenta de que es hora de hacer algunos cambios; Gary cree que es hora de que Rick se mude de la casa.</desc>
   </programme>
-  <programme start="20230421092500 -0400" stop="20230421095000 -0400" channel="08-12">
+  <programme start="20230421092400 -0400" stop="20230421094900 -0400" channel="08-12">
     <title lang="es">Kenan</title>
     <sub-title lang="es">2 Hard News</sub-title>
     <desc lang="es">Una personalidad de la televisión local de Atlanta equilibra su carrera como presentador de un popular programa matutino con la crianza de sus dos enérgicas hijas. Kenan, Rick y Gary hacen todo lo posible para descubrir lo que creen que es un secreto profundo y oscuro que Cori estaba ocultando; Mika cree que el programa matutino debería cubrir más noticias duras.</desc>
   </programme>
-  <programme start="20230421095000 -0400" stop="20230421102000 -0400" channel="08-12">
+  <programme start="20230421094900 -0400" stop="20230421101500 -0400" channel="08-12">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">20 The Return of the Formica King</sub-title>
     <desc lang="es">Una comedia multigeneracional ambientada en los años 80 acerca de una familia ruidosa, cariñosa y un poco disfuncional: los Goldberg. El rival comercial y némesis 'Formica' Mike intenta hacer una oferta que Murray no puede rechazar; Adam le ofrece a la Sra. Cinoman su espectáculo original y el de Erica cuando William Penn no puede asegurar los derechos de un conocido musical de primavera.</desc>
   </programme>
-  <programme start="20230421102000 -0400" stop="20230421104500 -0400" channel="08-12">
+  <programme start="20230421101500 -0400" stop="20230421104200 -0400" channel="08-12">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">21 Oates &amp; Oates</sub-title>
     <desc lang="es">Una comedia multigeneracional ambientada en los años 80 acerca de una familia ruidosa, cariñosa y un poco disfuncional: los Goldberg. Mientras lanza un teletón en su universidad, Barry intenta cortejar a Ren prometiendo hacer que Hall y Oates actúen; Beverly intenta tenderle una trampa a Bill, pero las cosas salen mal cuando encuentra la felicidad con una mujer que conoce a través del enemigo de Beverly.</desc>
   </programme>
-  <programme start="20230421104500 -0400" stop="20230421111500 -0400" channel="08-12">
+  <programme start="20230421104200 -0400" stop="20230421110800 -0400" channel="08-12">
     <title lang="es">Ridiculousness</title>
     <sub-title lang="es">9 Chanel and Sterling CCLXX</sub-title>
     <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling 'Steelo' Brim y Chanel West Coast, en un estudio con audiencia en vivo. En un nuevo episodio de Ridiculousness, Rob, Chanel y Steelo descubren lo que ocurre cuando las cosas pasan DE CERO A DIABLOS, intentan evitar un BALÓN ENVENENADO y escuchan una BUENA HISTORIA.</desc>
   </programme>
-  <programme start="20230421111500 -0400" stop="20230421114000 -0400" channel="08-12">
+  <programme start="20230421110800 -0400" stop="20230421113300 -0400" channel="08-12">
     <title lang="es">Ridiculousness</title>
     <sub-title lang="es">10 Chanel and Sterling CCLXXI</sub-title>
     <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling 'Steelo' Brim y Chanel West Coast, en un estudio con audiencia en vivo. En un nuevo episodio de Ridiculousness, Rob, Chanel y Steelo sienten el dolor de los DESCUENTOS POR CAÍDAS, ven quién está trabajando con IRA MÍNIMA y se quedan en la IZQUIERDA A LA DERIVA.</desc>
   </programme>
-  <programme start="20230421114000 -0400" stop="20230421121000 -0400" channel="08-12">
+  <programme start="20230421113300 -0400" stop="20230421120100 -0400" channel="08-12">
     <title lang="es">One-Punch Man</title>
     <sub-title lang="es">8 La resistencia del más fuerte</sub-title>
     <desc lang="es">La historia de Saitama, un héroe que adopta ese rol por diversión y que puede derrotar a sus enemigos con un solo golpe. Goketsu, el primer campeón del torneo 'Súper Pelea', llega al estadio convertido en kaijin con el objetivo de obligar a los competidores a transformarse también.</desc>
   </programme>
-  <programme start="20230421121000 -0400" stop="20230421130500 -0400" channel="08-12">
+  <programme start="20230421120100 -0400" stop="20230421125500 -0400" channel="08-12">
     <title lang="es">La clínica</title>
     <desc lang="es">La desquiciada teleserie se basa en lo sucedido en un hospital psiquiátrico mejor conocido como La Clínica dirigida por el Dr. Cosme Krauss, psiquiatra astuto y perverso, donde comenzarán a desencadenarse conflictos cuando al lugar llega Elvicio, un pintor alternativo e irreverente quien ha sido secuestrado por Fernando Rivadeneyra, padre de su novia Maripili, para separarlo de ella. Es ahí donde Elvicio conocerá y quedará atrapado sentimentalmente por Lucy la hermosa y conservadora enfermera que a su vez es el objeto de deseo del Dr. Krauss. Para enredar más las cosas Maripili se autoingresa con tal de estar cerca de su amado Elvicio, que dice estar más cuerdo que todos y le tiene odio a un enfermo que está deprimido porque su equipo bajó a la Segunda División. Entre los pacientes de La Clínica también se encuentra Doña Elsa, una mujer que después de tenerlo todo termina recluida en el psiquiátrico tras perder toda su fortuna, y ahora cree que el lugar es aquél que perdió y a todos los trata como sus sirvientes.</desc>
   </programme>
-  <programme start="20230421130500 -0400" stop="20230421140000 -0400" channel="08-12">
+  <programme start="20230421125500 -0400" stop="20230421134700 -0400" channel="08-12">
     <title lang="es">Mi corazón es tuyo</title>
     <sub-title lang="es">40 La señora de la casa</sub-title>
     <desc lang="es">Fernando Lascuráin es un hombre de negocios rico y viudo con siete hijos rebeldes, el cual busca una nueva niñera para sus hijos. Tras eso, Ana es contratada como niñera, y Fernando se enamora al integrarse a la mansión. Ana es una bailarina exótica que trata de guardar su doble vida en secreto, para poder mantener su trabajo como niñera, que se encariña con los niños y tiene que lidiar con muchos obstáculos y aventuras con ellos. Isabela pisa a Ana para recordarle que ella está mucho más arriba. Diego le dice a Fernando que se enamoró de Ana y le pidió que tengan una relación. Johnny regresa a su casa y encuentra a un hombre viviendo ahí.</desc>
   </programme>
-  <programme start="20230421140000 -0400" stop="20230421142500 -0400" channel="08-12">
+  <programme start="20230421134700 -0400" stop="20230421141300 -0400" channel="08-12">
     <title lang="es">Sabrina, the Teenage Witch</title>
     <sub-title lang="es">4 Little Orphan Hilda</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Hilda y Zelda experimentan un evento que les cambia la vida cuando descubren que son adoptadas.</desc>
   </programme>
-  <programme start="20230421142500 -0400" stop="20230421145500 -0400" channel="08-12">
+  <programme start="20230421141300 -0400" stop="20230421144100 -0400" channel="08-12">
     <title lang="es">Everybody Hates Chris</title>
     <sub-title lang="es">15 Todos odian faltar a la escuela</sub-title>
     <desc lang="es">Chris es un chico afroamericano de trece años que pensaba que en 1982 acercarse a la adolescencia iba a ser una especie de promoción hacia una vida más agradable. Sin embargo, recién mudado a un nuevo vecindario en Brooklyn, empezará a padecer los rigores de la genial ocurrencia de su madre de apuntarlo en una escuela a la que tiene que 'viajar' tomando dos autobuses y pasando del barrio negro a las zonas blancas para encontrar, finalmente, que el único moreno del lugar parece ser él. ¿Qué otra cosa podría esperarse de un colegio llamado Corleone Junior High? Chris y Greg faltan a la escuela para ver 'Cazafantasmas', pero se cruzan con la profesora Morello en la película. Mientras tanto, Julius pasa un día fatal al tratar de renovar su licencia, y Rochelle se ofrece como voluntaria en una feria del libro en la escuela de Drew y Toyna.</desc>
   </programme>
-  <programme start="20230421145500 -0400" stop="20230421152000 -0400" channel="08-12">
+  <programme start="20230421144100 -0400" stop="20230421150900 -0400" channel="08-12">
     <title lang="es">Everybody Hates Chris</title>
     <sub-title lang="es">16 Todos odian robar cadenas</sub-title>
     <desc lang="es">Chris es un chico afroamericano de trece años que pensaba que en 1982 acercarse a la adolescencia iba a ser una especie de promoción hacia una vida más agradable. Sin embargo, recién mudado a un nuevo vecindario en Brooklyn, empezará a padecer los rigores de la genial ocurrencia de su madre de apuntarlo en una escuela a la que tiene que 'viajar' tomando dos autobuses y pasando del barrio negro a las zonas blancas para encontrar, finalmente, que el único moreno del lugar parece ser él. ¿Qué otra cosa podría esperarse de un colegio llamado Corleone Junior High? Cuando Chris detiene a Malvo tratando de robarle una cadena de oro a Vanessa, Malvo le exige que le consiga una cadena de oro. Tonya intenta ganar entradas para un concierto de Billy Ocean. Rochelle descubre que Julius le ha estado ocultando una tarjeta de crédito.</desc>
   </programme>
-  <programme start="20230421152000 -0400" stop="20230421155000 -0400" channel="08-12">
+  <programme start="20230421150900 -0400" stop="20230421153600 -0400" channel="08-12">
     <title lang="es">Schitt's Creek</title>
     <sub-title lang="es">1 Opening Night</sub-title>
     <desc lang="es">Cuando el rico magnate de la tienda de videos Johnny Rose y su familia se encuentran repentinamente en bancarrota, se ven obligados a abandonar sus mimadas vidas para reagruparse y reconstruir su imperio dentro de los límites de la ciudad rural de su único activo restante: Schitt's Creek, una axila de un pueblo que alguna vez compraron como broma. Johnny tiene dificultades para encontrar un nuevo propósito, mientras que Moira debe enfrentar las duras realidades de la política local.</desc>
   </programme>
-  <programme start="20230421155000 -0400" stop="20230421161500 -0400" channel="08-12">
+  <programme start="20230421153600 -0400" stop="20230421160600 -0400" channel="08-12">
     <title lang="es">Schitt's Creek</title>
     <sub-title lang="es">2 The Throuple</sub-title>
     <desc lang="es">Cuando el rico magnate de la tienda de videos Johnny Rose y su familia se encuentran repentinamente en bancarrota, se ven obligados a abandonar sus mimadas vidas para reagruparse y reconstruir su imperio dentro de los límites de la ciudad rural de su único activo restante: Schitt's Creek, una axila de un pueblo que alguna vez compraron como broma. David y Stevie deben llegar a un acuerdo con su nueva relación, mientras que Alexis y Moira sienten ansiedad luego de programar un almuerzo de madre e hija inusual.</desc>
   </programme>
-  <programme start="20230421161500 -0400" stop="20230421171000 -0400" channel="08-12">
+  <programme start="20230421160600 -0400" stop="20230421170200 -0400" channel="08-12">
     <title lang="es">La clínica</title>
     <desc lang="es">La desquiciada teleserie se basa en lo sucedido en un hospital psiquiátrico mejor conocido como La Clínica dirigida por el Dr. Cosme Krauss, psiquiatra astuto y perverso, donde comenzarán a desencadenarse conflictos cuando al lugar llega Elvicio, un pintor alternativo e irreverente quien ha sido secuestrado por Fernando Rivadeneyra, padre de su novia Maripili, para separarlo de ella. Es ahí donde Elvicio conocerá y quedará atrapado sentimentalmente por Lucy la hermosa y conservadora enfermera que a su vez es el objeto de deseo del Dr. Krauss. Para enredar más las cosas Maripili se autoingresa con tal de estar cerca de su amado Elvicio, que dice estar más cuerdo que todos y le tiene odio a un enfermo que está deprimido porque su equipo bajó a la Segunda División. Entre los pacientes de La Clínica también se encuentra Doña Elsa, una mujer que después de tenerlo todo termina recluida en el psiquiátrico tras perder toda su fortuna, y ahora cree que el lugar es aquél que perdió y a todos los trata como sus sirvientes.</desc>
   </programme>
-  <programme start="20230421171000 -0400" stop="20230421174000 -0400" channel="08-12">
+  <programme start="20230421170200 -0400" stop="20230421173000 -0400" channel="08-12">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">14 Double Downer</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Carrie planea un fin de semana romántico, pero Doug quiere ir a Atlantic City y todo termina en desastre.</desc>
   </programme>
-  <programme start="20230421174000 -0400" stop="20230421180500 -0400" channel="08-12">
+  <programme start="20230421173000 -0400" stop="20230421175800 -0400" channel="08-12">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">15 Dougie Nights</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Doug se vuelve adicto a la vida nocturna al acompañar a Deacon para ayudarlo con su depresión.</desc>
   </programme>
-  <programme start="20230421180500 -0400" stop="20230421201500 -0400" channel="08-12">
-    <title lang="es">El verano de sus vidas</title>
+  <programme start="20230421175800 -0400" stop="20230421201100 -0400" channel="08-12">
+    <title lang="es">The Magic Belle Isle</title>
     <desc lang="es">Monte Wildhorn es un famoso novelista cuya adicción por el alcohol después de la muerte de su esposa ha ido acabando con su pasión por la escritura. Bajo las recomendaciones de su sobrino, Monte decide pasar las vacaciones en una cabaña cerca de un lago en la pintoresca localidad Belle Isle, y allí se hace amigo de la familia vecina que lo ayudan a encontrar la inspiración nuevamente.</desc>
   </programme>
-  <programme start="20230421201500 -0400" stop="20230421211000 -0400" channel="08-12">
+  <programme start="20230421201100 -0400" stop="20230421210300 -0400" channel="08-12">
     <title lang="es">Mi corazón es tuyo</title>
     <sub-title lang="es">40 La señora de la casa</sub-title>
     <desc lang="es">Fernando Lascuráin es un hombre de negocios rico y viudo con siete hijos rebeldes, el cual busca una nueva niñera para sus hijos. Tras eso, Ana es contratada como niñera, y Fernando se enamora al integrarse a la mansión. Ana es una bailarina exótica que trata de guardar su doble vida en secreto, para poder mantener su trabajo como niñera, que se encariña con los niños y tiene que lidiar con muchos obstáculos y aventuras con ellos. Isabela pisa a Ana para recordarle que ella está mucho más arriba. Diego le dice a Fernando que se enamoró de Ana y le pidió que tengan una relación. Johnny regresa a su casa y encuentra a un hombre viviendo ahí.</desc>
   </programme>
-  <programme start="20230421211000 -0400" stop="20230421213500 -0400" channel="08-12">
+  <programme start="20230421210300 -0400" stop="20230421213600 -0400" channel="08-12">
     <title lang="es">South Park</title>
     <sub-title lang="es">2 Compramos oro</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. El abuelo de Stan le regala a su nieto una corbata que compró por 6000 dólares y piensa en empeñarla. Sin embargo, al ir a una tienda de empeño, solo le ofrecen 14 dólares.</desc>
   </programme>
-  <programme start="20230421213500 -0400" stop="20230421220000 -0400" channel="08-12">
+  <programme start="20230421213600 -0400" stop="20230421220800 -0400" channel="08-12">
     <title lang="es">South Park</title>
     <sub-title lang="es">3 Faithileo</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. Los niños participan en una nueva y peligrosa meme fotográfica. A los adultos de South Park les comienza a preocupar que los chicos pongan en peligro sus vidas mientras 'faithilean'.</desc>
   </programme>
-  <programme start="20230421220000 -0400" stop="20230421223000 -0400" channel="08-12">
+  <programme start="20230421220800 -0400" stop="20230421223600 -0400" channel="08-12">
     <title lang="es">Sabrina, the Teenage Witch</title>
     <sub-title lang="es">6 Thin Ice</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Sabrina enfrenta la ira de Zeus cuando usa su poder para ayudar a su exnovio.</desc>
   </programme>
-  <programme start="20230421223000 -0400" stop="20230421230000 -0400" channel="08-12">
+  <programme start="20230421223600 -0400" stop="20230421230200 -0400" channel="08-12">
     <title lang="es">Ridiculousness</title>
     <sub-title lang="es">26 Charlemagne Tha God</sub-title>
     <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling 'Steelo' Brim y Chanel West Coast, en un estudio con audiencia en vivo. La estrella de radio y televisión Charlamagne Tha God se une a Rob, Chanel y Steelo para 'Ponle un poco de respeto a mi nombre', llama a los 'Burros del día' y se da cuenta de que algunas personas son simplemente 'Dildo Dumb'.</desc>
   </programme>
-  <programme start="20230421230000 -0400" stop="20230421233000 -0400" channel="08-12">
+  <programme start="20230421230200 -0400" stop="20230421233400 -0400" channel="08-12">
     <title lang="es">South Park</title>
     <sub-title lang="es">11 Volviéndose nativo</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. Butters comienza a golpear a un compañero de estudios aparentemente sin provocación, y luego contra sus compañeros de clase a excepción de Kenny, quien se dice es el único con alguna dignidad.</desc>
   </programme>
-  <programme start="20230421233000 -0400" stop="20230422000000 -0400" channel="08-12">
+  <programme start="20230421233400 -0400" stop="20230422000700 -0400" channel="08-12">
     <title lang="es">South Park</title>
     <sub-title lang="es">12 A Nightmare on Facetime</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. Es Halloween y los 4 amigos se visten de Los Vengadores. Mientras tanto Randy, el papá de Stan, hace un mal negocio con la tienda de videos BlockBuster.</desc>
@@ -35864,9 +35869,9 @@
     <sub-title lang="es">Lo Mejor</sub-title>
     <desc lang="es">Programa de entretención donde se abordan los temas locales con una variedad de invitados, que van desde cultural, musical, políticos, cine, entre muchos otros.</desc>
   </programme>
-  <programme start="20230420211000 -0400" stop="20230420223000 -0400" channel="01-53">
-    <title lang="es">Del fin del mundo</title>
-    <desc lang="es">Ana Josefa Silva y Marco Antonio de la Parra, nos adentran al mundo de la Cultura, teatro y libros, junto con grandes invitados.</desc>
+  <programme start="20230420204500 -0400" stop="20230420213000 -0400" channel="01-53">
+    <title lang="es">Noticias Edición Central</title>
+    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
   </programme>
   <programme start="20230420223000 -0400" stop="20230420230000 -0400" channel="01-53">
     <title lang="es">Efemérides</title>
