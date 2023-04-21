@@ -2222,8 +2222,8 @@
     <desc lang="es">Gino Costa y los corresponsales de TVN recorren Chile de punta a punta para reencontrarse con la riqueza de la tierra, su gente, el patrimonio.</desc>
   </programme>
   <programme start="20230422060000 -0400" stop="20230422064500 -0400" channel="01-04">
-    <title lang="es">Frutos del país</title>
-    <desc lang="es">Un ciclo donde no sólo recorreremos las comarcas en busca de costumbres tradicionales, sino que también podremos ver las nuevas manifestaciones culturales que están dando vida a los campos y ciudades de este nuevo Chile.</desc>
+    <title lang="es">Chile Conectado</title>
+    <desc lang="es">Gino Costa y los corresponsales de TVN recorren Chile de punta a punta para reencontrarse con la riqueza de la tierra, su gente, el patrimonio.</desc>
   </programme>
   <programme start="20230422064500 -0400" stop="20230422074500 -0400" channel="01-04">
     <title lang="es">Puertas abiertas</title>
@@ -2233,13 +2233,13 @@
     <title lang="es">Hermanos a la obra</title>
     <desc lang="es">Los hermanos gemelos Jonathan y Drew Scott ayudan a parejas en la transformación de la casa de sus sueños. Los hermanos utilizan tecnología de punta digital para revelar los planes de una propiedad tras la renovación.</desc>
   </programme>
-  <programme start="20230422084500 -0400" stop="20230422104500 -0400" channel="01-04">
-    <title lang="es">Abajo el telón</title>
-    <desc lang="es">Un limpiaventanas es testigo de un robo, pero termina siendo injustamente encarcelado por el crimen.</desc>
+  <programme start="20230422084500 -0400" stop="20230422103000 -0400" channel="01-04">
+    <title lang="es">El bombero atómico</title>
+    <desc lang="es">Un bombero y un policía se embarcan en la misión inesperada de cuidar a una niña cuya madre falleció.</desc>
   </programme>
-  <programme start="20230422104500 -0400" stop="20230422124500 -0400" channel="01-04">
-    <title lang="es">El ministro y yo</title>
-    <desc lang="es">Un mecanógrafo es invitado por un ministro de gobierno a colaborar con él como archivista y pronto es ascendido.</desc>
+  <programme start="20230422103000 -0400" stop="20230422124500 -0400" channel="01-04">
+    <title lang="es">El señor doctor</title>
+    <desc lang="es">Un doctor examina a muchas mujeres hermosas y provoca carcajadas con su estilo atrevido y valiente.</desc>
   </programme>
   <programme start="20230422124500 -0400" stop="20230422130000 -0400" channel="01-04">
     <title lang="es">Franja Electoral</title>
@@ -2256,13 +2256,13 @@
     <title lang="es">Hijos de las estrellas</title>
     <desc lang="es">Un viaje por la historia de los pueblos de América y su visión del cielo para descubrir los secretos de antiguos templos dedicados a los astros del Universo, y conocer los observatorios astronómicos con la tecnología más avanzada del mundo.</desc>
   </programme>
-  <programme start="20230422164500 -0400" stop="20230422184500 -0400" channel="01-04">
-    <title lang="es">La laguna azul</title>
-    <desc lang="es">Dos niños que sobreviven a un naufragio, llegan a una isla tropical y con el paso de los años, crecen y se enamoran.</desc>
+  <programme start="20230422164500 -0400" stop="20230422190000 -0400" channel="01-04">
+    <title lang="es">Si señor</title>
+    <desc lang="es">Carl Allen es un hombre que muestra una tendencia enfermiza a decir siempre no, hasta que se inscribe en un programa de autoayuda basado en una única condición: decir \.</desc>
   </programme>
-  <programme start="20230422184500 -0400" stop="20230422204500 -0400" channel="01-04">
-    <title lang="es">El regreso de la laguna azul</title>
-    <desc lang="es">Dos jóvenes náufragos despiertan a su sexualidad en una isla desierta, en esta continuación de la película de 1980.</desc>
+  <programme start="20230422190000 -0400" stop="20230422204500 -0400" channel="01-04">
+    <title lang="es">Las locuras de Dick y Jane</title>
+    <desc lang="es">Dick Harper es, por fin, ascendido a vicepresidente en su compañía, pero un escándalo arruina la empresa. Entonces, Dick y su esposa Jane ven cómo su lujosa casa, sus ostentosos autos e, incluso, sus amistades se desvanecen como por arte de magia.</desc>
   </programme>
   <programme start="20230422204500 -0400" stop="20230422210000 -0400" channel="01-04">
     <title lang="es">Franja Electoral</title>
@@ -2280,25 +2280,17 @@
     <title lang="es">Atlas de Chile</title>
     <desc lang="es">La dupla Federico Sánchez y Marcelo Comparini, recorre todas las regiones del país para entregar su mirada desde las tendencias, el diseño y el patrimonio, en su más amplio sentido.</desc>
   </programme>
-  <programme start="20230422234500 -0400" stop="20230423004500 -0400" channel="01-04">
-    <title lang="es">Celia</title>
-    <desc lang="es">Un drama inspirado en la vida de la guarachera del mundo, la querida Celia Cruz. La historia y el legado musical de una dama quien empezó su carrera en medio de la revolución cubana, donde una artista femenina no tenía escenario, pero que gracias a su tesón y su estilo único logró llegar a la consagración artística para la eternidad.</desc>
+  <programme start="20230422234500 -0400" stop="20230423030500 -0400" channel="01-04">
+    <title lang="es">Premios Platino</title>
+    <desc lang="es">Entrega de los premios platino al cine iberoamericano desde Madrid.</desc>
   </programme>
-  <programme start="20230423004500 -0400" stop="20230423014500 -0400" channel="01-04">
+  <programme start="20230423030500 -0400" stop="20230423034500 -0400" channel="01-04">
     <title lang="es">Dr. House</title>
     <desc lang="es">En el Princenton Plainsboro de Nueva Jersey, el Dr. Gregory House, un singular genio de la medicina, se encarga de resolver casos como lo haría Sherlock Holmes. De forma astuta juega con la psicología de la Dra. Lisa Cuddy, su mejor amigo, el oncólogo James Wilson, y del resto de su equipo de trabajo.</desc>
   </programme>
-  <programme start="20230423014500 -0400" stop="20230423033000 -0400" channel="01-04">
-    <title lang="es">El día menos pensado</title>
-    <desc lang="es">Una producción que recrea historias atribuidas a sucesos paranormales, como encuentros con otras dimensiones y la vida después de la muerte.</desc>
-  </programme>
-  <programme start="20230423033000 -0400" stop="20230423034500 -0400" channel="01-04">
+  <programme start="20230423034500 -0400" stop="20230423040000 -0400" channel="01-04">
     <title lang="es">TV Tiempo</title>
     <desc lang="es">El informe del tiempo y los pronósticos climáticos para todo Chile.</desc>
-  </programme>
-  <programme start="20230423034500 -0400" stop="20230423044500 -0400" channel="01-04">
-    <title lang="es">El cuento del Tío</title>
-    <desc lang="es">Serie que recrea hechos reales relacionados con estafas y engaños.</desc>
   </programme>
   <programme start="20230423044500 -0400" stop="20230423054500 -0400" channel="01-04">
     <title lang="es">La vida es una Lotería</title>
@@ -3725,34 +3717,41 @@
     <title lang="es">Ciencia en la cocina</title>
   </programme>
   <programme start="20230421153000 -0400" stop="20230421160000 -0400" channel="01-15">
-    <title lang="es">Tripulantes</title>
+    <title lang="es">Tripulantes ¡A jugar!</title>
+    <desc lang="es">UChileTV presenta el programa del Ministerio de Educación Tripulantes ¡A Jugar! Nuestro gran animador Julio, la nave Eduvilú-1 y los niños y niñas de Chile vivirán diversos retos. Entretención y desafíos del conocimiento.</desc>
   </programme>
   <programme start="20230421160000 -0400" stop="20230421170000 -0400" channel="01-15">
     <title lang="es">CNTV infantil</title>
   </programme>
   <programme start="20230421170000 -0400" stop="20230421173000 -0400" channel="01-15">
-    <title lang="es">Tripulantes</title>
+    <title lang="es">Tripulantes ¡A jugar!</title>
+    <desc lang="es">UChileTV presenta el programa del Ministerio de Educación Tripulantes ¡A Jugar! Nuestro gran animador Julio, la nave Eduvilú-1 y los niños y niñas de Chile vivirán diversos retos. Entretención y desafíos del conocimiento.</desc>
   </programme>
   <programme start="20230421173000 -0400" stop="20230421193000 -0400" channel="01-15">
-    <title lang="es">Congreso del futuro 2023</title>
+    <title lang="es">Congreso Futuro</title>
+    <desc lang="es">Acercarte a lo más actual del conocimiento científico-humanista es el objetivo de este espacio. En él podrás conectarte con las ideas más novedosas sobre ciudadanía y sobre las problemáticas sociales que muy pronto comenzaremos a vivir en nuestra realidad cotidiana.</desc>
   </programme>
   <programme start="20230421193000 -0400" stop="20230421203000 -0400" channel="01-15">
     <title lang="es">Con ojo clínico</title>
   </programme>
   <programme start="20230421203000 -0400" stop="20230421210000 -0400" channel="01-15">
-    <title lang="es">NCC Noticias</title>
+    <title lang="es">Noticiero científico y cultural iberoamericano</title>
+    <desc lang="es">UChile TV presenta el noticiero NCC Iberoamérica, programa que sintetiza las noticias más relevantes en el campo de la ciencia, la tecnología y la cultura en Iberoamérica.</desc>
   </programme>
   <programme start="20230421210000 -0400" stop="20230421210500 -0400" channel="01-15">
-    <title lang="es">La vida de otros</title>
+    <title lang="es">La vida de los otros</title>
+    <desc lang="es">La vida de los otros.</desc>
   </programme>
   <programme start="20230421210500 -0400" stop="20230421220000 -0400" channel="01-15">
     <title lang="es">Descabelladas</title>
   </programme>
   <programme start="20230421220000 -0400" stop="20230421220500 -0400" channel="01-15">
-    <title lang="es">La vida de otros</title>
+    <title lang="es">La vida de los otros</title>
+    <desc lang="es">La vida de los otros.</desc>
   </programme>
   <programme start="20230421220500 -0400" stop="20230421230000 -0400" channel="01-15">
-    <title lang="es">Repertorio</title>
+    <title lang="es">Repertorio CL</title>
+    <desc lang="es">Repertorio CL funciona como un catálogo para el ojo, como el inventario de una disciplina que puedes ver y oír. Este espacio libera el archivo de aquellas imágenes que han acompañado a la música chilena, desde las creaciones de vanguardia hasta las tendencias más masivas del videoclip.</desc>
   </programme>
   <programme start="20230421230000 -0400" stop="20230422000000 -0400" channel="01-15">
     <title lang="es">Circuito corto</title>
@@ -3788,34 +3787,41 @@
     <title lang="es">Ciencia en la cocina</title>
   </programme>
   <programme start="20230422153000 -0400" stop="20230422160000 -0400" channel="01-15">
-    <title lang="es">Tripulantes</title>
+    <title lang="es">Tripulantes ¡A jugar!</title>
+    <desc lang="es">UChileTV presenta el programa del Ministerio de Educación Tripulantes ¡A Jugar! Nuestro gran animador Julio, la nave Eduvilú-1 y los niños y niñas de Chile vivirán diversos retos. Entretención y desafíos del conocimiento.</desc>
   </programme>
   <programme start="20230422160000 -0400" stop="20230422170000 -0400" channel="01-15">
     <title lang="es">CNTV infantil</title>
   </programme>
   <programme start="20230422170000 -0400" stop="20230422173000 -0400" channel="01-15">
-    <title lang="es">Tripulantes</title>
+    <title lang="es">Tripulantes ¡A jugar!</title>
+    <desc lang="es">UChileTV presenta el programa del Ministerio de Educación Tripulantes ¡A Jugar! Nuestro gran animador Julio, la nave Eduvilú-1 y los niños y niñas de Chile vivirán diversos retos. Entretención y desafíos del conocimiento.</desc>
   </programme>
   <programme start="20230422173000 -0400" stop="20230422193000 -0400" channel="01-15">
-    <title lang="es">Congreso del futuro 2023</title>
+    <title lang="es">Congreso Futuro</title>
+    <desc lang="es">Acercarte a lo más actual del conocimiento científico-humanista es el objetivo de este espacio. En él podrás conectarte con las ideas más novedosas sobre ciudadanía y sobre las problemáticas sociales que muy pronto comenzaremos a vivir en nuestra realidad cotidiana.</desc>
   </programme>
   <programme start="20230422193000 -0400" stop="20230422203000 -0400" channel="01-15">
     <title lang="es">Con ojo clínico</title>
   </programme>
   <programme start="20230422203000 -0400" stop="20230422210000 -0400" channel="01-15">
-    <title lang="es">NCC Noticias</title>
+    <title lang="es">Noticiero científico y cultural iberoamericano</title>
+    <desc lang="es">UChile TV presenta el noticiero NCC Iberoamérica, programa que sintetiza las noticias más relevantes en el campo de la ciencia, la tecnología y la cultura en Iberoamérica.</desc>
   </programme>
   <programme start="20230422210000 -0400" stop="20230422210500 -0400" channel="01-15">
-    <title lang="es">La vida de otros</title>
+    <title lang="es">La vida de los otros</title>
+    <desc lang="es">La vida de los otros.</desc>
   </programme>
   <programme start="20230422210500 -0400" stop="20230422220000 -0400" channel="01-15">
     <title lang="es">Descabelladas</title>
   </programme>
   <programme start="20230422220000 -0400" stop="20230422220500 -0400" channel="01-15">
-    <title lang="es">La vida de otros</title>
+    <title lang="es">La vida de los otros</title>
+    <desc lang="es">La vida de los otros.</desc>
   </programme>
   <programme start="20230422220500 -0400" stop="20230422230000 -0400" channel="01-15">
-    <title lang="es">Repertorio</title>
+    <title lang="es">Repertorio CL</title>
+    <desc lang="es">Repertorio CL funciona como un catálogo para el ojo, como el inventario de una disciplina que puedes ver y oír. Este espacio libera el archivo de aquellas imágenes que han acompañado a la música chilena, desde las creaciones de vanguardia hasta las tendencias más masivas del videoclip.</desc>
   </programme>
   <programme start="20230422230000 -0400" stop="20230423000000 -0400" channel="01-15">
     <title lang="es">Circuito corto</title>
@@ -4236,13 +4242,15 @@
     <title lang="es">Doble dosis</title>
   </programme>
   <programme start="20230421120000 -0400" stop="20230421130000 -0400" channel="01-20">
-    <title lang="es">Playlist video clips HD</title>
+    <title lang="es">Playlist</title>
+    <desc lang="es">Los mejores videoclips del momento y los clásicos de siempre.</desc>
   </programme>
   <programme start="20230421130000 -0400" stop="20230421140000 -0400" channel="01-20">
     <title lang="es">Moov</title>
   </programme>
   <programme start="20230421140000 -0400" stop="20230421150000 -0400" channel="01-20">
-    <title lang="es">Playlist video clips HD</title>
+    <title lang="es">Playlist</title>
+    <desc lang="es">Los mejores videoclips del momento y los clásicos de siempre.</desc>
   </programme>
   <programme start="20230421150000 -0400" stop="20230421160000 -0400" channel="01-20">
     <title lang="es">Venasiami</title>
@@ -4251,7 +4259,8 @@
     <title lang="es">Bis, sonidos en vivo</title>
   </programme>
   <programme start="20230421170000 -0400" stop="20230421180000 -0400" channel="01-20">
-    <title lang="es">Playlist video clips HD</title>
+    <title lang="es">Playlist</title>
+    <desc lang="es">Los mejores videoclips del momento y los clásicos de siempre.</desc>
   </programme>
   <programme start="20230421180000 -0400" stop="20230421190000 -0400" channel="01-20">
     <title lang="es">Lista X</title>
@@ -4284,7 +4293,8 @@
     <title lang="es">Bis, sonidos en vivo</title>
   </programme>
   <programme start="20230422040000 -0400" stop="20230422050000 -0400" channel="01-20">
-    <title lang="es">Playlist video clips HD</title>
+    <title lang="es">Playlist</title>
+    <desc lang="es">Los mejores videoclips del momento y los clásicos de siempre.</desc>
   </programme>
   <programme start="20230422050000 -0400" stop="20230422060000 -0400" channel="01-20">
     <title lang="es">Doble dosis</title>
@@ -4308,13 +4318,15 @@
     <title lang="es">Doble dosis</title>
   </programme>
   <programme start="20230422120000 -0400" stop="20230422130000 -0400" channel="01-20">
-    <title lang="es">Playlist video clips HD</title>
+    <title lang="es">Playlist</title>
+    <desc lang="es">Los mejores videoclips del momento y los clásicos de siempre.</desc>
   </programme>
   <programme start="20230422130000 -0400" stop="20230422140000 -0400" channel="01-20">
     <title lang="es">Moov</title>
   </programme>
   <programme start="20230422140000 -0400" stop="20230422150000 -0400" channel="01-20">
-    <title lang="es">Playlist video clips HD</title>
+    <title lang="es">Playlist</title>
+    <desc lang="es">Los mejores videoclips del momento y los clásicos de siempre.</desc>
   </programme>
   <programme start="20230422150000 -0400" stop="20230422160000 -0400" channel="01-20">
     <title lang="es">Venasiami</title>
@@ -4323,7 +4335,8 @@
     <title lang="es">Bis, sonidos en vivo</title>
   </programme>
   <programme start="20230422170000 -0400" stop="20230422180000 -0400" channel="01-20">
-    <title lang="es">Playlist video clips HD</title>
+    <title lang="es">Playlist</title>
+    <desc lang="es">Los mejores videoclips del momento y los clásicos de siempre.</desc>
   </programme>
   <programme start="20230422180000 -0400" stop="20230422190000 -0400" channel="01-20">
     <title lang="es">Lista X</title>
@@ -4886,11 +4899,11 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421060000 -0400" stop="20230421080000 -0400" channel="01-27">
+  <programme start="20230421060000 -0400" stop="20230421120000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421120000 -0400" stop="20230421180000 -0400" channel="01-27">
+  <programme start="20230421120000 -0400" stop="20230421153000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -5257,8 +5270,8 @@
     <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
   </programme>
   <programme start="20230422083000 -0400" stop="20230422090000 -0400" channel="02-01">
-    <title lang="es">24 horas a la hora</title>
-    <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
+    <title lang="es">Mirada económica</title>
+    <desc lang="es">La señal noticiosa 24H realiza estos reportajes de actualidad, que son emitidos en forma exclusiva al exterior.</desc>
   </programme>
   <programme start="20230422090000 -0400" stop="20230422103000 -0400" channel="02-01">
     <title lang="es">24 horas a la hora</title>
@@ -5284,9 +5297,13 @@
     <title lang="es">Entrevistas 24</title>
     <desc lang="es">Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.</desc>
   </programme>
-  <programme start="20230422130000 -0400" stop="20230422150000 -0400" channel="02-01">
+  <programme start="20230422130000 -0400" stop="20230422144500 -0400" channel="02-01">
     <title lang="es">24 tarde</title>
     <desc lang="es">Noticiero generalista de actualidad nacional e internacional.</desc>
+  </programme>
+  <programme start="20230422144500 -0400" stop="20230422150000 -0400" channel="02-01">
+    <title lang="es">24 cuadros</title>
+    <desc lang="es">Programa sobre las noticias de los próximos estrenos del cine.</desc>
   </programme>
   <programme start="20230422150000 -0400" stop="20230422153000 -0400" channel="02-01">
     <title lang="es">Reporte minero</title>
@@ -7227,7 +7244,11 @@
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421060000 -0400" stop="20230421090000 -0400" channel="02-12">
+  <programme start="20230421060000 -0400" stop="20230421120000 -0400" channel="02-12">
+    <title lang="en">Chilevision Noticias</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230421120000 -0400" stop="20230421140000 -0400" channel="02-12">
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7255,11 +7276,11 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421060000 -0400" stop="20230421090000 -0400" channel="02-13">
+  <programme start="20230421060000 -0400" stop="20230421120000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421120000 -0400" stop="20230421180000 -0400" channel="02-13">
+  <programme start="20230421120000 -0400" stop="20230421150000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -21011,7 +21032,11 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421060000 -0400" stop="20230421095800 -0400" channel="05-44">
+  <programme start="20230421060000 -0400" stop="20230421120000 -0400" channel="05-44">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230421120000 -0400" stop="20230421145800 -0400" channel="05-44">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -21023,9 +21048,9 @@
     <title lang="en">Matchbox Twenty - Live in London</title>
     <desc lang="en">Esta película de concierto, filmada en el Roundhouse de Londres, será una experiencia en vivo espectacular de principio a fin para todos los fans. Matchbox Twenty interpreta sus éxitos, como "Bright Lights", "Parade", "You're So Real", y muchos más.</desc>
   </programme>
-  <programme start="20230422060000 -0400" stop="20230422120000 -0400" channel="05-44">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230422042600 -0400" stop="20230422060300 -0400" channel="05-44">
+    <title lang="en">Linkin Park - Linkin Park - Road to Revolution</title>
+    <desc lang="en">Grabado en directo en el estadio Milton Keynes de Inglaterra, Road to Revolution nos trae al grupo de rock ganador de 2 Grammy, Linkin Park, en una explosiva actuación ante más de 55 000 fans.</desc>
   </programme>
   <programme start="20230422120000 -0400" stop="20230422180000 -0400" channel="05-44">
     <title lang="en">Conciertos por Stingray</title>
@@ -21039,11 +21064,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421060000 -0400" stop="20230421090000 -0400" channel="05-45">
+  <programme start="20230421060000 -0400" stop="20230421120000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421120000 -0400" stop="20230421180000 -0400" channel="05-45">
+  <programme start="20230421120000 -0400" stop="20230421150000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -24132,11 +24157,11 @@
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421060000 -0400" stop="20230421090000 -0400" channel="06-12">
+  <programme start="20230421060000 -0400" stop="20230421120000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230421120000 -0400" stop="20230421180000 -0400" channel="06-12">
+  <programme start="20230421120000 -0400" stop="20230421150000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -30609,11 +30634,11 @@
     <desc lang="es">China, dinastía Tang Posterior, siglo X. En vísperas del Festival Chong Yang, flores doradas llenan el Palacio Imperial. El emperador regresa con su segundo hijo, el Príncipe Jai. Dadas las frías relaciones entre el Emperador y la enferma Emperatriz, la visita parece ser una farsa. El Príncipe Wan, que se siente atrapado, sueña con escapar del palacio con su amor secreto Chan, la hija del Médico Imperial. Mientras tanto, el Príncipe Jai, el hijo fiel, crece preocupado por la salud de la Emperatriz y su obsesión por los crisantemos dorados...</desc>
   </programme>
   <programme start="20230421152900 -0400" stop="20230421175500 -0400" channel="98-18">
-    <title lang="es">The Wild Bunch - The Original Director's Cut</title>
+    <title lang="es">La pandilla salvaje - Versión del director</title>
     <desc lang="es">Un grupo de veteranos ladrones de bancos viven al margen de la ley y se desempeñan en la frontera entre los Estados Unidos y México. Pronto se verán acorralados por unos cazadores de recompensas y por el ejército mexicano.</desc>
   </programme>
   <programme start="20230421175500 -0400" stop="20230421201500 -0400" channel="98-18">
-    <title lang="es">Captain Phillips</title>
+    <title lang="es">Capitán Phillips</title>
     <desc lang="es">En el año 2009, en aguas internacionales a 145 millas de la costa de Somalia, el buque carguero 'Maersk Alabama' capitaneado por el Capitán Richard Phillips es abordado y retenido por piratas somalíes, siendo el primer barco norteamericano secuestrado en los últimos doscientos años.</desc>
   </programme>
   <programme start="20230421201500 -0400" stop="20230421222500 -0400" channel="98-18">
@@ -30621,7 +30646,7 @@
     <desc lang="es">Narra la vida del legendario explorador noruego Roald Amundsen, un hombre que estuvo obsesionado con alcanzar la cimas polares.</desc>
   </programme>
   <programme start="20230421222500 -0400" stop="20230422000000 -0400" channel="98-18">
-    <title lang="es">Land</title>
+    <title lang="es">Tierra</title>
     <desc lang="es">Cuando su vida se ve sacudida por una serie de inesperados acontecimientos, Edee pierde la habilidad de conectar con el mundo y la gente que una vez la rodeó. Hastiada de su vida, decide retirarse a un bosque en las Montañas Rocosas con unos pocos víveres. Pese a que la belleza de su nuevo hogar es incontestable, Edee sufre para lograr ajustarse a su nueva vida, y especialmente al duro invierno que le espera a la vuelta de la esquina.</desc>
   </programme>
   <programme start="20230422000000 -0400" stop="20230422012000 -0400" channel="98-18">
@@ -30629,22 +30654,18 @@
     <desc lang="es">Nelly, de ocho años, acaba de perder a su amada abuela y está ayudando a sus padres a limpiar la casa de la infancia de su madre. Explora la casa y los bosques circundantes donde su madre solía jugar y donde construyó el fuerte del que tanto ha oído hablar Nelly. Un día, su madre se va repentinamente y Nelly conoce a una niña de su misma edad en el bosque, que está construyendo un fuerte.</desc>
   </programme>
   <programme start="20230422012000 -0400" stop="20230422031000 -0400" channel="98-18">
-    <title lang="es">The Truth</title>
+    <title lang="es">La verdad</title>
     <desc lang="es">Fabienne Dangeville es una reconocida actriz del cine francés, amada y alabada por todos los hombres que formaron parte de su vida. Cuando publica sus memorias, su hija Lumir regresa de Nueva York, donde vive con su familia, para la presentación, pero el reencuentro entre madre e hija no tardará en convertirse en un enfrentamiento: se revelarán verdades, se ajustarán cuentas, se hablará de amor y de resentimiento.</desc>
   </programme>
   <programme start="20230422031000 -0400" stop="20230422054500 -0400" channel="98-18">
-    <title lang="es">The Goldfinch</title>
+    <title lang="es">El Jilguero</title>
     <desc lang="es">La madre de Theodore Decker, un joven de 13 años, es asesinada en un atentado en el Museo Metropolitano de Arte, en Nueva York. Este hecho cambia rotundamente la vida de Theodore, cuyas emociones empiezan a alternar entre el dolor y la culpa, y la reinvención y la redención. Pero, a pesar de todo, se aferra a un recuerdo tangible de esperanza que su madre le dejó el día de la tragedia: un cuadro que representa a un pequeño pájaro encadenado a su percha, 'El Jilguero'.</desc>
   </programme>
   <programme start="20230422054500 -0400" stop="20230422080000 -0400" channel="98-18">
-    <title lang="es">Who's Afraid of Virginia Woolf?</title>
-    <desc lang="es">Tras una fiesta, Martha y George, un matrimonio maduro que lleva veinte años juntos, invita a una velada en casa a un joven profesor de la Universidad y a su esposa. Ante la mirada de sus invitados, la pareja cae en un huracán de riñas, reproches mutuos y odios ocultos, que sacan a relucir la verdad tanto de los anfitriones, como de los invitados.</desc>
-  </programme>
-  <programme start="20230422080000 -0400" stop="20230422080200 -0400" channel="98-18">
     <title lang="es">¿Quién le teme a Virginia Woolf?</title>
     <desc lang="es">Tras una fiesta, Martha y George, un matrimonio maduro que lleva veinte años juntos, invita a una velada en casa a un joven profesor de la Universidad y a su esposa. Ante la mirada de sus invitados, la pareja cae en un huracán de riñas, reproches mutuos y odios ocultos, que sacan a relucir la verdad tanto de los anfitriones, como de los invitados.</desc>
   </programme>
-  <programme start="20230422080200 -0400" stop="20230422094700 -0400" channel="98-18">
+  <programme start="20230422080000 -0400" stop="20230422094700 -0400" channel="98-18">
     <title lang="es">Una tarea difícil</title>
     <desc lang="es">Tom Berenger y William McNamara componen a dos policías de la marina que deben escoltar a una bella muchacha hasta su nuevo hogar, ubicado en una prisión federal. Pero la chica lejos esta de aceptar nuevamente las rejas como modelo de vida, lo que les significara una interminable serie de problemas a sus custodios.</desc>
   </programme>
