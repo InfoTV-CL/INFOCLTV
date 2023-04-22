@@ -4863,7 +4863,11 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422060000 -0400" stop="20230422080000 -0400" channel="01-27">
+  <programme start="20230422060000 -0400" stop="20230422120000 -0400" channel="01-27">
+    <title lang="en">Chilevision Contigo</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230422120000 -0400" stop="20230422130000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7266,11 +7270,11 @@
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422060000 -0400" stop="20230422100000 -0400" channel="02-12">
+  <programme start="20230422060000 -0400" stop="20230422120000 -0400" channel="02-12">
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422120000 -0400" stop="20230422180000 -0400" channel="02-12">
+  <programme start="20230422120000 -0400" stop="20230422140000 -0400" channel="02-12">
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7294,11 +7298,11 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422060000 -0400" stop="20230422100000 -0400" channel="02-13">
+  <programme start="20230422060000 -0400" stop="20230422120000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422120000 -0400" stop="20230422180000 -0400" channel="02-13">
+  <programme start="20230422120000 -0400" stop="20230422140000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -18511,6 +18515,9 @@
   <programme start="20230423154500 -0400" stop="20230423163000 -0400" channel="05-22">
     <title lang="es">MTV World Stage Green Day</title>
   </programme>
+  <programme start="20230423163000 -0400" stop="20230423180000 -0400" channel="05-22">
+    <title lang="es">HD Hits</title>
+  </programme>
   <programme start="20230423180000 -0400" stop="20230423190000 -0400" channel="05-22">
     <title lang="es">MTV Rewind</title>
   </programme>
@@ -20467,7 +20474,11 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422060000 -0400" stop="20230422105700 -0400" channel="05-44">
+  <programme start="20230422060000 -0400" stop="20230422120000 -0400" channel="05-44">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230422120000 -0400" stop="20230422145500 -0400" channel="05-44">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20495,11 +20506,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422060000 -0400" stop="20230422100000 -0400" channel="05-45">
+  <programme start="20230422060000 -0400" stop="20230422120000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422120000 -0400" stop="20230422180000 -0400" channel="05-45">
+  <programme start="20230422120000 -0400" stop="20230422140000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -23583,11 +23594,11 @@
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422060000 -0400" stop="20230422100000 -0400" channel="06-12">
+  <programme start="20230422060000 -0400" stop="20230422120000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230422120000 -0400" stop="20230422180000 -0400" channel="06-12">
+  <programme start="20230422120000 -0400" stop="20230422140000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -28041,8 +28052,8 @@
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230422110000 -0400" stop="20230422110400 -0400" channel="08-09">
-    <title lang="es">Programación especial</title>
-    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230422110400 -0400" stop="20230422111200 -0400" channel="08-09">
     <title lang="es">Programación especial</title>
@@ -28103,8 +28114,8 @@
     <desc lang="es">Varios equipos competirán alrededor del mundo en busca del gran premio. Los últimos cuatro equipos abandonan Chiang Mai y se dirigen a Hong Kong, donde deben atar cangrejos, servir comida en un restaurante local, destrozar aparatos electrónicos y resolver rompecabezas que desbloquean un maletín con el destino final.</desc>
   </programme>
   <programme start="20230423053900 -0400" stop="20230423070000 -0400" channel="08-09">
-    <title lang="es">Programación especial</title>
-    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230423070000 -0400" stop="20230423073000 -0400" channel="08-09">
     <title lang="es">Infomercial</title>
