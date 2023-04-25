@@ -1557,6 +1557,49 @@
   <programme start="20230426040000 -0400" stop="20230426060000 -0400" channel="00-02">
     <title lang="es">PELOTA PARADA (REPETICIÓN) 25-04-2023</title>
   </programme>
+  <programme start="20230426060000 -0400" stop="20230426070000 -0400" channel="00-02">
+    <title lang="es">TNT DATA SPORTS (REPETICIÓN) 25-04-2023</title>
+  </programme>
+  <programme start="20230426070000 -0400" stop="20230426090000 -0400" channel="00-02">
+    <title lang="es">TODOS SOMOS TÉCNICOS (REPETICIÓN) 25-04-2023</title>
+  </programme>
+  <programme start="20230426090000 -0400" stop="20230426094000 -0400" channel="00-02">
+    <title lang="es">PODCAST TODOS SOMOS TECNICOS - CLASICO UNIVERSITARIO - MEJOR GOL</title>
+  </programme>
+  <programme start="20230426094000 -0400" stop="20230426113500 -0400" channel="00-02">
+    <title lang="es">DEP. TEMUCO VS SAN MARCOS</title>
+  </programme>
+  <programme start="20230426113500 -0400" stop="20230426132000 -0400" channel="00-02">
+    <title lang="es">U. CATOLICA - U. DE CHILE - CAMP. 2010 2DA RUEDA - FECHA 15</title>
+  </programme>
+  <programme start="20230426132000 -0400" stop="20230426140000 -0400" channel="00-02">
+    <title lang="es">PODCAST TODOS SOMOS TECNICOS - CLASICO UNIVERSITARIO - MEJOR POLEMICA</title>
+  </programme>
+  <programme start="20230426140000 -0400" stop="20230426160000 -0400" channel="00-02">
+    <title lang="es">PELOTA PARADA</title>
+    <desc lang="es">DESCRIPCION.</desc>
+  </programme>
+  <programme start="20230426160000 -0400" stop="20230426174000 -0400" channel="00-02">
+    <title lang="es">U. CATOLICA - U. DE CHILE - PRIMERA DIVISION - FECHA 16 - APERTURA 2011</title>
+  </programme>
+  <programme start="20230426174000 -0400" stop="20230426180000 -0400" channel="00-02">
+    <title lang="es">COLO COLO VS PALESTINO</title>
+  </programme>
+  <programme start="20230426180000 -0400" stop="20230426190000 -0400" channel="00-02">
+    <title lang="es">TNT DATA SPORTS</title>
+  </programme>
+  <programme start="20230426190000 -0400" stop="20230426210000 -0400" channel="00-02">
+    <title lang="es">TODOS SOMOS TÉCNICOS</title>
+  </programme>
+  <programme start="20230426210000 -0400" stop="20230426214000 -0400" channel="00-02">
+    <title lang="es">PODCAST TODOS SOMOS TECNICOS - CLASICO UNIVERSITARIO - HITOS</title>
+  </programme>
+  <programme start="20230426214000 -0400" stop="20230426232000 -0400" channel="00-02">
+    <title lang="es">U. CATOLICA - U. DE CHILE - PRIMERA DIVISION - PLAY OFF FINAL VUELTA - APERTURA 2011</title>
+  </programme>
+  <programme start="20230426232000 -0400" stop="20230427012000 -0400" channel="00-02">
+    <title lang="es">TODOS SOMOS TÉCNICOS (REPETICIÓN) 26-04-2023</title>
+  </programme>
   <programme start="20230425000000 -0400" stop="20230425235900 -0400" channel="00-03">
     <title lang="es">Eventos 3</title>
     <desc lang="es">Programación por confirmar.</desc>
@@ -5030,11 +5073,11 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425060000 -0400" stop="20230425080000 -0400" channel="01-27">
+  <programme start="20230425060000 -0400" stop="20230425120000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425120000 -0400" stop="20230425180000 -0400" channel="01-27">
+  <programme start="20230425120000 -0400" stop="20230425153000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -5046,9 +5089,9 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230426060000 -0400" stop="20230426120000 -0400" channel="01-27">
-    <title lang="en">Chilevision Contigo</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230426060000 -0400" stop="20230426080000 -0400" channel="01-27">
+    <title lang="en">Sabingo Premium</title>
+    <desc lang="en">Chilevisión Contigo llega a Pluto con los mejores y más exitosos contenidos de actualidad, magazine, viajes y entrevistas de Chilevisión.\nEste canal te acompañamos durante 24 horas, los 7 días de la semana con los rostros y programas más queridos.</desc>
   </programme>
   <programme start="20230426120000 -0400" stop="20230426180000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
@@ -6357,13 +6400,296 @@
       <value>3/10</value>
     </star-rating>
   </programme>
-  <programme start="20230425000000 -0400" stop="20230425235900 -0400" channel="02-05">
-    <title lang="es">Teletrece en vivo (Teletrece Móvil)</title>
-    <desc lang="es">Información no provista por el proveedor de la señal.</desc>
+  <programme start="20230425054500 -0400" stop="20230425063000 -0400" channel="02-05">
+    <title lang="es">3x3</title>
+    <desc lang="es">Espacio que levanta a Chile, con Miguel Acuña y Natalia López, quienes conducen este segmento de tipo informativo en un formato libre y distendido.</desc>
   </programme>
-  <programme start="20230426000000 -0400" stop="20230426235900 -0400" channel="02-05">
-    <title lang="es">Teletrece en vivo (Teletrece Móvil)</title>
-    <desc lang="es">Información no provista por el proveedor de la señal.</desc>
+  <programme start="20230425063000 -0400" stop="20230425080000 -0400" channel="02-05">
+    <title lang="es">Teletrece AM</title>
+    <desc lang="es">Noticiero matutino con las últimas noticias del acontecer nacional e internacional.</desc>
+  </programme>
+  <programme start="20230425080000 -0400" stop="20230425083000 -0400" channel="02-05">
+    <title lang="es">Rat Pack T13 Radio</title>
+    <desc lang="es">Espacio editorial del programa \.</desc>
+  </programme>
+  <programme start="20230425083000 -0400" stop="20230425093000 -0400" channel="02-05">
+    <title lang="es">La mañana en vivo</title>
+    <desc lang="es">Un repaso diario por lo que ha sido y será noticia en la jornada. Todo de una manera cercana liderado por Natalia López y Polo Ramírez.</desc>
+  </programme>
+  <programme start="20230425093000 -0400" stop="20230425100000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230425100000 -0400" stop="20230425110000 -0400" channel="02-05">
+    <title lang="es">T13 digital</title>
+    <desc lang="es">Noticiario que toma el pulso de la mañana, mostrando lo que está sucediendo en las calles y en los diferentes frentes informativos.</desc>
+  </programme>
+  <programme start="20230425110000 -0400" stop="20230425113000 -0400" channel="02-05">
+    <title lang="es">Pautas en vivo</title>
+    <desc lang="es">Espacio donde se transmite en vivo, los hechos más relevantes hasta el momento.</desc>
+  </programme>
+  <programme start="20230425113000 -0400" stop="20230425120000 -0400" channel="02-05">
+    <title lang="es">Más 100cia</title>
+    <desc lang="es">Programa de ciencia y con las últimas tendencias tecnológicas.</desc>
+  </programme>
+  <programme start="20230425120000 -0400" stop="20230425123000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
+  </programme>
+  <programme start="20230425123000 -0400" stop="20230425130000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230425130000 -0400" stop="20230425150000 -0400" channel="02-05">
+    <title lang="es">Teletrece tarde</title>
+    <desc lang="es">Un espacio para toda la información nacional e internacional que marca la jornada.</desc>
+  </programme>
+  <programme start="20230425150000 -0400" stop="20230425153000 -0400" channel="02-05">
+    <title lang="es">Pautas en vivo</title>
+    <desc lang="es">Espacio donde se transmite en vivo, los hechos más relevantes hasta el momento.</desc>
+  </programme>
+  <programme start="20230425153000 -0400" stop="20230425160000 -0400" channel="02-05">
+    <title lang="es">Pautas en vivo</title>
+    <desc lang="es">Espacio donde se transmite en vivo, los hechos más relevantes hasta el momento.</desc>
+  </programme>
+  <programme start="20230425160000 -0400" stop="20230425163000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230425163000 -0400" stop="20230425170000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230425170000 -0400" stop="20230425173000 -0400" channel="02-05">
+    <title lang="es">Más 100cia</title>
+    <desc lang="es">Programa de ciencia y con las últimas tendencias tecnológicas.</desc>
+  </programme>
+  <programme start="20230425173000 -0400" stop="20230425180000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230425180000 -0400" stop="20230425183000 -0400" channel="02-05">
+    <title lang="es">T13 digital</title>
+    <desc lang="es">Espacio informativo para conocer los hechos noticiosos que dejó la jornada con despachos en vivo.</desc>
+  </programme>
+  <programme start="20230425183000 -0400" stop="20230425190000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230425190000 -0400" stop="20230425193000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230425193000 -0400" stop="20230425200000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230425200000 -0400" stop="20230425203000 -0400" channel="02-05">
+    <title lang="es">Conversaciones WorkCafé</title>
+    <desc lang="es">Espacio de noticias vinculadas con el emprendimiento, postulaciones y consejos asociados con la innovación y las Pymes.</desc>
+  </programme>
+  <programme start="20230425203000 -0400" stop="20230425204500 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230425204500 -0400" stop="20230425230000 -0400" channel="02-05">
+    <title lang="es">Teletrece central</title>
+    <desc lang="es">El informativo central con las noticias nacionales e internacionales más relevantes de la jornada.</desc>
+  </programme>
+  <programme start="20230425230000 -0400" stop="20230425233000 -0400" channel="02-05">
+    <title lang="es">Tu decides: El debate</title>
+    <desc lang="es">La confrontación de ideas para que las personas puedan decidir en las elecciones de mayo en torno al Consejo Constitucional. Candidatos plantean sus puntos de vista en una conversación directa, abierta y segundas lecturas.</desc>
+  </programme>
+  <programme start="20230425233000 -0400" stop="20230426000000 -0400" channel="02-05">
+    <title lang="es">RDF Media Vodcast</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426000000 -0400" stop="20230426003000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426003000 -0400" stop="20230426010000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426010000 -0400" stop="20230426020000 -0400" channel="02-05">
+    <title lang="es">Tele13 Noche</title>
+    <desc lang="es">Un informativo en el que se presentan las noticias más importantes del día, junto a entrevistas a personajes relevantes del acontecer nacional chileno.</desc>
+  </programme>
+  <programme start="20230426020000 -0400" stop="20230426023000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
+  </programme>
+  <programme start="20230426023000 -0400" stop="20230426030000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426030000 -0400" stop="20230426033000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
+  </programme>
+  <programme start="20230426033000 -0400" stop="20230426040000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426040000 -0400" stop="20230426043000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
+  </programme>
+  <programme start="20230426043000 -0400" stop="20230426050000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426050000 -0400" stop="20230426053000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
+  </programme>
+  <programme start="20230426053000 -0400" stop="20230426054500 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426054500 -0400" stop="20230426063000 -0400" channel="02-05">
+    <title lang="es">3x3</title>
+    <desc lang="es">Espacio que levanta a Chile, con Miguel Acuña y Natalia López, quienes conducen este segmento de tipo informativo en un formato libre y distendido.</desc>
+  </programme>
+  <programme start="20230426063000 -0400" stop="20230426080000 -0400" channel="02-05">
+    <title lang="es">Teletrece AM</title>
+    <desc lang="es">Noticiero matutino con las últimas noticias del acontecer nacional e internacional.</desc>
+  </programme>
+  <programme start="20230426080000 -0400" stop="20230426083000 -0400" channel="02-05">
+    <title lang="es">Rat Pack T13 Radio</title>
+    <desc lang="es">Espacio editorial del programa \.</desc>
+  </programme>
+  <programme start="20230426083000 -0400" stop="20230426093000 -0400" channel="02-05">
+    <title lang="es">La mañana en vivo</title>
+    <desc lang="es">Un repaso diario por lo que ha sido y será noticia en la jornada. Todo de una manera cercana liderado por Natalia López y Polo Ramírez.</desc>
+  </programme>
+  <programme start="20230426093000 -0400" stop="20230426100000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426100000 -0400" stop="20230426110000 -0400" channel="02-05">
+    <title lang="es">T13 digital</title>
+    <desc lang="es">Noticiario que toma el pulso de la mañana, mostrando lo que está sucediendo en las calles y en los diferentes frentes informativos.</desc>
+  </programme>
+  <programme start="20230426110000 -0400" stop="20230426113000 -0400" channel="02-05">
+    <title lang="es">Pautas en vivo</title>
+    <desc lang="es">Espacio donde se transmite en vivo, los hechos más relevantes hasta el momento.</desc>
+  </programme>
+  <programme start="20230426113000 -0400" stop="20230426120000 -0400" channel="02-05">
+    <title lang="es">En foco</title>
+    <desc lang="es">Programa resumen del acontecer y análisis internacional.</desc>
+  </programme>
+  <programme start="20230426120000 -0400" stop="20230426123000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
+  </programme>
+  <programme start="20230426123000 -0400" stop="20230426130000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426130000 -0400" stop="20230426150000 -0400" channel="02-05">
+    <title lang="es">Teletrece tarde</title>
+    <desc lang="es">Un espacio para toda la información nacional e internacional que marca la jornada.</desc>
+  </programme>
+  <programme start="20230426150000 -0400" stop="20230426153000 -0400" channel="02-05">
+    <title lang="es">Pautas en vivo</title>
+    <desc lang="es">Espacio donde se transmite en vivo, los hechos más relevantes hasta el momento.</desc>
+  </programme>
+  <programme start="20230426153000 -0400" stop="20230426160000 -0400" channel="02-05">
+    <title lang="es">Pautas en vivo</title>
+    <desc lang="es">Espacio donde se transmite en vivo, los hechos más relevantes hasta el momento.</desc>
+  </programme>
+  <programme start="20230426160000 -0400" stop="20230426163000 -0400" channel="02-05">
+    <title lang="es">Micrófono abierto</title>
+    <desc lang="es">Espacio de discusión deportiva.</desc>
+  </programme>
+  <programme start="20230426163000 -0400" stop="20230426170000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426170000 -0400" stop="20230426173000 -0400" channel="02-05">
+    <title lang="es">En foco</title>
+    <desc lang="es">Programa resumen del acontecer y análisis internacional.</desc>
+  </programme>
+  <programme start="20230426173000 -0400" stop="20230426180000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426180000 -0400" stop="20230426183000 -0400" channel="02-05">
+    <title lang="es">T13 digital</title>
+    <desc lang="es">Espacio informativo para conocer los hechos noticiosos que dejó la jornada con despachos en vivo.</desc>
+  </programme>
+  <programme start="20230426183000 -0400" stop="20230426190000 -0400" channel="02-05">
+    <title lang="es">Actualizatech</title>
+  </programme>
+  <programme start="20230426190000 -0400" stop="20230426193000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426193000 -0400" stop="20230426200000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426200000 -0400" stop="20230426203000 -0400" channel="02-05">
+    <title lang="es">Vida y salud</title>
+    <desc lang="es">Programa de bienestar de T13 En Vivo.</desc>
+  </programme>
+  <programme start="20230426203000 -0400" stop="20230426204500 -0400" channel="02-05">
+    <title lang="es">Gran Angular</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426204500 -0400" stop="20230426230000 -0400" channel="02-05">
+    <title lang="es">Teletrece central</title>
+    <desc lang="es">El informativo central con las noticias nacionales e internacionales más relevantes de la jornada.</desc>
+  </programme>
+  <programme start="20230426230000 -0400" stop="20230426233000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230426233000 -0400" stop="20230427000000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230427000000 -0400" stop="20230427003000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230427003000 -0400" stop="20230427010000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230427010000 -0400" stop="20230427020000 -0400" channel="02-05">
+    <title lang="es">Tele13 Noche</title>
+    <desc lang="es">Un informativo en el que se presentan las noticias más importantes del día, junto a entrevistas a personajes relevantes del acontecer nacional chileno.</desc>
+  </programme>
+  <programme start="20230427020000 -0400" stop="20230427023000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
+  </programme>
+  <programme start="20230427023000 -0400" stop="20230427030000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230427030000 -0400" stop="20230427033000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
+  </programme>
+  <programme start="20230427033000 -0400" stop="20230427040000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230427040000 -0400" stop="20230427043000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
+  </programme>
+  <programme start="20230427043000 -0400" stop="20230427050000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230427050000 -0400" stop="20230427053000 -0400" channel="02-05">
+    <title lang="es">Informe T13</title>
+    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
   </programme>
   <programme start="20230425000000 -0400" stop="20230425000300 -0400" channel="02-08">
     <title lang="es">DW noticias</title>
@@ -6894,6 +7220,9 @@
   <programme start="20230426113000 -0400" stop="20230426123000 -0400" channel="02-09">
     <title lang="es">La Noche</title>
   </programme>
+  <programme start="20230426170000 -0400" stop="20230426190000 -0400" channel="02-09">
+    <title lang="es">La Tarde</title>
+  </programme>
   <programme start="20230425000000 -0400" stop="20230425010000 -0400" channel="02-10">
     <title lang="es">Directo USA</title>
     <desc lang="es">Directo USA es su conexión directa a las noticias clave relacionadas con Estados Unidos. Conducido desde la sede central de CNN en Atlanta, cubre los aspectos sobresalientes de las noticias que más interés despiertan en Estados Unidos y analiza la manera en que esos sucesos afectarán a la audiencia en América Latina.</desc>
@@ -7178,7 +7507,11 @@
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425060000 -0400" stop="20230425103000 -0400" channel="02-12">
+  <programme start="20230425060000 -0400" stop="20230425120000 -0400" channel="02-12">
+    <title lang="en">Chilevision Noticias</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230425120000 -0400" stop="20230425163000 -0400" channel="02-12">
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7190,9 +7523,9 @@
     <title lang="en">Expedientes CHV Noticias</title>
     <desc lang="en">Crónicas policiales al estilo de CHV Noticias. Los casos que marcaron al país, con la cronología de hechos que causaron conmoción. Notas y entrevistas con análisis para entender estos casos. Exclusivo en Pluto TV.</desc>
   </programme>
-  <programme start="20230426060000 -0400" stop="20230426120000 -0400" channel="02-12">
-    <title lang="en">Chilevision Noticias</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230426050000 -0400" stop="20230426064500 -0400" channel="02-12">
+    <title lang="en">CHV Noticias Central</title>
+    <desc lang="en">Macarena Pizarro y Daniel Matamala presentan el noticiero más creíble del país. Coberturas, notas y reportajes exclusivos para estar informado con todo lo que ocurrió durante la jornada.</desc>
   </programme>
   <programme start="20230426120000 -0400" stop="20230426180000 -0400" channel="02-12">
     <title lang="en">Chilevision Noticias</title>
@@ -7206,11 +7539,11 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425060000 -0400" stop="20230425100000 -0400" channel="02-13">
+  <programme start="20230425060000 -0400" stop="20230425120000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425120000 -0400" stop="20230425180000 -0400" channel="02-13">
+  <programme start="20230425120000 -0400" stop="20230425160000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7222,9 +7555,9 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
   </programme>
-  <programme start="20230426060000 -0400" stop="20230426120000 -0400" channel="02-13">
+  <programme start="20230426060000 -0400" stop="20230426070000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
-    <desc lang="en">No information available.</desc>
+    <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
   </programme>
   <programme start="20230426120000 -0400" stop="20230426180000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
@@ -14309,13 +14642,257 @@
     <title lang="es">1000 maneras de morir</title>
     <desc lang="es">Una serie documental que recrea muertes inusuales y analiza, detalladamente, la ciencia que se esconde detrás de cada una de ellas. Además, cuenta con la participación de distintos especialistas según cada caso. Este ciclo está basado en casos reales.</desc>
   </programme>
-  <programme start="20230425000000 -0400" stop="20230425235900 -0400" channel="03-21">
-    <title lang="es">Senpai TV</title>
-    <desc lang="es">Información no provista por el proveedor de la señal.</desc>
+  <programme start="20230425060000 -0400" stop="20230425063000 -0400" channel="03-21">
+    <title lang="es">SLAYERS TRY</title>
   </programme>
-  <programme start="20230426000000 -0400" stop="20230426235900 -0400" channel="03-21">
-    <title lang="es">Senpai TV</title>
-    <desc lang="es">Información no provista por el proveedor de la señal.</desc>
+  <programme start="20230425063000 -0400" stop="20230425070000 -0400" channel="03-21">
+    <title lang="es">INAZUMA ELEVEN</title>
+  </programme>
+  <programme start="20230425070000 -0400" stop="20230425073000 -0400" channel="03-21">
+    <title lang="es">MAGIC KAITO 1412</title>
+  </programme>
+  <programme start="20230425073000 -0400" stop="20230425080000 -0400" channel="03-21">
+    <title lang="es">CINDERELLA BOY</title>
+  </programme>
+  <programme start="20230425080000 -0400" stop="20230425083000 -0400" channel="03-21">
+    <title lang="es">DORAEMON</title>
+  </programme>
+  <programme start="20230425083000 -0400" stop="20230425090000 -0400" channel="03-21">
+    <title lang="es">SHAMAN KING</title>
+  </programme>
+  <programme start="20230425090000 -0400" stop="20230425093000 -0400" channel="03-21">
+    <title lang="es">SONIC X</title>
+  </programme>
+  <programme start="20230425093000 -0400" stop="20230425100000 -0400" channel="03-21">
+    <title lang="es">SLAYERS TRY</title>
+  </programme>
+  <programme start="20230425100000 -0400" stop="20230425103000 -0400" channel="03-21">
+    <title lang="es">MANGAKA</title>
+  </programme>
+  <programme start="20230425103000 -0400" stop="20230425110000 -0400" channel="03-21">
+    <title lang="es">INAZUMA ELEVEN</title>
+  </programme>
+  <programme start="20230425110000 -0400" stop="20230425113000 -0400" channel="03-21">
+    <title lang="es">MAGIC KAITO 1412</title>
+  </programme>
+  <programme start="20230425113000 -0400" stop="20230425120000 -0400" channel="03-21">
+    <title lang="es">CINDERELLA BOY</title>
+  </programme>
+  <programme start="20230425120000 -0400" stop="20230425123000 -0400" channel="03-21">
+    <title lang="es">DORAEMON</title>
+  </programme>
+  <programme start="20230425123000 -0400" stop="20230425130000 -0400" channel="03-21">
+    <title lang="es">SHAMAN KING</title>
+  </programme>
+  <programme start="20230425130000 -0400" stop="20230425133000 -0400" channel="03-21">
+    <title lang="es">SONIC X</title>
+  </programme>
+  <programme start="20230425133000 -0400" stop="20230425140000 -0400" channel="03-21">
+    <title lang="es">SLAYERS TRY</title>
+  </programme>
+  <programme start="20230425140000 -0400" stop="20230425143000 -0400" channel="03-21">
+    <title lang="es">MANGAKA</title>
+  </programme>
+  <programme start="20230425143000 -0400" stop="20230425150000 -0400" channel="03-21">
+    <title lang="es">INAZUMA ELEVEN</title>
+  </programme>
+  <programme start="20230425150000 -0400" stop="20230425153000 -0400" channel="03-21">
+    <title lang="es">MAGIC KAITO 1412</title>
+  </programme>
+  <programme start="20230425153000 -0400" stop="20230425160000 -0400" channel="03-21">
+    <title lang="es">CINDERELLA BOY</title>
+  </programme>
+  <programme start="20230425160000 -0400" stop="20230425163000 -0400" channel="03-21">
+    <title lang="es">DORAEMON</title>
+  </programme>
+  <programme start="20230425163000 -0400" stop="20230425170000 -0400" channel="03-21">
+    <title lang="es">SHAMAN KING</title>
+  </programme>
+  <programme start="20230425170000 -0400" stop="20230425173000 -0400" channel="03-21">
+    <title lang="es">SONIC X</title>
+  </programme>
+  <programme start="20230425173000 -0400" stop="20230425180000 -0400" channel="03-21">
+    <title lang="es">SLAYERS TRY</title>
+  </programme>
+  <programme start="20230425180000 -0400" stop="20230425183000 -0400" channel="03-21">
+    <title lang="es">KATEKYO HITMAN REBORN!</title>
+  </programme>
+  <programme start="20230425183000 -0400" stop="20230425190000 -0400" channel="03-21">
+    <title lang="es">KUROKO NO BASKET</title>
+  </programme>
+  <programme start="20230425190000 -0400" stop="20230425193000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: DETECTIVE CONAN</title>
+  </programme>
+  <programme start="20230425193000 -0400" stop="20230425200000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SAILOR MOON</title>
+  </programme>
+  <programme start="20230425200000 -0400" stop="20230425203000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SUPERCAMPEONES OFF ROAD 2002</title>
+  </programme>
+  <programme start="20230425203000 -0400" stop="20230425210000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: ORPHEN</title>
+  </programme>
+  <programme start="20230425210000 -0400" stop="20230425213000 -0400" channel="03-21">
+    <title lang="es">UTA NO PRINCE-SAMA</title>
+  </programme>
+  <programme start="20230425213000 -0400" stop="20230425220000 -0400" channel="03-21">
+    <title lang="es">KUROKO NO BASKET</title>
+  </programme>
+  <programme start="20230425220000 -0400" stop="20230425223000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: DETECTIVE CONAN</title>
+  </programme>
+  <programme start="20230425223000 -0400" stop="20230425230000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SAILOR MOON</title>
+  </programme>
+  <programme start="20230425230000 -0400" stop="20230425233000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SUPERCAMPEONES OFF ROAD 2002</title>
+  </programme>
+  <programme start="20230425233000 -0400" stop="20230426000000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: ORPHEN</title>
+  </programme>
+  <programme start="20230426000000 -0400" stop="20230426003000 -0400" channel="03-21">
+    <title lang="es">UTA NO PRINCE-SAMA</title>
+  </programme>
+  <programme start="20230426003000 -0400" stop="20230426010000 -0400" channel="03-21">
+    <title lang="es">KUROKO NO BASKET</title>
+  </programme>
+  <programme start="20230426010000 -0400" stop="20230426013000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: DETECTIVE CONAN</title>
+  </programme>
+  <programme start="20230426013000 -0400" stop="20230426020000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SAILOR MOON</title>
+  </programme>
+  <programme start="20230426020000 -0400" stop="20230426023000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SUPERCAMPEONES OFF ROAD 2002</title>
+  </programme>
+  <programme start="20230426023000 -0400" stop="20230426030000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: ORPHEN</title>
+  </programme>
+  <programme start="20230426030000 -0400" stop="20230426033000 -0400" channel="03-21">
+    <title lang="es">INAZUMA ELEVEN</title>
+  </programme>
+  <programme start="20230426033000 -0400" stop="20230426040000 -0400" channel="03-21">
+    <title lang="es">MAGIC KAITO 1412</title>
+  </programme>
+  <programme start="20230426040000 -0400" stop="20230426043000 -0400" channel="03-21">
+    <title lang="es">CINDERELLA BOY</title>
+  </programme>
+  <programme start="20230426043000 -0400" stop="20230426050000 -0400" channel="03-21">
+    <title lang="es">DORAEMON</title>
+  </programme>
+  <programme start="20230426050000 -0400" stop="20230426053000 -0400" channel="03-21">
+    <title lang="es">SHAMAN KING</title>
+  </programme>
+  <programme start="20230426053000 -0400" stop="20230426060000 -0400" channel="03-21">
+    <title lang="es">SONIC X</title>
+  </programme>
+  <programme start="20230426060000 -0400" stop="20230426063000 -0400" channel="03-21">
+    <title lang="es">SLAYERS TRY</title>
+  </programme>
+  <programme start="20230426063000 -0400" stop="20230426070000 -0400" channel="03-21">
+    <title lang="es">INAZUMA ELEVEN</title>
+  </programme>
+  <programme start="20230426070000 -0400" stop="20230426073000 -0400" channel="03-21">
+    <title lang="es">MAGIC KAITO 1412</title>
+  </programme>
+  <programme start="20230426073000 -0400" stop="20230426080000 -0400" channel="03-21">
+    <title lang="es">CINDERELLA BOY</title>
+  </programme>
+  <programme start="20230426080000 -0400" stop="20230426083000 -0400" channel="03-21">
+    <title lang="es">DORAEMON</title>
+  </programme>
+  <programme start="20230426083000 -0400" stop="20230426090000 -0400" channel="03-21">
+    <title lang="es">SHAMAN KING</title>
+  </programme>
+  <programme start="20230426090000 -0400" stop="20230426093000 -0400" channel="03-21">
+    <title lang="es">SONIC X</title>
+  </programme>
+  <programme start="20230426093000 -0400" stop="20230426100000 -0400" channel="03-21">
+    <title lang="es">SLAYERS TRY</title>
+  </programme>
+  <programme start="20230426100000 -0400" stop="20230426103000 -0400" channel="03-21">
+    <title lang="es">MANGAKA</title>
+  </programme>
+  <programme start="20230426103000 -0400" stop="20230426110000 -0400" channel="03-21">
+    <title lang="es">INAZUMA ELEVEN</title>
+  </programme>
+  <programme start="20230426110000 -0400" stop="20230426113000 -0400" channel="03-21">
+    <title lang="es">MAGIC KAITO 1412</title>
+  </programme>
+  <programme start="20230426113000 -0400" stop="20230426120000 -0400" channel="03-21">
+    <title lang="es">CINDERELLA BOY</title>
+  </programme>
+  <programme start="20230426120000 -0400" stop="20230426123000 -0400" channel="03-21">
+    <title lang="es">DORAEMON</title>
+  </programme>
+  <programme start="20230426123000 -0400" stop="20230426130000 -0400" channel="03-21">
+    <title lang="es">SHAMAN KING</title>
+  </programme>
+  <programme start="20230426130000 -0400" stop="20230426133000 -0400" channel="03-21">
+    <title lang="es">SONIC X</title>
+  </programme>
+  <programme start="20230426133000 -0400" stop="20230426140000 -0400" channel="03-21">
+    <title lang="es">SLAYERS TRY</title>
+  </programme>
+  <programme start="20230426140000 -0400" stop="20230426143000 -0400" channel="03-21">
+    <title lang="es">MANGAKA</title>
+  </programme>
+  <programme start="20230426143000 -0400" stop="20230426150000 -0400" channel="03-21">
+    <title lang="es">INAZUMA ELEVEN</title>
+  </programme>
+  <programme start="20230426150000 -0400" stop="20230426153000 -0400" channel="03-21">
+    <title lang="es">MAGIC KAITO 1412</title>
+  </programme>
+  <programme start="20230426153000 -0400" stop="20230426160000 -0400" channel="03-21">
+    <title lang="es">CINDERELLA BOY</title>
+  </programme>
+  <programme start="20230426160000 -0400" stop="20230426163000 -0400" channel="03-21">
+    <title lang="es">DORAEMON</title>
+  </programme>
+  <programme start="20230426163000 -0400" stop="20230426170000 -0400" channel="03-21">
+    <title lang="es">SHAMAN KING</title>
+  </programme>
+  <programme start="20230426170000 -0400" stop="20230426173000 -0400" channel="03-21">
+    <title lang="es">SONIC X</title>
+  </programme>
+  <programme start="20230426173000 -0400" stop="20230426180000 -0400" channel="03-21">
+    <title lang="es">SLAYERS TRY</title>
+  </programme>
+  <programme start="20230426180000 -0400" stop="20230426183000 -0400" channel="03-21">
+    <title lang="es">KATEKYO HITMAN REBORN!</title>
+  </programme>
+  <programme start="20230426183000 -0400" stop="20230426190000 -0400" channel="03-21">
+    <title lang="es">KUROKO NO BASKET</title>
+  </programme>
+  <programme start="20230426190000 -0400" stop="20230426193000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: DETECTIVE CONAN</title>
+  </programme>
+  <programme start="20230426193000 -0400" stop="20230426200000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SAILOR MOON</title>
+  </programme>
+  <programme start="20230426200000 -0400" stop="20230426203000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SUPERCAMPEONES OFF ROAD 2002</title>
+  </programme>
+  <programme start="20230426203000 -0400" stop="20230426210000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: ORPHEN</title>
+  </programme>
+  <programme start="20230426210000 -0400" stop="20230426213000 -0400" channel="03-21">
+    <title lang="es">UTA NO PRINCE-SAMA</title>
+  </programme>
+  <programme start="20230426213000 -0400" stop="20230426220000 -0400" channel="03-21">
+    <title lang="es">KUROKO NO BASKET</title>
+  </programme>
+  <programme start="20230426220000 -0400" stop="20230426223000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: DETECTIVE CONAN</title>
+  </programme>
+  <programme start="20230426223000 -0400" stop="20230426230000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SAILOR MOON</title>
+  </programme>
+  <programme start="20230426230000 -0400" stop="20230426233000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: SUPERCAMPEONES OFF ROAD 2002</title>
+  </programme>
+  <programme start="20230426233000 -0400" stop="20230427000000 -0400" channel="03-21">
+    <title lang="es">MICHI CLUB: ORPHEN</title>
   </programme>
   <programme start="20230425005500 -0400" stop="20230425015500 -0400" channel="04-01">
     <title lang="es">Goles ascenso</title>
@@ -16624,7 +17201,8 @@
     <desc lang="es">Vive los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
   </programme>
   <programme start="20230426230000 -0400" stop="20230427000000 -0400" channel="04-16">
-    <title lang="es">A confirmar</title>
+    <title lang="es">UFC Unleashed</title>
+    <desc lang="es">Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la Ultimate Fighting Championship, para revivir, nuevamente, los triunfos y los fracasos más decisivos de esta famosa competencia.</desc>
   </programme>
   <programme start="20230425000000 -0400" stop="20230425010000 -0400" channel="04-17">
     <title lang="es">UEFA Europa &amp; UEFA Europa Conference League Highlights</title>
@@ -16914,7 +17492,7 @@
     <desc lang="es">Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
   </programme>
   <programme start="20230426133000 -0400" stop="20230426163000 -0400" channel="04-18">
-    <title lang="es">MLB</title>
+    <title lang="es">Major League Baseball</title>
     <sub-title lang="es">Detroit Tigers vs. Milwaukee Brewers, Temporada regular, American F. Field</sub-title>
     <desc lang="es">Vive los partidos de la liga más importante de béisbol, la más antigua de las ligas mayores profesionales en EUA y Canadá. El juego de las estrellas se disputará el 11 de julio en el T-Mobile Park.</desc>
   </programme>
@@ -18481,6 +19059,9 @@
   </programme>
   <programme start="20230426130000 -0400" stop="20230426150000 -0400" channel="05-07">
     <title lang="es">80s In Love</title>
+  </programme>
+  <programme start="20230426160000 -0400" stop="20230426180000 -0400" channel="05-07">
+    <title lang="es">... So 80s</title>
   </programme>
   <programme start="20230425000000 -0400" stop="20230425060000 -0400" channel="05-17">
     <title lang="es">Modo nocturno</title>
@@ -20436,9 +21017,13 @@
     <title lang="es">Videos Teleritmo</title>
     <desc lang="es">Este segmento te trae a tu pantalla una rotación de videos musicales durante las veinticuatro horas de programación. Disfruta de tus canciones y artistas favoritos de música grupera y regional mexicana.</desc>
   </programme>
-  <programme start="20230426010000 -0400" stop="20230426030000 -0400" channel="05-36">
+  <programme start="20230426010000 -0400" stop="20230426014500 -0400" channel="05-36">
     <title lang="es">Dame Dembow</title>
     <desc lang="es">Programa musical que habla sólo de reggaetón y que presentasecciones con las últimas tendencias del género urbano, lo que más está rompiendo en las redes sociales, la moda, los eventos y los conciertos que todo reggaetonero quiere ir.</desc>
+  </programme>
+  <programme start="20230426014500 -0400" stop="20230426030000 -0400" channel="05-36">
+    <title lang="es">Videos grupero, pop, urbano, salsa, bachata</title>
+    <desc lang="es">Un espacio que presenta los videos más destacados sobre grupero, pop, urbano, salsa y bachata. Los amantes de la música podrán disfrutar de los últimos lanzamientos, tendencias y artistas más importantes.</desc>
   </programme>
   <programme start="20230426030000 -0400" stop="20230426040000 -0400" channel="05-36">
     <title lang="es">Fútbol al día</title>
@@ -20476,13 +21061,9 @@
     <title lang="es">Esoterico León</title>
     <desc lang="es">No hay información disponible.</desc>
   </programme>
-  <programme start="20230427003000 -0400" stop="20230427010000 -0400" channel="05-36">
+  <programme start="20230427003000 -0400" stop="20230427014500 -0400" channel="05-36">
     <title lang="es">Videos Teleritmo</title>
     <desc lang="es">Este segmento te trae a tu pantalla una rotación de videos musicales durante las veinticuatro horas de programación. Disfruta de tus canciones y artistas favoritos de música grupera y regional mexicana.</desc>
-  </programme>
-  <programme start="20230427010000 -0400" stop="20230427014500 -0400" channel="05-36">
-    <title lang="es">Dame Dembow</title>
-    <desc lang="es">Programa musical que habla sólo de reggaetón y que presentasecciones con las últimas tendencias del género urbano, lo que más está rompiendo en las redes sociales, la moda, los eventos y los conciertos que todo reggaetonero quiere ir.</desc>
   </programme>
   <programme start="20230427014500 -0400" stop="20230427030000 -0400" channel="05-36">
     <title lang="es">Videos grupero, pop, urbano, salsa, bachata</title>
@@ -20492,13 +21073,9 @@
     <title lang="es">Fútbol al día</title>
     <desc lang="es">Un espacio lleno de tradición donde nos cuentan las polémicas y controversias que se viven en el fútbol. El presentador nos da su punto de vista desde donde sea necesario para tener los reportajes y perspectiva de todos los involucrados.</desc>
   </programme>
-  <programme start="20230427040000 -0400" stop="20230427040200 -0400" channel="05-36">
+  <programme start="20230427040000 -0400" stop="20230427153000 -0400" channel="05-36">
     <title lang="es">Himno nacional</title>
     <desc lang="es">No hay información disponible.</desc>
-  </programme>
-  <programme start="20230427040200 -0400" stop="20230427153000 -0400" channel="05-36">
-    <title lang="es">Videos Teleritmo</title>
-    <desc lang="es">Este segmento te trae a tu pantalla una rotación de videos musicales durante las veinticuatro horas de programación. Disfruta de tus canciones y artistas favoritos de música grupera y regional mexicana.</desc>
   </programme>
   <programme start="20230427153000 -0400" stop="20230427160000 -0400" channel="05-36">
     <title lang="es">Infomercial León</title>
@@ -20524,9 +21101,13 @@
     <title lang="es">Esoterico León</title>
     <desc lang="es">No hay información disponible.</desc>
   </programme>
-  <programme start="20230428003000 -0400" stop="20230428030000 -0400" channel="05-36">
+  <programme start="20230428003000 -0400" stop="20230428014500 -0400" channel="05-36">
     <title lang="es">Videos Teleritmo</title>
     <desc lang="es">Este segmento te trae a tu pantalla una rotación de videos musicales durante las veinticuatro horas de programación. Disfruta de tus canciones y artistas favoritos de música grupera y regional mexicana.</desc>
+  </programme>
+  <programme start="20230428014500 -0400" stop="20230428030000 -0400" channel="05-36">
+    <title lang="es">Videos grupero, pop, urbano, salsa, bachata</title>
+    <desc lang="es">Un espacio que presenta los videos más destacados sobre grupero, pop, urbano, salsa y bachata. Los amantes de la música podrán disfrutar de los últimos lanzamientos, tendencias y artistas más importantes.</desc>
   </programme>
   <programme start="20230428030000 -0400" stop="20230428040000 -0400" channel="05-36">
     <title lang="es">Fútbol al día</title>
@@ -20784,17 +21365,25 @@
     <title lang="es">Esta va para ti</title>
     <desc lang="es">Melissa y Melinna León se encargan de hacer dinámicas entre el público. Los ganadores dedican una canción y se les manda un premio a su casa.</desc>
   </programme>
-  <programme start="20230426234500 -0400" stop="20230427040000 -0400" channel="05-39">
+  <programme start="20230426234500 -0400" stop="20230427011000 -0400" channel="05-39">
     <title lang="es">Banda y Max</title>
     <desc lang="es">No hay información disponible.</desc>
   </programme>
-  <programme start="20230427040000 -0400" stop="20230427052000 -0400" channel="05-39">
+  <programme start="20230427011000 -0400" stop="20230427020500 -0400" channel="05-39">
+    <title lang="es">Las imperdibles BDX</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20230427020500 -0400" stop="20230427030000 -0400" channel="05-39">
+    <title lang="es">La cantina del Tunco - Mago Casañas / Sexy Cumbia</title>
+    <desc lang="es">Segmento cómico que presenta una gran variedad de sugerencias musicales, adivinanzas y donde el público puede interactuar mediante el envío de correos electrónicos y ser partícipe del mejor estilo humorístico de la televisión.</desc>
+  </programme>
+  <programme start="20230427030000 -0400" stop="20230427040000 -0400" channel="05-39">
+    <title lang="es">Bandamáximo dolor</title>
+    <desc lang="es">Una selección de videos para ayudar a quitar el mal de amores.</desc>
+  </programme>
+  <programme start="20230427040000 -0400" stop="20230427061500 -0400" channel="05-39">
     <title lang="es">Las más sonadas</title>
     <desc lang="es">En este espacio podrás encontrar las canciones más sonadas dentro del ambiente grupero, esas que han sabido calar en el público y hoy se encuentran en los primeros números de las listas.</desc>
-  </programme>
-  <programme start="20230427052000 -0400" stop="20230427061500 -0400" channel="05-39">
-    <title lang="es">Esta va para ti</title>
-    <desc lang="es">Melissa y Melinna León se encargan de hacer dinámicas entre el público. Los ganadores dedican una canción y se les manda un premio a su casa.</desc>
   </programme>
   <programme start="20230427061500 -0400" stop="20230427080000 -0400" channel="05-39">
     <title lang="es">Las imperdibles BDX</title>
@@ -20912,7 +21501,11 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425060000 -0400" stop="20230425094400 -0400" channel="05-44">
+  <programme start="20230425060000 -0400" stop="20230425120000 -0400" channel="05-44">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230425120000 -0400" stop="20230425165000 -0400" channel="05-44">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20924,9 +21517,9 @@
     <title lang="en">Avril Lavigne - Live in Calgary</title>
     <desc lang="en">La canadiense Avril Lavigne encandiló al público en 2007 con su espectáculo en Calgary (Canadá), en el que presentó el álbum "The Best Damn Thing", que vendió, ese mismo año, más de 6 millones de copias en todo el mundo.</desc>
   </programme>
-  <programme start="20230426060000 -0400" stop="20230426120000 -0400" channel="05-44">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230426045200 -0400" stop="20230426064100 -0400" channel="05-44">
+    <title lang="en">Paramore - Paramore - Live at Roundhouse</title>
+    <desc lang="en">El iTunes Festival es un festival anual de música que se lleva a cabo en Londres a lo largo de un mes. Está patrocinado por Apple Inc. y tuvo su primera edición en 2007.</desc>
   </programme>
   <programme start="20230426120000 -0400" stop="20230426180000 -0400" channel="05-44">
     <title lang="en">Conciertos por Stingray</title>
@@ -20940,11 +21533,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425060000 -0400" stop="20230425100000 -0400" channel="05-45">
+  <programme start="20230425060000 -0400" stop="20230425120000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425120000 -0400" stop="20230425180000 -0400" channel="05-45">
+  <programme start="20230425120000 -0400" stop="20230425160000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20956,9 +21549,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230426060000 -0400" stop="20230426120000 -0400" channel="05-45">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230426060000 -0400" stop="20230426070000 -0400" channel="05-45">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230426120000 -0400" stop="20230426180000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
@@ -24054,11 +24647,11 @@
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425060000 -0400" stop="20230425100000 -0400" channel="06-12">
+  <programme start="20230425060000 -0400" stop="20230425120000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230425120000 -0400" stop="20230425180000 -0400" channel="06-12">
+  <programme start="20230425120000 -0400" stop="20230425160000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -24070,9 +24663,9 @@
     <title lang="en">Gumus</title>
     <desc lang="en">La familia se entera de que han secuestrado a Bahar. A pesar de que Mehmet y Gokan exigen a Alí que deje libre a Bahar, ésta aparece y el bebé podría correr peligro.</desc>
   </programme>
-  <programme start="20230426060000 -0400" stop="20230426120000 -0400" channel="06-12">
-    <title lang="en">Vive Kanal D Drama</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230426060000 -0400" stop="20230426070000 -0400" channel="06-12">
+    <title lang="en">Asya</title>
+    <desc lang="en">Emel se molesta con su madre por lo que hizo para salvar a su hermano. Ercan intenta hacer todo lo posible para salvar a Asya. Melek y Selim siguen sin decir nada de su relación. Emel lastima a Huseyin al burlarse de él.</desc>
   </programme>
   <programme start="20230426120000 -0400" stop="20230426180000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
