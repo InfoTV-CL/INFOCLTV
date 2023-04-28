@@ -2179,21 +2179,17 @@
     <title lang="es">Chile Conectado</title>
     <desc lang="es">Gino Costa y los corresponsales de TVN recorren Chile de punta a punta para reencontrarse con la riqueza de la tierra, su gente, el patrimonio.</desc>
   </programme>
-  <programme start="20230429064500 -0400" stop="20230429074500 -0400" channel="01-04">
+  <programme start="20230429064500 -0400" stop="20230429080000 -0400" channel="01-04">
     <title lang="es">Puertas abiertas</title>
     <desc lang="es">Uno de los espacios de orientación cristiana con mayor antigüedad, el cual te lleva un mensaje práctico y relevante acerca de la palabra de Dios.</desc>
   </programme>
-  <programme start="20230429074500 -0400" stop="20230429084500 -0400" channel="01-04">
+  <programme start="20230429080000 -0400" stop="20230429101500 -0400" channel="01-04">
     <title lang="es">Hermanos a la obra</title>
     <desc lang="es">Los hermanos gemelos Jonathan y Drew Scott ayudan a parejas en la transformación de la casa de sus sueños. Los hermanos utilizan tecnología de punta digital para revelar los planes de una propiedad tras la renovación.</desc>
   </programme>
-  <programme start="20230429084500 -0400" stop="20230429103000 -0400" channel="01-04">
-    <title lang="es">El bombero atómico</title>
-    <desc lang="es">Un bombero y un policía se embarcan en la misión inesperada de cuidar a una niña cuya madre falleció.</desc>
-  </programme>
-  <programme start="20230429103000 -0400" stop="20230429124500 -0400" channel="01-04">
-    <title lang="es">El señor doctor</title>
-    <desc lang="es">Un doctor examina a muchas mujeres hermosas y provoca carcajadas con su estilo atrevido y valiente.</desc>
+  <programme start="20230429101500 -0400" stop="20230429124500 -0400" channel="01-04">
+    <title lang="es">Conserje en condominio</title>
+    <desc lang="es">El nuevo conserje de un condominio se involucra en la vida de varias inquilinas y trata de resolver sus problemas.</desc>
   </programme>
   <programme start="20230429124500 -0400" stop="20230429130000 -0400" channel="01-04">
     <title lang="es">Franja Electoral</title>
@@ -2210,13 +2206,13 @@
     <title lang="es">Hijos de las estrellas</title>
     <desc lang="es">Un viaje por la historia de los pueblos de América y su visión del cielo para descubrir los secretos de antiguos templos dedicados a los astros del Universo, y conocer los observatorios astronómicos con la tecnología más avanzada del mundo.</desc>
   </programme>
-  <programme start="20230429164500 -0400" stop="20230429190000 -0400" channel="01-04">
-    <title lang="es">Si señor</title>
-    <desc lang="es">Carl Allen es un hombre que muestra una tendencia enfermiza a decir siempre no, hasta que se inscribe en un programa de autoayuda basado en una única condición: decir \.</desc>
+  <programme start="20230429164500 -0400" stop="20230429184500 -0400" channel="01-04">
+    <title lang="es">Como si fuera la primera vez</title>
+    <desc lang="es">Henry, biólogo marino, no tiene la mínima intención de comprometerse con nadie, hasta que conoce a Lucy, la chica de sus sueños. Sin embargo, hay un pequeño problema, la joven se levanta cada mañana sin recordar absolutamente nada del día anterior.</desc>
   </programme>
-  <programme start="20230429190000 -0400" stop="20230429204500 -0400" channel="01-04">
+  <programme start="20230429184500 -0400" stop="20230429204500 -0400" channel="01-04">
     <title lang="es">Las locuras de Dick y Jane</title>
-    <desc lang="es">Dick Harper es, por fin, ascendido a vicepresidente en su compañía, pero un escándalo arruina la empresa. Entonces, Dick y su esposa Jane ven cómo su lujosa casa, sus ostentosos autos e, incluso, sus amistades se desvanecen como por arte de magia.</desc>
+    <desc lang="es">Cuando David alquiló un apartamento en San Francisco, lo último que esperaba era compartirlo con una mujer fantasma.</desc>
   </programme>
   <programme start="20230429204500 -0400" stop="20230429210000 -0400" channel="01-04">
     <title lang="es">Franja Electoral</title>
@@ -2234,9 +2230,13 @@
     <title lang="es">Atlas de Chile</title>
     <desc lang="es">La dupla Federico Sánchez y Marcelo Comparini, recorre todas las regiones del país para entregar su mirada desde las tendencias, el diseño y el patrimonio, en su más amplio sentido.</desc>
   </programme>
-  <programme start="20230429234500 -0400" stop="20230430030500 -0400" channel="01-04">
-    <title lang="es">Premios Platino</title>
-    <desc lang="es">Entrega de los premios platino al cine iberoamericano desde Madrid.</desc>
+  <programme start="20230429234500 -0400" stop="20230430004500 -0400" channel="01-04">
+    <title lang="es">Celia, la serie</title>
+    <desc lang="es">Un drama inspirado en la vida de la guarachera del mundo, la querida Celia Cruz. La historia y el legado musical de una dama quien empezó su carrera en medio de la revolución cubana, donde una artista femenina no tenía escenario, pero que gracias a su tesón y su estilo único logró llegar a la consagración artística para la eternidad.</desc>
+  </programme>
+  <programme start="20230430004500 -0400" stop="20230430010000 -0400" channel="01-04">
+    <title lang="es">TV Tiempo</title>
+    <desc lang="es">El informe del tiempo y los pronósticos climáticos para todo Chile.</desc>
   </programme>
   <programme start="20230430030500 -0400" stop="20230430034500 -0400" channel="01-04">
     <title lang="es">Dr. House</title>
@@ -4849,7 +4849,11 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230428060000 -0400" stop="20230428080000 -0400" channel="01-27">
+  <programme start="20230428060000 -0400" stop="20230428120000 -0400" channel="01-27">
+    <title lang="en">Chilevision Contigo</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230428120000 -0400" stop="20230428153000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -4861,9 +4865,9 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230429060000 -0400" stop="20230429120000 -0400" channel="01-27">
-    <title lang="en">Chilevision Contigo</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230429060000 -0400" stop="20230429080000 -0400" channel="01-27">
+    <title lang="en">Sabingo Premium</title>
+    <desc lang="en">Chilevisión Contigo llega a Pluto con los mejores y más exitosos contenidos de actualidad, magazine, viajes y entrevistas de Chilevisión.\nEste canal te acompañamos durante 24 horas, los 7 días de la semana con los rostros y programas más queridos.</desc>
   </programme>
   <programme start="20230429120000 -0400" stop="20230429180000 -0400" channel="01-27">
     <title lang="en">Chilevision Contigo</title>
@@ -6481,22 +6485,26 @@
     <title lang="es">Reportajes T13</title>
     <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
   </programme>
-  <programme start="20230429130000 -0400" stop="20230429145500 -0400" channel="02-05">
+  <programme start="20230429130000 -0400" stop="20230429150000 -0400" channel="02-05">
     <title lang="es">Teletrece tarde</title>
     <desc lang="es">Un espacio para toda la información nacional e internacional que marca la jornada.</desc>
   </programme>
-  <programme start="20230429145500 -0400" stop="20230429170000 -0400" channel="02-05">
+  <programme start="20230429150000 -0400" stop="20230429160000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230429160000 -0400" stop="20230429170000 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230429170000 -0400" stop="20230429172500 -0400" channel="02-05">
+    <title lang="es">Reportajes T13</title>
+    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
+  </programme>
+  <programme start="20230429172500 -0400" stop="20230429190000 -0400" channel="02-05">
     <title lang="es">EN VIVO: Campeonato Betsson 2023</title>
-    <sub-title lang="es">Huachipato vs Unión La Calera</sub-title>
+    <sub-title lang="es">Curicó vs Everton</sub-title>
     <desc lang="es">Cobertura de los partidos de la primera división del fútbol profesional de Chile.</desc>
-  </programme>
-  <programme start="20230429170000 -0400" stop="20230429180000 -0400" channel="02-05">
-    <title lang="es">Reportajes T13</title>
-    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
-  </programme>
-  <programme start="20230429180000 -0400" stop="20230429190000 -0400" channel="02-05">
-    <title lang="es">Reportajes T13</title>
-    <desc lang="es">Espacio de reportajes sobre política, historia, cultura, geografía y otros temas de actualidad.</desc>
   </programme>
   <programme start="20230429190000 -0400" stop="20230429200000 -0400" channel="02-05">
     <title lang="es">Reportajes T13</title>
@@ -7452,7 +7460,11 @@
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230428060000 -0400" stop="20230428103000 -0400" channel="02-12">
+  <programme start="20230428060000 -0400" stop="20230428120000 -0400" channel="02-12">
+    <title lang="en">Chilevision Noticias</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230428120000 -0400" stop="20230428163000 -0400" channel="02-12">
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7464,9 +7476,9 @@
     <title lang="en">Vivir Mejor</title>
     <desc lang="en">Programa dedicado a salud, calidad y estilos de vida. Notas y entrevistas que ayuda a Vivir Mejor. Exclusivo en Pluto TV.</desc>
   </programme>
-  <programme start="20230429060000 -0400" stop="20230429120000 -0400" channel="02-12">
-    <title lang="en">Chilevision Noticias</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230429060000 -0400" stop="20230429070000 -0400" channel="02-12">
+    <title lang="en">A Fondo CHV Noticias</title>
+    <desc lang="en">Selección de los mejores reportajes que han marcado la pauta, con el estilo y credibilidad de CHV Noticias. Además, entrevistas para ahondar en esos temas. Exclusivo en Pluto TV.</desc>
   </programme>
   <programme start="20230429120000 -0400" stop="20230429180000 -0400" channel="02-12">
     <title lang="en">Chilevision Noticias</title>
@@ -7480,7 +7492,11 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230428060000 -0400" stop="20230428110000 -0400" channel="02-13">
+  <programme start="20230428060000 -0400" stop="20230428120000 -0400" channel="02-13">
+    <title lang="en">Euronews Español</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230428120000 -0400" stop="20230428160000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7492,9 +7508,9 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
   </programme>
-  <programme start="20230429060000 -0400" stop="20230429120000 -0400" channel="02-13">
+  <programme start="20230429060000 -0400" stop="20230429070000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
-    <desc lang="en">No information available.</desc>
+    <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
   </programme>
   <programme start="20230429120000 -0400" stop="20230429180000 -0400" channel="02-13">
     <title lang="en">Euronews Español</title>
@@ -15802,9 +15818,7 @@
     <sub-title lang="es">Ronda 1 Barcelona</sub-title>
   </programme>
   <programme start="20230429080000 -0400" stop="20230429090000 -0400" channel="04-09">
-    <title lang="es">Highlights - Fórmula E</title>
-    <sub-title lang="es">e-Prix de Berlín, Carrera 7, Circuito del Aeropuerto Berlín-Tempelhof, Berlín</sub-title>
-    <desc lang="es">Revive los mejores momentos de las carreras de la 9º temporada del Campeonato Mundial de Fórmula E, la categoría de monoplazas eléctricos.</desc>
+    <title lang="es">Sorteo - FIBA Basketball World Cup 2023</title>
   </programme>
   <programme start="20230429090000 -0400" stop="20230429100000 -0400" channel="04-09">
     <title lang="es">Highlights - Fórmula E</title>
@@ -15840,12 +15854,13 @@
     <sub-title lang="es">Jockey Salta vs. Tucumán Rugby</sub-title>
   </programme>
   <programme start="20230429170000 -0400" stop="20230429190000 -0400" channel="04-09">
-    <title lang="es">Rugby NOA</title>
-    <sub-title lang="es">Jockey Salta vs. Tucumán Rugby</sub-title>
+    <title lang="es">Euroliga</title>
+    <sub-title lang="es">Barcelona vs. Zalgiris Kaunas</sub-title>
+    <desc lang="es">Sigue emoción de la máxima competición de clubes de baloncesto de Europa.</desc>
   </programme>
   <programme start="20230429190000 -0400" stop="20230429210000 -0400" channel="04-09">
-    <title lang="es">Rugby Córdoba</title>
-    <desc lang="es">Un torneo de rugby organizado por la Unión Cordobesa de Rugby que agrupa los clubes pertenecientes a la Provincia de Córdoba.</desc>
+    <title lang="es">Rugby cuyo</title>
+    <sub-title lang="es">Teqüe vs. CPBM</sub-title>
   </programme>
   <programme start="20230429210000 -0400" stop="20230429230000 -0400" channel="04-09">
     <title lang="es">MLR</title>
@@ -16091,28 +16106,29 @@
     <title lang="es">UEFA Champions League Weekly</title>
     <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
   </programme>
-  <programme start="20230429052300 -0400" stop="20230429062500 -0400" channel="04-11">
+  <programme start="20230429052300 -0400" stop="20230429062000 -0400" channel="04-11">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
   </programme>
-  <programme start="20230429062500 -0400" stop="20230429065000 -0400" channel="04-11">
-    <title lang="es">+Motor</title>
-    <desc lang="es">Lo mejor del motorsport latinoamericano, recorriendo el mundo para traerte los lanzamientos del mercado de la industria automotriz.</desc>
-  </programme>
-  <programme start="20230429065000 -0400" stop="20230429075000 -0400" channel="04-11">
+  <programme start="20230429062000 -0400" stop="20230429072000 -0400" channel="04-11">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
   </programme>
-  <programme start="20230429075000 -0400" stop="20230429085000 -0400" channel="04-11">
+  <programme start="20230429072000 -0400" stop="20230429092500 -0400" channel="04-11">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Crystal Palace vs. West Ham Utd., Fecha 34, Selhurst Park</sub-title>
+    <desc lang="es">Viví los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+  </programme>
+  <programme start="20230429092500 -0400" stop="20230429095000 -0400" channel="04-11">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
   </programme>
-  <programme start="20230429085000 -0400" stop="20230429105500 -0400" channel="04-11">
-    <title lang="es">Serie A</title>
-    <sub-title lang="es">Napoli vs. Salernitana, Fecha 32, Estadio Diego Armando Maradona</sub-title>
-    <desc lang="es">Viví los partidos de la nonagésima primera edición de la máxima competición futbolística de Italia, desde su creación en 1929.</desc>
+  <programme start="20230429095000 -0400" stop="20230429115500 -0400" channel="04-11">
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Brighton and Hove Albion vs. Wolverhampton Wanderers, Fecha 34, Amex Stadium</sub-title>
+    <desc lang="es">Viví los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
   </programme>
-  <programme start="20230429105500 -0400" stop="20230429122000 -0400" channel="04-11">
+  <programme start="20230429115500 -0400" stop="20230429122000 -0400" channel="04-11">
     <title lang="es">SportsCenter+</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
   </programme>
@@ -16289,12 +16305,12 @@
     <title lang="es">UEFA Champions League Weekly</title>
     <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
   </programme>
-  <programme start="20230429200000 -0400" stop="20230429233000 -0400" channel="04-12">
+  <programme start="20230429200000 -0400" stop="20230429230000 -0400" channel="04-12">
     <title lang="es">ESPN Knockout</title>
     <sub-title lang="es">William Zepeda vs. Jaime Arboleda</sub-title>
     <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
   </programme>
-  <programme start="20230429233000 -0400" stop="20230430003000 -0400" channel="04-12">
+  <programme start="20230429230000 -0400" stop="20230430000000 -0400" channel="04-12">
     <title lang="es">Rally Mobil</title>
     <desc lang="es">Cobertura del Campeonato RallyMobil, el evento motorsport más importante de Chile, con exclusivos detalles de la jornada, competidores, pistas de carrera, comentarios de especialistas en la materia y los resultados de la vuelta final.</desc>
   </programme>
@@ -16423,14 +16439,19 @@
     <title lang="es">ESPN Knockout</title>
     <desc lang="es">El show de box más importante del mundo, porque cuenta con una cobertura global del deporte de contacto más emblemático y porque ofrece la mayor variedad de voces y opiniones de habla hispana. Desde hace años ofrecemos actualidad, noticias, opinión, entrevistas y exclusivas para fans de todo el continente americano. Nuestro Show semanal es sinónimo de Box.</desc>
   </programme>
-  <programme start="20230429151000 -0400" stop="20230429154500 -0400" channel="04-13">
+  <programme start="20230429151000 -0400" stop="20230429154000 -0400" channel="04-13">
     <title lang="es">Campeonato Brasileiro Serie A Highlight Show</title>
     <desc lang="es">Revive los mejores momentos de los partidos de la 66º edición del Campeonato Brasileño de Serie A. Los 20 equipos participantes se enfrentan en partidos de ida y vuelta en un sistema de todos contra todos. Al final de las 38 fechas el club con la mayor cantidad de puntos se proclamará campeón.</desc>
   </programme>
-  <programme start="20230429154500 -0400" stop="20230429165500 -0400" channel="04-13">
-    <title lang="es">Formula One Practice</title>
-    <sub-title lang="es">Gran Premio de Azerbaiyán, Práctica 2, Circuito callejero de Bakú, Bakú</sub-title>
-    <desc lang="es">Vive las prácticas de las carreras de la 74º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
+  <programme start="20230429154000 -0400" stop="20230429155000 -0400" channel="04-13">
+    <title lang="es">Lo mejor de MotoGP</title>
+    <sub-title lang="es">Tales of Valentino: The Helmet</sub-title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
+  </programme>
+  <programme start="20230429155000 -0400" stop="20230429165500 -0400" channel="04-13">
+    <title lang="es">Fórmula 1 - Sprint Shootout</title>
+    <sub-title lang="es">Gran Premio de Azerbaiyán, Circuito callejero de Bakú, Bakú</sub-title>
+    <desc lang="es">Vive las carreras de la 74º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
   </programme>
   <programme start="20230429165500 -0400" stop="20230429180000 -0400" channel="04-13">
     <title lang="es">Fórmula 1 - Sprint Race</title>
@@ -16456,9 +16477,9 @@
     <desc lang="es">Compactos del famoso torneo que se disputa en Madrid y que ha ampliado su duración, convirtiéndose en un evento de dos semanas tanto en el cuadro ATP como en el WTA.</desc>
   </programme>
   <programme start="20230429230000 -0400" stop="20230430010000 -0400" channel="04-13">
-    <title lang="es">Serie A</title>
-    <sub-title lang="es">Napoli vs. Salernitana, Fecha 32, Estadio Diego Armando Maradona</sub-title>
-    <desc lang="es">Viví los partidos de la nonagésima primera edición de la máxima competición futbolística de Italia, desde su creación en 1929.</desc>
+    <title lang="es">Premier League</title>
+    <sub-title lang="es">Brighton and Hove Albion vs. Wolverhampton Wanderers, Fecha 34, Amex Stadium</sub-title>
+    <desc lang="es">Viví los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
   </programme>
   <programme start="20230428010000 -0400" stop="20230428020000 -0400" channel="04-14">
     <title lang="es">Expediente fútbol</title>
@@ -16700,10 +16721,17 @@
     <title lang="es">Inside Serie A</title>
     <desc lang="es">Con la presencia de numerosas estrellas del fútbol mundial, el Calcio siempre nos invita a atrayentes partidos. En esta competencia se lucha en varios frentes: por el título, la clasificación a la UEFA Champions League, la Copa UEFA y para esquivar la caliente zona de descenso.</desc>
   </programme>
-  <programme start="20230428115500 -0400" stop="20230428143000 -0400" channel="04-15">
-    <title lang="es">Stanley Cup</title>
-    <sub-title lang="es">Winnipeg Jets vs. Vegas Golden Knights, Juego 5 Primera ronda, T-Mobile Arena</sub-title>
-    <desc lang="es">Vive los partidos de la 106º temporada de la liga profesional norteamericana de hockey sobre hielo, formada por clubes de Estados Unidos y Canadá.</desc>
+  <programme start="20230428115500 -0400" stop="20230428125700 -0400" channel="04-15">
+    <title lang="es">Compacto - Premier League</title>
+    <sub-title lang="es">Tottenham Hotspur vs. Manchester Utd., Fecha 33, Tottenham Hotspur Stadium</sub-title>
+    <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+  </programme>
+  <programme start="20230428125700 -0400" stop="20230428135900 -0400" channel="04-15">
+    <title lang="es">Goles de la Premier League</title>
+  </programme>
+  <programme start="20230428135900 -0400" stop="20230428143000 -0400" channel="04-15">
+    <title lang="es">Lo mejor de MotoGP</title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
   </programme>
   <programme start="20230428143000 -0400" stop="20230428164000 -0400" channel="04-15">
     <title lang="es">Serie A</title>
@@ -16727,17 +16755,14 @@
     <title lang="es">Acción de la NBA</title>
     <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.</desc>
   </programme>
-  <programme start="20230428190000 -0400" stop="20230428230000 -0400" channel="04-15">
+  <programme start="20230428190000 -0400" stop="20230428233000 -0400" channel="04-15">
     <title lang="es">NFL Draft</title>
+    <sub-title lang="es">Día 2</sub-title>
     <desc lang="es">Evento anual en el que los equipos pertenecientes a la National Football League seleccionan los jugadores universitarios graduados y los que son elegibles por primera vez.</desc>
   </programme>
-  <programme start="20230428230000 -0400" stop="20230428233000 -0400" channel="04-15">
+  <programme start="20230428233000 -0400" stop="20230429000000 -0400" channel="04-15">
     <title lang="es">Lo mejor de MotoGP</title>
     <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
-  </programme>
-  <programme start="20230428233000 -0400" stop="20230429000000 -0400" channel="04-15">
-    <title lang="es">ATP Tour Uncovered</title>
-    <desc lang="es">La actualidad del circuito profesional masculino de tenis.</desc>
   </programme>
   <programme start="20230429000000 -0400" stop="20230429010000 -0400" channel="04-15">
     <title lang="es">World Series of Poker</title>
@@ -16745,9 +16770,7 @@
     <desc lang="es">La Serie Mundial de Póker es el más importante y prestigioso conjunto de torneos de póquer del mundo. Estos torneos se celebran una vez al año en Las Vegas, en el Rio Hotel &amp; Casino.</desc>
   </programme>
   <programme start="20230429010000 -0400" stop="20230429020000 -0400" channel="04-15">
-    <title lang="es">ESPN Playroom</title>
-    <sub-title lang="es">Pablo Mouche y Federico D'Elía</sub-title>
-    <desc lang="es">El programa comandado por Migue reúne a los mejores invitados del mundo del deporte y del espectáculo y los marida con precisas dosis de humor.</desc>
+    <title lang="es">Goles de la Premier League</title>
   </programme>
   <programme start="20230429020000 -0400" stop="20230429023000 -0400" channel="04-15">
     <title lang="es">UEFA Champions League Weekly</title>
@@ -16757,17 +16780,21 @@
     <title lang="es">Aguas arriba</title>
     <desc lang="es">Un programa de pesca con mosca hecho por pescadores para pescadores. Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
   </programme>
-  <programme start="20230429030000 -0400" stop="20230429040000 -0400" channel="04-15">
-    <title lang="es">Goles de la Eredivisie</title>
-    <desc lang="es">Los goles del fútbol holandés.</desc>
+  <programme start="20230429030000 -0400" stop="20230429033000 -0400" channel="04-15">
+    <title lang="es">Inside Serie A</title>
+    <desc lang="es">Con la presencia de numerosas estrellas del fútbol mundial, el Calcio siempre nos invita a atrayentes partidos. En esta competencia se lucha en varios frentes: por el título, la clasificación a la UEFA Champions League, la Copa UEFA y para esquivar la caliente zona de descenso.</desc>
   </programme>
-  <programme start="20230429040000 -0400" stop="20230429045500 -0400" channel="04-15">
+  <programme start="20230429033000 -0400" stop="20230429042500 -0400" channel="04-15">
     <title lang="es">ESPN Compact - ATP Masters 1000 - Madrid</title>
     <desc lang="es">Compactos del famoso torneo que se disputa en Madrid y que ha ampliado su duración, convirtiéndose en un evento de dos semanas tanto en el cuadro ATP como en el WTA.</desc>
   </programme>
-  <programme start="20230429045500 -0400" stop="20230429055000 -0400" channel="04-15">
+  <programme start="20230429042500 -0400" stop="20230429052000 -0400" channel="04-15">
     <title lang="es">ESPN Compact - ATP Masters 1000 - Madrid</title>
     <desc lang="es">Compactos del famoso torneo que se disputa en Madrid y que ha ampliado su duración, convirtiéndose en un evento de dos semanas tanto en el cuadro ATP como en el WTA.</desc>
+  </programme>
+  <programme start="20230429052000 -0400" stop="20230429055000 -0400" channel="04-15">
+    <title lang="es">Aguas arriba</title>
+    <desc lang="es">Un programa de pesca con mosca hecho por pescadores para pescadores. Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
   </programme>
   <programme start="20230429055000 -0400" stop="20230429062000 -0400" channel="04-15">
     <title lang="es">Premier League - La previa</title>
@@ -16806,12 +16833,9 @@
     <title lang="es">ESPN Polo</title>
     <desc lang="es">Los mejores torneos de un deporte en el que la Argentina es líder indiscutido en el mundo.</desc>
   </programme>
-  <programme start="20230429223000 -0400" stop="20230429230000 -0400" channel="04-15">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20230429230000 -0400" stop="20230430010000 -0400" channel="04-15">
+  <programme start="20230429223000 -0400" stop="20230430003000 -0400" channel="04-15">
     <title lang="es">Torneo de la URBA Top 12 - Copa Star+</title>
-    <sub-title lang="es">Alumni vs. Belgrano Athletic, Copa Star+</sub-title>
+    <sub-title lang="es">Alumni vs. Belgrano Athletic</sub-title>
     <desc lang="es">Una competición organizada por la Unión de Rugby de Buenos Aires desde 1899.</desc>
   </programme>
   <programme start="20230428000000 -0400" stop="20230428010000 -0400" channel="04-16">
@@ -17055,18 +17079,81 @@
     <title lang="es">WWE SmackDown</title>
     <desc lang="es">WWE - Smackdown es el segundo programa de Lucha Libre profesional, más popular del mundo despues de RAW.</desc>
   </programme>
-  <programme start="20230428220000 -0400" stop="20230428230000 -0400" channel="04-17">
-    <title lang="es">WWE Main Event</title>
-    <desc lang="es">El espectáculo cuenta con las superestrellas de WWE y Divas, en este programa se realizan combates interpromocionales de las marcas Raw y Smackdown, además del evento principal.</desc>
+  <programme start="20230428220000 -0400" stop="20230429000000 -0400" channel="04-17">
+    <title lang="es">CONMEBOL Libertadores</title>
+    <sub-title lang="es">Colo Colo (Chi) vs. Monagas (Ven), Fecha 2 Grupo F, Estadio Monumental</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
-  <programme start="20230428230000 -0400" stop="20230429110000 -0400" channel="04-17">
-    <title lang="es">Fox Sports 2</title>
+  <programme start="20230429000000 -0400" stop="20230429010000 -0400" channel="04-17">
+    <title lang="es">UFC Unleashed</title>
+    <desc lang="es">Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la Ultimate Fighting Championship, para revivir, nuevamente, los triunfos y los fracasos más decisivos de esta famosa competencia.</desc>
   </programme>
-  <programme start="20230429110000 -0400" stop="20230429230000 -0400" channel="04-17">
-    <title lang="es">Fox Sports 2</title>
+  <programme start="20230429010000 -0400" stop="20230429020000 -0400" channel="04-17">
+    <title lang="es">UFC Unleashed</title>
+    <desc lang="es">Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la Ultimate Fighting Championship, para revivir, nuevamente, los triunfos y los fracasos más decisivos de esta famosa competencia.</desc>
   </programme>
-  <programme start="20230429230000 -0400" stop="20230430110000 -0400" channel="04-17">
-    <title lang="es">Fox Sports 2</title>
+  <programme start="20230429020000 -0400" stop="20230429030000 -0400" channel="04-17">
+    <title lang="es">WWE Raw Highlights</title>
+    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
+  </programme>
+  <programme start="20230429030000 -0400" stop="20230429040000 -0400" channel="04-17">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">En este show se darán a conocer las nuevas estrellas de la WWE, provenientes de la FCW. Para debutar, un pro (luchador profesional) les ayudará a destacar en este difícil camino a la fama.</desc>
+  </programme>
+  <programme start="20230429040000 -0400" stop="20230429060000 -0400" channel="04-17">
+    <title lang="es">CONMEBOL Libertadores</title>
+    <sub-title lang="es">Flamengo (Bra) vs. Ñublense (Chi), Fecha 2 Grupo A, Estadio Maracaná</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
+  </programme>
+  <programme start="20230429060000 -0400" stop="20230429070000 -0400" channel="04-17">
+    <title lang="es">El show de la Copa Libertadores</title>
+    <desc lang="es">El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.</desc>
+  </programme>
+  <programme start="20230429070000 -0400" stop="20230429090000 -0400" channel="04-17">
+    <title lang="es">CONMEBOL Libertadores</title>
+    <sub-title lang="es">Barcelona (Ecu) vs. Bolívar (Bol), Fecha 2 Grupo C, Estadio Monumental Banco Pichincha</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
+  </programme>
+  <programme start="20230429090000 -0400" stop="20230429093000 -0400" channel="04-17">
+    <title lang="es">Bundesliga Preview Show</title>
+  </programme>
+  <programme start="20230429093000 -0400" stop="20230429103000 -0400" channel="04-17">
+    <title lang="es">Boca campeón Sudamericana 2004</title>
+    <desc lang="es">Boca Juniors de Argentina derrotó en la final a Bolívar de Bolivia con un global de 2-1.</desc>
+  </programme>
+  <programme start="20230429103000 -0400" stop="20230429113000 -0400" channel="04-17">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">En este show se darán a conocer las nuevas estrellas de la WWE, provenientes de la FCW. Para debutar, un pro (luchador profesional) les ayudará a destacar en este difícil camino a la fama.</desc>
+  </programme>
+  <programme start="20230429113000 -0400" stop="20230429133000 -0400" channel="04-17">
+    <title lang="es">WWE SmackDown</title>
+    <desc lang="es">WWE - Smackdown es el segundo programa de Lucha Libre profesional, más popular del mundo despues de RAW.</desc>
+  </programme>
+  <programme start="20230429133000 -0400" stop="20230429163000 -0400" channel="04-17">
+    <title lang="es">WWE Raw</title>
+    <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo.</desc>
+  </programme>
+  <programme start="20230429163000 -0400" stop="20230429173000 -0400" channel="04-17">
+    <title lang="es">WWE SmackDown Highlights</title>
+    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
+  </programme>
+  <programme start="20230429173000 -0400" stop="20230429180000 -0400" channel="04-17">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
+  </programme>
+  <programme start="20230429180000 -0400" stop="20230429210000 -0400" channel="04-17">
+    <title lang="es">XFL Playoffs</title>
+    <sub-title lang="es">Arlington Renegades vs. Houston Roughnecks, Playoffs, TDECU Stadium, Houston, TX, USA</sub-title>
+  </programme>
+  <programme start="20230429210000 -0400" stop="20230429230000 -0400" channel="04-17">
+    <title lang="es">Bundesliga</title>
+    <sub-title lang="es">Schalke 04 vs. Werder Bremen, Fecha 30, Veltins-Arena</sub-title>
+    <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
+  </programme>
+  <programme start="20230429230000 -0400" stop="20230430013000 -0400" channel="04-17">
+    <title lang="es">ESPN Knockout: UFC Preliminares</title>
+    <sub-title lang="es">Fight Night: Song Yadong vs. Ricky Simon</sub-title>
+    <desc lang="es">Disfruta de los encuentros preliminares de la Ultimate Fight Champions, que reúne a los mejores luchadores del mundo para enfrentarse y avanzar hasta las finales.</desc>
   </programme>
   <programme start="20230428000000 -0400" stop="20230428010000 -0400" channel="04-18">
     <title lang="es">Boca campeón Sudamericana 2005</title>
@@ -17167,26 +17254,30 @@
     <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
   </programme>
   <programme start="20230429000000 -0400" stop="20230429011000 -0400" channel="04-18">
-    <title lang="es">Formula One Practice</title>
+    <title lang="es">Práctica - Fórmula 1</title>
     <sub-title lang="es">Gran Premio de Azerbaiyán, Práctica 1, Circuito callejero de Bakú, Bakú</sub-title>
     <desc lang="es">Vive las prácticas de las carreras de la 74º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
   </programme>
   <programme start="20230429011000 -0400" stop="20230429023000 -0400" channel="04-18">
-    <title lang="es">A confirmar</title>
+    <title lang="es">Clasificación - Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Azerbaiyán, Circuito callejero de Bakú, Bakú</sub-title>
+    <desc lang="es">Vive las carrera de clasificación de la 74º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
   </programme>
   <programme start="20230429023000 -0400" stop="20230429030000 -0400" channel="04-18">
     <title lang="es">Lo mejor de MotoGP</title>
     <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
   </programme>
   <programme start="20230429030000 -0400" stop="20230429040000 -0400" channel="04-18">
-    <title lang="es">A confirmar</title>
+    <title lang="es">WWE SmackDown Highlights</title>
+    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
   </programme>
   <programme start="20230429040000 -0400" stop="20230429050000 -0400" channel="04-18">
     <title lang="es">WWE Raw Highlights</title>
     <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
   </programme>
   <programme start="20230429050000 -0400" stop="20230429060000 -0400" channel="04-18">
-    <title lang="es">A confirmar</title>
+    <title lang="es">Boca campeón Sudamericana 2004</title>
+    <desc lang="es">Boca Juniors de Argentina derrotó en la final a Bolívar de Bolivia con un global de 2-1.</desc>
   </programme>
   <programme start="20230429060000 -0400" stop="20230429070000 -0400" channel="04-18">
     <title lang="es">Extreme E Highlights</title>
@@ -17207,40 +17298,49 @@
     <sub-title lang="es">Bayern Munich (Ale) vs. Manchester City (Ing), Cuartos de final Vuelta, Fußball Arena München</sub-title>
     <desc lang="es">Revive en imágenes los resúmenes y mejores momentos de los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
   </programme>
-  <programme start="20230429100000 -0400" stop="20230429132500 -0400" channel="04-18">
-    <title lang="es">A confirmar</title>
+  <programme start="20230429100000 -0400" stop="20230429110000 -0400" channel="04-18">
+    <title lang="es">ESPN Compact - UEFA Champions League</title>
+    <sub-title lang="es">Bayern Munich (Ale) vs. Manchester City (Ing), Cuartos de final Vuelta, Fußball Arena München</sub-title>
+    <desc lang="es">Revive en imágenes los resúmenes y mejores momentos de los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
   </programme>
-  <programme start="20230429132500 -0400" stop="20230429153000 -0400" channel="04-18">
+  <programme start="20230429110000 -0400" stop="20230429130000 -0400" channel="04-18">
     <title lang="es">CONMEBOL Libertadores</title>
     <sub-title lang="es">Barcelona (Ecu) vs. Bolívar (Bol), Fecha 2 Grupo C, Estadio Monumental Banco Pichincha</sub-title>
     <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
-  <programme start="20230429153000 -0400" stop="20230429163000 -0400" channel="04-18">
-    <title lang="es">A confirmar</title>
+  <programme start="20230429130000 -0400" stop="20230429150000 -0400" channel="04-18">
+    <title lang="es">CONMEBOL Libertadores</title>
+    <sub-title lang="es">Flamengo (Bra) vs. Ñublense (Chi), Fecha 2 Grupo A, Estadio Maracaná</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
-  <programme start="20230429163000 -0400" stop="20230429170000 -0400" channel="04-18">
-    <title lang="es">Goles de la Champions League</title>
-    <desc lang="es">Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
+  <programme start="20230429150000 -0400" stop="20230429160000 -0400" channel="04-18">
+    <title lang="es">UEFA Europa &amp; UEFA Europa Conference League Highlights</title>
+    <desc lang="es">Revive en imágenes los resúmenes y mejores momentos de los partidos de la 2º edición de la competición continental oficial de clubes, considerada la tercera competición de Europa, detrás de la UEFA Champions League y la UEFA Europa League.</desc>
   </programme>
-  <programme start="20230429170000 -0400" stop="20230429190000 -0400" channel="04-18">
-    <title lang="es">A confirmar</title>
+  <programme start="20230429160000 -0400" stop="20230429180000 -0400" channel="04-18">
+    <title lang="es">Off Road Electric Car Racing Series</title>
+    <sub-title lang="es">Desert X Prix, Arabia Saudita, Carrera 1, Neom, Neom, Saudi Arabia</sub-title>
+    <desc lang="es">Competición de automóviles todoterreno eléctricos, en lugares extremadamente remotos del mundo y que fueron afectados por el cambio climático, en un intento de generar conciencia sobre esa problemática.</desc>
   </programme>
-  <programme start="20230429190000 -0400" stop="20230429200500 -0400" channel="04-18">
-    <title lang="es">Fórmula 1 - Sprint Race</title>
+  <programme start="20230429180000 -0400" stop="20230429190500 -0400" channel="04-18">
+    <title lang="es">Formula 1 - Sprint Shootout</title>
     <sub-title lang="es">Gran Premio de Azerbaiyán, Circuito callejero de Bakú, Bakú</sub-title>
     <desc lang="es">Vive las carreras de la 74º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
   </programme>
-  <programme start="20230429200500 -0400" stop="20230429210000 -0400" channel="04-18">
-    <title lang="es">A confirmar</title>
+  <programme start="20230429190500 -0400" stop="20230429201000 -0400" channel="04-18">
+    <title lang="es">Fórmula 1 - Sprint</title>
+    <sub-title lang="es">Gran Premio de Azerbaiyán, Circuito callejero de Bakú, Bakú</sub-title>
+    <desc lang="es">Vive las carreras de la 74º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
   </programme>
-  <programme start="20230429210000 -0400" stop="20230429230000 -0400" channel="04-18">
+  <programme start="20230429201000 -0400" stop="20230429221000 -0400" channel="04-18">
     <title lang="es">Off Road Electric Car Racing Series</title>
     <sub-title lang="es">Desert X Prix, Arabia Saudita, Carrera 2, Neom, Neom, Saudi Arabia</sub-title>
     <desc lang="es">Competición de automóviles todoterreno eléctricos, en lugares extremadamente remotos del mundo y que fueron afectados por el cambio climático, en un intento de generar conciencia sobre esa problemática.</desc>
   </programme>
-  <programme start="20230429230000 -0400" stop="20230430000000 -0400" channel="04-18">
-    <title lang="es">WWE SmackDown Highlights</title>
-    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
+  <programme start="20230429221000 -0400" stop="20230430000000 -0400" channel="04-18">
+    <title lang="es">CONMEBOL Libertadores</title>
+    <sub-title lang="es">Barcelona (Ecu) vs. Bolívar (Bol), Fecha 2 Grupo C, Estadio Monumental Banco Pichincha</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
   <programme start="20230428060000 -0400" stop="20230428070000 -0400" channel="04-19">
     <title lang="es">Zapping Sports HD</title>
@@ -18590,6 +18690,9 @@
   </programme>
   <programme start="20230429130000 -0400" stop="20230429170000 -0400" channel="05-07">
     <title lang="es">Top Hits Of 1984</title>
+  </programme>
+  <programme start="20230429170000 -0400" stop="20230429190000 -0400" channel="05-07">
+    <title lang="es">... So 80s</title>
   </programme>
   <programme start="20230428060000 -0400" stop="20230428100000 -0400" channel="05-17">
     <title lang="es">Música mañana</title>
@@ -20930,7 +21033,11 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230428060000 -0400" stop="20230428102000 -0400" channel="05-44">
+  <programme start="20230428060000 -0400" stop="20230428120000 -0400" channel="05-44">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230428120000 -0400" stop="20230428164900 -0400" channel="05-44">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20942,9 +21049,9 @@
     <title lang="en">Kendrick Lamar - Live in London</title>
     <desc lang="en">Esta película de concierto, filmada en el Roundhouse de Londres, será una experiencia en vivo espectacular de principio a fin para todos los fans. Kendrick Lamar interpreta éxitos como "Cartoons &amp; Cereal", "Backseat Freestyle", "Only You" y muchos más.</desc>
   </programme>
-  <programme start="20230429060000 -0400" stop="20230429120000 -0400" channel="05-44">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230429051900 -0400" stop="20230429072800 -0400" channel="05-44">
+    <title lang="en">The Moody Blues - The Moody Blues - Days of Future Passed Live</title>
+    <desc lang="en">Esta película capta una velada eléctrica en The Sony Centre, Toronto, durante la cual el grupo estuvo acompañado por primera vez en su historia de una orquesta al completo: es la interpretación definitiva del álbum "Days of Future Passed".</desc>
   </programme>
   <programme start="20230429120000 -0400" stop="20230429180000 -0400" channel="05-44">
     <title lang="en">Conciertos por Stingray</title>
@@ -20958,7 +21065,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230428060000 -0400" stop="20230428110000 -0400" channel="05-45">
+  <programme start="20230428060000 -0400" stop="20230428120000 -0400" channel="05-45">
+    <title lang="en">Karaoke por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230428120000 -0400" stop="20230428160000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20970,9 +21081,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230429060000 -0400" stop="20230429120000 -0400" channel="05-45">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230429060000 -0400" stop="20230429070000 -0400" channel="05-45">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230429120000 -0400" stop="20230429180000 -0400" channel="05-45">
     <title lang="en">Karaoke por Stingray</title>
@@ -21601,17 +21712,17 @@
     <desc lang="es">Esta serie documental echa un vistazo a las parejas felices que, con el tiempo, comienzan a funcionar mal, desembocando en vidas secretas que llevan a hombres y mujeres por senderos obscuros, dando lugar a resultados devastadores. Ernest y Charlene Scherer aparecen golpeados y asesinados en una comunidad exclusiva en el norte de California. En principio, parece ser un robo, pero los investigadores descubren el motivo del asesinato.</desc>
   </programme>
   <programme start="20230428173000 -0400" stop="20230428182600 -0400" channel="06-04">
-    <title lang="es">Prometo amarte, honrarte y traicionarte</title>
+    <title lang="es">Casados con el mal</title>
     <sub-title lang="es">6 Demasiado bueno para ser cierto</sub-title>
     <desc lang="es">Sigue las historias de esposas y esposos engañados por sus parejas de maneras oscuras y devastadoras. Donna Andersen tiene casi todo: una linda casa, un trabajo y una familia amorosa. Pero algo le faltaba hasta que James Montgomery aparece en su vida. El futuro parece perfecto hasta que Donna descubre algo que convierte su matrimonio en una pesadilla.</desc>
   </programme>
   <programme start="20230428182600 -0400" stop="20230428192100 -0400" channel="06-04">
-    <title lang="es">Prometo amarte, honrarte y traicionarte</title>
+    <title lang="es">Casados con el mal</title>
     <sub-title lang="es">5 En las buenas y en las malas</sub-title>
     <desc lang="es">Sigue las historias de esposas y esposos engañados por sus parejas de maneras oscuras y devastadoras. Butch Halley y la encantadora Sunny se enamoran y comienzan su vida juntos. Pero unos rumores siniestros amenazan con separar a la familia. Una operación encubierta podría destapar una verdad espantosa.</desc>
   </programme>
   <programme start="20230428192100 -0400" stop="20230428201600 -0400" channel="06-04">
-    <title lang="es">Prometo amarte, honrarte y traicionarte</title>
+    <title lang="es">Casados con el mal</title>
     <sub-title lang="es">4 En los que confiamos</sub-title>
     <desc lang="es">Sigue las historias de esposas y esposos engañados por sus parejas de maneras oscuras y devastadoras. Deborah Jones y Gerard Pepin parecen la pareja perfecta hasta que una acusación destroza su matrimonio. Cuando empiezan a salir a la luz las malas acciones de Gerard, Deborah decide pelear para llevarlo a la justicia a cualquier costo personal.</desc>
   </programme>
@@ -21641,12 +21752,12 @@
     <desc lang="es">Historias en las que la comunicación se origina en el mundo digital pero pronto deriva en un engaño en la vida real, robo de identidad, fraude financiero y en algunos casos puede hasta culminar en un asesinato. La vulnerable madre de cinco Laura Simonson busca confort en los juegos sexuales por internet. Está a punto de caer en una trampa.</desc>
   </programme>
   <programme start="20230429005100 -0400" stop="20230429014700 -0400" channel="06-04">
-    <title lang="es">Prometo amarte, honrarte y traicionarte</title>
+    <title lang="es">Casados con el mal</title>
     <sub-title lang="es">6 Demasiado bueno para ser cierto</sub-title>
     <desc lang="es">Sigue las historias de esposas y esposos engañados por sus parejas de maneras oscuras y devastadoras. Donna Andersen tiene casi todo: una linda casa, un trabajo y una familia amorosa. Pero algo le faltaba hasta que James Montgomery aparece en su vida. El futuro parece perfecto hasta que Donna descubre algo que convierte su matrimonio en una pesadilla.</desc>
   </programme>
   <programme start="20230429014700 -0400" stop="20230429024300 -0400" channel="06-04">
-    <title lang="es">Prometo amarte, honrarte y traicionarte</title>
+    <title lang="es">Casados con el mal</title>
     <sub-title lang="es">5 En las buenas y en las malas</sub-title>
     <desc lang="es">Sigue las historias de esposas y esposos engañados por sus parejas de maneras oscuras y devastadoras. Butch Halley y la encantadora Sunny se enamoran y comienzan su vida juntos. Pero unos rumores siniestros amenazan con separar a la familia. Una operación encubierta podría destapar una verdad espantosa.</desc>
   </programme>
@@ -23942,7 +24053,11 @@
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230428060000 -0400" stop="20230428110000 -0400" channel="06-12">
+  <programme start="20230428060000 -0400" stop="20230428120000 -0400" channel="06-12">
+    <title lang="en">Vive Kanal D Drama</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230428120000 -0400" stop="20230428160000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -23954,9 +24069,9 @@
     <title lang="en">Gumus</title>
     <desc lang="en">Mehmet está en el hospital tras el disparo que recibió de Engin. El piloto del helicóptero va a ver a Mehmet al hospital y juntos hacen un plan para atrapar a Engin.</desc>
   </programme>
-  <programme start="20230429060000 -0400" stop="20230429120000 -0400" channel="06-12">
-    <title lang="en">Vive Kanal D Drama</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230429060000 -0400" stop="20230429070000 -0400" channel="06-12">
+    <title lang="en">Asya</title>
+    <desc lang="en">Selma le deja claro a Ercan que hará lo que sea por finalmente casarse con Yigit. Ferad sigue enloquecido por los celos y planéa vengarse de Emel. Ercan intenta llegar a tiempo a la boda de Yigit y Selma.</desc>
   </programme>
   <programme start="20230429120000 -0400" stop="20230429180000 -0400" channel="06-12">
     <title lang="en">Vive Kanal D Drama</title>
