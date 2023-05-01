@@ -2,927 +2,927 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="9999">
     <display-name lang="es">TEMPLATE</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0000">
     <display-name lang="es">Canal Informativo</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/F5hbqtc/0000.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0001">
     <display-name lang="es">PPV 1</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/pnVBPDC/0001.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0002">
     <display-name lang="es">PPV 2</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/pnVBPDC/0001.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0003">
     <display-name lang="es">PPV 3</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/pnVBPDC/0001.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0004">
     <display-name lang="es">PPV 4</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/pnVBPDC/0001.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0005">
     <display-name lang="es">PPV 5</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/pnVBPDC/0001.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0101">
     <display-name lang="es">Telecanal</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/telecanal.png" />
+    <icon src="https://i.ibb.co/ggfWCzR/0101.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0102">
     <display-name lang="es">Red Televisión</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183298.gif" />
+    <icon src="https://i.ibb.co/kDWbfD4/0102.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0103">
     <display-name lang="es">TV Más</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/tvmas.png" />
+    <icon src="https://i.ibb.co/dJqRrZn/0103.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0104">
     <display-name lang="es">TVN</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/tvn.png" />
+    <icon src="https://i.ibb.co/cbcvWgy/0104.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0105">
     <display-name lang="es">Megavisión</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/mega.png" />
+    <icon src="https://i.ibb.co/86LwC34/0105.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0106">
     <display-name lang="es">Chilevisión</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/chilevision.png" />
+    <icon src="https://i.ibb.co/TP6F1Cv/0106.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0107">
     <display-name lang="es">Canal 13</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/11203375.gif" />
+    <icon src="https://i.ibb.co/CJKZHyk/0107.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0108">
     <display-name lang="es">UCV TV</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/ucv.png" />
+    <icon src="https://i.ibb.co/SX8zCnw/0108.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0110">
     <display-name lang="es">TVR</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/v48ZJg6/0110.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0111">
     <display-name lang="es">Zona Latina</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/17140889.png" />
+    <icon src="https://i.ibb.co/c36Nr9R/0111.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0112">
     <display-name lang="es">Via X</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/26431911.gif" />
+    <icon src="https://i.ibb.co/Bzfhq87/0112.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0113">
     <display-name lang="es">13c</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/S6z3r8x/0113.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0114">
     <display-name lang="es">Rec TV</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/rectv.png" />
+    <icon src="https://i.ibb.co/hVH25xQ/0114.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0115">
     <display-name lang="es">U de Chile TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/D7H32s9/0115.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0116">
     <display-name lang="es">Zapping Channel</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/YRV0kPd/0116.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0117">
     <display-name lang="es">TVMás 2</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/5cnWBfj/0117.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0118">
     <display-name lang="es">Nexoplay</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0119">
     <display-name lang="es">Mega Plus</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/megaplus.png" />
+    <icon src="https://i.ibb.co/3kQvsHK/0119.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0120">
     <display-name lang="es">Via X 2</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/zS50xwR/0120.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0121">
     <display-name lang="es">Mega Ficción</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/megaficcion.png" />
+    <icon src="https://i.ibb.co/2KDkt1Y/0121.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0122">
     <display-name lang="es">Canal 13.2</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/m8TDnGH/0122.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0123">
     <display-name lang="es">Vía X Esports</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/15/12150416_E47C5DC7231D05B4.png" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0125">
     <display-name lang="es">TV Diputados</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/5341954.jpg" />
+    <icon src="https://i.ibb.co/ssmd1gn/0125.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0126">
     <display-name lang="es">TV Senado</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/2dnT6fB/0126.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0127">
     <display-name lang="en">Chilevisión Contigo</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/62aa5740a47b6c000769f407/logo.png" />
+    <icon src="https://i.ibb.co/PzXLTLM/0127.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0128">
     <display-name lang="es">Mega 2</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/mega2.png" />
+    <icon src="https://i.ibb.co/SXdRb9Q/0128.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0201">
     <display-name lang="es">Canal 24 Horas</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/9253083.gif" />
+    <icon src="https://i.ibb.co/wYtnfSP/0201.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0202">
     <display-name lang="es">CNN Chile</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/600502.gif" />
+    <icon src="https://i.ibb.co/kXZ3yxR/0202.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0203">
     <display-name lang="es">BíoBío TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/MPJ95bz/0203.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0204">
     <display-name lang="es">TeleSur</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TLESUR.png" />
+    <icon src="https://i.ibb.co/Vtttnc4/0204.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0205">
     <display-name lang="es">T13 Móvil</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/t13envivo.png" />
+    <icon src="https://i.ibb.co/n6WPv0f/0205.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0208">
     <display-name lang="es">Deutsche Welle Español</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/11084214.jpg" />
+    <icon src="https://i.ibb.co/VWt7QYq/0208.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0209">
     <display-name lang="es">NTN 24</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/GFcxc3R/0209.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0210">
     <display-name lang="es">CNN En Español</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183362.gif" />
+    <icon src="https://i.ibb.co/R6DpPpW/0210.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0211">
     <display-name lang="es">Meganoticias</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/NSQMmKL/0211.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0212">
     <display-name lang="en">Chilevisión Noticias</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/61f94a2866401100074e9dee/logo.png" />
+    <icon src="https://i.ibb.co/Pj8DSCF/0212.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0213">
     <display-name lang="en">Euronews Español</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/619d59b7cbef25000728221c/logo.png" />
+    <icon src="https://i.ibb.co/dkFdhj4/0213.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0301">
     <display-name lang="es">NTV</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/ntv.png" />
+    <icon src="https://i.ibb.co/7NSz13J/0301.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0302">
     <display-name lang="es">ETC TV</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/etc.png" />
+    <icon src="https://i.ibb.co/WnB9gd1/0302.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0303">
     <display-name lang="es">Nickelodeon</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/11585954.gif" />
+    <icon src="https://i.ibb.co/rpTWbvj/0303.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0304">
     <display-name lang="es">Disney Channel</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183488.gif" />
+    <icon src="https://i.ibb.co/syfYHPV/0304.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0305">
     <display-name lang="es">Cartoon Network</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183220.gif" />
+    <icon src="https://i.ibb.co/fkn9hpd/0305.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0306">
     <display-name lang="es">TeenNick</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/gySQQgp/0306.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0307">
     <display-name lang="es">Nick JR</display-name>
-    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/816.svg" />
+    <icon src="https://i.ibb.co/9YBgGsH/0307.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0308">
     <display-name lang="es">Tooncast</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/263485.gif" />
+    <icon src="https://i.ibb.co/cFd6WP5/0308.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0311">
     <display-name lang="es">Disney Junior</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183554.gif" />
+    <icon src="https://i.ibb.co/R98g0gJ/0311.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0312">
     <display-name lang="es">PakaPaka</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/13136630.jpg" />
+    <icon src="https://i.ibb.co/d7YX716/0312.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0313">
     <display-name lang="es">EnerGeek 1</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/BsqJnDC/0313.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0314">
     <display-name lang="es">EnerGeek 2</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0315">
     <display-name lang="es">EnerGeek 3</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0316">
     <display-name lang="es">Latino Kids TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/FHzCB06/0316.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0317">
     <display-name lang="es">Lolly Kids</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/68/10684284_679ED008A5F0482E.png" />
+    <icon src="https://i.ibb.co/7XcHHcJ/0317.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0318">
     <display-name lang="es">BitMe</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/9823484.gif" />
+    <icon src="https://i.ibb.co/x14ZhVh/0318.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0321">
     <display-name lang="es">Senpai TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/mzXY3gS/0309.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0401">
     <display-name lang="es">TNT Sports HD</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/K0Zx7CG/0401.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0402">
     <display-name lang="es">TNT Sports 2 HD</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/nmjmnMg/0402.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0403">
     <display-name lang="es">TNT Sports 3 HD</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/13021924.gif" />
+    <icon src="https://i.ibb.co/cNG2frC/0403.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0404">
     <display-name lang="es">Estadio TNT Sports HD</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/GHY5Qpd/0404.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="9401">
     <display-name lang="es">TNT Sports</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/13021980.gif" />
+    <icon src="https://i.ibb.co/K0Zx7CG/0401.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="9402">
     <display-name lang="es">TNT Sports 2</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/13021911.gif" />
+    <icon src="https://i.ibb.co/nmjmnMg/0402.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="9403">
     <display-name lang="es">TNT Sports 3</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/13021924.gif" />
+    <icon src="https://i.ibb.co/cNG2frC/0403.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0405">
     <display-name lang="es">BeIN Sports en Español</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/J3LjYqb/0405.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0407">
     <display-name lang="es">NBA TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/B6sMYTn/0407.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0408">
     <display-name lang="es">DirecTV Sports</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/VCxpdR4/0408.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0409">
     <display-name lang="es">DirecTV Sports 2</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/WGQJQd1/0409.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0410">
     <display-name lang="es">DirecTV Sports Plus</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/yPFR6CT/0410.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0411">
     <display-name lang="es">ESPN</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/12502612.gif" />
+    <icon src="https://i.ibb.co/2Nkv3gr/0411.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0412">
     <display-name lang="es">ESPN 2</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/12501496.gif" />
+    <icon src="https://i.ibb.co/RD561mX/0412.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0413">
     <display-name lang="es">ESPN 3</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/12502463.gif" />
+    <icon src="https://i.ibb.co/D7tq20S/0413.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0414">
     <display-name lang="es">ESPN 4</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/17771807.gif" />
+    <icon src="https://i.ibb.co/mH9rr5b/0414.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0415">
     <display-name lang="es">ESPN Extra</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/18637187.gif" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0416">
     <display-name lang="es">Fox Sports 1</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/2059524.gif" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0417">
     <display-name lang="es">Fox Sports 2</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/1263950.gif" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0418">
     <display-name lang="es">Fox Sports 3</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/2085742.gif" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0419">
     <display-name lang="es">Zapping Sports</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/pPy8FLh/0419.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0420">
     <display-name lang="es">BeIN Sports Xtra en Español</display-name>
-    <icon src="https://epg-pp.beinsports.com/us_sports/beinx-es1.png" />
+    <icon src="https://i.ibb.co/wSZSP6r/0420.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0427">
     <display-name lang="es">La Liga TV por Movistar Plus</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/0D2d15V/0427.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0428">
     <display-name lang="es">Liga de Campeones por Movistar Plus</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" />
+    <icon src="https://i.ibb.co/wMP1LGM/0428.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0501">
     <display-name lang="es">Zapping Music Chile</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/1rfyqz2/0501.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0503">
     <display-name lang="es">Concert Channel</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/6HtDnK6/0503.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0504">
     <display-name lang="es">HTV</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183191.gif" />
+    <icon src="https://i.ibb.co/HKWRV8v/0504.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0505">
     <display-name lang="es">Music Choice Channels</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/sFZrgpr/0550.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0506">
     <display-name lang="es">MTV 00s</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VH1.png" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0507">
     <display-name lang="es">MTV 80s</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0517">
     <display-name lang="es">Rewind TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/k9N2Bzv/0517.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0518">
     <display-name lang="es">Quiero Música</display-name>
-    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/779.svg" />
+    <icon src="https://i.ibb.co/930SFkj/0518.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0521">
     <display-name lang="es">MTV Hits</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183464.gif" />
+    <icon src="https://i.ibb.co/jhTgR45/0521.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0522">
     <display-name lang="es">MTV Live</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/x3LcHNd/0522.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0524">
     <display-name lang="es">Stingray Classic Rock</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/QbKbBbv/0524.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0525">
     <display-name lang="es">Stingray Alternative</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/QfHC17D/0525.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0526">
     <display-name lang="es">Stingray Pop Adult</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/tJ05gzP/0526.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0527">
     <display-name lang="es">Stingray Hit List</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/dWsNM7m/0527.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0528">
     <display-name lang="es">Stingray Hot Country</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/xMkvwZS/0528.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0529">
     <display-name lang="es">Stingray Flashback 70s</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/QfHC17D/0525.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0530">
     <display-name lang="es">Stingray Remember the 80s</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/tzqM03b/0530.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0531">
     <display-name lang="es">Stingray Hip-Hop/RnB</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/Tc773BD/0531.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0532">
     <display-name lang="es">Stingray Soul Storm</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/ydTfgqD/0532.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0533">
     <display-name lang="es">Stingray Greatest Hits</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/JqkHxM3/0533.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0534">
     <display-name lang="es">Stingray Exitos del Momento</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/QfHC17D/0525.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0535">
     <display-name lang="es">Stingray Classica</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CLASSD.png" />
+    <icon src="https://i.ibb.co/y0MmTfB/0535.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0536">
     <display-name lang="es">Teleritmo</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/6532044.jpg" />
+    <icon src="https://i.ibb.co/DwzxRDV/0536.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0537">
     <display-name lang="es">K-Pop Music Channel</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/jrFWQ4k/0537.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0538">
     <display-name lang="es">ZoomBack TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/nrGL7Zh/0538.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0539">
     <display-name lang="es">Bandamax</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/12251440.jpg" />
+    <icon src="https://i.ibb.co/8z89ydG/0539.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0541">
     <display-name lang="es">Karavana TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/W3CBmcC/0541.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0542">
     <display-name lang="es">Karavana Urbano</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/SJHMxJh/0542.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0543">
     <display-name lang="es">OLD Music</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/nBq1Rt9/0543.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0544">
     <display-name lang="en">Stingray Qello Concerts</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f85ca40eda1b10007b967cd/logo.png" />
+    <icon src="https://i.ibb.co/DR9BS3L/0544.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0545">
     <display-name lang="en">Stingray Karaoke</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f85cf621d6d2200079f1de0/logo.png" />
+    <icon src="https://i.ibb.co/4sXrN6x/0545.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0601">
     <display-name lang="es">Discovery Home And Health</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/20768554.gif" />
+    <icon src="https://i.ibb.co/WgF9x9D/0601.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0602">
     <display-name lang="es">Discovery Turbo</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9295805_6ECC900C8D27AAC4.png" />
+    <icon src="https://i.ibb.co/7pTbYky/0602.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0604">
     <display-name lang="es">Investigation Discovery</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/12130526.gif" />
+    <icon src="https://i.ibb.co/C64ZN2P/0604.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0605">
     <display-name lang="es">Discovery Theater</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/1359273.gif" />
+    <icon src="https://i.ibb.co/wsnmrp0/0605.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0606">
     <display-name lang="es">Discovery TLC</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/CVhVchc/0606.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0607">
     <display-name lang="es">Discovery HGTV</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/10236692.gif" />
+    <icon src="https://i.ibb.co/cgzZNzf/0607.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0608">
     <display-name lang="es">Food Network</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/14264861.gif" />
+    <icon src="https://i.ibb.co/58872WG/0608.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0609">
     <display-name lang="es">Film and Arts</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/2084952.gif" />
+    <icon src="https://i.ibb.co/TP5hxgX/0609.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0610">
     <display-name lang="es">Kanal D Drama</display-name>
-    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/4694.svg" />
+    <icon src="https://i.ibb.co/hmVjD8z/0610.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0611">
     <display-name lang="es">Pasiones</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/4942694.jpg" />
+    <icon src="https://i.ibb.co/6Nw5h81/0611.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0612">
     <display-name lang="en">Vive Kanal D Drama</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/639751f81a36b400072b8f5a/logo.png" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0613">
     <display-name lang="es">El Gourmet</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/27012040.gif" />
+    <icon src="https://i.ibb.co/NKYLR9b/0613.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0617">
     <display-name lang="es">Lifetime</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/11695251.gif" />
+    <icon src="https://i.ibb.co/LrM0GC8/0617.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0621">
     <display-name lang="es">Vive</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/NSzYjz9/0621.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0701">
     <display-name lang="es">History Channel</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/19233374.gif" />
+    <icon src="https://i.ibb.co/0nD4Ybc/0701.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0702">
     <display-name lang="es">National Geographic</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/22787572.gif" />
+    <icon src="https://i.ibb.co/KswbPFt/0702.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0703">
     <display-name lang="es">Discovery Science</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183407.gif" />
+    <icon src="https://i.ibb.co/6W9f2VR/0703.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0704">
     <display-name lang="es">Discovery Channel</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/Pc1Cgx9/0704.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0705">
     <display-name lang="es">Animal Planet</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png" />
+    <icon src="https://i.ibb.co/QQRd8qY/0705.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0706">
     <display-name lang="es">Discovery World</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/rcTpJ2D/0706.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0707">
     <display-name lang="es">History 2</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/19233508.gif" />
+    <icon src="https://i.ibb.co/YpzvwF6/0707.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0710">
     <display-name lang="es">Love Nature</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/12572330.gif" />
+    <icon src="https://i.ibb.co/GF5tnP2/0710.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0801">
     <display-name lang="es">Star Channel</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/13375782.gif" />
+    <icon src="https://i.ibb.co/mv33npq/0801.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0802">
     <display-name lang="es">Warner TV</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/10640421.gif" />
+    <icon src="https://i.ibb.co/phj5mcc/0802.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0803">
     <display-name lang="es">Paramount Network</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/11285285.gif" />
+    <icon src="https://i.ibb.co/KmWvBKT/0803.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0804">
     <display-name lang="es">Universal TV</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/8133113.gif" />
+    <icon src="https://i.ibb.co/1QgnCcT/0804.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0805">
     <display-name lang="es">TNT</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183137.gif" />
+    <icon src="https://i.ibb.co/ysrws6d/0805.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0806">
     <display-name lang="es">Sony Channel</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/10020491.gif" />
+    <icon src="https://i.ibb.co/rMtQ7Yh/0806.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0807">
     <display-name lang="es">CineCanal</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/7923672.gif" />
+    <icon src="https://i.ibb.co/nmM4wh4/0807.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0808">
     <display-name lang="es">AE</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/jHKG04H/0808.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0809">
     <display-name lang="es">FX</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/266158.gif" />
+    <icon src="https://i.ibb.co/t8CksSW/0809.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0810">
     <display-name lang="es">SyFy</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/6505559.jpg" />
+    <icon src="https://i.ibb.co/tz1MxcZ/0810.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0811">
     <display-name lang="es">AXN</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/191220.gif" />
+    <icon src="https://i.ibb.co/5MKJ4sX/0811.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0812">
     <display-name lang="es">Comedy Central</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/298725.gif" />
+    <icon src="https://i.ibb.co/VQHZp8d/0812.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0813">
     <display-name lang="es">HBO Chile</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/191157.gif" />
+    <icon src="https://i.ibb.co/3YhGnfg/0813.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="8813">
     <display-name lang="es">HBO</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/191157.gif" />
+    <icon src="https://i.ibb.co/WPy8QW1/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0814">
     <display-name lang="es">HBO 2</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183581.gif" />
+    <icon src="https://i.ibb.co/BBg4BvL/0814.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0815">
     <display-name lang="es">HBO Plus</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/9313198.gif" />
+    <icon src="https://i.ibb.co/k2btWrS/0815.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0816">
     <display-name lang="es">HBO Family</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/13715712.gif" />
+    <icon src="https://i.ibb.co/ySR89S8/0816.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0817">
     <display-name lang="es">HBO Signature</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/191869.gif" />
+    <icon src="https://i.ibb.co/VMmQqNY/0817.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0818">
     <display-name lang="es">HBO Mundi</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/h8xKxsN/0818.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="9818">
     <display-name lang="es">HBO Mundi (Oeste)</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/10973505.gif" />
+    <icon src="https://i.ibb.co/h8xKxsN/0818.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0819">
     <display-name lang="es">HBO Pop</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/VVtm9MW/0819.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0820">
     <display-name lang="es">HBO Xtreme</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/10973531.gif" />
+    <icon src="https://i.ibb.co/LJY0r3z/0820.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0821">
     <display-name lang="es">Universal Premiere</display-name>
-    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/6981.svg" />
+    <icon src="https://i.ibb.co/sVfzwR1/0821.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0822">
     <display-name lang="es">Universal Cinema</display-name>
-    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/6979.svg" />
+    <icon src="https://i.ibb.co/0MttysZ/0822.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0823">
     <display-name lang="es">Universal Comedy</display-name>
-    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/6978.svg" />
+    <icon src="https://i.ibb.co/vYs13pY/0823.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0824">
     <display-name lang="es">Universal Crime</display-name>
-    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/6980.svg" />
+    <icon src="https://i.ibb.co/6sGQwhP/0824.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0825">
     <display-name lang="es">Universal Reality</display-name>
-    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/6982.svg" />
+    <icon src="https://i.ibb.co/GFLBczT/0825.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0829">
     <display-name lang="es">Space</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/191235.gif" />
+    <icon src="https://i.ibb.co/dBt3g03/0829.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0830">
     <display-name lang="es">DHE</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/26357898.gif" />
+    <icon src="https://i.ibb.co/0Db9GbM/0830.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0833">
     <display-name lang="es">TNT Series</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/1365834.gif" />
+    <icon src="https://i.ibb.co/hfbK1vT/0833.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0835">
     <display-name lang="es">TBS</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/191139.gif" />
+    <icon src="https://i.ibb.co/fF1s8M9/0835.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0836">
     <display-name lang="es">AMC</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/1094842.gif" />
+    <icon src="https://i.ibb.co/mcF86fb/0836.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0837">
     <display-name lang="es">Studio Universal</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183440.gif" />
+    <icon src="https://i.ibb.co/NS1w7HP/0837.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0838">
     <display-name lang="es">Cinemax</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183589.gif" />
+    <icon src="https://i.ibb.co/7nqgBYZ/0838.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0839">
     <display-name lang="es">Sony Movies</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/ZY62dGR/0839.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0840">
     <display-name lang="es">Clover Channel</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/68/10684292_F4E599C946AF6746.png" />
+    <icon src="https://i.ibb.co/hCJJ9K6/0840.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0841">
     <display-name lang="es">Cine Familiar</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/14648140.gif" />
+    <icon src="https://i.ibb.co/rFfsy70/0841.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0842">
     <display-name lang="es">Cine Hispano</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/13083527.gif" />
+    <icon src="https://i.ibb.co/qrtH2hz/0842.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0843">
     <display-name lang="es">Cine Premium</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/10227592.gif" />
+    <icon src="https://i.ibb.co/7zKcp46/0843.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0153">
     <display-name lang="es">Canal 9 Bío-Bío Televisión - Biobío</display-name>
-    <icon src="https://cdn-w.tvdaldia.cl/canales/c9biobio.png" />
+    <icon src="https://i.ibb.co/mJCsdDV/0909.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0155">
     <display-name lang="es">TVU Concepción - Biobío</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/wzJXdDj/0907.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0156">
     <display-name lang="es">Valle Televisión - Valparaíso</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/xSMnnzF/0915.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0157">
     <display-name lang="es">Universidad Autónoma TV - La Araucanía</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/NCGJ1BP/0906.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0159">
     <display-name lang="es">Ufrovisión - La Araucanía</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/M5YVQ3w/0159.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0163">
     <display-name lang="es">Canal 2 San Antonio - Valparaiso</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/NxgQcdS/0163.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0164">
     <display-name lang="es">Patagonia Radio Televisión - Patagonia</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/b56tYmL/0164.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0173">
     <display-name lang="es">Thema TV - Coquimbo</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/q57WfFc/0173.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <programme start="20230501060000 -0400" stop="20230501070000 -0400" channel="9999">
@@ -1429,13 +1429,155 @@
     <title lang="es">Eventos en vivo</title>
     <desc lang="es">Disfruta de los eventos más importantes a través de esta señal.</desc>
   </programme>
-  <programme start="20230501000000 -0400" stop="20230501235900 -0400" channel="0003">
-    <title lang="es">Eventos 3</title>
-    <desc lang="es">Programación por confirmar.</desc>
+  <programme start="20230501001000 -0400" stop="20230501030000 -0400" channel="0002">
+    <title lang="es">Jornada 12 Universidad de Chile vs. Universidad Católica</title>
   </programme>
-  <programme start="20230502000000 -0400" stop="20230502235900 -0400" channel="0003">
-    <title lang="es">Eventos 3</title>
-    <desc lang="es">Programación por confirmar.</desc>
+  <programme start="20230501030000 -0400" stop="20230501040000 -0400" channel="0002">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20230501040000 -0400" stop="20230501051500 -0400" channel="0002">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230501051500 -0400" stop="20230501060000 -0400" channel="0002">
+    <title lang="es">Replay</title>
+  </programme>
+  <programme start="20230501060000 -0400" stop="20230501084000 -0400" channel="0002">
+    <title lang="es">Jornada 12 Deportes Copiapó vs. Coquimbo Unido</title>
+  </programme>
+  <programme start="20230501084000 -0400" stop="20230501112000 -0400" channel="0002">
+    <title lang="es">Jornada 12 Huachipato vs. Magallanes</title>
+  </programme>
+  <programme start="20230501112000 -0400" stop="20230501140000 -0400" channel="0002">
+    <title lang="es">Jornada 12 Audax Italiano vs. Cobresal</title>
+  </programme>
+  <programme start="20230501140000 -0400" stop="20230501163000 -0400" channel="0002">
+    <title lang="es">Jornada 12 Unión La Calera vs. Colo Colo</title>
+  </programme>
+  <programme start="20230501163000 -0400" stop="20230501192000 -0400" channel="0002">
+    <title lang="es">Jornada 12 Universidad de Chile vs. Universidad Católica</title>
+  </programme>
+  <programme start="20230501192000 -0400" stop="20230501202000 -0400" channel="0002">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20230501202000 -0400" stop="20230501213500 -0400" channel="0002">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230501213500 -0400" stop="20230502000500 -0400" channel="0002">
+    <title lang="es">Jornada 12 O'Higgins vs. Unión Española</title>
+  </programme>
+  <programme start="20230502000500 -0400" stop="20230502022500 -0400" channel="0002">
+    <title lang="es">Jornada 12 Palestino vs. Deportivo Ñublense</title>
+  </programme>
+  <programme start="20230502022500 -0400" stop="20230502044500 -0400" channel="0002">
+    <title lang="es">Jornada 12 Curicó Unido vs. Everton</title>
+  </programme>
+  <programme start="20230502044500 -0400" stop="20230502060000 -0400" channel="0002">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230502060000 -0400" stop="20230502082000 -0400" channel="0002">
+    <title lang="es">Jornada 10 Antofagasta vs. Deportes Temuco</title>
+  </programme>
+  <programme start="20230502082000 -0400" stop="20230502104000 -0400" channel="0002">
+    <title lang="es">Jornada 10 Santiago Morning vs. Santiago Wanderers</title>
+  </programme>
+  <programme start="20230502104000 -0400" stop="20230502124500 -0400" channel="0002">
+    <title lang="es">Jornada 12 O'Higgins vs. Unión Española</title>
+  </programme>
+  <programme start="20230502124500 -0400" stop="20230502140000 -0400" channel="0002">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230502140000 -0400" stop="20230502160000 -0400" channel="0002">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20230502160000 -0400" stop="20230502180000 -0400" channel="0002">
+    <title lang="es">Jornada 12 Universidad de Chile vs. Universidad Católica</title>
+  </programme>
+  <programme start="20230502180000 -0400" stop="20230502190000 -0400" channel="0002">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20230502190000 -0400" stop="20230502210000 -0400" channel="0002">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20230502210000 -0400" stop="20230502230000 -0400" channel="0002">
+    <title lang="es">Show de Goles</title>
+  </programme>
+  <programme start="20230502230000 -0400" stop="20230503010000 -0400" channel="0002">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20230501001000 -0400" stop="20230501030000 -0400" channel="0003">
+    <title lang="es">Jornada 12 Universidad de Chile vs. Universidad Católica</title>
+  </programme>
+  <programme start="20230501030000 -0400" stop="20230501040000 -0400" channel="0003">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20230501040000 -0400" stop="20230501051500 -0400" channel="0003">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230501051500 -0400" stop="20230501060000 -0400" channel="0003">
+    <title lang="es">Replay</title>
+  </programme>
+  <programme start="20230501060000 -0400" stop="20230501084000 -0400" channel="0003">
+    <title lang="es">Jornada 12 Deportes Copiapó vs. Coquimbo Unido</title>
+  </programme>
+  <programme start="20230501084000 -0400" stop="20230501112000 -0400" channel="0003">
+    <title lang="es">Jornada 12 Huachipato vs. Magallanes</title>
+  </programme>
+  <programme start="20230501112000 -0400" stop="20230501140000 -0400" channel="0003">
+    <title lang="es">Jornada 12 Audax Italiano vs. Cobresal</title>
+  </programme>
+  <programme start="20230501140000 -0400" stop="20230501163000 -0400" channel="0003">
+    <title lang="es">Jornada 12 Unión La Calera vs. Colo Colo</title>
+  </programme>
+  <programme start="20230501163000 -0400" stop="20230501192000 -0400" channel="0003">
+    <title lang="es">Jornada 12 Universidad de Chile vs. Universidad Católica</title>
+  </programme>
+  <programme start="20230501192000 -0400" stop="20230501202000 -0400" channel="0003">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20230501202000 -0400" stop="20230501213500 -0400" channel="0003">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230501213500 -0400" stop="20230502000500 -0400" channel="0003">
+    <title lang="es">Jornada 12 O'Higgins vs. Unión Española</title>
+  </programme>
+  <programme start="20230502000500 -0400" stop="20230502022500 -0400" channel="0003">
+    <title lang="es">Jornada 12 Palestino vs. Deportivo Ñublense</title>
+  </programme>
+  <programme start="20230502022500 -0400" stop="20230502044500 -0400" channel="0003">
+    <title lang="es">Jornada 12 Curicó Unido vs. Everton</title>
+  </programme>
+  <programme start="20230502044500 -0400" stop="20230502060000 -0400" channel="0003">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230502060000 -0400" stop="20230502082000 -0400" channel="0003">
+    <title lang="es">Jornada 10 Antofagasta vs. Deportes Temuco</title>
+  </programme>
+  <programme start="20230502082000 -0400" stop="20230502104000 -0400" channel="0003">
+    <title lang="es">Jornada 10 Santiago Morning vs. Santiago Wanderers</title>
+  </programme>
+  <programme start="20230502104000 -0400" stop="20230502124500 -0400" channel="0003">
+    <title lang="es">Jornada 12 O'Higgins vs. Unión Española</title>
+  </programme>
+  <programme start="20230502124500 -0400" stop="20230502140000 -0400" channel="0003">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230502140000 -0400" stop="20230502160000 -0400" channel="0003">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20230502160000 -0400" stop="20230502180000 -0400" channel="0003">
+    <title lang="es">Jornada 12 Universidad de Chile vs. Universidad Católica</title>
+  </programme>
+  <programme start="20230502180000 -0400" stop="20230502190000 -0400" channel="0003">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20230502190000 -0400" stop="20230502210000 -0400" channel="0003">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20230502210000 -0400" stop="20230502230000 -0400" channel="0003">
+    <title lang="es">Show de Goles</title>
+  </programme>
+  <programme start="20230502230000 -0400" stop="20230503010000 -0400" channel="0003">
+    <title lang="es">Todos Somos Técnicos</title>
   </programme>
   <programme start="20230501000000 -0400" stop="20230501120000 -0400" channel="0004">
     <title lang="es">Eventos 4</title>
@@ -4773,13 +4915,17 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230501060000 -0400" stop="20230501080000 -0400" channel="0127">
+  <programme start="20230501060000 -0400" stop="20230501120000 -0400" channel="0127">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230502060000 -0400" stop="20230502120000 -0400" channel="0127">
+  <programme start="20230501120000 -0400" stop="20230501153000 -0400" channel="0127">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230502060000 -0400" stop="20230502080000 -0400" channel="0127">
+    <title lang="en">Sabingo Premium</title>
+    <desc lang="en">Chilevisión Contigo llega a Pluto con los mejores y más exitosos contenidos de actualidad, magazine, viajes y entrevistas de Chilevisión.\nEste canal te acompañamos durante 24 horas, los 7 días de la semana con los rostros y programas más queridos.</desc>
   </programme>
   <programme start="20230502120000 -0400" stop="20230502180000 -0400" channel="0127">
     <title lang="en">Chilevision Contigo</title>
@@ -7320,7 +7466,11 @@
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230501060000 -0400" stop="20230501103000 -0400" channel="0212">
+  <programme start="20230501060000 -0400" stop="20230501120000 -0400" channel="0212">
+    <title lang="en">Chilevision Noticias</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230501120000 -0400" stop="20230501140000 -0400" channel="0212">
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7328,9 +7478,9 @@
     <title lang="en">A Fondo CHV Noticias</title>
     <desc lang="en">Selección de los mejores reportajes que han marcado la pauta, con el estilo y credibilidad de CHV Noticias. Además, entrevistas para ahondar en esos temas. Exclusivo en Pluto TV.</desc>
   </programme>
-  <programme start="20230502060000 -0400" stop="20230502120000 -0400" channel="0212">
-    <title lang="en">Chilevision Noticias</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230502060000 -0400" stop="20230502064500 -0400" channel="0212">
+    <title lang="en">Congreso Futuro CHV en Noticias</title>
+    <desc lang="en">Las mejores charlas del Congreso Futuro.</desc>
   </programme>
   <programme start="20230502120000 -0400" stop="20230502180000 -0400" channel="0212">
     <title lang="en">Chilevision Noticias</title>
@@ -7344,7 +7494,11 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230501060000 -0400" stop="20230501100000 -0400" channel="0213">
+  <programme start="20230501060000 -0400" stop="20230501120000 -0400" channel="0213">
+    <title lang="en">Euronews Español</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230501120000 -0400" stop="20230501150000 -0400" channel="0213">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -7352,9 +7506,9 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
   </programme>
-  <programme start="20230502060000 -0400" stop="20230502120000 -0400" channel="0213">
+  <programme start="20230502060000 -0400" stop="20230502070000 -0400" channel="0213">
     <title lang="en">Euronews Español</title>
-    <desc lang="en">No information available.</desc>
+    <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
   </programme>
   <programme start="20230502120000 -0400" stop="20230502180000 -0400" channel="0213">
     <title lang="en">Euronews Español</title>
@@ -16127,7 +16281,7 @@
     <desc lang="es">Lo mejor de la primera división del fútbol francés.</desc>
   </programme>
   <programme start="20230502010000 -0400" stop="20230502020000 -0400" channel="0413">
-    <title lang="es">Goles de la Premier League</title>
+    <title lang="es">Highlights - Fútbol de Inglaterra</title>
   </programme>
   <programme start="20230502020000 -0400" stop="20230502030000 -0400" channel="0413">
     <title lang="es">ESPN Compact - Moto GP</title>
@@ -16211,10 +16365,20 @@
     <title lang="es">Bundesliga</title>
     <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
   </programme>
-  <programme start="20230501110000 -0400" stop="20230501150000 -0400" channel="0414">
+  <programme start="20230501110000 -0400" stop="20230501130000 -0400" channel="0414">
     <title lang="es">Liga Profesional 2023</title>
     <sub-title lang="es">Boca Jrs. vs. Racing Club, Fecha 14, Estadio Alberto J. Armando</sub-title>
     <desc lang="es">Vive los partidos de la nonagésima cuarta temporada y el centésimo trigésimo octavo torneo de la era profesional de la Primera División del fútbol argentino, y el tecero organizado por la Liga Profesional, órgano interno de la Asociación del Fútbol Argentino.</desc>
+  </programme>
+  <programme start="20230501130000 -0400" stop="20230501140000 -0400" channel="0414">
+    <title lang="es">Compacto - UEFA Champions League</title>
+    <sub-title lang="es">Napoli (Ita) vs. Milan (Ita), Cuartos de final Vuelta, Stadio Diego Armando Maradona</sub-title>
+    <desc lang="es">Revive en imágenes los resúmenes y mejores momentos de los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
+  </programme>
+  <programme start="20230501140000 -0400" stop="20230501150000 -0400" channel="0414">
+    <title lang="es">Compacto - UEFA Champions League</title>
+    <sub-title lang="es">Bayern Munich (Ale) vs. Manchester City (Ing), Cuartos de final Vuelta, Fußball Arena München</sub-title>
+    <desc lang="es">Revive en imágenes los resúmenes y mejores momentos de los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
   </programme>
   <programme start="20230501150000 -0400" stop="20230501160000 -0400" channel="0414">
     <title lang="es">Expediente fútbol</title>
@@ -16606,130 +16770,134 @@
     <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
   </programme>
   <programme start="20230501020000 -0400" stop="20230501030000 -0400" channel="0417">
+    <title lang="es">WWE SmackDown Highlights</title>
+    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
+  </programme>
+  <programme start="20230501030000 -0400" stop="20230501040000 -0400" channel="0417">
     <title lang="es">WWE Raw Highlights</title>
     <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
   </programme>
-  <programme start="20230501030000 -0400" stop="20230501040000 -0400" channel="0417">
+  <programme start="20230501040000 -0400" stop="20230501050000 -0400" channel="0417">
     <title lang="es">UFC Unleashed</title>
     <desc lang="es">Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la Ultimate Fighting Championship, para revivir, nuevamente, los triunfos y los fracasos más decisivos de esta famosa competencia.</desc>
   </programme>
-  <programme start="20230501040000 -0400" stop="20230501060000 -0400" channel="0417">
+  <programme start="20230501050000 -0400" stop="20230501070000 -0400" channel="0417">
     <title lang="es">Bundesliga</title>
     <sub-title lang="es">Bayern Munich vs. Hertha Berlin, Fecha 30, Allianz Arena</sub-title>
     <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
   </programme>
-  <programme start="20230501060000 -0400" stop="20230501070000 -0400" channel="0417">
+  <programme start="20230501070000 -0400" stop="20230501080000 -0400" channel="0417">
     <title lang="es">San Pablo campeón Libertadores 2005</title>
   </programme>
-  <programme start="20230501070000 -0400" stop="20230501100000 -0400" channel="0417">
+  <programme start="20230501080000 -0400" stop="20230501110000 -0400" channel="0417">
     <title lang="es">XFL Playoffs</title>
     <sub-title lang="es">Seattle Sea Dragons vs. DC Defenders, Playoffs, Audi Field, Washington, DC, USA</sub-title>
     <desc lang="es">Toda la cobertura de las eliminatorias de la XFL, liga profesional estadounidense de fútbol americano.</desc>
   </programme>
-  <programme start="20230501100000 -0400" stop="20230501110000 -0400" channel="0417">
+  <programme start="20230501110000 -0400" stop="20230501120000 -0400" channel="0417">
     <title lang="es">El show de la Copa Libertadores</title>
     <desc lang="es">El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.</desc>
   </programme>
-  <programme start="20230501110000 -0400" stop="20230501120000 -0400" channel="0417">
+  <programme start="20230501120000 -0400" stop="20230501130000 -0400" channel="0417">
     <title lang="es">San Pablo campeón Libertadores 2005</title>
   </programme>
-  <programme start="20230501120000 -0400" stop="20230501150000 -0400" channel="0417">
+  <programme start="20230501130000 -0400" stop="20230501160000 -0400" channel="0417">
     <title lang="es">Major League Baseball</title>
     <sub-title lang="es">Atlanta Braves vs. New York Mets, Temporada regular, Citi Field</sub-title>
     <desc lang="es">Vive los partidos de la liga más importante de béisbol, la más antigua de las ligas mayores profesionales en EUA y Canadá. El juego de las estrellas se disputará el 11 de julio en el T-Mobile Park.</desc>
   </programme>
-  <programme start="20230501150000 -0400" stop="20230501160000 -0400" channel="0417">
+  <programme start="20230501160000 -0400" stop="20230501170000 -0400" channel="0417">
     <title lang="es">UEFA Europa &amp; UEFA Europa Conference League Highlights</title>
     <desc lang="es">Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa.</desc>
   </programme>
-  <programme start="20230501160000 -0400" stop="20230501180000 -0400" channel="0417">
+  <programme start="20230501170000 -0400" stop="20230501190000 -0400" channel="0417">
     <title lang="es">Moto GP</title>
     <sub-title lang="es">Gran Premio de España, Circuito de Jerez, Jerez de la Frontera</sub-title>
     <desc lang="es">Vive las carreras de la 75º edición de la categoría principal del Campeonato del Mundo de Motociclismo.</desc>
   </programme>
-  <programme start="20230501180000 -0400" stop="20230501190000 -0400" channel="0417">
+  <programme start="20230501190000 -0400" stop="20230501200000 -0400" channel="0417">
     <title lang="es">WWE Raw Highlights</title>
     <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
   </programme>
-  <programme start="20230501190000 -0400" stop="20230501220000 -0400" channel="0417">
+  <programme start="20230501200000 -0400" stop="20230501230000 -0400" channel="0417">
     <title lang="es">WWE Raw</title>
     <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo.</desc>
   </programme>
-  <programme start="20230501220000 -0400" stop="20230501230000 -0400" channel="0417">
+  <programme start="20230501230000 -0400" stop="20230502000000 -0400" channel="0417">
     <title lang="es">UFC Countdown</title>
     <sub-title lang="es">288: Sterling vs. Cejudo</sub-title>
   </programme>
-  <programme start="20230501230000 -0400" stop="20230502000000 -0400" channel="0417">
+  <programme start="20230502000000 -0400" stop="20230502010000 -0400" channel="0417">
     <title lang="es">El show de la Copa Libertadores</title>
     <desc lang="es">El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.</desc>
   </programme>
-  <programme start="20230502000000 -0400" stop="20230502020000 -0400" channel="0417">
+  <programme start="20230502010000 -0400" stop="20230502030000 -0400" channel="0417">
     <title lang="es">Bundesliga</title>
     <sub-title lang="es">Bayern Munich vs. Hertha Berlin, Fecha 30, Allianz Arena</sub-title>
     <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
   </programme>
-  <programme start="20230502020000 -0400" stop="20230502030000 -0400" channel="0417">
+  <programme start="20230502030000 -0400" stop="20230502040000 -0400" channel="0417">
     <title lang="es">WWE SmackDown Highlights</title>
     <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
   </programme>
-  <programme start="20230502030000 -0400" stop="20230502033000 -0400" channel="0417">
+  <programme start="20230502040000 -0400" stop="20230502043000 -0400" channel="0417">
     <title lang="es">UFC Ultimate Knockouts</title>
     <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'.</desc>
   </programme>
-  <programme start="20230502033000 -0400" stop="20230502040000 -0400" channel="0417">
+  <programme start="20230502043000 -0400" stop="20230502050000 -0400" channel="0417">
     <title lang="es">UFC Ultimate Knockouts</title>
     <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'.</desc>
   </programme>
-  <programme start="20230502040000 -0400" stop="20230502060000 -0400" channel="0417">
+  <programme start="20230502050000 -0400" stop="20230502070000 -0400" channel="0417">
     <title lang="es">Bundesliga</title>
-    <sub-title lang="es">Union Berlin vs. Bayern Munich, Fecha 5, An der Alten Försterei</sub-title>
+    <sub-title lang="es">Union Berlin vs. Bayer Leverkusen, Fecha 30, An der Alten Försterei</sub-title>
     <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
   </programme>
-  <programme start="20230502060000 -0400" stop="20230502070000 -0400" channel="0417">
+  <programme start="20230502070000 -0400" stop="20230502080000 -0400" channel="0417">
     <title lang="es">Pachuca campeón Sudamericana 2006</title>
   </programme>
-  <programme start="20230502070000 -0400" stop="20230502090000 -0400" channel="0417">
+  <programme start="20230502080000 -0400" stop="20230502100000 -0400" channel="0417">
     <title lang="es">Fórmula 1</title>
     <sub-title lang="es">Gran Premio de Azerbaiyán, Circuito callejero de Bakú, Bakú</sub-title>
     <desc lang="es">Vive las carreras de la 74º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
   </programme>
-  <programme start="20230502090000 -0400" stop="20230502110000 -0400" channel="0417">
+  <programme start="20230502100000 -0400" stop="20230502120000 -0400" channel="0417">
     <title lang="es">Bundesliga</title>
     <sub-title lang="es">Bayern Munich vs. Hertha Berlin, Fecha 30, Allianz Arena</sub-title>
     <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
   </programme>
-  <programme start="20230502110000 -0400" stop="20230502120000 -0400" channel="0417">
+  <programme start="20230502120000 -0400" stop="20230502130000 -0400" channel="0417">
     <title lang="es">UEFA Europa &amp; UEFA Europa Conference League Highlights</title>
     <desc lang="es">Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa.</desc>
   </programme>
-  <programme start="20230502120000 -0400" stop="20230502130500 -0400" channel="0417">
+  <programme start="20230502130000 -0400" stop="20230502140500 -0400" channel="0417">
     <title lang="es">Pachuca campeón Sudamericana 2006</title>
   </programme>
-  <programme start="20230502130500 -0400" stop="20230502161000 -0400" channel="0417">
+  <programme start="20230502140500 -0400" stop="20230502171000 -0400" channel="0417">
     <title lang="es">WWE Raw</title>
     <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo.</desc>
   </programme>
-  <programme start="20230502161000 -0400" stop="20230502164500 -0400" channel="0417">
+  <programme start="20230502171000 -0400" stop="20230502174500 -0400" channel="0417">
     <title lang="es">UFC Ultimate Knockouts</title>
     <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'.</desc>
   </programme>
-  <programme start="20230502164500 -0400" stop="20230502185500 -0400" channel="0417">
+  <programme start="20230502174500 -0400" stop="20230502195500 -0400" channel="0417">
     <title lang="es">CONMEBOL Libertadores</title>
     <sub-title lang="es">Liverpool (Uru) vs. Argentinos Jrs. (Arg), Fecha 3 Grupo E, Estadio Belvedere</sub-title>
     <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
-  <programme start="20230502185500 -0400" stop="20230502210000 -0400" channel="0417">
+  <programme start="20230502195500 -0400" stop="20230502220000 -0400" channel="0417">
     <title lang="es">CONMEBOL Libertadores</title>
     <sub-title lang="es">Fluminense (Bra) vs. River Plate (Arg), Fecha 3 Grupo D, Estadio Maracanã</sub-title>
     <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
-  <programme start="20230502210000 -0400" stop="20230502220000 -0400" channel="0417">
+  <programme start="20230502220000 -0400" stop="20230502230000 -0400" channel="0417">
     <title lang="es">WWE SmackDown Highlights</title>
     <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
   </programme>
-  <programme start="20230502220000 -0400" stop="20230503000000 -0400" channel="0417">
+  <programme start="20230502230000 -0400" stop="20230503010000 -0400" channel="0417">
     <title lang="es">Bundesliga</title>
-    <sub-title lang="es">Union Berlin vs. Bayern Munich, Fecha 5, An der Alten Försterei</sub-title>
+    <sub-title lang="es">Union Berlin vs. Bayer Leverkusen, Fecha 30, An der Alten Försterei</sub-title>
     <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
   </programme>
   <programme start="20230501010000 -0400" stop="20230501030000 -0400" channel="0418">
@@ -18287,6 +18455,9 @@
   </programme>
   <programme start="20230502130000 -0400" stop="20230502150000 -0400" channel="0507">
     <title lang="es">Electric 80s</title>
+  </programme>
+  <programme start="20230502160000 -0400" stop="20230502180000 -0400" channel="0507">
+    <title lang="es">... So 80s</title>
   </programme>
   <programme start="20230501060000 -0400" stop="20230501100000 -0400" channel="0517">
     <title lang="es">Música mañana</title>
@@ -20520,7 +20691,11 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230501060000 -0400" stop="20230501095600 -0400" channel="0544">
+  <programme start="20230501060000 -0400" stop="20230501120000 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230501120000 -0400" stop="20230501155700 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20528,9 +20703,9 @@
     <title lang="en">Paul McCartney - The Space Within US</title>
     <desc lang="en">Paul McCartney trae el DVD especial de la gira US Tour, realizada en Estados Unidos, 11 semanas y 34 shows, con la interpretación de grandes composiciones de su carrera solista junto con algunas canciones de Wings y Beatles.</desc>
   </programme>
-  <programme start="20230502060000 -0400" stop="20230502120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230502053800 -0400" stop="20230502060100 -0400" channel="0544">
+    <title lang="en">Varios Artistas - Lo mejor de Qello Concerts</title>
+    <desc lang="en">Una selección de las mejores canciones de los 80 de la biblioteca de Qello Concerts.</desc>
   </programme>
   <programme start="20230502120000 -0400" stop="20230502180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -20544,7 +20719,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230501060000 -0400" stop="20230501100000 -0400" channel="0545">
+  <programme start="20230501060000 -0400" stop="20230501120000 -0400" channel="0545">
+    <title lang="en">Karaoke por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230501120000 -0400" stop="20230501150000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20552,9 +20731,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230502060000 -0400" stop="20230502120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230502060000 -0400" stop="20230502070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230502120000 -0400" stop="20230502180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -23386,7 +23565,11 @@
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230501060000 -0400" stop="20230501100000 -0400" channel="0612">
+  <programme start="20230501060000 -0400" stop="20230501120000 -0400" channel="0612">
+    <title lang="en">Vive Kanal D Drama</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230501120000 -0400" stop="20230501150000 -0400" channel="0612">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -23394,9 +23577,9 @@
     <title lang="en">Gumus</title>
     <desc lang="en">Tras la muerte de su novia en un accidente, el joven Mehmet cae en una severa depresión. Su adinerada familia le ofrece a su amiga de infancia, Gumus, quien siempre lo ha amado en secreto, que se case con él para ayudarlo a recuperar la felicidad.</desc>
   </programme>
-  <programme start="20230502060000 -0400" stop="20230502120000 -0400" channel="0612">
-    <title lang="en">Vive Kanal D Drama</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230502060000 -0400" stop="20230502070000 -0400" channel="0612">
+    <title lang="en">Asya</title>
+    <desc lang="en">Asya es una huérfana y heredera de una fortuna, abandonada por su tía Aysel para quedarse con su tesoro. Cuando Asya se traslada a Estambul, se transforma en un peligro para su tía y su prima Selma, con quien se disputará el amor de Yigit.</desc>
   </programme>
   <programme start="20230502120000 -0400" stop="20230502180000 -0400" channel="0612">
     <title lang="en">Vive Kanal D Drama</title>
@@ -26197,169 +26380,140 @@
     <sub-title lang="es">21 Je Souhaite</sub-title>
     <desc lang="es">Durante años, los agentes Fox Mulder y Dana Scully se han enfrentado a una variedad de fenómenos inexplicables, como la vida extraterrestre y la sucesión de acontecimientos extraños. Mulder, un verdadero creyente, y Scully, una escéptica, perciben sus casos desde puntos de vista científicos y paranormales. Mulder y Scully descrubren a una genio al estilo de 'Las mil y una noches' que, después de 500 años de conceder deseos, llega a la conclusión de que la humanidad no ha mejorado en vanidad y egoísmo, y sabotea los deseos que se le piden si no son suficientemente 'específicos'.</desc>
   </programme>
-  <programme start="20230501065800 -0400" stop="20230501070000 -0400" channel="0801">
+  <programme start="20230501065800 -0400" stop="20230501102100 -0400" channel="0801">
     <title lang="es">Programación especial</title>
     <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
   </programme>
-  <programme start="20230501070000 -0400" stop="20230501073000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230501073000 -0400" stop="20230501080000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230501080000 -0400" stop="20230501083000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230501083000 -0400" stop="20230501090000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230501090000 -0400" stop="20230501100000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230501100000 -0400" stop="20230501120000 -0400" channel="0801">
+  <programme start="20230501102100 -0400" stop="20230501123200 -0400" channel="0801">
     <title lang="es">Chappie</title>
     <desc lang="es">En un futuro cercano, el crimen es patrullado por una fuerza de policía mecanizada opresiva. Pero ahora, la gente está luchando. Cuando un droide de la policía, Chappie, es robado y recibe una nueva programación, se convierte en el primer robot con la capacidad de pensar y sentir por sí mismo. A medida que las poderosas y destructivas fuerzas comienzan a ver a Chappie como un peligro para la humanidad y el orden, no se detendrán ante nada para mantener el status quo y asegurar que Chappie sea el último de su especie.</desc>
   </programme>
-  <programme start="20230501120000 -0400" stop="20230501123000 -0400" channel="0801">
+  <programme start="20230501123200 -0400" stop="20230501125800 -0400" channel="0801">
+    <title lang="es">How I Met Your Mother</title>
+    <sub-title lang="es">21 Gary Blauman</sub-title>
+    <desc lang="es">En el año 2030, el arquitecto Ted Mosby decide contarles a sus dos hijos la historia sobre cómo conoció a su madre. Así, este se traslada hasta el 2005, época en la que dos de sus mejores amigos, Marshall Eriksen y Lily Aldrin, decidieron casarse tras nueve años de noviazgo, lo cual inspiró al soltero empedernido a encontrar el amor de su vida. Curiosamente, aparece en ese instante la reportera canadiense Robin Scherbatsky, una nueva integrante del grupo, que marca el inicio de la búsqueda de la misteriosa mujer. Cuando Gary Blauman, un empleado del departamento legal del GNB, aparece en la boda, cada uno de los chicos recuerda su encuentro con él.</desc>
+  </programme>
+  <programme start="20230501125800 -0400" stop="20230501132400 -0400" channel="0801">
     <title lang="es">Modern Family</title>
     <sub-title lang="es">19 Papas y salsa</sub-title>
     <desc lang="es">Tres familias diferentes y diversas a través de la lente de un documentalista y su equipo de trabajo. Una de ellas es una familia tradicional con un padre que trabaja, una madre ama de casa y sus tres hijos; la otra es una pareja homosexual que acaba de adoptar un bebé asiático; y la tercera está formada por un hombre mayor casado con una mujer latina mucho más joven. Cuando Haley oye que su loco jefe está buscando un producto con las propiedades mágicas de los pimientos, intenta convencer a Gloria para que venda su salsa a NERP. Mitchell lleva a Cam a un paseo que siempre soñó: a patrullar.</desc>
   </programme>
-  <programme start="20230501123000 -0400" stop="20230501130000 -0400" channel="0801">
+  <programme start="20230501132400 -0400" stop="20230501135000 -0400" channel="0801">
     <title lang="es">Modern Family</title>
     <sub-title lang="es">20 ¡Madre!</sub-title>
     <desc lang="es">Tres familias diferentes y diversas a través de la lente de un documentalista y su equipo de trabajo. Una de ellas es una familia tradicional con un padre que trabaja, una madre ama de casa y sus tres hijos; la otra es una pareja homosexual que acaba de adoptar un bebé asiático; y la tercera está formada por un hombre mayor casado con una mujer latina mucho más joven. La aparición inesperada de Dede provoca que Mitchell y Cam noten el efecto de su presencia en sus vidas. Mientras, Phil, Luke, Alex y Haley reciben malas noticias y deciden quién va a contárselas a Claire luego de su día en el spa.</desc>
   </programme>
-  <programme start="20230501130000 -0400" stop="20230501140000 -0400" channel="0801">
+  <programme start="20230501135000 -0400" stop="20230501144200 -0400" channel="0801">
     <title lang="es">9-1-1</title>
     <sub-title lang="es">12 Tontos</sub-title>
     <desc lang="es">Explora las experiencias de alta presión de la policía, los paramédicos y los bomberos que están inmersos en las situaciones más aterradoras, impactantes y desgarradoras. Deben intentar salvar a la sociedad mientras tratan de resolver los problemas de sus propias vidas. El 118 responde a un truco viral que se volvió loco, un desastre en el viaje de pesca de una pareja y una épica primera cita fallida; Athena investiga a una mujer que no recuerda haber recibido un disparo en la cabeza.</desc>
   </programme>
-  <programme start="20230501140000 -0400" stop="20230501150000 -0400" channel="0801">
+  <programme start="20230501144200 -0400" stop="20230501153100 -0400" channel="0801">
     <title lang="es">9-1-1</title>
     <sub-title lang="es">13 Clavado</sub-title>
     <desc lang="es">Explora las experiencias de alta presión de la policía, los paramédicos y los bomberos que están inmersos en las situaciones más aterradoras, impactantes y desgarradoras. Deben intentar salvar a la sociedad mientras tratan de resolver los problemas de sus propias vidas. El equipo de la estación 118 acude a accidentes en una pista de bolos y la renovación de una casa. Además, Athena persigue a un ladrón de autos, Bobby y Michael llevan a Harry a acampar, y la cita romántica de Chimney y Maddie toma un giro inesperado.</desc>
   </programme>
-  <programme start="20230501150000 -0400" stop="20230501170000 -0400" channel="0801">
+  <programme start="20230501153100 -0400" stop="20230501170800 -0400" channel="0801">
     <title lang="es">Negocios fuera de control</title>
     <desc lang="es">Dan Trunkman es el dueño de una pequeña empresa que formó tras una inesperada salida de su trabajo anterior. Con mucho esfuerzo, Dan y sus dos asociados, Timothy McWinters y Mike Pancake, logran mantenerla a flote hasta que tienen la oportunidad de cerrar el negocio más importante de sus carreras. Un trato que les permitirá no caer en bancarrota. Para cerrarlo deberán viajar a Europa, pero lo que empieza como un viaje de negocios rutinario se saldrá salvajemente fuera de control con consecuencias inimaginables.</desc>
   </programme>
-  <programme start="20230501170000 -0400" stop="20230501190000 -0400" channel="0801">
+  <programme start="20230501170800 -0400" stop="20230501190800 -0400" channel="0801">
     <title lang="es">La increíble vida de Walter Mitty</title>
     <desc lang="es">Cuando su trabajo y el de su compañero se ven amenazados, el soñador y tímido Walter entra en acción en el mundo real y se embarca en un viaje alrededor del planeta, que se convierte en la aventura más extraordinaria que jamás podría haber imaginado.</desc>
   </programme>
-  <programme start="20230501190000 -0400" stop="20230501210000 -0400" channel="0801">
+  <programme start="20230501190800 -0400" stop="20230501210500 -0400" channel="0801">
     <title lang="es">El Diablo viste a la moda</title>
     <desc lang="es">En el mundo de la moda, Miranda Priestly es una de las mujeres más exitosas. Millones de lectoras siguen sus recomendaciones, sus empleados la adoran, los diseñadores le temen. Todos la veneran menos Andrea, que no se deja engañar por la fachada de frivolidad tras la que se oculta un diablo.</desc>
   </programme>
-  <programme start="20230501210000 -0400" stop="20230501213000 -0400" channel="0801">
+  <programme start="20230501210500 -0400" stop="20230501213200 -0400" channel="0801">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">17 Homero Smithers</sub-title>
     <desc lang="es">Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel. Homero trabaja como asistente del señor Burns cuando Smithers está de vacaciones.</desc>
   </programme>
-  <programme start="20230501213000 -0400" stop="20230501220000 -0400" channel="0801">
+  <programme start="20230501213200 -0400" stop="20230501220000 -0400" channel="0801">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">9 La cruda realidad</sub-title>
     <desc lang="es">Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel. Marge se convierte en agente inmobiliario, y su inclinación a decir la verdad le hace perder ventas, por lo que corre el riesgo de ser despedida. Mientras, Serpiente intenta de recuperar su auto ya que fue vendido a Homero en una subasta.</desc>
   </programme>
-  <programme start="20230501220000 -0400" stop="20230502000000 -0400" channel="0801">
+  <programme start="20230501220000 -0400" stop="20230502000300 -0400" channel="0801">
     <title lang="es">La propuesta</title>
     <desc lang="es">Margaret es una poderosa y estricta editora de gran éxito de Nueva York que, por un problema con su visado, de repente se enfrenta a ser deportada a Canadá, su país de origen. Para evitarlo y poder mantener su visa en Estados Unidos, la astuta ejecutiva declara que está comprometida con su joven asistente Andrew, al que lleva torturando durante años. Andrew acepta participar en la farsa, pero con algunas condiciones. Con planes de boda en camino y un agente de inmigración tras sus pasos, Margaret y Andrew se comprometen a seguir con el plan previsto pese a las consecuencias.</desc>
   </programme>
-  <programme start="20230502000000 -0400" stop="20230502020000 -0400" channel="0801">
+  <programme start="20230502000300 -0400" stop="20230502015600 -0400" channel="0801">
     <title lang="es">Fiesta de Navidad en la oficina</title>
     <desc lang="es">A Clay las cosas no le están saliendo de la mejor manera a nivel profesional: su hermana Carol, CEO de la compañía donde trabaja, amenaza con cerrar su sucursal. Por tal motivo, Clay, gerente de dicha oficina, decide organizar una épica fiesta navideña para conseguir nuevos clientes.</desc>
   </programme>
-  <programme start="20230502020000 -0400" stop="20230502040000 -0400" channel="0801">
+  <programme start="20230502015600 -0400" stop="20230502052500 -0400" channel="0801">
     <title lang="es">Lugares oscuros</title>
     <desc lang="es">Libby Day es una mujer que sobrevivió a la masacre de su familia en su casa de campo en Kansas, cuando tenía ocho años. Ella ha estado viviendo de donaciones desde entonces. Hace treinta años, la policía creía que un culto satánico era responsable del asesinato de su madre y su hermano Ben fue declarado culpable con su testimonio ante el tribunal. Hoy, sin embargo, Lyle Wirth la invita a visitar 'The Kill Club', donde los aficionados investigan crímenes famosos y ella encuentra que, tal vez, Ben es inocente. Ya que ella necesita dinero, acepta revivir la matanza y llega a las dolorosas revelaciones que llevaron a esa trágica noche.</desc>
   </programme>
-  <programme start="20230502040000 -0400" stop="20230502060000 -0400" channel="0801">
-    <title lang="es">La tierra perdida</title>
-    <desc lang="es">El doctor Rick Marshall es un científico que queda atrapado en un vórtice espacio-temporal y es lanzado a un pasado lejano. Él carece de armas, habilidades e inteligencia para sobrevivir en un universo alternativo plagado de dinosaurios al acecho y fantásticas criaturas de otro mundo. Pero no está solo en esta aventura, ya que lo acompañan la investigadora Holly y Will, un fanático de la supervivencia. Los tres dependen de su único aliado, un primate llamado Chaka, para salir de esta dimensión híbrida.</desc>
+  <programme start="20230502052500 -0400" stop="20230502060900 -0400" channel="0801">
+    <title lang="es">The X-Files</title>
+    <sub-title lang="es">22 Réquiem</sub-title>
+    <desc lang="es">Durante años, los agentes Fox Mulder y Dana Scully se han enfrentado a una variedad de fenómenos inexplicables, como la vida extraterrestre y la sucesión de acontecimientos extraños. Mulder, un verdadero creyente, y Scully, una escéptica, perciben sus casos desde puntos de vista científicos y paranormales. Mulder y Scully regresan al pueblo donde, casi una década atrás, realizaron su primera investigación para los Expedientes X porque un OVNI se ha estrellado en la zona. El Fumador consigue que Krycek salga de la cárcel para establecer contacto con los extraterrestres y empezar a reconstruir el Proyecto, la creación de un híbrido entre humano y Alien con el fin de colonizar la raza humana.</desc>
   </programme>
-  <programme start="20230502060000 -0400" stop="20230502063000 -0400" channel="0801">
+  <programme start="20230502060900 -0400" stop="20230502063000 -0400" channel="0801">
     <title lang="es">Modern Family</title>
     <sub-title lang="es">19 Papas y salsa</sub-title>
     <desc lang="es">Tres familias diferentes y diversas a través de la lente de un documentalista y su equipo de trabajo. Una de ellas es una familia tradicional con un padre que trabaja, una madre ama de casa y sus tres hijos; la otra es una pareja homosexual que acaba de adoptar un bebé asiático; y la tercera está formada por un hombre mayor casado con una mujer latina mucho más joven. Cuando Haley oye que su loco jefe está buscando un producto con las propiedades mágicas de los pimientos, intenta convencer a Gloria para que venda su salsa a NERP. Mitchell lleva a Cam a un paseo que siempre soñó: a patrullar.</desc>
   </programme>
-  <programme start="20230502063000 -0400" stop="20230502070000 -0400" channel="0801">
+  <programme start="20230502063000 -0400" stop="20230502101400 -0400" channel="0801">
     <title lang="es">Modern Family</title>
     <sub-title lang="es">20 ¡Madre!</sub-title>
     <desc lang="es">Tres familias diferentes y diversas a través de la lente de un documentalista y su equipo de trabajo. Una de ellas es una familia tradicional con un padre que trabaja, una madre ama de casa y sus tres hijos; la otra es una pareja homosexual que acaba de adoptar un bebé asiático; y la tercera está formada por un hombre mayor casado con una mujer latina mucho más joven. La aparición inesperada de Dede provoca que Mitchell y Cam noten el efecto de su presencia en sus vidas. Mientras, Phil, Luke, Alex y Haley reciben malas noticias y deciden quién va a contárselas a Claire luego de su día en el spa.</desc>
   </programme>
-  <programme start="20230502070000 -0400" stop="20230502073000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230502073000 -0400" stop="20230502080000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230502080000 -0400" stop="20230502083000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230502083000 -0400" stop="20230502090000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230502090000 -0400" stop="20230502100000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20230502100000 -0400" stop="20230502120000 -0400" channel="0801">
+  <programme start="20230502101400 -0400" stop="20230502120900 -0400" channel="0801">
     <title lang="es">Lemony Snicket: una serie de eventos desafortunados</title>
     <desc lang="es">Violet, Klaus y Sunny Baudelaire son tres hermanos que reciben la terrible noticia de que sus padres han muerto y les han dejado una fortuna, que no podrán usar hasta ser mayores de edad. Los chicos son enviados a vivir con varios familiares, incluyendo al Conde Olaf, un codicioso pariente lejano que pretende robarles la herencia. Violet es la mayor, con catorce años es la más valiente del grupo. Klaus es el único varón, de doce años, y es sumamente inteligente, y Sunny, la más pequeña, habla un lenguaje que solo sus allegados pueden entender.</desc>
   </programme>
-  <programme start="20230502120000 -0400" stop="20230502123000 -0400" channel="0801">
+  <programme start="20230502120900 -0400" stop="20230502123300 -0400" channel="0801">
+    <title lang="es">How I Met Your Mother</title>
+    <sub-title lang="es">22 Al final del altar</sub-title>
+    <desc lang="es">En el año 2030, el arquitecto Ted Mosby decide contarles a sus dos hijos la historia sobre cómo conoció a su madre. Así, este se traslada hasta el 2005, época en la que dos de sus mejores amigos, Marshall Eriksen y Lily Aldrin, decidieron casarse tras nueve años de noviazgo, lo cual inspiró al soltero empedernido a encontrar el amor de su vida. Curiosamente, aparece en ese instante la reportera canadiense Robin Scherbatsky, una nueva integrante del grupo, que marca el inicio de la búsqueda de la misteriosa mujer. A media hora de casarse, Barney y Robin tienen ataques de pánico a causa del inminente enlace. Mientras tanto, Marshall y Lily reescriben sus viejos votos.</desc>
+  </programme>
+  <programme start="20230502123300 -0400" stop="20230502125900 -0400" channel="0801">
     <title lang="es">Modern Family</title>
     <sub-title lang="es">21 El escape</sub-title>
     <desc lang="es">Tres familias diferentes y diversas a través de la lente de un documentalista y su equipo de trabajo. Una de ellas es una familia tradicional con un padre que trabaja, una madre ama de casa y sus tres hijos; la otra es una pareja homosexual que acaba de adoptar un bebé asiático; y la tercera está formada por un hombre mayor casado con una mujer latina mucho más joven. Haley conoce a los padres de Arvin, pero las cosas no salen según lo planeado. Mientras, la familia aprovecha una visita a una casa de reposo junto a la malvada hermana de Jay, Becky, para saldar viejas cuentas.</desc>
   </programme>
-  <programme start="20230502123000 -0400" stop="20230502130000 -0400" channel="0801">
+  <programme start="20230502125900 -0400" stop="20230502132800 -0400" channel="0801">
     <title lang="es">Modern Family</title>
     <sub-title lang="es">22 Choque de espadas</sub-title>
     <desc lang="es">Tres familias diferentes y diversas a través de la lente de un documentalista y su equipo de trabajo. Una de ellas es una familia tradicional con un padre que trabaja, una madre ama de casa y sus tres hijos; la otra es una pareja homosexual que acaba de adoptar un bebé asiático; y la tercera está formada por un hombre mayor casado con una mujer latina mucho más joven. Mitchell y Phil van a una conferencia vestidos como sus personajes favoritos de 'Clash of Swods'. Mientras, la fiesta de Gloria para Joe, se arruina cuando su enemiga, la Dra. Donna Duncan, prepara una celebración mucho más grande y mejor.</desc>
   </programme>
-  <programme start="20230502130000 -0400" stop="20230502150000 -0400" channel="0801">
+  <programme start="20230502132800 -0400" stop="20230502154000 -0400" channel="0801">
     <title lang="es">Escuela de rock</title>
     <desc lang="es">El rechazado guitarrista rockero Dewey Finn es despedido de su banda y ahora debe afrontar depresión y una cantidad de deudas. Después de un tiempo consigue un puesto como profesor sustituto de cuarto grado en una escuela privada costosa donde su actitud tendrá un efecto poderoso en sus estudiantes. También conoce allí a Zack, un niño de diez años de edad, que sabe tocar guitarra, quien podría ayudarlo a ganar 'La batalla de las bandas', una competencia que sería clave para solucionar sus problemas financieros y para catapultarlo al estrellato.</desc>
   </programme>
-  <programme start="20230502150000 -0400" stop="20230502160000 -0400" channel="0801">
+  <programme start="20230502154000 -0400" stop="20230502163000 -0400" channel="0801">
     <title lang="es">9-1-1</title>
     <sub-title lang="es">14 La toma del centro de llamadas 9-1-1</sub-title>
     <desc lang="es">Explora las experiencias de alta presión de la policía, los paramédicos y los bomberos que están inmersos en las situaciones más aterradoras, impactantes y desgarradoras. Deben intentar salvar a la sociedad mientras tratan de resolver los problemas de sus propias vidas. Maddie teme por ella y sus compañeros de trabajo cuando el centro de llamadas es tomado como rehén.</desc>
   </programme>
-  <programme start="20230502160000 -0400" stop="20230502170000 -0400" channel="0801">
+  <programme start="20230502163000 -0400" stop="20230502171900 -0400" channel="0801">
     <title lang="es">9-1-1</title>
     <sub-title lang="es">15 Eddie comienza</sub-title>
     <desc lang="es">Explora las experiencias de alta presión de la policía, los paramédicos y los bomberos que están inmersos en las situaciones más aterradoras, impactantes y desgarradoras. Deben intentar salvar a la sociedad mientras tratan de resolver los problemas de sus propias vidas. El viaje de Eddie para rescatar a un niño de un pozo se convierte en una misión para salvarse de su pasado.</desc>
   </programme>
-  <programme start="20230502170000 -0400" stop="20230502190000 -0400" channel="0801">
+  <programme start="20230502171900 -0400" stop="20230502192000 -0400" channel="0801">
     <title lang="es">Bumblebee</title>
     <desc lang="es">Durante 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad de playa de California. Charlie, una joven que está a punto de cumplir 18 años, y que aún busca su lugar en el mundo, descubre a Bumblebee, quebrado y con miedo a la batalla.</desc>
   </programme>
-  <programme start="20230502190000 -0400" stop="20230502210000 -0400" channel="0801">
+  <programme start="20230502192000 -0400" stop="20230502210500 -0400" channel="0801">
     <title lang="es">Locura de amor en Las Vegas</title>
     <desc lang="es">Dos desconocidos se despiertan una mañana y descubren que se han casado tras una noche de locura y descontrol en Las Vegas, justo después de que uno de ellos haya ganado un jackpot millonario en un casino. Ambos intentarán quedarse con el dinero, aunque el amor quizá aparezca en el camino.</desc>
   </programme>
-  <programme start="20230502210000 -0400" stop="20230502213000 -0400" channel="0801">
+  <programme start="20230502210500 -0400" stop="20230502213300 -0400" channel="0801">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">1 La casita del horror XII</sub-title>
     <desc lang="es">Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel. Tras una visita a una gitana, Homero sufre de una maldición. En tanto, una supercomputadora instalada en la casa se enamora de Marge. Finalmente, Bart y Lisa asisten a una escuela de magos.</desc>
   </programme>
-  <programme start="20230502213000 -0400" stop="20230502220000 -0400" channel="0801">
+  <programme start="20230502213300 -0400" stop="20230502220000 -0400" channel="0801">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">22 Sangre nueva</sub-title>
     <desc lang="es">Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel. Homero sueña con inmensas riquezas cuando el tipo de sangre de Bart le salva la vida al Sr. Burns, cuyo agradecimiento podría resultar un tanto decepcionante.</desc>
   </programme>
-  <programme start="20230502220000 -0400" stop="20230503003000 -0400" channel="0801">
+  <programme start="20230502220000 -0400" stop="20230503003700 -0400" channel="0801">
     <title lang="es">Día de la Independencia</title>
     <desc lang="es">En víspera del cuatro de julio, unas gigantescas naves espaciales aparecen en el cielo. El asombro inicial se convierte en terror al ver cómo éstas atacan al planeta lanzando rayos destructivos en las mayores ciudades de todo el mundo. Ahora, la única esperanza para la salvación de la Tierra reside en la voluntad de algunos supervivientes, que se unen planeando la última batalla contra los alienígenas antes de que sea demasiado tarde para la humanidad.</desc>
   </programme>
@@ -27427,87 +27581,111 @@
     <title lang="es">La lista de los deseos</title>
     <desc lang="es">Eva y Carmen se conocen en las sesiones de quimioterapia donde las dos están luchando contra un cáncer de mama. Carmen, que es la tercera vez que pasa por esto, anima a Eva a hacer una lista de tres cosas que siempre quiso hacer pero que nunca se atrevió, y a que las haga una vez termine el tratamiento y sin saber los resultados. A Carmen le queda una cosa por tachar de la lista que hizo hace 25 años. Además, Mar, la mejor amiga de Eva, y que se acaba de quedar soltera, se une a ellas y también hace su propia lista. Las tres se alquilan una autocaravana y se embarcan en un viaje optimista y vitalista donde vivirán experiencias inolvidables.</desc>
   </programme>
-  <programme start="20230501075100 -0400" stop="20230501090000 -0400" channel="0807">
+  <programme start="20230501075100 -0400" stop="20230501080000 -0400" channel="0807">
     <title lang="es">Programación especial</title>
     <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
   </programme>
-  <programme start="20230501090000 -0400" stop="20230501103000 -0400" channel="0807">
+  <programme start="20230501080000 -0400" stop="20230501100800 -0400" channel="0807">
+    <title lang="es">Jobs</title>
+    <desc lang="es">Steve Jobs se convierte en el emprendedor más importante de los Estados Unidos, siendo cofundador de Apple. Pero el camino no siempre fue fácil, superó muchos obstáculos mientras se abría camino en la tecnología, lo que no sabía es que cambiaría el mundo para siempre.</desc>
+  </programme>
+  <programme start="20230501100800 -0400" stop="20230501101700 -0400" channel="0807">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20230501101700 -0400" stop="20230501120400 -0400" channel="0807">
+    <title lang="es">¿Qué te juegas?</title>
+    <desc lang="es">Roberto y Daniela son hermanos, ambos gente de negocios adinerada pero con estilos muy distintos. Ante el poco sentido de humor de su hermana, Roberto contrata a una mujer para que la seduzca. Sin embargo, el plan se sale de control.</desc>
+  </programme>
+  <programme start="20230501120400 -0400" stop="20230501134200 -0400" channel="0807">
     <title lang="es">Los chicos sin destino: El libro de sombras</title>
     <desc lang="es">Un año después de que los muchachos cruzaran las dimensiones, descubrieran magia y lucharan contra el demonio restaurador, y habiendo crecido aparte, se sienten reunidos de nuevo cuando Félix descubre un libro de sombras mágicamente sellado.</desc>
   </programme>
-  <programme start="20230501103000 -0400" stop="20230501121500 -0400" channel="0807">
+  <programme start="20230501134200 -0400" stop="20230501150300 -0400" channel="0807">
     <title lang="es">Amigos salvajes 3</title>
     <desc lang="es">Una mañana de primavera, Boog despierta después de la hibernación y planea un viaje anual de chicos para pasar tiempo con sus mejores amigos. Desafortunadamente, Elliot se ha distanciado desde que comenzó una familia con Giselle. Ahora son los padres de tres hijos: Gisela, Giselita y Elvis. Boog está decepcionado porque todos los demás quieren pasar tiempo con sus familias, lo que lo hace viajar solo con Dinkleman; sin embargo, esto pronto lo lleva a un circo itinerante ruso llamado Circo Familiar Maslova. Y ni se imagina lo que está por sucederle. Luego todos se embarcan en una carrera contra el tiempo para rescatar a Boog antes de que sea demasiado tarde.</desc>
   </programme>
-  <programme start="20230501121500 -0400" stop="20230501150000 -0400" channel="0807">
+  <programme start="20230501150300 -0400" stop="20230501164100 -0400" channel="0807">
     <title lang="es">Shrek tercero</title>
     <desc lang="es">Cuando Shrek se casó con Fiona, lo último que se imaginó es que podría convertirse en el siguiente rey. Pero cuando su suegro, el rey Harold, muere sin previo aviso, es exactamente lo que le espera. Y si Shrek, con la valiosa ayuda de Asno y del Gato con Botas, no encuentra un rey adecuado para el Reino de Muy Muy Lejano, el ogro tendrá que sentarse en el trono. Artie, el primo de Fiona, un vago nato que sigue en el instituto, es el candidato más prometedor, pero acaba siendo un auténtico reto para los tres.</desc>
   </programme>
-  <programme start="20230501150000 -0400" stop="20230501173000 -0400" channel="0807">
+  <programme start="20230501164100 -0400" stop="20230501183200 -0400" channel="0807">
     <title lang="es">Dora y la ciudad perdida</title>
     <desc lang="es">Dora, una exploradora adolescente, lidera a sus amigos en una aventura para salvar a sus padres y resolver el misterio detrás de una ciudad perdida de oro.</desc>
   </programme>
-  <programme start="20230501173000 -0400" stop="20230501190000 -0400" channel="0807">
+  <programme start="20230501183200 -0400" stop="20230501195100 -0400" channel="0807">
     <title lang="es">Perros espaciales: aventura a la Luna</title>
     <desc lang="es">Cuando los monumentos más preciosos del mundo se ven amenazados un equipo de dos astronautas caninos conocidos como Belka y Strelka, un mono llamado Bonnie, y el valiente hijo adolescente de Belka, Pushok, se dirigen a la luna para investigar misterio.</desc>
   </programme>
-  <programme start="20230501190000 -0400" stop="20230501210000 -0400" channel="0807">
+  <programme start="20230501195100 -0400" stop="20230501212200 -0400" channel="0807">
     <title lang="es">Hotel Transylvania 2</title>
     <desc lang="es">Todo parece estar cambiando para mejor en el Hotel Transilvania. La política hotelera rígida y estricta de Drácula se ha relajado por fin, abriendo sus puertas a los huéspedes humanos. Pero, detrás de los ataúdes cerrados, Drac está preocupado de que su adorable nieto mitad humano, mitad vampiro, Dennis, no muestre signos de ser un vampiro. Así que, mientras Mavis está ocupada visitando a sus suegros humanos con Johnny, y en busca de un gran impacto cultural propio, Vampa Drac recluta a sus amigos Frank, Murray, Wayne y Griffin para llevar a Dennis a un campo de entrenamiento de 'monstruos en formación'. Pero no saben que Vlad, el anciano padre de Drac, está a punto de hacer una visita familiar al hotel. Y cuando se entera de que su bisnieto no es de sangre pura, y los humanos ahora son bienvenidos en el Hotel Transylvania, ¡las cosas se van a poner raras!</desc>
   </programme>
-  <programme start="20230501210000 -0400" stop="20230501230000 -0400" channel="0807">
+  <programme start="20230501212200 -0400" stop="20230501230000 -0400" channel="0807">
     <title lang="es">Los pingüinos de Madagascar</title>
     <desc lang="es">La organización contra el crimen Viento Norte acaba de sumar a tres agentes de elite: Capitán Kowalski, Rico y Soldado. Los simpáticos pingüinos vuelven a las andanzas para proteger el mar y la selva de los peligros que nunca escasean.</desc>
   </programme>
-  <programme start="20230501230000 -0400" stop="20230502010000 -0400" channel="0807">
+  <programme start="20230501230000 -0400" stop="20230502005600 -0400" channel="0807">
     <title lang="es">Sing, ¡ven y canta!</title>
     <desc lang="es">Buster Moon es un koala que está al frente del que alguna vez fuera uno de los teatros más importantes de la ciudad, pero que actualmente pasa por tiempos difíciles. Él es un eterno optimista, quizás hasta un poco sinvergüenza, pero ama tanto ese lugar que hará hasta lo imposible por conservarlo. Lentamente ve cómo su sueño se desmorona, y es ahí cuando tiene la idea de revivir la gloria del recinto a través del más grande concurso de canto del mundo.</desc>
   </programme>
-  <programme start="20230502010000 -0400" stop="20230502023000 -0400" channel="0807">
+  <programme start="20230502005600 -0400" stop="20230502023000 -0400" channel="0807">
     <title lang="es">Kung Fu Panda</title>
     <desc lang="es">Entusiasta, grande y pesado, Po es un loco del kung-fu. Cuando el destino quiere que sea el escogido para cumplir con una antigua profecía, se presenta la oportunidad de sus sueños. Entrará en el mundo de tal arte marcial para estudiar con sus ídolos, los legendarios Cinco Furiosos: Tigresa, Grulla, Mantis, Víbora y Mono, bajo el liderazgo de su gurú, el maestro Shifu. Pero el vengativo leopardo de las nieves, Tai Lung, prepara un ataque. Entonces el héroe deberá defender el Valle de la Paz de la terrible amenaza de este villano y sus secuaces de una vez por todas.</desc>
   </programme>
-  <programme start="20230502023000 -0400" stop="20230502044500 -0400" channel="0807">
+  <programme start="20230502023000 -0400" stop="20230502041300 -0400" channel="0807">
     <title lang="es">Perversa adicción</title>
     <desc lang="es">Zoe Reynard es una exitosa mujer de negocios que lleva una vida feliz junto a su esposo Jason y sus dos hijos. Pero tiene un gran problema: es adicta al sexo. Sus impulsos la dominan y la llevan a satisfacer sus más profundos deseos al acostarse con dos amantes. Esto la hará sumergirse en un espiral del deseo y la lujuria del que deberá salir antes de perder el control de su vida.</desc>
   </programme>
-  <programme start="20230502044500 -0400" stop="20230502080000 -0400" channel="0807">
+  <programme start="20230502041300 -0400" stop="20230502055700 -0400" channel="0807">
     <title lang="es">Kubo y la búsqueda samurái</title>
     <desc lang="es">Kubo es un joven que lleva una vida tranquila en una pequeña aldea donde entretiene a la gente contando historias con piezas de origami. Pero cuando accidentalmente libera a un antiguo espíritu sediento de venganza, Kubo se ve forzado a partir en una épica búsqueda de una armadura mágica usada alguna vez por su fallecido padre, un legendario samurái.</desc>
   </programme>
-  <programme start="20230502080000 -0400" stop="20230502083000 -0400" channel="0807">
+  <programme start="20230502055700 -0400" stop="20230502073300 -0400" channel="0807">
+    <title lang="es">Perdiendo el este</title>
+    <desc lang="es">Braulio, tras sus desventuras en Berlín, se traslada a Hong Kong junto a Rafa y Hakan en busca de nuevas oportunidades. Sin embargo, no es fácil triunfar en una tierra donde el idioma, la cultura y las costumbres son muy diferentes a las europeas.</desc>
+  </programme>
+  <programme start="20230502073300 -0400" stop="20230502080000 -0400" channel="0807">
     <title lang="es">Programación especial</title>
     <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
   </programme>
-  <programme start="20230502083000 -0400" stop="20230502090000 -0400" channel="0807">
+  <programme start="20230502080000 -0400" stop="20230502093800 -0400" channel="0807">
+    <title lang="es">Perdiendo el este</title>
+    <desc lang="es">Braulio, tras sus desventuras en Berlín, se traslada a Hong Kong junto a Rafa y Hakan en busca de nuevas oportunidades. Sin embargo, no es fácil triunfar en una tierra donde el idioma, la cultura y las costumbres son muy diferentes a las europeas.</desc>
+  </programme>
+  <programme start="20230502093800 -0400" stop="20230502101500 -0400" channel="0807">
     <title lang="es">Programación especial</title>
     <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
   </programme>
-  <programme start="20230502090000 -0400" stop="20230502110000 -0400" channel="0807">
+  <programme start="20230502101500 -0400" stop="20230502105700 -0400" channel="0807">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20230502105700 -0400" stop="20230502124700 -0400" channel="0807">
     <title lang="es">Harriet, la espía</title>
     <desc lang="es">Harriet es una niña de doce años que espía a sus padres, vecinos y amigos para detallar sus vidas en un diario secreto. Cuando los compañeros descubren el cuaderno, la humillan. ¿Podrá recuperar a sus amigos y de todas maneras seguir con el espionaje?</desc>
   </programme>
-  <programme start="20230502110000 -0400" stop="20230502124500 -0400" channel="0807">
+  <programme start="20230502124700 -0400" stop="20230502142800 -0400" channel="0807">
     <title lang="es">Power Rangers: la película</title>
     <desc lang="es">Los Power Rangers tienen una de sus misiones más difíciles: liberar a la Tierra de los poderes del malvado Ivan Ooze.</desc>
   </programme>
-  <programme start="20230502124500 -0400" stop="20230502144500 -0400" channel="0807">
+  <programme start="20230502142800 -0400" stop="20230502161500 -0400" channel="0807">
     <title lang="es">Escalofríos</title>
     <desc lang="es">Zach Cooper es un adolescente que acaba de mudarse, sin demasiado entusiasmo, junto a su familia de Nueva York al pequeño pueblo de Greendale. Su humor cambia cuando conoce a su vecina, la guapa Hannah, quien resulta ser la hija de RL Stine, autor del Bestseller de la serie 'Escalofríos'. Todo cambia luego de que Zach descubre que el escritor guarda un obscuro secreto: las criaturas de sus historias son reales, y las mantiene encerradas en sus libros.</desc>
   </programme>
-  <programme start="20230502144500 -0400" stop="20230502164500 -0400" channel="0807">
+  <programme start="20230502161500 -0400" stop="20230502180900 -0400" channel="0807">
     <title lang="es">Loca por las compras</title>
     <desc lang="es">En el mundo glamoroso de la ciudad de Nueva York, Rebecca Bloomwood es una chica muy divertida y muy buena haciendo compras; demasiado, quizás. Sueña con trabajar en su magazine de moda favorita, pero no encuentra el modo de meter la cabeza hasta que, irónicamente, consigue un trabajo como columnista en una revista económica publicada por la misma compañía. Con su sueño a punto de cumplirse, ella tiene que hacer los esfuerzos más increíbles para impedir que su pasado arruine su futuro.</desc>
   </programme>
-  <programme start="20230502164500 -0400" stop="20230502184500 -0400" channel="0807">
+  <programme start="20230502180900 -0400" stop="20230502194900 -0400" channel="0807">
     <title lang="es">Shrek tercero</title>
     <desc lang="es">Cuando Shrek se casó con Fiona, lo último que se imaginó es que podría convertirse en el siguiente rey. Pero cuando su suegro, el rey Harold, muere sin previo aviso, es exactamente lo que le espera. Y si Shrek, con la valiosa ayuda de Asno y del Gato con Botas, no encuentra un rey adecuado para el Reino de Muy Muy Lejano, el ogro tendrá que sentarse en el trono. Artie, el primo de Fiona, un vago nato que sigue en el instituto, es el candidato más prometedor, pero acaba siendo un auténtico reto para los tres.</desc>
   </programme>
-  <programme start="20230502184500 -0400" stop="20230502203000 -0400" channel="0807">
+  <programme start="20230502194900 -0400" stop="20230502212500 -0400" channel="0807">
     <title lang="es">Mi villano favorito 3</title>
     <desc lang="es">Gru conoce a su hermano gemelo Dru, un multimillonario igualito que él, pero con una personalidad excéntrica y extrovertida. En esta situación, Gru, quien sigue siendo un cascarrabias, deberá decidir si está listo para unirse a su hermano y continuar con la tradición criminal de su familia, para llevar a cabo un último golpe.</desc>
   </programme>
-  <programme start="20230502203000 -0400" stop="20230502230000 -0400" channel="0807">
+  <programme start="20230502212500 -0400" stop="20230502230000 -0400" channel="0807">
     <title lang="es">Kung Fu Panda</title>
     <desc lang="es">Entusiasta, grande y pesado, Po es un loco del kung-fu. Cuando el destino quiere que sea el escogido para cumplir con una antigua profecía, se presenta la oportunidad de sus sueños. Entrará en el mundo de tal arte marcial para estudiar con sus ídolos, los legendarios Cinco Furiosos: Tigresa, Grulla, Mantis, Víbora y Mono, bajo el liderazgo de su gurú, el maestro Shifu. Pero el vengativo leopardo de las nieves, Tai Lung, prepara un ataque. Entonces el héroe deberá defender el Valle de la Paz de la terrible amenaza de este villano y sus secuaces de una vez por todas.</desc>
   </programme>
@@ -29363,7 +29541,7 @@
     <desc lang="es">Roddy es una 'rata de la alta sociedad' que vive como un rey en un piso de Kensington atendido por dos mayordomos, los hámsteres Gilbert y Sullivan. Pero cuando una vulgar rata de alcantarilla llamada Sid aparece por la pila de la cocina y se queja, a Roddy no le queda más remedio que deshacerse del intruso atrayéndole hacia el 'remolino'. Puede que Sid sea vulgar e ignorante, pero no es tonto, y Roddy acaba desapareciendo por el inodoro hacia el mundo subterráneo de Ratónpolis. Allí conoce a la trabajadora y emprendedora Rita, que sobrevive en las alcantarillas en su fiel barco, el 'Jammy Dodger'. Roddy sólo tiene una idea, subir, pero antes tendrá que compensar a Rita por los problemas que le ha causado. Y hablando de problemas, el malvado Toad (Sapo), que odia a todos los roedores, quiere congelarlos... literalmente. Toad encarga el trabajo a sus dos desventuradas 'esbirratas', Spike y Whitey. Al no conseguirlo, no le queda más remedio que hacer venir a su primo de Francia, el terrible mercenario 'Le Frog', para que acabe con el trabajo.</desc>
   </programme>
   <programme start="20230502161400 -0400" stop="20230502175400 -0400" channel="0816">
-    <title lang="es">Ga'hoole: leyenda de los guardianes</title>
+    <title lang="es">Ga'Hoole: leyenda de los guardianes</title>
     <desc lang="es">Soren, una joven lechuza común, es secuestrada por lechuzas de St. Aggie, aparentemente un orfanato, donde se les lava el cerebro a los mochuelos para que se conviertan en soldados. Él y sus nuevos amigos escapan a la isla de Ga'Hoole, para ayudar a sus nobles y sabios búhos que luchan contra el ejército creado por los malvados gobernantes.</desc>
   </programme>
   <programme start="20230502175400 -0400" stop="20230502192900 -0400" channel="0816">
@@ -33464,10 +33642,6 @@
   <programme start="20230501123000 -0400" stop="20230501130000 -0400" channel="0153">
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
-  </programme>
-  <programme start="20230501134500 -0400" stop="20230501143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
   </programme>
   <programme start="20230501130000 -0400" stop="20230501141500 -0400" channel="0153">
     <title lang="es">Efemérides</title>
