@@ -5236,17 +5236,13 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503060000 -0400" stop="20230503080000 -0400" channel="0127">
+  <programme start="20230503060000 -0400" stop="20230503120000 -0400" channel="0127">
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503080000 -0400" stop="20230503130000 -0400" channel="0127">
-    <title lang="en">Contigo en la mañana</title>
-    <desc lang="en">Chilevision Contigo.</desc>
-  </programme>
-  <programme start="20230503130000 -0400" stop="20230503153000 -0400" channel="0127">
-    <title lang="en">Sabingo A</title>
-    <desc lang="en">Los Huasitos- Emprendedores-Historias de Feria-Te quiero Caleta-Yuhui trepa por Chile- Pueblo chico paraíso grande-Picadas o restoranes- Chile de fiesta-Ruta de los Reyes- Historias de mercado- Chispeza campesina.</desc>
+  <programme start="20230503120000 -0400" stop="20230503153000 -0400" channel="0127">
+    <title lang="en">Chilevision Contigo</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230503153000 -0400" stop="20230503180000 -0400" channel="0127">
     <title lang="en">Contigo En Directo</title>
@@ -5260,9 +5256,9 @@
     <title lang="en">Chilevision Contigo</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230504060000 -0400" stop="20230504120000 -0400" channel="0127">
-    <title lang="en">Chilevision Contigo</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230504060000 -0400" stop="20230504080000 -0400" channel="0127">
+    <title lang="en">Sabingo Premium</title>
+    <desc lang="en">Chilevisión Contigo llega a Pluto con los mejores y más exitosos contenidos de actualidad, magazine, viajes y entrevistas de Chilevisión.\nEste canal te acompañamos durante 24 horas, los 7 días de la semana con los rostros y programas más queridos.</desc>
   </programme>
   <programme start="20230504120000 -0400" stop="20230504180000 -0400" channel="0127">
     <title lang="en">Chilevision Contigo</title>
@@ -7487,6 +7483,9 @@
   <programme start="20230504113000 -0400" stop="20230504123000 -0400" channel="0209">
     <title lang="es">La Noche</title>
   </programme>
+  <programme start="20230504170000 -0400" stop="20230504190000 -0400" channel="0209">
+    <title lang="es">La Tarde</title>
+  </programme>
   <programme start="20230504210000 -0400" stop="20230504213000 -0400" channel="0209">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
@@ -7788,13 +7787,13 @@
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503060000 -0400" stop="20230503113000 -0400" channel="0212">
+  <programme start="20230503060000 -0400" stop="20230503120000 -0400" channel="0212">
     <title lang="en">Chilevision Noticias</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503113000 -0400" stop="20230503140000 -0400" channel="0212">
-    <title lang="en">Alerta CHV Noticias AM</title>
-    <desc lang="en">Roberto Cox le toma el pulso a la mañana y trae todas las noticias de Chile, en vivo solo por Pluto TV.</desc>
+  <programme start="20230503120000 -0400" stop="20230503140000 -0400" channel="0212">
+    <title lang="en">Chilevision Noticias</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230503140000 -0400" stop="20230503163000 -0400" channel="0212">
     <title lang="en">CHV Noticias Tarde</title>
@@ -7812,9 +7811,9 @@
     <title lang="en">A Fondo CHV Noticias</title>
     <desc lang="en">Selección de los mejores reportajes que han marcado la pauta, con el estilo y credibilidad de CHV Noticias. Además, entrevistas para ahondar en esos temas. Exclusivo en Pluto TV.</desc>
   </programme>
-  <programme start="20230504060000 -0400" stop="20230504120000 -0400" channel="0212">
-    <title lang="en">Chilevision Noticias</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230504050000 -0400" stop="20230504064500 -0400" channel="0212">
+    <title lang="en">CHV Noticias Central</title>
+    <desc lang="en">Macarena Pizarro y Daniel Matamala presentan el noticiero más creíble del país. Coberturas, notas y reportajes exclusivos para estar informado con todo lo que ocurrió durante la jornada.</desc>
   </programme>
   <programme start="20230504120000 -0400" stop="20230504180000 -0400" channel="0212">
     <title lang="en">Chilevision Noticias</title>
@@ -7828,25 +7827,13 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503060000 -0400" stop="20230503110000 -0400" channel="0213">
+  <programme start="20230503060000 -0400" stop="20230503120000 -0400" channel="0213">
     <title lang="en">Euronews Español</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503110000 -0400" stop="20230503120000 -0400" channel="0213">
+  <programme start="20230503120000 -0400" stop="20230503150000 -0400" channel="0213">
     <title lang="en">Euronews Español</title>
-    <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
-  </programme>
-  <programme start="20230503120000 -0400" stop="20230503130000 -0400" channel="0213">
-    <title lang="en">Euronews Español</title>
-    <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
-  </programme>
-  <programme start="20230503130000 -0400" stop="20230503140000 -0400" channel="0213">
-    <title lang="en">Euronews Español</title>
-    <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
-  </programme>
-  <programme start="20230503140000 -0400" stop="20230503150000 -0400" channel="0213">
-    <title lang="en">Euronews Español</title>
-    <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230503150000 -0400" stop="20230503160000 -0400" channel="0213">
     <title lang="en">Euronews Español</title>
@@ -7868,9 +7855,9 @@
     <title lang="en">Euronews Español</title>
     <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
   </programme>
-  <programme start="20230504060000 -0400" stop="20230504120000 -0400" channel="0213">
+  <programme start="20230504060000 -0400" stop="20230504070000 -0400" channel="0213">
     <title lang="en">Euronews Español</title>
-    <desc lang="en">No information available.</desc>
+    <desc lang="en">"Euronews" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).</desc>
   </programme>
   <programme start="20230504120000 -0400" stop="20230504180000 -0400" channel="0213">
     <title lang="en">Euronews Español</title>
@@ -15926,14 +15913,16 @@
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
   <programme start="20230504090000 -0400" stop="20230504140000 -0400" channel="9402">
-    <title lang="es">TNT Sports HD</title>
+    <title lang="es">TNT Sports 2</title>
+    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
   </programme>
   <programme start="20230504140000 -0400" stop="20230504160000 -0400" channel="9402">
     <title lang="es">Pelota parada</title>
     <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
   <programme start="20230504160000 -0400" stop="20230504180000 -0400" channel="9402">
-    <title lang="es">TNT Sports HD</title>
+    <title lang="es">TNT Sports 2</title>
+    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
   </programme>
   <programme start="20230504180000 -0400" stop="20230504190000 -0400" channel="9402">
     <title lang="es">TNT Data Sports</title>
@@ -16855,12 +16844,12 @@
     <title lang="es">ESPN F Show</title>
     <desc lang="es">El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.</desc>
   </programme>
-  <programme start="20230504195500 -0400" stop="20230504215500 -0400" channel="0411">
+  <programme start="20230504195500 -0400" stop="20230504220000 -0400" channel="0411">
     <title lang="es">CONMEBOL Sudamericana</title>
     <sub-title lang="es">Audax Italiano (Chi) vs. Blooming (Bol), Fecha 3 Grupo E, Estadio Bicentenario de La Florida</sub-title>
     <desc lang="es">Vive los partidos de la vigésima segunda edición del torneo organizado por la CONMEBOL.</desc>
   </programme>
-  <programme start="20230504215500 -0400" stop="20230504230000 -0400" channel="0411">
+  <programme start="20230504220000 -0400" stop="20230504230000 -0400" channel="0411">
     <title lang="es">ESPN F90</title>
     <desc lang="es">Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.</desc>
   </programme>
@@ -19339,6 +19328,9 @@
   <programme start="20230504130000 -0400" stop="20230504150000 -0400" channel="0507">
     <title lang="es">Wild Boys Of The 80s</title>
   </programme>
+  <programme start="20230504160000 -0400" stop="20230504180000 -0400" channel="0507">
+    <title lang="es">... So 80s</title>
+  </programme>
   <programme start="20230503000000 -0400" stop="20230503060000 -0400" channel="0517">
     <title lang="es">Modo nocturno</title>
   </programme>
@@ -21762,21 +21754,13 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503060000 -0400" stop="20230503112900 -0400" channel="0544">
+  <programme start="20230503060000 -0400" stop="20230503120000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503112900 -0400" stop="20230503130300 -0400" channel="0544">
-    <title lang="en">Robbie Williams - Robbie Williams - Live at the Apple Music Festival</title>
-    <desc lang="en">Una odisea pop de 90 minutos formidable. Con mezclas de temas de su etapa Take That, antiguas o nuevas, sus canciones le permiten reclamar su trono como un artista que domina el escenario.</desc>
-  </programme>
-  <programme start="20230503130300 -0400" stop="20230503133000 -0400" channel="0544">
-    <title lang="en">Varios Artistas - Lo mejor de Qello Concerts</title>
-    <desc lang="en">Una selección de las mejores canciones de los 80 de la biblioteca de Qello Concerts.</desc>
-  </programme>
-  <programme start="20230503133000 -0400" stop="20230503153500 -0400" channel="0544">
-    <title lang="en">Matchbox Twenty - Live in London</title>
-    <desc lang="en">Esta película de concierto, filmada en el Roundhouse de Londres, será una experiencia en vivo espectacular de principio a fin para todos los fans. Matchbox Twenty interpreta sus éxitos, como "Bright Lights", "Parade", "You're So Real", y muchos más.</desc>
+  <programme start="20230503120000 -0400" stop="20230503153500 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230503153500 -0400" stop="20230503160000 -0400" channel="0544">
     <title lang="en">Varios Artistas - Lo mejor de Qello Concerts</title>
@@ -21794,9 +21778,9 @@
     <title lang="en">Varios Artistas - Lo mejor de Qello Concerts</title>
     <desc lang="en">Una selección de las mejores canciones de los 80 de la biblioteca de Qello Concerts.</desc>
   </programme>
-  <programme start="20230504060000 -0400" stop="20230504120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230504043200 -0400" stop="20230504060300 -0400" channel="0544">
+    <title lang="en">Soundgarden - Live at iTunes Festival</title>
+    <desc lang="en">El iTunes Festival es un festival anual de música que se lleva a cabo en Londres a lo largo de un mes. Está patrocinado por Apple Inc. y tuvo su primera edición en 2007.</desc>
   </programme>
   <programme start="20230504120000 -0400" stop="20230504180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -21810,25 +21794,13 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503060000 -0400" stop="20230503110000 -0400" channel="0545">
+  <programme start="20230503060000 -0400" stop="20230503120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503110000 -0400" stop="20230503120000 -0400" channel="0545">
-    <title lang="en">Los Esenciales Del Karaoke</title>
-    <desc lang="en">¡Canta al ritmo de los éxitos antiguos y las baladas con un toque de rock, pop y disco!</desc>
-  </programme>
-  <programme start="20230503120000 -0400" stop="20230503130000 -0400" channel="0545">
-    <title lang="en">Los Esenciales Del Karaoke</title>
-    <desc lang="en">¡Canta al ritmo de los éxitos antiguos y las baladas con un toque de rock, pop y disco!</desc>
-  </programme>
-  <programme start="20230503130000 -0400" stop="20230503140000 -0400" channel="0545">
-    <title lang="en">Los Esenciales Del Karaoke</title>
-    <desc lang="en">¡Canta al ritmo de los éxitos antiguos y las baladas con un toque de rock, pop y disco!</desc>
-  </programme>
-  <programme start="20230503140000 -0400" stop="20230503150000 -0400" channel="0545">
-    <title lang="en">Cantemos Con Los Chicos</title>
-    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
+  <programme start="20230503120000 -0400" stop="20230503150000 -0400" channel="0545">
+    <title lang="en">Karaoke por Stingray</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230503150000 -0400" stop="20230503160000 -0400" channel="0545">
     <title lang="en">Cantemos Con Los Chicos</title>
@@ -21850,9 +21822,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230504060000 -0400" stop="20230504120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230504060000 -0400" stop="20230504070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230504120000 -0400" stop="20230504180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -24863,25 +24835,13 @@
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503060000 -0400" stop="20230503110000 -0400" channel="0612">
+  <programme start="20230503060000 -0400" stop="20230503120000 -0400" channel="0612">
     <title lang="en">Vive Kanal D Drama</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230503110000 -0400" stop="20230503120000 -0400" channel="0612">
-    <title lang="en">Mi último deseo</title>
-    <desc lang="en">Lale es una madre de familia que tras enterarse que tiene un tumor cerebral, decide encontrar por sí misma una mujer que la reemplace en casa con su marido y sus hijas.</desc>
-  </programme>
-  <programme start="20230503120000 -0400" stop="20230503130000 -0400" channel="0612">
-    <title lang="en">Mi último deseo</title>
-    <desc lang="en">Lale es una madre de familia que tras enterarse que tiene un tumor cerebral, decide encontrar por sí misma una mujer que la reemplace en casa con su marido y sus hijas.</desc>
-  </programme>
-  <programme start="20230503130000 -0400" stop="20230503140000 -0400" channel="0612">
-    <title lang="en">Asya</title>
-    <desc lang="en">Asya es una huérfana y heredera de una fortuna, abandonada por su tía Aysel para quedarse con su tesoro. Cuando Asya se traslada a Estambul, se transforma en un peligro para su tía y su prima Selma, con quien se disputará el amor de Yigit.</desc>
-  </programme>
-  <programme start="20230503140000 -0400" stop="20230503150000 -0400" channel="0612">
-    <title lang="en">Asya</title>
-    <desc lang="en">Asya es una huérfana y heredera de una fortuna, abandonada por su tía Aysel para quedarse con su tesoro. Cuando Asya se traslada a Estambul, se transforma en un peligro para su tía y su prima Selma, con quien se disputará el amor de Yigit.</desc>
+  <programme start="20230503120000 -0400" stop="20230503150000 -0400" channel="0612">
+    <title lang="en">Vive Kanal D Drama</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230503150000 -0400" stop="20230503160000 -0400" channel="0612">
     <title lang="en">Gumus</title>
@@ -24903,9 +24863,9 @@
     <title lang="en">Gumus</title>
     <desc lang="en">Tras la muerte de su novia en un accidente, el joven Mehmet cae en una severa depresión. Su adinerada familia le ofrece a su amiga de infancia, Gumus, quien siempre lo ha amado en secreto, que se case con él para ayudarlo a recuperar la felicidad.</desc>
   </programme>
-  <programme start="20230504060000 -0400" stop="20230504120000 -0400" channel="0612">
-    <title lang="en">Vive Kanal D Drama</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230504060000 -0400" stop="20230504070000 -0400" channel="0612">
+    <title lang="en">Asya</title>
+    <desc lang="en">Asya es una huérfana y heredera de una fortuna, abandonada por su tía Aysel para quedarse con su tesoro. Cuando Asya se traslada a Estambul, se transforma en un peligro para su tía y su prima Selma, con quien se disputará el amor de Yigit.</desc>
   </programme>
   <programme start="20230504120000 -0400" stop="20230504180000 -0400" channel="0612">
     <title lang="en">Vive Kanal D Drama</title>
@@ -35585,9 +35545,9 @@
     <sub-title lang="es">Lo Mejor</sub-title>
     <desc lang="es">Programa de entretención donde se abordan los temas locales con una variedad de invitados, que van desde cultural, musical, políticos, cine, entre muchos otros.</desc>
   </programme>
-  <programme start="20230504204500 -0400" stop="20230504213000 -0400" channel="0153">
-    <title lang="es">Noticias Edición Central</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
+  <programme start="20230504211000 -0400" stop="20230504223000 -0400" channel="0153">
+    <title lang="es">Del fin del mundo</title>
+    <desc lang="es">Ana Josefa Silva y Marco Antonio de la Parra, nos adentran al mundo de la Cultura, teatro y libros, junto con grandes invitados.</desc>
   </programme>
   <programme start="20230504223000 -0400" stop="20230504230000 -0400" channel="0153">
     <title lang="es">Efemérides</title>
