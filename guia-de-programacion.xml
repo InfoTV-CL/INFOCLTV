@@ -1544,17 +1544,20 @@
   <programme start="20230505163000 -0400" stop="20230506040500 -0400" channel="0002">
     <title lang="es">Deporte Será Anunciado</title>
   </programme>
-  <programme start="20230506163000 -0400" stop="20230507040500 -0400" channel="0002">
+  <programme start="20230506040500 -0400" stop="20230506060000 -0400" channel="0002">
     <title lang="es">Deporte Será Anunciado</title>
   </programme>
-  <programme start="20230507040500 -0400" stop="20230507060000 -0400" channel="0002">
-    <title lang="es">Deporte Será Anunciado</title>
-  </programme>
-  <programme start="20230507060000 -0400" stop="20230507070000 -0400" channel="0002">
+  <programme start="20230506060000 -0400" stop="20230506070000 -0400" channel="0002">
     <title lang="es">TNT Data Sports</title>
   </programme>
-  <programme start="20230507070000 -0400" stop="20230507090000 -0400" channel="0002">
+  <programme start="20230506070000 -0400" stop="20230506090000 -0400" channel="0002">
     <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20230506090000 -0400" stop="20230506210000 -0400" channel="0002">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20230506210000 -0400" stop="20230507090000 -0400" channel="0002">
+    <title lang="es">Deporte Será Anunciado</title>
   </programme>
   <programme start="20230507090000 -0400" stop="20230507210000 -0400" channel="0002">
     <title lang="es">Deporte Será Anunciado</title>
@@ -5102,16 +5105,63 @@
     <title lang="es">Resumen informativo en lengua de señas</title>
     <desc lang="es">Se presentan las informaciones más recientes referidas a los principales ámbitos de la sociedad, realizando un recorrido por aquellos hechos que mayor impacto han generado. Todo articulado en el lenguaje universal de señas.</desc>
   </programme>
-  <programme start="20230506091500 -0400" stop="20230506180000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230506091500 -0400" stop="20230506093000 -0400" channel="0125">
+    <title lang="es">La cámara en la radio</title>
+    <sub-title lang="es">Diputada Daniela Serrano</sub-title>
+  </programme>
+  <programme start="20230506093000 -0400" stop="20230506103000 -0400" channel="0125">
+    <title lang="es">UESTV</title>
+    <desc lang="es">Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.</desc>
+  </programme>
+  <programme start="20230506103000 -0400" stop="20230506113000 -0400" channel="0125">
+    <title lang="es">Concierto de la Serena</title>
+    <sub-title lang="es">III Concierto 2018</sub-title>
+    <desc lang="es">El elenco estudiantil perteneciente al Departamento de Música de la Universidad de La Serena presenta un repertorio acompañado de jóvenes solistas regionales.</desc>
+  </programme>
+  <programme start="20230506113000 -0400" stop="20230506140000 -0400" channel="0125">
+    <title lang="es">Sesión de sala</title>
+    <sub-title lang="es">Sesión Nº23</sub-title>
+    <desc lang="es">Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.</desc>
+  </programme>
+  <programme start="20230506140000 -0400" stop="20230506143000 -0400" channel="0125">
+    <title lang="es">De frente</title>
+  </programme>
+  <programme start="20230506143000 -0400" stop="20230506153000 -0400" channel="0125">
+    <title lang="es">Comisión de relaciones exteriores</title>
+    <sub-title lang="es">Emisión del día 26/04/23</sub-title>
+    <desc lang="es">Transmisión de la reunión de la comisión que estudia, analiza y discute los tratados internacionales en materia de colaboración entre Chile y otras naciones.</desc>
+  </programme>
+  <programme start="20230506153000 -0400" stop="20230506160000 -0400" channel="0125">
+    <title lang="es">Temas</title>
+  </programme>
+  <programme start="20230506160000 -0400" stop="20230506180000 -0400" channel="0125">
+    <title lang="es">Comisión de vivienda</title>
+    <sub-title lang="es">Emisión del día 26/04/23</sub-title>
   </programme>
   <programme start="20230506180000 -0400" stop="20230506183000 -0400" channel="0125">
     <title lang="es">Soy representante</title>
   </programme>
-  <programme start="20230506183000 -0400" stop="20230507063000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230506183000 -0400" stop="20230506200000 -0400" channel="0125">
+    <title lang="es">Comisión de recursos hídricos</title>
+    <sub-title lang="es">Emisión del día 26/04/23</sub-title>
+    <desc lang="es">Reunión de la Comisión de Recursos Hídricos en la que se tratará el problema del servicio de agua potable en algunas localidades, y de esta manera gestionar las posibles soluciones.</desc>
+  </programme>
+  <programme start="20230506200000 -0400" stop="20230506210000 -0400" channel="0125">
+    <title lang="es">UESTV</title>
+    <desc lang="es">Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.</desc>
+  </programme>
+  <programme start="20230506210000 -0400" stop="20230506213000 -0400" channel="0125">
+    <title lang="es">Puntos de vista</title>
+    <desc lang="es">Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.</desc>
+  </programme>
+  <programme start="20230506213000 -0400" stop="20230506233000 -0400" channel="0125">
+    <title lang="es">Comisiones unidas de constitución y seguridad ciudadana</title>
+    <sub-title lang="es">Emisión del día 26/04/23</sub-title>
+  </programme>
+  <programme start="20230506233000 -0400" stop="20230507011500 -0400" channel="0125">
+    <title lang="es">Semanas musicales de Frutillar</title>
+    <sub-title lang="es">Filarmónica de Temuco</sub-title>
+    <desc lang="es">Disfrute del festival de música docta que se realiza desde 1968 en la ciudad balneario chilena de Frutillar, en la Región de Los Lagos.</desc>
   </programme>
   <programme start="20230505000000 -0400" stop="20230505235900 -0400" channel="0126">
     <title lang="es">TV Senado</title>
@@ -5447,43 +5497,15 @@
     <title lang="es">24 horas a la hora</title>
     <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
   </programme>
-  <programme start="20230506060000 -0400" stop="20230506063000 -0400" channel="0201">
-    <title lang="es">24 horas a la hora</title>
-    <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
+  <programme start="20230506060000 -0400" stop="20230506100000 -0400" channel="0201">
+    <title lang="es">Especial prensa - Coronación</title>
+    <desc lang="es">La coronación de Carlos III y su esposa, Camila, como rey y reina consorte del Reino Unido, será el 'punto culminante simbólico' de su acceso a la corona.</desc>
   </programme>
-  <programme start="20230506063000 -0400" stop="20230506070000 -0400" channel="0201">
-    <title lang="es">24 horas a la hora</title>
-    <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
-  </programme>
-  <programme start="20230506070000 -0400" stop="20230506073000 -0400" channel="0201">
-    <title lang="es">24 horas a la hora</title>
-    <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
-  </programme>
-  <programme start="20230506073000 -0400" stop="20230506080000 -0400" channel="0201">
-    <title lang="es">24 horas a la hora</title>
-    <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
-  </programme>
-  <programme start="20230506080000 -0400" stop="20230506083000 -0400" channel="0201">
-    <title lang="es">24 horas a la hora</title>
-    <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
-  </programme>
-  <programme start="20230506083000 -0400" stop="20230506090000 -0400" channel="0201">
+  <programme start="20230506100000 -0400" stop="20230506103000 -0400" channel="0201">
     <title lang="es">Mirada económica</title>
     <desc lang="es">La señal noticiosa 24H realiza estos reportajes de actualidad, que son emitidos en forma exclusiva al exterior.</desc>
   </programme>
-  <programme start="20230506090000 -0400" stop="20230506103000 -0400" channel="0201">
-    <title lang="es">24 horas a la hora</title>
-    <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
-  </programme>
-  <programme start="20230506103000 -0400" stop="20230506104500 -0400" channel="0201">
-    <title lang="es">DW analiza</title>
-    <desc lang="es">Ponemos en contexto la actualidad internacional y analizamos el contexto de los hechos. Hablamos con especialistas para conocer todos los ángulos de la noticia y presentamos todo con un lenguaje diferente que acerca temas complejos también al público más joven.</desc>
-  </programme>
-  <programme start="20230506104500 -0400" stop="20230506110000 -0400" channel="0201">
-    <title lang="es">Sonidos 24</title>
-    <desc lang="es">Las novedades de la música con Pablo Márquez.</desc>
-  </programme>
-  <programme start="20230506110000 -0400" stop="20230506123000 -0400" channel="0201">
+  <programme start="20230506103000 -0400" stop="20230506123000 -0400" channel="0201">
     <title lang="es">24 horas a la hora</title>
     <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
   </programme>
@@ -5492,16 +5514,16 @@
     <desc lang="es">Programa sobre las noticias de los próximos estrenos del cine.</desc>
   </programme>
   <programme start="20230506124500 -0400" stop="20230506130000 -0400" channel="0201">
-    <title lang="es">Entrevistas 24</title>
-    <desc lang="es">Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.</desc>
+    <title lang="es">DW analiza</title>
+    <desc lang="es">Ponemos en contexto la actualidad internacional y analizamos el contexto de los hechos. Hablamos con especialistas para conocer todos los ángulos de la noticia y presentamos todo con un lenguaje diferente que acerca temas complejos también al público más joven.</desc>
   </programme>
   <programme start="20230506130000 -0400" stop="20230506144500 -0400" channel="0201">
     <title lang="es">24 tarde</title>
     <desc lang="es">Noticiero generalista de actualidad nacional e internacional.</desc>
   </programme>
   <programme start="20230506144500 -0400" stop="20230506150000 -0400" channel="0201">
-    <title lang="es">24 cuadros</title>
-    <desc lang="es">Programa sobre las noticias de los próximos estrenos del cine.</desc>
+    <title lang="es">Sonidos 24</title>
+    <desc lang="es">Las novedades de la música con Pablo Márquez.</desc>
   </programme>
   <programme start="20230506150000 -0400" stop="20230506153000 -0400" channel="0201">
     <title lang="es">Reporte minero</title>
@@ -8641,493 +8663,498 @@
     <title lang="es">The Loud House</title>
     <desc lang="es">Lincoln Loud es un chico de once años que vive con sus diez hermanas. Con la ayuda de su confiable amigo Clyde, Lincoln encuentra nuevas y distintas maneras de sobrevivir a diario en una familia gigante.</desc>
   </programme>
-  <programme start="20230505002100 -0400" stop="20230505004300 -0400" channel="0304">
-    <title lang="es">Gabby Duran: niñera de aliens</title>
-    <sub-title lang="es">7 La oscuridad</sub-title>
-    <desc lang="es">Luego de vivir por años opacada por su exitosa madre y su inteligente hermana menor, Gaby, de tan solo 13 años, encuentra su momento de brillar al tomar un nuevo trabajo de niñera que consiste en cuidar a unos pequeños niños que en realidad son extraterrestres que se esconden con sus familias en la Tierra. Ella deberá usar su ingenio para mantenerlos a salvo junto con su identidad secreta. Cuando Gabby descubre que Swift sigue en la Tierra, está decidida a recuperarlo como director, ¡porque su reemplazo es una pesadilla!</desc>
+  <programme start="20230505001200 -0400" stop="20230505003300 -0400" channel="0304">
+    <title lang="es">El mundo de Riley</title>
+    <sub-title lang="es">2 Conociendo a un muchacho</sub-title>
+    <desc lang="es">La estudiante de séptimo grado Riley, de brillantes ojos, y su confidente mejor amiga, Maya, aprenden a recorrer los vericuetos de la escuela bajo la atenta mirada de su profesor de Historia, quien casualmente es también padre de Riley. Juntas, las dos mejores amigas se apoyan una en la otra. En un intento por hacer que los alumnos de la clase dejen de enviar mensajes y se comuniquen en persona, Cory les da una tarea que les enseña cómo comunicarse cara a cara, lo que genera una conexión real entre Riley y Lucas.</desc>
   </programme>
-  <programme start="20230505004300 -0400" stop="20230505010700 -0400" channel="0304">
-    <title lang="es">Sydney como Max</title>
-    <sub-title lang="es">10 Boy Meets Dad</sub-title>
-    <desc lang="es">Gira en torno a Sydney Reynolds, una estudiante muy sociable y amable. Junto a su padre soltero y protector llamado Max, deben hacer frente a los desafíos que se dan cuando se crece. La ficción está ambientada en el presente, pero con recuerdos retrospectivos de la década de 1990. Gracias a ello y a la ayuda de la abuela Judy, padre e hija se dan cuenta que tienen en común mucho más de lo que pensaban.</desc>
-  </programme>
-  <programme start="20230505010700 -0400" stop="20230505013300 -0400" channel="0304">
-    <title lang="es">Acampados</title>
-    <sub-title lang="es">5 Hot Spring Friend Machine</sub-title>
-    <desc lang="es">Los hermanos Emma, Ravi y Zuri pasarán su verano en el Campamento Kikiwaka, el mismo en el que sus padres se conocieron de jóvenes, y donde les tocará lidiar para bien y para mal con un nuevo grupo de amigos y figuras de autoridad. Ava descubre una fuente termal en el campamento Kikiwaka y busca mantenerlo en secreto. Lou ayuda a Gwen a tomar confianza.</desc>
-  </programme>
-  <programme start="20230505013300 -0400" stop="20230505015400 -0400" channel="0304">
-    <title lang="es">Gravity Falls: un verano de misterios</title>
-    <sub-title lang="es">2 La leyenda del monstruo del lago</sub-title>
-    <desc lang="es">Los mellizos Dipper y Mabel Pines se encuentran en medio de una inesperada aventura cuando pasan el verano con su tío abuelo en el misterioso pueblo de Gravity Falls, Oregón. Pronto, descubren que allí no todo es lo que parece. Cuando Dipper y Mabel escuchan rumores de que en las profundidades del lago local vive un monstruo marino, contratan a Soos para que los lleve a una expedición en bote para probar que el monstruo realmente existe.</desc>
-  </programme>
-  <programme start="20230505015400 -0400" stop="20230505021700 -0400" channel="0304">
-    <title lang="es">Star vs. Las fuerzas del mal</title>
-    <sub-title lang="es">30 Matemagia / El rebo-nubes</sub-title>
-    <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Star se encuentra atrapada en una extraña repetición de tiempo y no sabe cómo salir. A su vez, debe resolver un problema matemático que le causa muchos inconvenientes ya que no logra dar con la respuesta. Finalmente lo intenta y se da cuenta de que lo que vale es animarse. / Star y sus amigos se enteran de que el Rebo-Nubes va a cerrar por lo cual deciden revivir este lugar para que se convierta en su sitio de baile nuevamente. Sin embargo, su propietaria, quiere cerrarlo ya que se ha cansado de dar fiestas. A pesar de todo, permanecen divirtiéndose como amigos sin el Rebo-Nubes.</desc>
-  </programme>
-  <programme start="20230505021700 -0400" stop="20230505023900 -0400" channel="0304">
-    <title lang="es">Los vecinos Green</title>
-    <sub-title lang="es">25 Date Night / The Room</sub-title>
-    <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Cuando Bill acompaña a Cricket y Gabriella en su primera cita, las cosas no salen como esperaban./ Tilly y Cricket se involucran en un gran conflicto, siendo vistos como un entretenimiento similar a un reality show para Gloria y Gramma.</desc>
-  </programme>
-  <programme start="20230505023900 -0400" stop="20230505030100 -0400" channel="0304">
-    <title lang="es">Star vs. Las fuerzas del mal</title>
-    <sub-title lang="es">14 La coromaiznación</sub-title>
-    <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. ¡Star quiere que Eclipsa sea coronada Reina!</desc>
-  </programme>
-  <programme start="20230505030100 -0400" stop="20230505032400 -0400" channel="0304">
+  <programme start="20230505003300 -0400" stop="20230505005600 -0400" channel="0304">
     <title lang="es">Miraculous: las aventuras de Ladybug</title>
     <sub-title lang="es">15 Jugador</sub-title>
     <desc lang="es">Marinette parece una adolescente normal y corriente, pero es todo lo contrario. De hecho, la joven lleva una ajetreada doble vida: cuando no está soñando despierta con su adorado Adrien, se transforma en la superheroína 'Ladybug'. Lo que ella no se imagina es que el chico también tiene una subsistencia secreta con la que se hace llamar 'Cat Noir'. Ambos son completamente ajenos a la verdadera identidad del otro, pero los caminos de la independiente chica y el arrogante muchacho se cruzarán a lo largo de sus diferentes misiones. Marinette, para estar más cerca de Adrien, gana una competencia de videojuegos en la escuela y se une a él para una competencia nacional. Pero Max se entrenó durante meses para esta selección y está realmente molesto. Influenciado por Hawk Moth, se convierte en el jugador.</desc>
   </programme>
-  <programme start="20230505032400 -0400" stop="20230505034700 -0400" channel="0304">
+  <programme start="20230505005600 -0400" stop="20230505012100 -0400" channel="0304">
+    <title lang="es">La casa de Raven</title>
+    <sub-title lang="es">12 Plays of Our Lives</sub-title>
+    <desc lang="es">Raven es una madre divorciada con 2 hijos pre-adolescentes llamados Nia y Booker. Nia heredó las habilidades de su madre al predecir el futuro, y del mismo modo que Raven, la chica apenas logrará ver una parte de lo que acontecerá, lo que terminará causando mucha confusión. Cuando Booker tiene una visión de Levi siendo expulsado de su primer gran papel en el escenario, va en contra de los deseos de Levi y le pide un consejo a Chelsea.</desc>
+  </programme>
+  <programme start="20230505012100 -0400" stop="20230505014300 -0400" channel="0304">
+    <title lang="es">Gabby Duran: niñera de aliens</title>
+    <sub-title lang="es">7 La oscuridad</sub-title>
+    <desc lang="es">Luego de vivir por años opacada por su exitosa madre y su inteligente hermana menor, Gaby, de tan solo 13 años, encuentra su momento de brillar al tomar un nuevo trabajo de niñera que consiste en cuidar a unos pequeños niños que en realidad son extraterrestres que se esconden con sus familias en la Tierra. Ella deberá usar su ingenio para mantenerlos a salvo junto con su identidad secreta. Cuando Gabby descubre que Swift sigue en la Tierra, está decidida a recuperarlo como director, ¡porque su reemplazo es una pesadilla!</desc>
+  </programme>
+  <programme start="20230505014300 -0400" stop="20230505020700 -0400" channel="0304">
+    <title lang="es">Sydney como Max</title>
+    <sub-title lang="es">10 Boy Meets Dad</sub-title>
+    <desc lang="es">Gira en torno a Sydney Reynolds, una estudiante muy sociable y amable. Junto a su padre soltero y protector llamado Max, deben hacer frente a los desafíos que se dan cuando se crece. La ficción está ambientada en el presente, pero con recuerdos retrospectivos de la década de 1990. Gracias a ello y a la ayuda de la abuela Judy, padre e hija se dan cuenta que tienen en común mucho más de lo que pensaban.</desc>
+  </programme>
+  <programme start="20230505020700 -0400" stop="20230505023300 -0400" channel="0304">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">5 Hot Spring Friend Machine</sub-title>
+    <desc lang="es">Los hermanos Emma, Ravi y Zuri pasarán su verano en el Campamento Kikiwaka, el mismo en el que sus padres se conocieron de jóvenes, y donde les tocará lidiar para bien y para mal con un nuevo grupo de amigos y figuras de autoridad. Ava descubre una fuente termal en el campamento Kikiwaka y busca mantenerlo en secreto. Lou ayuda a Gwen a tomar confianza.</desc>
+  </programme>
+  <programme start="20230505023300 -0400" stop="20230505025400 -0400" channel="0304">
+    <title lang="es">Gravity Falls: un verano de misterios</title>
+    <sub-title lang="es">2 La leyenda del monstruo del lago</sub-title>
+    <desc lang="es">Los mellizos Dipper y Mabel Pines se encuentran en medio de una inesperada aventura cuando pasan el verano con su tío abuelo en el misterioso pueblo de Gravity Falls, Oregón. Pronto, descubren que allí no todo es lo que parece. Cuando Dipper y Mabel escuchan rumores de que en las profundidades del lago local vive un monstruo marino, contratan a Soos para que los lleve a una expedición en bote para probar que el monstruo realmente existe.</desc>
+  </programme>
+  <programme start="20230505025400 -0400" stop="20230505031700 -0400" channel="0304">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">30 Matemagia / El rebo-nubes</sub-title>
+    <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Star se encuentra atrapada en una extraña repetición de tiempo y no sabe cómo salir. A su vez, debe resolver un problema matemático que le causa muchos inconvenientes ya que no logra dar con la respuesta. Finalmente lo intenta y se da cuenta de que lo que vale es animarse. / Star y sus amigos se enteran de que el Rebo-Nubes va a cerrar por lo cual deciden revivir este lugar para que se convierta en su sitio de baile nuevamente. Sin embargo, su propietaria, quiere cerrarlo ya que se ha cansado de dar fiestas. A pesar de todo, permanecen divirtiéndose como amigos sin el Rebo-Nubes.</desc>
+  </programme>
+  <programme start="20230505031700 -0400" stop="20230505033900 -0400" channel="0304">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">25 Date Night / The Room</sub-title>
+    <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Cuando Bill acompaña a Cricket y Gabriella en su primera cita, las cosas no salen como esperaban./ Tilly y Cricket se involucran en un gran conflicto, siendo vistos como un entretenimiento similar a un reality show para Gloria y Gramma.</desc>
+  </programme>
+  <programme start="20230505033900 -0400" stop="20230505040100 -0400" channel="0304">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">14 La coromaiznación</sub-title>
+    <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. ¡Star quiere que Eclipsa sea coronada Reina!</desc>
+  </programme>
+  <programme start="20230505040100 -0400" stop="20230505042400 -0400" channel="0304">
+    <title lang="es">Miraculous: las aventuras de Ladybug</title>
+    <sub-title lang="es">15 Jugador</sub-title>
+    <desc lang="es">Marinette parece una adolescente normal y corriente, pero es todo lo contrario. De hecho, la joven lleva una ajetreada doble vida: cuando no está soñando despierta con su adorado Adrien, se transforma en la superheroína 'Ladybug'. Lo que ella no se imagina es que el chico también tiene una subsistencia secreta con la que se hace llamar 'Cat Noir'. Ambos son completamente ajenos a la verdadera identidad del otro, pero los caminos de la independiente chica y el arrogante muchacho se cruzarán a lo largo de sus diferentes misiones. Marinette, para estar más cerca de Adrien, gana una competencia de videojuegos en la escuela y se une a él para una competencia nacional. Pero Max se entrenó durante meses para esta selección y está realmente molesto. Influenciado por Hawk Moth, se convierte en el jugador.</desc>
+  </programme>
+  <programme start="20230505042400 -0400" stop="20230505044700 -0400" channel="0304">
     <title lang="es">Phineas y Ferb</title>
     <sub-title lang="es">1 La montaña rusa / Candance pierde la cabeza</sub-title>
     <desc lang="es">¡Las vacaciones de verano están a punto de comenzar! Phineas y Ferb, dos medio hermanos de diez años de edad, decidirán que cada día se vuelva más emocionante que el anterior a través de fabulosas aventuras, como construir una montaña rusa que desafíe todos los limites en su propio patio trasero. Sus locuras siempre terminarán arruinándole el estilo y glamour a su hermana adolescente, Candance, quien constantemente hace inútiles intentos por contarle a su madre acerca de estos acontecimientos. Phineas y Ferb aprovechan el día de verano y construyen la montaña rusa más cool en su jardín. / En el cumpleaños de Candace, la familia viaja al Monte Rushmore, donde Phineas y Ferb organizan una increíble sorpresa para Candace.</desc>
   </programme>
-  <programme start="20230505034700 -0400" stop="20230505040000 -0400" channel="0304">
+  <programme start="20230505044700 -0400" stop="20230505050000 -0400" channel="0304">
     <title lang="es">¡Vete ya, Unicornio!</title>
     <sub-title lang="es">2 Take a Dive, Unicorn!</sub-title>
     <desc lang="es">Sigue las aventuras de una niña llamada Alice y su BFF Unicornio. Alice es independiente y no es exactamente la típica 'niña femenina'. Ella prefiere los deportes y los libros antes que el brillo, hasta que un loco unicornio llega a su vida. Este nuevo amigo se asegurará de que Alice incluya diversión en su vida, le guste o no. Juntos explorarán sus diferencias y se darán cuenta que se pueden encontrar amistades en el lugar más improbable. Alice está decidida a usar su viaje de clase al acuario para unirse a las Guías Guppy, pero la búsqueda de Unicornio para conocer a una sirena real puso un freno a sus posibilidades.</desc>
   </programme>
-  <programme start="20230505040000 -0400" stop="20230505042500 -0400" channel="0304">
+  <programme start="20230505050000 -0400" stop="20230505052500 -0400" channel="0304">
     <title lang="es">Miraculous: las aventuras de Ladybug</title>
     <sub-title lang="es">18 La titiritera</sub-title>
     <desc lang="es">Marinette parece una adolescente normal y corriente, pero es todo lo contrario. De hecho, la joven lleva una ajetreada doble vida: cuando no está soñando despierta con su adorado Adrien, se transforma en la superheroína 'Ladybug'. Lo que ella no se imagina es que el chico también tiene una subsistencia secreta con la que se hace llamar 'Cat Noir'. Ambos son completamente ajenos a la verdadera identidad del otro, pero los caminos de la independiente chica y el arrogante muchacho se cruzarán a lo largo de sus diferentes misiones. Marinette hace unos títeres de Lady Wifi, Rogercop, Evillustrator y, por supuesto, Cat Noir y Ladybug.</desc>
   </programme>
-  <programme start="20230505042500 -0400" stop="20230505045100 -0400" channel="0304">
+  <programme start="20230505052500 -0400" stop="20230505055100 -0400" channel="0304">
     <title lang="es">Enredados otra vez: la serie</title>
     <sub-title lang="es">5 Cassandra vs. Eugene</sub-title>
     <desc lang="es">Rapunzel ha vuelto a su reino con ganas de más aventuras. Su largo cabello rubio repentinamente vuelve a crecer y debe aceptar sus cualidades mágicas y todo lo que representa. Siempre acompañada por su querido Eugene, su leal camaleón, Pascal y su obediente caballo Maximus. A ellos se une Cassandra, que se convertirá en la confidente de Rapunzel. Rapunzel encierra a Cassandra y Eugene en la mazmorra obligándolos a trabajar juntos para resolver sus enigmas para escapar. La experiencia de unión no va como ella planeó.</desc>
   </programme>
-  <programme start="20230505045100 -0400" stop="20230505050300 -0400" channel="0304">
+  <programme start="20230505055100 -0400" stop="20230505060300 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">9 La pijamada / El obsequio de la tarjeta</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Star invita a sus amigos a una piyamada y deciden jugar al juego 'Verdad o Castigo'. A la mañana siguiente, todos aprendieron que los sentimientos son cambiantes y Star descubre que está enamorada de Marco Díaz. / Star le regala a Marco una tarjeta de regalo sin saber que si su amigo no la cambia antes de que venza, por algo que verdaderamente le guste, ambos se convertirían en cenizas. Finalmente, encuentran un regalo que le gusta mucho a Marco: una billetera con candado muy segura. Así, evitan el fin de su amistad y se salvan de que los atrape el malvado villano.</desc>
   </programme>
-  <programme start="20230505050300 -0400" stop="20230505051400 -0400" channel="0304">
+  <programme start="20230505060300 -0400" stop="20230505061400 -0400" channel="0304">
     <title lang="es">Las aventuras de Pilar</title>
     <sub-title lang="es">16 Muqui</sub-title>
     <desc lang="es">Pilar tiene diez años de edad y una visión muy original del mundo. Cuestionadora, ella no acepta las cosas simplemente como son. Junto con su gato Samba y su mejor amigo Breno, Pilar utiliza la hamaca mágica que heredó de su abuelo Pedro y se aventura por el mundo, viajando por diferentes destinos y épocas. El grupo del Guayabero crea un árbol de los deseos, ¡y el de Pilar es que los pajaritos la confundan con un árbol! Entonces, ella convence a Breno y a Samba de irse a los Andes en busca de las semillas para esparcirlas en los brazos.</desc>
   </programme>
-  <programme start="20230505051400 -0400" stop="20230505052500 -0400" channel="0304">
+  <programme start="20230505061400 -0400" stop="20230505062500 -0400" channel="0304">
     <title lang="es">Mickey Mouse</title>
     <sub-title lang="es">8 Locura en Mumbai</sub-title>
     <desc lang="es">Con los aires de payasadas del clásico Mickey, la serie de cortos animados presenta a Mickey en una variedad de situaciones cómicas, que muestran su valor y su picardía, junto con su consabido encanto y buen corazón. Cada capítulo encuentra a Mickey en un entorno contemporáneo diferente, entre ellos Santa Mónica, Nueva York, París, Pekín, Tokio y los Alpes, frente a una situación absurda, una rápida complicación y una escalada de gags físicos y visuales. Las historias también presentan momentos genuinamente sentidos y heroicos, mientras Mickey explora y experimenta la vida junto con sus cómicos compañeros: Minnie, el Pato Donald, Daisy, Goofy y Pluto. Lo que se supone que es un viaje de rutina para el conductor de rickshaw de Mumbai, Mickey Mouse, conduciendo a un alegre pasajero elefante a una montaña, resulta ser el viaje de su vida con un invitado muy especial.</desc>
   </programme>
-  <programme start="20230505052500 -0400" stop="20230505055100 -0400" channel="0304">
+  <programme start="20230505062500 -0400" stop="20230505065100 -0400" channel="0304">
     <title lang="es">Phineas y Ferb</title>
     <sub-title lang="es">25 El agente Doof / Phineas y Ferb en el templo de Kestanacien</sub-title>
     <desc lang="es">¡Las vacaciones de verano están a punto de comenzar! Phineas y Ferb, dos medio hermanos de diez años de edad, decidirán que cada día se vuelva más emocionante que el anterior a través de fabulosas aventuras, como construir una montaña rusa que desafíe todos los limites en su propio patio trasero. Sus locuras siempre terminarán arruinándole el estilo y glamour a su hermana adolescente, Candance, quien constantemente hace inútiles intentos por contarle a su madre acerca de estos acontecimientos. Después de localizar y recuperar el amuleto de Kestanacien, el aventurero dúo arqueológico de Ohio (Phineas) Flynn y Rhode Island (Ferb) Fletcher emprenden un viaje a Centroamérica para ayudar a la damisela en apuros, Isabella, a encontrar el Templo Perdido de Kestanacien y a su madre desaparecida. Sin embargo, el doctor Doofenshmirtz tiene otros planes para el amuleto: despertar al malvado coloso del maíz para darle el poder de destruir el mundo.</desc>
   </programme>
-  <programme start="20230505055100 -0400" stop="20230505060300 -0400" channel="0304">
+  <programme start="20230505065100 -0400" stop="20230505070300 -0400" channel="0304">
     <title lang="es">Amphibia</title>
     <sub-title lang="es">3 Plato fuerte</sub-title>
     <desc lang="es">Anne Boonchuy es una chica normal y corriente de trece años que un día, tras descubrir un baúl en apariencia inofensivo, es transportada al mundo de Amphibia, donde le da la bienvenida un grupo de ranas, sapos y de insectos gigantes. Con ayuda de Spig, su nuevo amigo, debe reajustar sus costumbres para vivir en un nuevo mundo en el que descubre lo que realmente significa la amistad. Para ganar un concurso de cocina de la aldea, Anne lleva a la familia en una búsqueda para hacer pizza. Los amigos tendrán que sortear diversos desafíos para encontrar los ingredientes necesarios para su plato en la competencia.</desc>
   </programme>
-  <programme start="20230505060300 -0400" stop="20230505063200 -0400" channel="0304">
+  <programme start="20230505070300 -0400" stop="20230505073200 -0400" channel="0304">
     <title lang="es">Patoaventuras</title>
     <sub-title lang="es">16 Day of the Only Child!</sub-title>
     <desc lang="es">El Pato Donald lleva a regañadientes a sus sobrinos Huey, Dewey y Louie a la casa de su tío abuelo Scrooge McDuck. Entusiasmados por su legendario tío abuelo, los trillizos y su nueva y feroz amiga Webby descubren secretos familiares guardados durante mucho tiempo y liberan totems del pasado épico de Scrooge, enviando a la familia a una aventura. Hugo, Paco y Luis junto con la nieta de la Sra. Beakley, Rosita, descubren antiguos secretos del asombroso pasado de Tío Rico, por lo que la familia viajará ¡alrededor del mundo!</desc>
   </programme>
-  <programme start="20230505063200 -0400" stop="20230505070000 -0400" channel="0304">
+  <programme start="20230505073200 -0400" stop="20230505080000 -0400" channel="0304">
     <title lang="es">Los vecinos Green</title>
     <sub-title lang="es">8 Aletas y arena / Tejedor de sueños</sub-title>
     <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Mientras está en la playa, Cricket intenta asustar a los bañistas con una broma falsa de tiburón que genera problemas. / Cricket se divierte manipulando los sueños de su familia por la noche, pero pronto se convierten en pesadillas.</desc>
   </programme>
-  <programme start="20230505070000 -0400" stop="20230505072600 -0400" channel="0304">
+  <programme start="20230505080000 -0400" stop="20230505082600 -0400" channel="0304">
     <title lang="es">Grandes héroes: la serie</title>
     <sub-title lang="es">43 Hiro the Villain</sub-title>
     <desc lang="es">La serie continúa con las aventuras y amistad entre Hiro, el genio de la tecnología de catorce años, y Baymax, su compasivo robot de última generación. Durante su viaje, Hiro y Baymax están acompañados por Wasabi, el maniático del control, la científica Honey Lemon y el absurdo Go Go. Momakase chantajea a Hiro para la ayude a robar un artículo misterioso de una caja fuerte. Amenaza con develar la identidad secreta de Cruz si no recibe su ayuda.</desc>
   </programme>
-  <programme start="20230505072600 -0400" stop="20230505073700 -0400" channel="0304">
+  <programme start="20230505082600 -0400" stop="20230505083700 -0400" channel="0304">
     <title lang="es">Phineas y Ferb</title>
     <sub-title lang="es">11 Mi fiel fútbol Parte 1</sub-title>
     <desc lang="es">¡Las vacaciones de verano están a punto de comenzar! Phineas y Ferb, dos medio hermanos de diez años de edad, decidirán que cada día se vuelva más emocionante que el anterior a través de fabulosas aventuras, como construir una montaña rusa que desafíe todos los limites en su propio patio trasero. Sus locuras siempre terminarán arruinándole el estilo y glamour a su hermana adolescente, Candance, quien constantemente hace inútiles intentos por contarle a su madre acerca de estos acontecimientos. Cuando los primos de Ferb vienen de visita desde Inglaterra y lo desafían a un partido de fútbol, él y Phineas derriban las barreras de la física y construyen un estadio 3D con la última tecnología. Mientras tanto, convencida de que su relación con Jeremy depende de que ella sea más correcta, Candace solicita la ayuda de la prima británica de Ferb, Eliza, para que le enseñe las reglas de etiqueta.</desc>
   </programme>
-  <programme start="20230505073700 -0400" stop="20230505080300 -0400" channel="0304">
+  <programme start="20230505083700 -0400" stop="20230505090300 -0400" channel="0304">
     <title lang="es">Amphibia</title>
     <sub-title lang="es">3 Rescatando a Polly / Un tráiler llamado deseo</sub-title>
     <desc lang="es">Anne Boonchuy es una chica normal y corriente de trece años que un día, tras descubrir un baúl en apariencia inofensivo, es transportada al mundo de Amphibia, donde le da la bienvenida un grupo de ranas, sapos y de insectos gigantes. Con ayuda de Spig, su nuevo amigo, debe reajustar sus costumbres para vivir en un nuevo mundo en el que descubre lo que realmente significa la amistad. Polly comienza a portarse mal y convertirse en una molestia para la familia. Deciden pasar por una parada de descanso, durante la cual Polly cambia de lugar con una piedra rosa con la esperanza de asustarlos. Por otro lado, Anne y los Plantar conocen a un grupo de actores dirigido por la famosa actriz y dramaturga Renee Frodgers. Queriendo cumplir su sueño de ser actor, Hop Pop elige que su familia viaje con ellos por un tiempo.</desc>
   </programme>
-  <programme start="20230505080300 -0400" stop="20230505083000 -0400" channel="0304">
+  <programme start="20230505090300 -0400" stop="20230505093000 -0400" channel="0304">
     <title lang="es">Guardianes de la galaxia</title>
     <sub-title lang="es">9 Fama</sub-title>
     <desc lang="es">Sigue las aventuras de un grupo de guerreros espaciales que trabajan para proteger al universo del malvado Thanos. En Conjunction, Star-Lord comienza su propio programa de televisión llamado 'Star-Lord's Super Awesome Variety Hour', donde sus invitados incluyen a Fandral y un segmento de 'Mystery Ex' que presenta a Lucy y Supergiant donde el programa es arreglado por Grandmaster. Otras cosas vistas en Conjunction Galactic Network, incluido un informe de noticias de un Nova Star Blaster secuestrado en el que están Rocket Raccoon y Groot, el programa de televisión N.O.V.A.S. protagonizada por Nova Corps, donde Rhomann Dey rescató la cápsula de escape de Gamora, y un comercial de 'Drax the Flame Broiler'.</desc>
   </programme>
-  <programme start="20230505083000 -0400" stop="20230505085800 -0400" channel="0304">
+  <programme start="20230505093000 -0400" stop="20230505095800 -0400" channel="0304">
     <title lang="es">Guardianes de la galaxia</title>
     <sub-title lang="es">10 Felices reunidos</sub-title>
     <desc lang="es">Sigue las aventuras de un grupo de guerreros espaciales que trabajan para proteger al universo del malvado Thanos. Derrochando sus riquezas y apenas sacando al Milano del lote incautado, los Guardianes de la Galaxia toman un trabajo de transporte que les ofrece Howard el Pato donde el artículo que necesita está en el espacio kallusiano. Aunque no saben que están robando a los Kree , los Guardianes tienen un encuentro con un acusador de Kree llamado Phyla-Vell.</desc>
   </programme>
-  <programme start="20230505085800 -0400" stop="20230505092300 -0400" channel="0304">
+  <programme start="20230505095800 -0400" stop="20230505102300 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">2 Cupido / Espíritu escolar</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Luego de reprobar un examen de matemáticas, Star intenta convencer a la Maestra Calavera de que le modifique la calificación a cambio de ayudarla con su vida amorosa. Por otro lado,por no conocer todavía el idioma de la Tierra, Star entiende mal cuando oye que el equipo de fútbol de Eco Arroyo va a ser masacrado y prepara una serie de trampas para protegerlo.</desc>
   </programme>
-  <programme start="20230505092300 -0400" stop="20230505094900 -0400" channel="0304">
+  <programme start="20230505102300 -0400" stop="20230505104900 -0400" channel="0304">
     <title lang="es">Los vecinos Green</title>
     <sub-title lang="es">8 Aletas y arena / Tejedor de sueños</sub-title>
     <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Mientras está en la playa, Cricket intenta asustar a los bañistas con una broma falsa de tiburón que genera problemas. / Cricket se divierte manipulando los sueños de su familia por la noche, pero pronto se convierten en pesadillas.</desc>
   </programme>
-  <programme start="20230505094900 -0400" stop="20230505100100 -0400" channel="0304">
+  <programme start="20230505104900 -0400" stop="20230505110100 -0400" channel="0304">
     <title lang="es">Phineas y Ferb</title>
     <sub-title lang="es">36 El día más tranquilo de todos</sub-title>
     <desc lang="es">¡Las vacaciones de verano están a punto de comenzar! Phineas y Ferb, dos medio hermanos de diez años de edad, decidirán que cada día se vuelva más emocionante que el anterior a través de fabulosas aventuras, como construir una montaña rusa que desafíe todos los limites en su propio patio trasero. Sus locuras siempre terminarán arruinándole el estilo y glamour a su hermana adolescente, Candance, quien constantemente hace inútiles intentos por contarle a su madre acerca de estos acontecimientos. Es un día tan lindo que Phineas y Ferb deciden no hacer nada. Así es, nada de nada. Pero Candace no les cree e insiste en que deben estar tramando algo. Entra completamente en pánico y termina construyendo algo que piensa que Phineas y Ferb van a construir sólo para poder seguir con su día y llegar a tiempo a su desfile con Jeremy.</desc>
   </programme>
-  <programme start="20230505100100 -0400" stop="20230505103200 -0400" channel="0304">
+  <programme start="20230505110100 -0400" stop="20230505113200 -0400" channel="0304">
     <title lang="es">Amphibia</title>
     <sub-title lang="es">8 Perdidas en Nuevatopía / La lección de Sprig</sub-title>
     <desc lang="es">Anne Boonchuy es una chica normal y corriente de trece años que un día, tras descubrir un baúl en apariencia inofensivo, es transportada al mundo de Amphibia, donde le da la bienvenida un grupo de ranas, sapos y de insectos gigantes. Con ayuda de Spig, su nuevo amigo, debe reajustar sus costumbres para vivir en un nuevo mundo en el que descubre lo que realmente significa la amistad. Anne y Polly prometen experimentar la ciudad como locales, pero terminan en un paseo salvaje por las calles de Newtopia./ A Sprig se le ofrece un lugar en la Universidad de Newtopia.</desc>
   </programme>
-  <programme start="20230505103200 -0400" stop="20230505110000 -0400" channel="0304">
+  <programme start="20230505113200 -0400" stop="20230505120000 -0400" channel="0304">
     <title lang="es">La familia Proud</title>
     <sub-title lang="es">12 Makeover</sub-title>
     <desc lang="es">Penny, una adolescente de catorce años, tiene grandes ansias de crecer pero al mismo tiempo debe resolver los dilemas típicos del crecimiento, tarea que no le resulta nada fácil con sus adorables pero sobreprotectores padres, sus traviesas hermanitas mellizas Bee Bee y Cee Cee, su peculiar abuela Suga Mama y con amigos como la imprudente Dijonay o la complicada Laciénaga Boulavardez. Las experiencias universales de la adolescencia a través de personajes animados insertos en dinámicas familiares y sociales similares a las de la actualidad. Penny, LaCienega y Dijonay le dan a Zoey un cambio de imagen para el baile de la escuela. Pero cuando Nubia Gross ve el cambio de imagen de Zoey, obliga a las chicas a darle uno también a su hermana menor Olay.</desc>
   </programme>
-  <programme start="20230505110000 -0400" stop="20230505112600 -0400" channel="0304">
+  <programme start="20230505120000 -0400" stop="20230505122600 -0400" channel="0304">
     <title lang="es">Hannah Montana</title>
     <sub-title lang="es">4 No puedo forzarte a querer a Hannah</sub-title>
     <desc lang="es">Miley Stewart es una adolescente como cualquier otra, salvo por un pequeño detalle: en sus ratos libres, Miley se transforma en Hannah Montana, la cantante pop internacional más popular entre los jóvenes. Miley juega con Hannah después de descubrir que el chico que le gusta no es fanático de ella. Luego, Jackson considera invitar a salir a la hermana de su mejor amigo, quien ha regresado a casa del internado.</desc>
   </programme>
-  <programme start="20230505112600 -0400" stop="20230505115200 -0400" channel="0304">
+  <programme start="20230505122600 -0400" stop="20230505125200 -0400" channel="0304">
     <title lang="es">Austin &amp; Ally</title>
     <sub-title lang="es">11 Deejays &amp; Demos</sub-title>
     <desc lang="es">Sigue las aventuras de una pareja dispareja: un cantante y una compositora, que intentan alcanzar sus sueños. Austin, quien ya comenzó a dejar su huella como una próxima estrella del pop, debe confiar en los conocimientos musicales de Ally, quien se está convirtiendo velozmente en una intérprete por derecho propio. Austin dará su primera entrevista de radio y decide que es el momento perfecto para darle a Ally el crédito que se merece. Pero la entrevista no sale como la tenía planeada y el DJ invita a Austin y a Ally a realizar una presentación en vivo en la radio. La pandilla deberá resolver cómo superar el pánico escénico de Ally.</desc>
   </programme>
-  <programme start="20230505115200 -0400" stop="20230505122000 -0400" channel="0304">
+  <programme start="20230505125200 -0400" stop="20230505132000 -0400" channel="0304">
     <title lang="es">Atrapada en el medio</title>
     <sub-title lang="es">18 Stuck with a Hook, Line and Sinker</sub-title>
     <desc lang="es">En Atrapada en el medio, la inventora, investigadora, mediadora y muy persuasiva Harley Díaz se abre camino a través del ajetreo que conlleva ser parte de una feliz familia integrada por nueve miembros, desde la aventajada posición de ser la preadolescente hija del medio. Las conmovedoras y divertidas historias de esta gran familia encuentran a Harley ideando formas creativas para hacer frente y destacarse en su hogar, ubicado en los suburbios de Massachusetts. Su ingenio a menudo persuade a sus familiares, aun cuando sus muy diferentes personalidades conviven bajo el mismo techo. Para juntar dinero y tener unas vacaciones soñadas, Harley le alquila la casa de la familia a un pescador muy famoso.</desc>
   </programme>
-  <programme start="20230505122000 -0400" stop="20230505125500 -0400" channel="0304">
+  <programme start="20230505132000 -0400" stop="20230505135500 -0400" channel="0304">
     <title lang="es">Zack y Cody: gemelos a bordo</title>
     <sub-title lang="es">9 Compañeros de habitación</sub-title>
     <desc lang="es">Sigue las aventuras de los hermanos gemelos Zack y Cody Martin y la heredera del hotel, London, en un nuevo escenario, el SS Tipton, donde asisten a clases en el 'Seven Seas High' y conocen a Bailey Pickett, mientras el Sr. Moseby dirige el barco que viaja por el mundo a países como Italia, Grecia, India, Suecia y el Reino Unido, en el cual los personajes experimentaran culturas y diferentes situaciones. Zack decide mostrarle a Marcus lo que extrañaba cuando era una celebridad.</desc>
   </programme>
-  <programme start="20230505125500 -0400" stop="20230505132500 -0400" channel="0304">
+  <programme start="20230505135500 -0400" stop="20230505142500 -0400" channel="0304">
     <title lang="es">Gravity Falls: un verano de misterios</title>
     <sub-title lang="es">10 Los busca-pleitos</sub-title>
     <desc lang="es">Los mellizos Dipper y Mabel Pines se encuentran en medio de una inesperada aventura cuando pasan el verano con su tío abuelo en el misterioso pueblo de Gravity Falls, Oregón. Pronto, descubren que allí no todo es lo que parece. Luego de que Robbie, el novio de Wendy, desafía a Dipper a una batalla de videojuegos, éste entra en shock cuando su luchador favorito, RumbleMcSkirmish, cobra vida para defenderlo. Pero Dipper enseguida pierde control sobre RumbleMcSkirmish y tiene que encontrar la manera de detenerlo.</desc>
   </programme>
-  <programme start="20230505132500 -0400" stop="20230505135700 -0400" channel="0304">
+  <programme start="20230505142500 -0400" stop="20230505145700 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">22 Flechada</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Star invita a sus amigos a una piyamada y deciden jugar al juego 'Verdad o Castigo'. A la mañana siguiente, todos aprendieron que los sentimientos son cambiantes y Star descubre que está enamorada de Marco Díaz. / Star le regala a Marco una tarjeta de regalo sin saber que si su amigo no la cambia antes de que venza, por algo que verdaderamente le guste, ambos se convertirían en cenizas. Finalmente, encuentran un regalo que le gusta mucho a Marco: una billetera con candado muy segura. Así, evitan el fin de su amistad y se salvan de que los atrape el malvado villano.</desc>
   </programme>
-  <programme start="20230505135700 -0400" stop="20230505142800 -0400" channel="0304">
+  <programme start="20230505145700 -0400" stop="20230505152800 -0400" channel="0304">
     <title lang="es">Amphibia</title>
     <sub-title lang="es">8 La peste / El árbol de la familia</sub-title>
     <desc lang="es">Anne Boonchuy es una chica normal y corriente de trece años que un día, tras descubrir un baúl en apariencia inofensivo, es transportada al mundo de Amphibia, donde le da la bienvenida un grupo de ranas, sapos y de insectos gigantes. Con ayuda de Spig, su nuevo amigo, debe reajustar sus costumbres para vivir en un nuevo mundo en el que descubre lo que realmente significa la amistad. Anne finge enfermarse para salir del trabajo, pero el resto de la familia se enferma. / Sprig y Polly piensan que su historia familiar es aburrida hasta que descubren secretos familiares.</desc>
   </programme>
-  <programme start="20230505142800 -0400" stop="20230505150000 -0400" channel="0304">
+  <programme start="20230505152800 -0400" stop="20230505160000 -0400" channel="0304">
     <title lang="es">La casa de Raven</title>
     <sub-title lang="es">3 Smoky Flow</sub-title>
     <desc lang="es">Raven es una madre divorciada con 2 hijos pre-adolescentes llamados Nia y Booker. Nia heredó las habilidades de su madre al predecir el futuro, y del mismo modo que Raven, la chica apenas logrará ver una parte de lo que acontecerá, lo que terminará causando mucha confusión. Los gemelos Baxter y Tess forman 'The Chi-Lective' para participar en el Concurso en vivo de Radio Eclipse y ganar el gran premio de ,000. Le piden a Levi que dirija un video para su canción, 'Smoky Flow'.</desc>
   </programme>
-  <programme start="20230505150000 -0400" stop="20230505153000 -0400" channel="0304">
+  <programme start="20230505160000 -0400" stop="20230505163000 -0400" channel="0304">
     <title lang="es">Gabby Duran: niñera de aliens</title>
     <sub-title lang="es">2 Wesley and the Fischman</sub-title>
     <desc lang="es">Luego de vivir por años opacada por su exitosa madre y su inteligente hermana menor, Gaby, de tan solo 13 años, encuentra su momento de brillar al tomar un nuevo trabajo de niñera que consiste en cuidar a unos pequeños niños que en realidad son extraterrestres que se esconden con sus familias en la Tierra. Ella deberá usar su ingenio para mantenerlos a salvo junto con su identidad secreta. Gabby tiene que elegir entre mantener en secreto su nuevo trabajo secreto de cuidado de niños extraterrestres o arriesgarlo todo confiando en su mejor amigo obsesionado con los extraterrestres, Wesley.</desc>
   </programme>
-  <programme start="20230505153000 -0400" stop="20230505160000 -0400" channel="0304">
+  <programme start="20230505163000 -0400" stop="20230505170000 -0400" channel="0304">
     <title lang="es">Los vecinos Green</title>
     <sub-title lang="es">37 Ganarle al calor / Incredi-Bill</sub-title>
     <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Cricket y Remy tienen un partido de baloncesto en medio de una ola de calor masiva. / Para evitar meterse en problemas, Cricket engaña a su familia haciéndoles creer que están siendo invadidos por extraterrestres.</desc>
   </programme>
-  <programme start="20230505160000 -0400" stop="20230505162900 -0400" channel="0304">
+  <programme start="20230505170000 -0400" stop="20230505172900 -0400" channel="0304">
     <title lang="es">Miraculous: las aventuras de Ladybug</title>
     <sub-title lang="es">23 Avispa Reina: la batalla de la reina Parte 2</sub-title>
     <desc lang="es">Marinette parece una adolescente normal y corriente, pero es todo lo contrario. De hecho, la joven lleva una ajetreada doble vida: cuando no está soñando despierta con su adorado Adrien, se transforma en la superheroína 'Ladybug'. Lo que ella no se imagina es que el chico también tiene una subsistencia secreta con la que se hace llamar 'Cat Noir'. Ambos son completamente ajenos a la verdadera identidad del otro, pero los caminos de la independiente chica y el arrogante muchacho se cruzarán a lo largo de sus diferentes misiones. Después de los eventos del episodio anterior, Gabriel decide abandonar su misión de capturar a Ladybug y Cat Noir porque no puede arriesgarse a que su hijo se ponga en peligro por sus acciones. Hace una aparición pública por primera vez en años, cuando abraza a Adrien y da la bienvenida a Audrey. Cuando Audrey prefiere a Marinette como diseñadora excepcional y se ofrece a llevarla a Nueva York, Chloé se siente excluída por su madre. Tontamente saca el miraculous de la Abeja Milagrosa delante de todos y se transforma en la superheroína 'Abeja Reina', luego hace un caos en París para demostrar que puede ser una superheroína. Después de ser regañada por Ladybug y Cat Noir, Chloé se siente aún más indeseada. Gabriel la ve como la presa perfecta y, una vez más, se transforma en Hawk Moth para hacer que Queen Bee se convierta en 'Reina avispa', con un poder ilimitado para picar a las personas en estatuas paralizadas. Afortunadamente, Ladybug y Cat Noir logran convencer a Chloé para que devuelva el miraculous. Marinette finalmente rechaza la oferta de Audrey, mientras que Audrey decide quedarse en París por mucho tiempo y pasar más tiempo con Chloé. Gabriel sabe que sin las dos miraculous nunca podrá cumplir su deseo de recuperar a su esposa.</desc>
   </programme>
-  <programme start="20230505162900 -0400" stop="20230505170100 -0400" channel="0304">
+  <programme start="20230505172900 -0400" stop="20230505180100 -0400" channel="0304">
     <title lang="es">Sydney como Max</title>
     <sub-title lang="es">11 Do the Write Thing</sub-title>
     <desc lang="es">Gira en torno a Sydney Reynolds, una estudiante muy sociable y amable. Junto a su padre soltero y protector llamado Max, deben hacer frente a los desafíos que se dan cuando se crece. La ficción está ambientada en el presente, pero con recuerdos retrospectivos de la década de 1990. Gracias a ello y a la ayuda de la abuela Judy, padre e hija se dan cuenta que tienen en común mucho más de lo que pensaban.</desc>
   </programme>
-  <programme start="20230505170100 -0400" stop="20230505173100 -0400" channel="0304">
+  <programme start="20230505180100 -0400" stop="20230505183100 -0400" channel="0304">
     <title lang="es">Ultra Violeta y el Escorpión Negro</title>
     <sub-title lang="es">2 You Like Me! You Really Like Me!</sub-title>
     <desc lang="es">Violet Rodriguez, una adolescente común, es elegida por una máscara mágica de luchador que la transforma en Ultra Violet, una superheroína que lucha contra el crimen junto al luchador Tío Cruz, también conocido como Black Scorpion. Preocupada por que su cuenta de redes sociales Ultra Violet no obtenga suficientes Me gusta, Violet se impacienta con las técnicas de entrenamiento de Cruz y planea su propia misión de lucha contra el crimen.</desc>
   </programme>
-  <programme start="20230505173100 -0400" stop="20230505180300 -0400" channel="0304">
+  <programme start="20230505183100 -0400" stop="20230505190300 -0400" channel="0304">
     <title lang="es">Acampados</title>
     <sub-title lang="es">123 Historia del lejano oeste</sub-title>
     <desc lang="es">Los hermanos Emma, Ravi y Zuri pasarán su verano en el Campamento Kikiwaka, el mismo en el que sus padres se conocieron de jóvenes, y donde les tocará lidiar para bien y para mal con un nuevo grupo de amigos y figuras de autoridad.</desc>
   </programme>
-  <programme start="20230505180300 -0400" stop="20230505193300 -0400" channel="0304">
+  <programme start="20230505190300 -0400" stop="20230505203300 -0400" channel="0304">
     <title lang="es">El curioso caso de Dolphin Bay</title>
     <desc lang="es">Son las vacaciones de verano y Quinn Perkins, un adolescente de 15 años, está entusiasmado por trabajar como pasante con su mejor amiga Daniela. Sin embargo comienzan a ocurrir eventos misteriosos y ambos creen que están siendo acechados por una leyenda local, Everly Fallow.</desc>
   </programme>
-  <programme start="20230505193300 -0400" stop="20230505200000 -0400" channel="0304">
+  <programme start="20230505203300 -0400" stop="20230505210000 -0400" channel="0304">
     <title lang="es">Acampados</title>
     <sub-title lang="es">4 ¡Huele a espíritu de campamento!</sub-title>
     <desc lang="es">Los hermanos Emma, Ravi y Zuri pasarán su verano en el Campamento Kikiwaka, el mismo en el que sus padres se conocieron de jóvenes, y donde les tocará lidiar para bien y para mal con un nuevo grupo de amigos y figuras de autoridad. ¡Emma y Xander pierden la rama espiritual del campamento, lo que maldice a los campistas con mala suerte! Mientras, Jorge y Tiffany intentan enseñarle a nadar a Ravi.</desc>
   </programme>
-  <programme start="20230505200000 -0400" stop="20230505214400 -0400" channel="0304">
+  <programme start="20230505210000 -0400" stop="20230505224400 -0400" channel="0304">
     <title lang="es">Escalofríos</title>
     <desc lang="es">Zach Cooper es un adolescente que acaba de mudarse, sin demasiado entusiasmo, junto a su familia de Nueva York al pequeño pueblo de Greendale. Su humor cambia cuando conoce a su vecina, la guapa Hannah, quien resulta ser la hija de RL Stine, autor del Bestseller de la serie 'Escalofríos'. Todo cambia luego de que Zach descubre que el escritor guarda un obscuro secreto: las criaturas de sus historias son reales, y las mantiene encerradas en sus libros.</desc>
   </programme>
-  <programme start="20230505214400 -0400" stop="20230505221300 -0400" channel="0304">
+  <programme start="20230505224400 -0400" stop="20230505231300 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">5 Las vacaciones de la familia Díaz / La fiesta de Brittney</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Luego de invitar a los Díaz a un viaje a Mewni como un regalo de aniversario de último momento, Star y Marco deben salvarlos de una serpiente de muchas cabezas. / Star debe luchar contra Ludo y su ejército de monstruos cuando éstos aparecen en la fiesta de cumpleaños de Brittney Wong.</desc>
   </programme>
-  <programme start="20230505221300 -0400" stop="20230505224300 -0400" channel="0304">
+  <programme start="20230505231300 -0400" stop="20230505234300 -0400" channel="0304">
     <title lang="es">Sunny, entre estrellas</title>
     <sub-title lang="es">1 El comienzo</sub-title>
     <desc lang="es">La talentosa Allison 'Sunny' Munroe pasa del Medio Oeste de Estados Unidos a Los Ángeles para unirse al elenco de '¡Qué Onda!', la comedia de sketches para niños y preadolescentes más popular de la nación.</desc>
   </programme>
-  <programme start="20230505224300 -0400" stop="20230505231000 -0400" channel="0304">
+  <programme start="20230505234300 -0400" stop="20230506001000 -0400" channel="0304">
     <title lang="es">Sunny, entre estrellas</title>
     <sub-title lang="es">2 Amigos rápidos</sub-title>
     <desc lang="es">La talentosa Allison 'Sunny' Munroe pasa del Medio Oeste de Estados Unidos a Los Ángeles para unirse al elenco de '¡Qué Onda!', la comedia de sketches para niños y preadolescentes más popular de la nación.</desc>
   </programme>
-  <programme start="20230505231000 -0400" stop="20230505233600 -0400" channel="0304">
+  <programme start="20230506001000 -0400" stop="20230506003600 -0400" channel="0304">
     <title lang="es">¡Qué onda!</title>
     <sub-title lang="es">48 Invitado musical: Cody Simpson</sub-title>
     <desc lang="es">La serie lleva a los espectadores a la audiencia de ¡Qué onda!, el exitoso programa de TV para niños y preadolescentes de Sunny, entre estrellas, donde a los populares personajes Tawni, Grady, Nico, Zora y el rival Chad Dylan Cooper se unen nuevos actores para la interpretación de sketches cómicos originales. Cada episodio contará con un invitado especial o artista de la música. Los sketches presentarán nuevos personajes.</desc>
   </programme>
-  <programme start="20230505233600 -0400" stop="20230506000300 -0400" channel="0304">
+  <programme start="20230506003600 -0400" stop="20230506010300 -0400" channel="0304">
     <title lang="es">¡Qué onda!</title>
     <sub-title lang="es">49 Invitado especial: Tony Hawk</sub-title>
     <desc lang="es">La serie lleva a los espectadores a la audiencia de ¡Qué onda!, el exitoso programa de TV para niños y preadolescentes de Sunny, entre estrellas, donde a los populares personajes Tawni, Grady, Nico, Zora y el rival Chad Dylan Cooper se unen nuevos actores para la interpretación de sketches cómicos originales. Cada episodio contará con un invitado especial o artista de la música. Los sketches presentarán nuevos personajes.</desc>
   </programme>
-  <programme start="20230506000300 -0400" stop="20230506002900 -0400" channel="0304">
+  <programme start="20230506010300 -0400" stop="20230506012900 -0400" channel="0304">
     <title lang="es">Miraculous: las aventuras de Ladybug</title>
     <sub-title lang="es">19 Reflekta</sub-title>
     <desc lang="es">Marinette parece una adolescente normal y corriente, pero es todo lo contrario. De hecho, la joven lleva una ajetreada doble vida: cuando no está soñando despierta con su adorado Adrien, se transforma en la superheroína 'Ladybug'. Lo que ella no se imagina es que el chico también tiene una subsistencia secreta con la que se hace llamar 'Cat Noir'. Ambos son completamente ajenos a la verdadera identidad del otro, pero los caminos de la independiente chica y el arrogante muchacho se cruzarán a lo largo de sus diferentes misiones. Víctima de la 'maldición del día de la foto de la clase', Juleka una vez más no está en la foto porque Chloé la encerró en el baño para ocupar su lugar junto a Adrien. Marinette quiere ayudar a Juleka pero nadie quiere tomar la foto otra vez. Marinette decide deshacerse de la imagen para que el fotógrafo tenga que volver a tomarla.</desc>
   </programme>
-  <programme start="20230506002900 -0400" stop="20230506005500 -0400" channel="0304">
+  <programme start="20230506012900 -0400" stop="20230506015500 -0400" channel="0304">
     <title lang="es">La casa de Raven</title>
     <sub-title lang="es">13 Mad About Yuletide Part One</sub-title>
     <desc lang="es">Raven es una madre divorciada con 2 hijos pre-adolescentes llamados Nia y Booker. Nia heredó las habilidades de su madre al predecir el futuro, y del mismo modo que Raven, la chica apenas logrará ver una parte de lo que acontecerá, lo que terminará causando mucha confusión.</desc>
   </programme>
-  <programme start="20230506005500 -0400" stop="20230506011900 -0400" channel="0304">
+  <programme start="20230506015500 -0400" stop="20230506021900 -0400" channel="0304">
     <title lang="es">Gabby Duran: niñera de aliens</title>
     <sub-title lang="es">10 Sky's First Youth Overnight Sleeping Event</sub-title>
     <desc lang="es">Luego de vivir por años opacada por su exitosa madre y su inteligente hermana menor, Gaby, de tan solo 13 años, encuentra su momento de brillar al tomar un nuevo trabajo de niñera que consiste en cuidar a unos pequeños niños que en realidad son extraterrestres que se esconden con sus familias en la Tierra. Ella deberá usar su ingenio para mantenerlos a salvo junto con su identidad secreta.</desc>
   </programme>
-  <programme start="20230506011900 -0400" stop="20230506014400 -0400" channel="0304">
+  <programme start="20230506021900 -0400" stop="20230506024400 -0400" channel="0304">
     <title lang="es">Sydney como Max</title>
     <sub-title lang="es">20 Look Who's Rocking</sub-title>
     <desc lang="es">Gira en torno a Sydney Reynolds, una estudiante muy sociable y amable. Junto a su padre soltero y protector llamado Max, deben hacer frente a los desafíos que se dan cuando se crece. La ficción está ambientada en el presente, pero con recuerdos retrospectivos de la década de 1990. Gracias a ello y a la ayuda de la abuela Judy, padre e hija se dan cuenta que tienen en común mucho más de lo que pensaban. La abuela Judy conoce a su estrella de rock favorita, Davey Rogers.</desc>
   </programme>
-  <programme start="20230506014400 -0400" stop="20230506020800 -0400" channel="0304">
+  <programme start="20230506024400 -0400" stop="20230506030800 -0400" channel="0304">
     <title lang="es">Acampados</title>
     <sub-title lang="es">6 Water Under the Dock</sub-title>
     <desc lang="es">Los hermanos Emma, Ravi y Zuri pasarán su verano en el Campamento Kikiwaka, el mismo en el que sus padres se conocieron de jóvenes, y donde les tocará lidiar para bien y para mal con un nuevo grupo de amigos y figuras de autoridad. Destiny organiza un baile para recaudar dinero con el que limpiar el lago Kikiwaka. Con la intención de vender más boletos, Destiny invita al baile a Austin Justin, el rival de Noah.</desc>
   </programme>
-  <programme start="20230506020800 -0400" stop="20230506023000 -0400" channel="0304">
+  <programme start="20230506030800 -0400" stop="20230506033000 -0400" channel="0304">
     <title lang="es">Gravity Falls: un verano de misterios</title>
     <sub-title lang="es">3 Los cazadores de cabezas</sub-title>
     <desc lang="es">Los mellizos Dipper y Mabel Pines se encuentran en medio de una inesperada aventura cuando pasan el verano con su tío abuelo en el misterioso pueblo de Gravity Falls, Oregón. Pronto, descubren que allí no todo es lo que parece. Cuando alguien altera la estatua de cera tamaño real de Mabel, ella y Dipper se encargan de encontrar al responsable. Mientras, el Tío Stan lamenta la pérdida de su doble de cera.</desc>
   </programme>
-  <programme start="20230506023000 -0400" stop="20230506025200 -0400" channel="0304">
+  <programme start="20230506033000 -0400" stop="20230506035200 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">18 Claro como el cristal / El modo difícil</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Rhombulos está convencido de que Star es la fuente de una falla mágica en todo el universo y la lleva ante el canciller de la Alta Comisión Mágica. / Ludo obliga a Glossaryck a enseñarle cosas sobre el libro de hechizos.</desc>
   </programme>
-  <programme start="20230506025200 -0400" stop="20230506031500 -0400" channel="0304">
+  <programme start="20230506035200 -0400" stop="20230506041500 -0400" channel="0304">
     <title lang="es">Los vecinos Green</title>
     <sub-title lang="es">26 Bleeped / Sellouts</sub-title>
     <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Cricket se interesa en una palabrota y la repite en contra de los deseos de Bill. Los Greens prueban varios métodos para aumentar las ventas en su puesto de verduras.</desc>
   </programme>
-  <programme start="20230506031500 -0400" stop="20230506033700 -0400" channel="0304">
+  <programme start="20230506041500 -0400" stop="20230506043700 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">15 Po-po / Britta's Tacos</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Cuando las manos de Kick y Kendall quedan pegadas por una extraña savia de cueva, ambos deberán conseguir un solvente del laboratorio de Reynaldo y despegarse sin que los vean.</desc>
   </programme>
-  <programme start="20230506033700 -0400" stop="20230506040000 -0400" channel="0304">
+  <programme start="20230506043700 -0400" stop="20230506050000 -0400" channel="0304">
     <title lang="es">Miraculous: las aventuras de Ladybug</title>
     <sub-title lang="es">19 Reflekta</sub-title>
     <desc lang="es">Marinette parece una adolescente normal y corriente, pero es todo lo contrario. De hecho, la joven lleva una ajetreada doble vida: cuando no está soñando despierta con su adorado Adrien, se transforma en la superheroína 'Ladybug'. Lo que ella no se imagina es que el chico también tiene una subsistencia secreta con la que se hace llamar 'Cat Noir'. Ambos son completamente ajenos a la verdadera identidad del otro, pero los caminos de la independiente chica y el arrogante muchacho se cruzarán a lo largo de sus diferentes misiones. Víctima de la 'maldición del día de la foto de la clase', Juleka una vez más no está en la foto porque Chloé la encerró en el baño para ocupar su lugar junto a Adrien. Marinette quiere ayudar a Juleka pero nadie quiere tomar la foto otra vez. Marinette decide deshacerse de la imagen para que el fotógrafo tenga que volver a tomarla.</desc>
   </programme>
-  <programme start="20230506040000 -0400" stop="20230506042500 -0400" channel="0304">
+  <programme start="20230506050000 -0400" stop="20230506052500 -0400" channel="0304">
     <title lang="es">Los vecinos Green</title>
     <sub-title lang="es">9 Rellenen a Bill / Granja-balones perdidos</sub-title>
     <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Cuando los Greens cenan en un restaurante de mariscos, Cricket y Tilly deciden rescatar un pulpo vivo. Luego Cricket pierde todas sus bolas de bichos y Gloria se niega a devolverlas.</desc>
   </programme>
-  <programme start="20230506042500 -0400" stop="20230506045000 -0400" channel="0304">
+  <programme start="20230506052500 -0400" stop="20230506055000 -0400" channel="0304">
     <title lang="es">Gravity Falls: un verano de misterios</title>
     <sub-title lang="es">11 El pequeño Dipper</sub-title>
     <desc lang="es">Los mellizos Dipper y Mabel Pines se encuentran en medio de una inesperada aventura cuando pasan el verano con su tío abuelo en el misterioso pueblo de Gravity Falls, Oregón. Pronto, descubren que allí no todo es lo que parece. Dipper es consciente de que Mabel es más alta que él y se está convirtiendo en la melliza alfa, así que busca una manera mágica de crecer hasta llegar a la misma altura que ella. Mientras, Gideon saca provecho de las discrepancias de altura que existen entre Dipper y Mabel.</desc>
   </programme>
-  <programme start="20230506045000 -0400" stop="20230506050200 -0400" channel="0304">
+  <programme start="20230506055000 -0400" stop="20230506060200 -0400" channel="0304">
     <title lang="es">Amphibia</title>
     <sub-title lang="es">7 El efecto dominó</sub-title>
     <desc lang="es">Anne Boonchuy es una chica normal y corriente de trece años que un día, tras descubrir un baúl en apariencia inofensivo, es transportada al mundo de Amphibia, donde le da la bienvenida un grupo de ranas, sapos y de insectos gigantes. Con ayuda de Spig, su nuevo amigo, debe reajustar sus costumbres para vivir en un nuevo mundo en el que descubre lo que realmente significa la amistad. La familia se embarca en una misión para intentar recargar el teléfono de Anne.</desc>
   </programme>
-  <programme start="20230506050200 -0400" stop="20230506053100 -0400" channel="0304">
+  <programme start="20230506060200 -0400" stop="20230506063100 -0400" channel="0304">
     <title lang="es">Patoaventuras</title>
     <sub-title lang="es">1 ¡Woo-oo!</sub-title>
     <desc lang="es">El Pato Donald lleva a regañadientes a sus sobrinos Huey, Dewey y Louie a la casa de su tío abuelo Scrooge McDuck. Entusiasmados por su legendario tío abuelo, los trillizos y su nueva y feroz amiga Webby descubren secretos familiares guardados durante mucho tiempo y liberan totems del pasado épico de Scrooge, enviando a la familia a una aventura. El pato Donald lleva a Hugo, Paco y Luis a la apartada mansión del Tío Rico McPato, donde descubren los secretos de la familia y se aventuran más de lo que imaginaron.</desc>
   </programme>
-  <programme start="20230506053100 -0400" stop="20230506060000 -0400" channel="0304">
+  <programme start="20230506063100 -0400" stop="20230506070000 -0400" channel="0304">
     <title lang="es">Enredados otra vez: la serie</title>
     <sub-title lang="es">Reina por un día Parte 1</sub-title>
     <desc lang="es">Rapunzel ha vuelto a su reino con ganas de más aventuras. Su largo cabello rubio repentinamente vuelve a crecer y debe aceptar sus cualidades mágicas y todo lo que representa. Siempre acompañada por su querido Eugene, su leal camaleón, Pascal y su obediente caballo Maximus. A ellos se une Cassandra, que se convertirá en la confidente de Rapunzel. A Rapunzel le emociona su primera oportunidad de gobernar cuando el rey y la reina salen del pueblo para celebrar su aniversario. Una terrible ventisca amenaza con destruir Corona y la princesa se enfrenta a decisiones devastadoras.</desc>
   </programme>
-  <programme start="20230506060000 -0400" stop="20230506062700 -0400" channel="0304">
+  <programme start="20230506070000 -0400" stop="20230506072700 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">1 Star llega a la Tierra / De paseo con un pony</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Como estipula la tradición, Star recibe la Varita Mágica Real cuando cumple catorce años, pero los padres temen que no esté lista para tal responsabilidad y la envían a un lugar que consideran seguro: la Tierra. / La mejor amiga de Star viene desde su dimensión a visitarla y se siente amenazada por la nueva amistad de Star con Marco.</desc>
   </programme>
-  <programme start="20230506062700 -0400" stop="20230506070000 -0400" channel="0304">
+  <programme start="20230506072700 -0400" stop="20230506080000 -0400" channel="0304">
     <title lang="es">Miraculous: las aventuras de Ladybug</title>
     <sub-title lang="es">4 Animaestro</sub-title>
     <desc lang="es">Marinette parece una adolescente normal y corriente, pero es todo lo contrario. De hecho, la joven lleva una ajetreada doble vida: cuando no está soñando despierta con su adorado Adrien, se transforma en la superheroína 'Ladybug'. Lo que ella no se imagina es que el chico también tiene una subsistencia secreta con la que se hace llamar 'Cat Noir'. Ambos son completamente ajenos a la verdadera identidad del otro, pero los caminos de la independiente chica y el arrogante muchacho se cruzarán a lo largo de sus diferentes misiones. Se estrenará una película animada en 2D con Ladybug y Cat Noir, y se le pedirá a los Dupain-Chengs que atiendan el evento. Marinette intenta darle a Adrien un macarrón que hizo especialmente para él. Sin embargo, Kagami aparece y Marinette termina trabajando junto a Chloé (a quien también le disgusta Kagami) para mantener a Kagami lejos de Adrien. Cuando fracasan, Chloé se da cuenta de que Marinette está enamorada de Adrien. Mientras tanto, el director Thomas Astruc se burla cuando no puede explicar su papel en la producción de la película. Abatido, Astruc es víctima de Hawk Moth y se transforma en 'Animaestro', un supervillano capaz de transformarse en varias criaturas 2D. Después de que Ladybug y Cat Noir lo derrotan, Astruc deja su asiento en el estreno de Marinette y ella lo toma, justo al lado de Adrien.</desc>
   </programme>
-  <programme start="20230506070000 -0400" stop="20230506073700 -0400" channel="0304">
+  <programme start="20230506080000 -0400" stop="20230506083700 -0400" channel="0304">
     <title lang="es">Slime Chef</title>
     <desc lang="es">Una competencia con diversión, alegría y juegos, en donde los participantes deberán superar distintas pruebas para demostrar quién es el mejor slimer. Además, el ciclo contará con participaciones especiales de celebridades e influencers reconocidos.</desc>
   </programme>
-  <programme start="20230506073700 -0400" stop="20230506080000 -0400" channel="0304">
+  <programme start="20230506083700 -0400" stop="20230506090000 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">6 Mewbertad / Hadápolis</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Cuando comienzan a brotar corazones por todo el cuerpo de Star, una característica típica de la Mewbertad, Marco busca una manera de evitar que pierda el control. / Marco y sus amigos viajan a una dimensión de duendes y son obligados a pagar sus deudas trabajando en las minas después de recibir una abultada cuenta por realizar bromas telefónicas con el espejo mágico.</desc>
   </programme>
-  <programme start="20230506080000 -0400" stop="20230506083000 -0400" channel="0304">
+  <programme start="20230506090000 -0400" stop="20230506093000 -0400" channel="0304">
     <title lang="es">Los vecinos Green</title>
     <sub-title lang="es">10 El día del desfile / Hágalo usted mismo</sub-title>
     <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Cricket deja a Gloria para que trabaje sola en la cafetería mientras él disfruta del desfile en su descanso./ Bill usa un viaje a la ferretería para enseñarle a Remy una lección de autosuficiencia.</desc>
   </programme>
-  <programme start="20230506083000 -0400" stop="20230506090000 -0400" channel="0304">
+  <programme start="20230506093000 -0400" stop="20230506100000 -0400" channel="0304">
     <title lang="es">Jessie</title>
     <sub-title lang="es">13 La princesa y el cerebro de guisante</sub-title>
     <desc lang="es">Jessie es una chica pueblerina con grandes sueños, que se embarca en la aventura más grande de su vida cuando decide dejar atrás sus noches estrelladas de la zona rural de Texas, y cambiarlas por las luces de la Gran Manzana. Entusiasmada ante la posibilidad de independizarse y resuelta a no dejarse intimidar por Nueva York, acepta un trabajo como niñera. Con todo un nuevo mundo de oportunidades a su alcance, ella comienza a explorar su madurez y la subsistencia en la gran ciudad, y se sorprende de lo mucho que llegará a confiar en el apoyo y consejo de los pequeños a su cuidado. Los cuentos de hadas cobran vida cuando Jessie y Zuri leen un cuento antes de irse a dormir que sitúa a la pandilla en tiempos medievales. Mientras, Jessie está entusiasmada y Tony se siente celoso cuando Brody la invita a salir.</desc>
   </programme>
-  <programme start="20230506090000 -0400" stop="20230506092900 -0400" channel="0304">
+  <programme start="20230506100000 -0400" stop="20230506102900 -0400" channel="0304">
     <title lang="es">Ultra Violeta y el Escorpión Negro</title>
     <sub-title lang="es">6 ¡Chisme! ¡Chisme! Read All About It!</sub-title>
-    <desc lang="es">Violet Rodriguez, una adolescente común, es elegida por una máscara mágica de luchador que la transforma en Ultra Violet, una superheroína que lucha contra el crimen junto al luchador Tío Cruz, también conocido como Black Scorpion.</desc>
+    <desc lang="es">Violet Rodriguez, una adolescente común, es elegida por una máscara mágica de luchador que la transforma en Ultra Violet, una superheroína que lucha contra el crimen junto al luchador Tío Cruz, también conocido como Black Scorpion. Cuando en la escuela un bloguero de chismes anónimo comienza a revelar secretos vergonzosos, Violet recurre a medidas cuestionables para detenerlo.</desc>
   </programme>
-  <programme start="20230506092900 -0400" stop="20230506100000 -0400" channel="0304">
+  <programme start="20230506102900 -0400" stop="20230506110000 -0400" channel="0304">
     <title lang="es">La casa de Raven</title>
     <sub-title lang="es">4 Cop to It</sub-title>
     <desc lang="es">Raven es una madre divorciada con 2 hijos pre-adolescentes llamados Nia y Booker. Nia heredó las habilidades de su madre al predecir el futuro, y del mismo modo que Raven, la chica apenas logrará ver una parte de lo que acontecerá, lo que terminará causando mucha confusión. El encargado acusa a alguien de haber pintado uno de los costados del edificio y Raven cree que Tess es responsable.</desc>
   </programme>
-  <programme start="20230506100000 -0400" stop="20230506112900 -0400" channel="0304">
+  <programme start="20230506110000 -0400" stop="20230506122900 -0400" channel="0304">
     <title lang="es">El curioso caso de Dolphin Bay</title>
     <desc lang="es">Son las vacaciones de verano y Quinn Perkins, un adolescente de 15 años, está entusiasmado por trabajar como pasante con su mejor amiga Daniela. Sin embargo comienzan a ocurrir eventos misteriosos y ambos creen que están siendo acechados por una leyenda local, Everly Fallow.</desc>
   </programme>
-  <programme start="20230506112900 -0400" stop="20230506114100 -0400" channel="0304">
+  <programme start="20230506122900 -0400" stop="20230506124100 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">47 Dentro de la varita</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. A Star se le rompe la varita y decide meterse dentro de ella para encontrar la razón por la cual no le funciona. Dentro de ella, se encuentra con varias 'Stars' ya que la línea temporal se había multiplicado, por lo cual debe pelear contra ellas.</desc>
   </programme>
-  <programme start="20230506114100 -0400" stop="20230506120200 -0400" channel="0304">
+  <programme start="20230506124100 -0400" stop="20230506130200 -0400" channel="0304">
     <title lang="es">Star vs. Las fuerzas del mal</title>
     <sub-title lang="es">7 Pinzas de langosta / Hechizos en sueño</sub-title>
     <desc lang="es">Sigue la historia de Star, una apasionada y genial princesa adolescente de otra dimensión. Después de recibir una Varita Mágica Real todopoderosa para su cumpleaños número 14, sus padres de la realeza la envían a vivir con la familia Díaz y su responsable hijo Marco en la Tierra, y ella lleva su estilo interdimensional único a su nuevo hogar. Junto con Marco, se hacen camino por la escuela secundaria y emprenden aventuras en las que saltan de una dimensión a otra en todo el multiverso, a la vez que mantienen la varita fuera de las garras del archienemigo Ludo y sus monstruosas fuerzas del mal. Cuando Ludo despide a uno de sus monstruos secuaces, Pinzas de langosta, Marco y Star intentan ayudarlo para que se acostumbre a la vida en la Tierra. / Cuando Star usa su varita dormida, Marco intenta usar la psicología para curarla, pero su magia nocturna resulta ser su defensa subconsciente contra un delincuente interdimensional que intenta robarle la cara.</desc>
   </programme>
-  <programme start="20230506120200 -0400" stop="20230506123100 -0400" channel="0304">
+  <programme start="20230506130200 -0400" stop="20230506133100 -0400" channel="0304">
     <title lang="es">Star Wars Rebels</title>
     <sub-title lang="es">1 Spark of Rebellion</sub-title>
     <desc lang="es">El canciller supremo Palpatine ha ideado una falsa guerra para aumentar su poder dentro de la República Galáctica y con ella ha proclamado un Imperio del que él es líder supremo. Para consolidar su nuevo régimen, tratará de destruir a la noble Orden Jedi, al tiempo que surge en la sombra un movimiento rebelde. Ezra Bridger encuentra a la tripulación fantasma y se les une en una misión para liberar a los Wookiees de un Destructor Estelar del Imperio.</desc>
   </programme>
-  <programme start="20230506123100 -0400" stop="20230506125800 -0400" channel="0304">
+  <programme start="20230506133100 -0400" stop="20230506135800 -0400" channel="0304">
     <title lang="es">Star Wars Rebels</title>
     <sub-title lang="es">1 Spark of Rebellion</sub-title>
     <desc lang="es">El canciller supremo Palpatine ha ideado una falsa guerra para aumentar su poder dentro de la República Galáctica y con ella ha proclamado un Imperio del que él es líder supremo. Para consolidar su nuevo régimen, tratará de destruir a la noble Orden Jedi, al tiempo que surge en la sombra un movimiento rebelde. Ezra Bridger encuentra a la tripulación fantasma y se les une en una misión para liberar a los Wookiees de un Destructor Estelar del Imperio.</desc>
   </programme>
-  <programme start="20230506125800 -0400" stop="20230506132500 -0400" channel="0304">
+  <programme start="20230506135800 -0400" stop="20230506142500 -0400" channel="0304">
     <title lang="es">Star Wars Rebels</title>
     <sub-title lang="es">2 Droids in Distress</sub-title>
     <desc lang="es">El canciller supremo Palpatine ha ideado una falsa guerra para aumentar su poder dentro de la República Galáctica y con ella ha proclamado un Imperio del que él es líder supremo. Para consolidar su nuevo régimen, tratará de destruir a la noble Orden Jedi, al tiempo que surge en la sombra un movimiento rebelde. Ezra y Zeb van al mercado de Lothal para obtener provisiones y trabajar en su relación.</desc>
   </programme>
-  <programme start="20230506132500 -0400" stop="20230506135200 -0400" channel="0304">
+  <programme start="20230506142500 -0400" stop="20230506145200 -0400" channel="0304">
     <title lang="es">Star Wars Rebels</title>
     <sub-title lang="es">3 Fighter Flight</sub-title>
     <desc lang="es">El canciller supremo Palpatine ha ideado una falsa guerra para aumentar su poder dentro de la República Galáctica y con ella ha proclamado un Imperio del que él es líder supremo. Para consolidar su nuevo régimen, tratará de destruir a la noble Orden Jedi, al tiempo que surge en la sombra un movimiento rebelde. Zeb y Ezra van a buscar suministros de una fruta difícil de encontrar, pero de forma inesperada, ambos llaman la atención y terminan por robar un interceptor TIE para escapar del imperio.</desc>
   </programme>
-  <programme start="20230506135200 -0400" stop="20230506142000 -0400" channel="0304">
+  <programme start="20230506145200 -0400" stop="20230506152000 -0400" channel="0304">
     <title lang="es">Star Wars Rebels</title>
     <sub-title lang="es">4 Rise of the Old Masters</sub-title>
     <desc lang="es">El canciller supremo Palpatine ha ideado una falsa guerra para aumentar su poder dentro de la República Galáctica y con ella ha proclamado un Imperio del que él es líder supremo. Para consolidar su nuevo régimen, tratará de destruir a la noble Orden Jedi, al tiempo que surge en la sombra un movimiento rebelde.</desc>
   </programme>
-  <programme start="20230506142000 -0400" stop="20230506144800 -0400" channel="0304">
+  <programme start="20230506152000 -0400" stop="20230506154800 -0400" channel="0304">
     <title lang="es">Star Wars Rebels</title>
     <sub-title lang="es">5 Breaking Ranks</sub-title>
     <desc lang="es">El canciller supremo Palpatine ha ideado una falsa guerra para aumentar su poder dentro de la República Galáctica y con ella ha proclamado un Imperio del que él es líder supremo. Para consolidar su nuevo régimen, tratará de destruir a la noble Orden Jedi, al tiempo que surge en la sombra un movimiento rebelde.</desc>
   </programme>
-  <programme start="20230506144800 -0400" stop="20230506150000 -0400" channel="0304">
+  <programme start="20230506154800 -0400" stop="20230506160000 -0400" channel="0304">
     <title lang="es">Phineas y Ferb</title>
     <sub-title lang="es">38 Viaje a los sentimientos de Buford</sub-title>
     <desc lang="es">¡Las vacaciones de verano están a punto de comenzar! Phineas y Ferb, dos medio hermanos de diez años de edad, decidirán que cada día se vuelva más emocionante que el anterior a través de fabulosas aventuras, como construir una montaña rusa que desafíe todos los limites en su propio patio trasero. Sus locuras siempre terminarán arruinándole el estilo y glamour a su hermana adolescente, Candance, quien constantemente hace inútiles intentos por contarle a su madre acerca de estos acontecimientos. De repente, Buford no actúa como el bravucón que todos aprendieron a amar. Resulta que su pez dorado se ha perdido, y eso lo tiene realmente triste. Phineas y Ferb odian ver a Buford así (sobre todo desde que está tan deprimido y molesto), de modo que se organizan para ayudarlo a encontrar a su pez. Mientras tanto, el doctor D. trata de destruir una cinta de video en la que él está salvando a un gatito.</desc>
   </programme>
-  <programme start="20230506150000 -0400" stop="20230506153100 -0400" channel="0304">
+  <programme start="20230506160000 -0400" stop="20230506163100 -0400" channel="0304">
     <title lang="es">Acampados</title>
     <sub-title lang="es">123 Historia del lejano oeste</sub-title>
     <desc lang="es">Los hermanos Emma, Ravi y Zuri pasarán su verano en el Campamento Kikiwaka, el mismo en el que sus padres se conocieron de jóvenes, y donde les tocará lidiar para bien y para mal con un nuevo grupo de amigos y figuras de autoridad.</desc>
   </programme>
-  <programme start="20230506153100 -0400" stop="20230506160100 -0400" channel="0304">
+  <programme start="20230506163100 -0400" stop="20230506170100 -0400" channel="0304">
     <title lang="es">Ultra Violeta y el Escorpión Negro</title>
     <sub-title lang="es">6 ¡Chisme! ¡Chisme! Read All About It!</sub-title>
-    <desc lang="es">Violet Rodriguez, una adolescente común, es elegida por una máscara mágica de luchador que la transforma en Ultra Violet, una superheroína que lucha contra el crimen junto al luchador Tío Cruz, también conocido como Black Scorpion.</desc>
+    <desc lang="es">Violet Rodriguez, una adolescente común, es elegida por una máscara mágica de luchador que la transforma en Ultra Violet, una superheroína que lucha contra el crimen junto al luchador Tío Cruz, también conocido como Black Scorpion. Cuando en la escuela un bloguero de chismes anónimo comienza a revelar secretos vergonzosos, Violet recurre a medidas cuestionables para detenerlo.</desc>
   </programme>
-  <programme start="20230506160100 -0400" stop="20230506163100 -0400" channel="0304">
+  <programme start="20230506170100 -0400" stop="20230506173100 -0400" channel="0304">
     <title lang="es">Amphibia</title>
     <sub-title lang="es">5 Rápida y curiosa / Brote de fama</sub-title>
     <desc lang="es">Anne Boonchuy es una chica normal y corriente de trece años que un día, tras descubrir un baúl en apariencia inofensivo, es transportada al mundo de Amphibia, donde le da la bienvenida un grupo de ranas, sapos y de insectos gigantes. Con ayuda de Spig, su nuevo amigo, debe reajustar sus costumbres para vivir en un nuevo mundo en el que descubre lo que realmente significa la amistad. En un intento por aprender a conducir la carreta de caracoles de la familia, Anne y Sprig se lo llevan a dar un paseo./ La ruptura de un grano de Anne la convierte en una celebridad en Wartwood.</desc>
   </programme>
-  <programme start="20230506163100 -0400" stop="20230506170000 -0400" channel="0304">
+  <programme start="20230506173100 -0400" stop="20230506180000 -0400" channel="0304">
     <title lang="es">The Owl House - La Casa Búho</title>
     <sub-title lang="es">11 Sensatez y resentimientos</sub-title>
     <desc lang="es">Luz, una adolescente segura de sí misma, descubre la entrada a un reino mágico, donde se hace amiga de Eda, una bruja rebelde, y de King, un guerrero diminuto. A pesar de no tener poder, Luz se convierte en la aprendiz de Eda para ser una bruja. Cuando King se convierte en un autor de libros existosos en ventas, aprende una valiosa lección en la lectura de la letra pequeña.</desc>
   </programme>
-  <programme start="20230506170000 -0400" stop="20230506171400 -0400" channel="0304">
+  <programme start="20230506180000 -0400" stop="20230506181400 -0400" channel="0304">
     <title lang="es">Los vecinos Green</title>
     <sub-title lang="es">1 La gallina espacial</sub-title>
     <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Para impresionar a sus nuevos vecinos, Cricket intenta lanzar un pollo al espacio.</desc>
   </programme>
-  <programme start="20230506171400 -0400" stop="20230506172800 -0400" channel="0304">
+  <programme start="20230506181400 -0400" stop="20230506182800 -0400" channel="0304">
     <title lang="es">El fantasma y Molly McGee</title>
     <sub-title lang="es">19 Scaring Is Caring / All Night Plight</sub-title>
     <desc lang="es">La interpolación de la preadolescente Molly McGee y un fantasma gruñón llamado Scratch queda perpetua cuando uno de los hechizos de Scratch sale mal. A pesar de eso, forman una amistad inquebrantable que los guía a través de los altibajos de sus respectivos mundos. Molly, Scratch y Libby intentan quedarse despiertos toda la noche para ver un cometa raro. Luego, cuando Scratch no puede asustar el día antes de la fecha de entrega de su informe, Molly se hace cargo de sus sustos.</desc>
   </programme>
-  <programme start="20230506172800 -0400" stop="20230506180000 -0400" channel="0304">
+  <programme start="20230506182800 -0400" stop="20230506190000 -0400" channel="0304">
     <title lang="es">Miraculous: las aventuras de Ladybug</title>
     <sub-title lang="es">8 Gigantitán</sub-title>
     <desc lang="es">Marinette parece una adolescente normal y corriente, pero es todo lo contrario. De hecho, la joven lleva una ajetreada doble vida: cuando no está soñando despierta con su adorado Adrien, se transforma en la superheroína 'Ladybug'. Lo que ella no se imagina es que el chico también tiene una subsistencia secreta con la que se hace llamar 'Cat Noir'. Ambos son completamente ajenos a la verdadera identidad del otro, pero los caminos de la independiente chica y el arrogante muchacho se cruzarán a lo largo de sus diferentes misiones. Marinette y sus amigos idean un complicado plan para proponerle matrimonio a Adrien. Sin embargo, todo sale mal y el guardaespaldas de Adrien, el Gorila, casi se convierte en akumatizado. Se las arregla para calmarse, pero el akuma transforma a un bebé que hace berrinches, August, en Gigantitan, un bebé gigante que quiere desesperadamente una piruleta.</desc>
   </programme>
-  <programme start="20230506180000 -0400" stop="20230506194300 -0400" channel="0304">
+  <programme start="20230506190000 -0400" stop="20230506204300 -0400" channel="0304">
     <title lang="es">Las hermanas vampiro 3: Viaje a Transilvania</title>
     <desc lang="es">La alegría de las dos hermanas vampiro Silvania y Dakaria difícilmente podría ser mayor, ya que han tenido recientemente un lindo hermanito mitad vampiro llamado Franz. Pero la fortuna de la familia de repente se nubla cuando Franz cumple su primer año, ya que la malvada reina Antanasia está buscando urgentemente un heredero y, por ello, decide secuestrar al bebé vampiro.</desc>
   </programme>
-  <programme start="20230506194300 -0400" stop="20230506212700 -0400" channel="0304">
+  <programme start="20230506204300 -0400" stop="20230506222700 -0400" channel="0304">
     <title lang="es">Un día descabellado</title>
     <desc lang="es">Monica es una adolescente que sueña con recibir la corona de reina en su baile escolar. Sin embargo, cuando llega el gran día, todo lo que puede salir mal sale mal: su pelo repentinamente queda destrozado y su vestido de fiesta se destruye. Todo se complica cuando se da cuenta de que, en su poder, tiene un collar que está siendo buscado por una mujer policía.</desc>
   </programme>
-  <programme start="20230506212700 -0400" stop="20230506215800 -0400" channel="0304">
+  <programme start="20230506222700 -0400" stop="20230506225800 -0400" channel="0304">
     <title lang="es">Gravity Falls: un verano de misterios</title>
     <sub-title lang="es">7 Doble Dipper</sub-title>
     <desc lang="es">Los mellizos Dipper y Mabel Pines se encuentran en medio de una inesperada aventura cuando pasan el verano con su tío abuelo en el misterioso pueblo de Gravity Falls, Oregón. Pronto, descubren que allí no todo es lo que parece. Cuando Stan realiza una gran fiesta de fin de semana para promocionar La Cabaña del Misterio, Dipper utiliza una máquina copiadora desbaratada para hacer clones de sí mismo y así impresionar a Wendy. Mientras, Mabel se alza en favor de sus amigos y pelea por el título de reina del baile en su honor.</desc>
   </programme>
-  <programme start="20230506215800 -0400" stop="20230506222900 -0400" channel="0304">
+  <programme start="20230506225800 -0400" stop="20230506232900 -0400" channel="0304">
     <title lang="es">Atrapada en el medio</title>
     <desc lang="es">En Atrapada en el medio, la inventora, investigadora, mediadora y muy persuasiva Harley Díaz se abre camino a través del ajetreo que conlleva ser parte de una feliz familia integrada por nueve miembros, desde la aventajada posición de ser la preadolescente hija del medio. Las conmovedoras y divertidas historias de esta gran familia encuentran a Harley ideando formas creativas para hacer frente y destacarse en su hogar, ubicado en los suburbios de Massachusetts. Su ingenio a menudo persuade a sus familiares, aun cuando sus muy diferentes personalidades conviven bajo el mismo techo.</desc>
   </programme>
-  <programme start="20230506222900 -0400" stop="20230506225800 -0400" channel="0304">
+  <programme start="20230506232900 -0400" stop="20230506235800 -0400" channel="0304">
     <title lang="es">Atrapada en el medio</title>
     <sub-title lang="es">2 Atrapada en el mejor asiento</sub-title>
     <desc lang="es">En Atrapada en el medio, la inventora, investigadora, mediadora y muy persuasiva Harley Díaz se abre camino a través del ajetreo que conlleva ser parte de una feliz familia integrada por nueve miembros, desde la aventajada posición de ser la preadolescente hija del medio. Las conmovedoras y divertidas historias de esta gran familia encuentran a Harley ideando formas creativas para hacer frente y destacarse en su hogar, ubicado en los suburbios de Massachusetts. Su ingenio a menudo persuade a sus familiares, aun cuando sus muy diferentes personalidades conviven bajo el mismo techo. Los padres de Harley olvidan su cumpleaños, por lo que ella diseña un plan para usar su culpa como una forma de obtener el mejor regalo de cumpleaños.</desc>
   </programme>
-  <programme start="20230506225800 -0400" stop="20230506232500 -0400" channel="0304">
+  <programme start="20230506235800 -0400" stop="20230507002500 -0400" channel="0304">
     <title lang="es">Atrapada en el medio</title>
     <sub-title lang="es">4 Atrapada en el cine</sub-title>
     <desc lang="es">En Atrapada en el medio, la inventora, investigadora, mediadora y muy persuasiva Harley Díaz se abre camino a través del ajetreo que conlleva ser parte de una feliz familia integrada por nueve miembros, desde la aventajada posición de ser la preadolescente hija del medio. Las conmovedoras y divertidas historias de esta gran familia encuentran a Harley ideando formas creativas para hacer frente y destacarse en su hogar, ubicado en los suburbios de Massachusetts. Su ingenio a menudo persuade a sus familiares, aun cuando sus muy diferentes personalidades conviven bajo el mismo techo. Cuando Harley posterga la finalización de su proyecto de ciencia, sin darse cuenta hace que el WIFI se apague, lo que lleva a toda su familia a ir al cine.</desc>
-  </programme>
-  <programme start="20230506232500 -0400" stop="20230506235200 -0400" channel="0304">
-    <title lang="es">Atrapada en el medio</title>
-    <sub-title lang="es">4 Atrapada con un huésped</sub-title>
-    <desc lang="es">En Atrapada en el medio, la inventora, investigadora, mediadora y muy persuasiva Harley Díaz se abre camino a través del ajetreo que conlleva ser parte de una feliz familia integrada por nueve miembros, desde la aventajada posición de ser la preadolescente hija del medio. Las conmovedoras y divertidas historias de esta gran familia encuentran a Harley ideando formas creativas para hacer frente y destacarse en su hogar, ubicado en los suburbios de Massachusetts. Su ingenio a menudo persuade a sus familiares, aun cuando sus muy diferentes personalidades conviven bajo el mismo techo.</desc>
-  </programme>
-  <programme start="20230506235200 -0400" stop="20230507001700 -0400" channel="0304">
-    <title lang="es">Los vecinos Green</title>
-    <sub-title lang="es">1 La gallina espacial / Noche de filetes</sub-title>
-    <desc lang="es">Cricket Green se muda a la gran ciudad junto con su hermana Tilly, su padre Bill y la rebelde yaya Alice, pero esta sencilla gente del campo deberá aprender a vivir en una bulliciosa metrópolis. Para impresionar a sus nuevos vecinos, Cricket intenta lanzar una gallina al espacio./ Los Greens están entusiasmados de continuar con su tradicional cena mensual de filetes, pero Cricket pierde accidentalmente los filetes en el metro.</desc>
   </programme>
   <programme start="20230505000900 -0400" stop="20230505001900 -0400" channel="0305">
     <title lang="es">Drama total: la guardería</title>
@@ -14833,17 +14860,32 @@
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230505090000 -0400" stop="20230505140000 -0400" channel="0403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230505090000 -0400" stop="20230505092500 -0400" channel="0403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 12</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
-  <programme start="20230505140000 -0400" stop="20230505163000 -0400" channel="0403">
+  <programme start="20230505092500 -0400" stop="20230505113000 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Barnechea vs. San Luis de Quillota, Fecha 10, Estadio Municipal de Lo Barnechea</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230505113000 -0400" stop="20230505140000 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">O'Higgins vs. Unión Española, Fecha 12, Estadio El Teniente</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230505140000 -0400" stop="20230505160000 -0400" channel="0403">
     <title lang="es">Pelota parada</title>
     <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
-  <programme start="20230505163000 -0400" stop="20230505180000 -0400" channel="0403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230505160000 -0400" stop="20230505170000 -0400" channel="0403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 12</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230505170000 -0400" stop="20230505180000 -0400" channel="0403">
+    <title lang="es">Goles ascenso</title>
   </programme>
   <programme start="20230505180000 -0400" stop="20230505190000 -0400" channel="0403">
     <title lang="es">TNT Data Sports</title>
@@ -14857,25 +14899,72 @@
     <title lang="es">TNT Data Sports</title>
     <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
-  <programme start="20230505220000 -0400" stop="20230506000000 -0400" channel="0403">
+  <programme start="20230505220000 -0400" stop="20230505235500 -0400" channel="0403">
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230506000000 -0400" stop="20230506060000 -0400" channel="0403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230505235500 -0400" stop="20230506021000 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">San Marcos de Arica vs. U. de Concepción, Fecha 10, Estadio Carlos Dittborn</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230506021000 -0400" stop="20230506031000 -0400" channel="0403">
+    <title lang="es">Goles ascenso</title>
+  </programme>
+  <programme start="20230506031000 -0400" stop="20230506040500 -0400" channel="0403">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+  </programme>
+  <programme start="20230506040500 -0400" stop="20230506060000 -0400" channel="0403">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
   <programme start="20230506060000 -0400" stop="20230506070000 -0400" channel="0403">
     <title lang="es">TNT Data Sports</title>
     <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
-  <programme start="20230506070000 -0400" stop="20230506190000 -0400" channel="0403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230506070000 -0400" stop="20230506090000 -0400" channel="0403">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230506190000 -0400" stop="20230507070000 -0400" channel="0403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230506090000 -0400" stop="20230506094000 -0400" channel="0403">
+    <title lang="es">Podcast - Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230506094000 -0400" stop="20230506114000 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Dep. Copiapó vs. Colo Colo, Fecha 1, Estadio Luis Valenzuela Hermosilla</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506114000 -0400" stop="20230506140000 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Ñublense vs. Magallanes, Fecha 2, Estadio Bicentenario Nelson Oyarzún</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506140000 -0400" stop="20230506160000 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Coquimbo Unido vs. U. Católica, Fecha 3, Estadio Francisco Sánchez Rumoroso</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506160000 -0400" stop="20230506180500 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">O'Higgins vs. Colo Colo, Fecha 2, Estadio El Teniente</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506180500 -0400" stop="20230506203500 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Dep. Copiapó vs. Palestino, Fecha 4, Estadio Luis Valenzuela Hermosilla</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506203500 -0400" stop="20230506223500 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">U. Católica vs. Cobresal, Fecha 4, Estadio San Carlos de Apoquindo</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506223500 -0400" stop="20230507011000 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Unión La Calera vs. Curicó Unido, Fecha 4, Estadio Municipal Nicolás Chahuán Nazar</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
   </programme>
   <programme start="20230505012000 -0400" stop="20230505023000 -0400" channel="0404">
     <title lang="es">Goles, el estelar de la fecha</title>
@@ -15027,18 +15116,64 @@
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230505090000 -0400" stop="20230505140000 -0400" channel="9401">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230505090000 -0400" stop="20230505092500 -0400" channel="9401">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 12</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
-  <programme start="20230505140000 -0400" stop="20230505163000 -0400" channel="9401">
+  <programme start="20230505092500 -0400" stop="20230505113000 -0400" channel="9401">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Barnechea vs. San Luis de Quillota, Fecha 10, Estadio Municipal de Lo Barnechea</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230505113000 -0400" stop="20230505140000 -0400" channel="9401">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">O'Higgins vs. Unión Española, Fecha 12, Estadio El Teniente</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230505140000 -0400" stop="20230505160000 -0400" channel="9401">
     <title lang="es">Pelota parada</title>
     <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
-  <programme start="20230505163000 -0400" stop="20230506040500 -0400" channel="9401">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230505160000 -0400" stop="20230505170000 -0400" channel="9401">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 12</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230505170000 -0400" stop="20230505180000 -0400" channel="9401">
+    <title lang="es">Goles ascenso</title>
+  </programme>
+  <programme start="20230505180000 -0400" stop="20230505190000 -0400" channel="9401">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+  </programme>
+  <programme start="20230505190000 -0400" stop="20230505210000 -0400" channel="9401">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230505210000 -0400" stop="20230505220000 -0400" channel="9401">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+  </programme>
+  <programme start="20230505220000 -0400" stop="20230505235500 -0400" channel="9401">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230505235500 -0400" stop="20230506021000 -0400" channel="9401">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">San Marcos de Arica vs. U. de Concepción, Fecha 10, Estadio Carlos Dittborn</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230506021000 -0400" stop="20230506031000 -0400" channel="9401">
+    <title lang="es">Goles ascenso</title>
+  </programme>
+  <programme start="20230506031000 -0400" stop="20230506040500 -0400" channel="9401">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
   <programme start="20230506040500 -0400" stop="20230506060000 -0400" channel="9401">
-    <title lang="es">TNT Sports HD</title>
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
   <programme start="20230506060000 -0400" stop="20230506070000 -0400" channel="9401">
     <title lang="es">TNT Data Sports</title>
@@ -15048,11 +15183,44 @@
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230506090000 -0400" stop="20230506210000 -0400" channel="9401">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230506090000 -0400" stop="20230506094000 -0400" channel="9401">
+    <title lang="es">Podcast - Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230506210000 -0400" stop="20230507090000 -0400" channel="9401">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230506094000 -0400" stop="20230506114000 -0400" channel="9401">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Dep. Copiapó vs. Colo Colo, Fecha 1, Estadio Luis Valenzuela Hermosilla</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506114000 -0400" stop="20230506140000 -0400" channel="9401">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Ñublense vs. Magallanes, Fecha 2, Estadio Bicentenario Nelson Oyarzún</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506140000 -0400" stop="20230506160000 -0400" channel="9401">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Coquimbo Unido vs. U. Católica, Fecha 3, Estadio Francisco Sánchez Rumoroso</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506160000 -0400" stop="20230506180500 -0400" channel="9401">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">O'Higgins vs. Colo Colo, Fecha 2, Estadio El Teniente</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506180500 -0400" stop="20230506203500 -0400" channel="9401">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Dep. Copiapó vs. Palestino, Fecha 4, Estadio Luis Valenzuela Hermosilla</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506203500 -0400" stop="20230506223500 -0400" channel="9401">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">U. Católica vs. Cobresal, Fecha 4, Estadio San Carlos de Apoquindo</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506223500 -0400" stop="20230507011000 -0400" channel="9401">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Unión La Calera vs. Curicó Unido, Fecha 4, Estadio Municipal Nicolás Chahuán Nazar</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
   </programme>
   <programme start="20230505000000 -0400" stop="20230505060000 -0400" channel="9402">
     <title lang="es">TNT Sports 2</title>
@@ -15066,21 +15234,64 @@
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230505090000 -0400" stop="20230505140000 -0400" channel="9402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+  <programme start="20230505090000 -0400" stop="20230505092500 -0400" channel="9402">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 12</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
-  <programme start="20230505140000 -0400" stop="20230505163000 -0400" channel="9402">
+  <programme start="20230505092500 -0400" stop="20230505113000 -0400" channel="9402">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Barnechea vs. San Luis de Quillota, Fecha 10, Estadio Municipal de Lo Barnechea</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230505113000 -0400" stop="20230505140000 -0400" channel="9402">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">O'Higgins vs. Unión Española, Fecha 12, Estadio El Teniente</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230505140000 -0400" stop="20230505160000 -0400" channel="9402">
     <title lang="es">Pelota parada</title>
     <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
-  <programme start="20230505163000 -0400" stop="20230506040500 -0400" channel="9402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+  <programme start="20230505160000 -0400" stop="20230505170000 -0400" channel="9402">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 12</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230505170000 -0400" stop="20230505180000 -0400" channel="9402">
+    <title lang="es">Goles ascenso</title>
+  </programme>
+  <programme start="20230505180000 -0400" stop="20230505190000 -0400" channel="9402">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+  </programme>
+  <programme start="20230505190000 -0400" stop="20230505210000 -0400" channel="9402">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230505210000 -0400" stop="20230505220000 -0400" channel="9402">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+  </programme>
+  <programme start="20230505220000 -0400" stop="20230505235500 -0400" channel="9402">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230505235500 -0400" stop="20230506021000 -0400" channel="9402">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">San Marcos de Arica vs. U. de Concepción, Fecha 10, Estadio Carlos Dittborn</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230506021000 -0400" stop="20230506031000 -0400" channel="9402">
+    <title lang="es">Goles ascenso</title>
+  </programme>
+  <programme start="20230506031000 -0400" stop="20230506040500 -0400" channel="9402">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
   <programme start="20230506040500 -0400" stop="20230506060000 -0400" channel="9402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
   <programme start="20230506060000 -0400" stop="20230506070000 -0400" channel="9402">
     <title lang="es">TNT Data Sports</title>
@@ -15090,13 +15301,44 @@
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230506090000 -0400" stop="20230506210000 -0400" channel="9402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+  <programme start="20230506090000 -0400" stop="20230506094000 -0400" channel="9402">
+    <title lang="es">Podcast - Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230506210000 -0400" stop="20230507090000 -0400" channel="9402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+  <programme start="20230506094000 -0400" stop="20230506114000 -0400" channel="9402">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Dep. Copiapó vs. Colo Colo, Fecha 1, Estadio Luis Valenzuela Hermosilla</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506114000 -0400" stop="20230506140000 -0400" channel="9402">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Ñublense vs. Magallanes, Fecha 2, Estadio Bicentenario Nelson Oyarzún</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506140000 -0400" stop="20230506160000 -0400" channel="9402">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Coquimbo Unido vs. U. Católica, Fecha 3, Estadio Francisco Sánchez Rumoroso</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506160000 -0400" stop="20230506180500 -0400" channel="9402">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">O'Higgins vs. Colo Colo, Fecha 2, Estadio El Teniente</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506180500 -0400" stop="20230506203500 -0400" channel="9402">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Dep. Copiapó vs. Palestino, Fecha 4, Estadio Luis Valenzuela Hermosilla</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506203500 -0400" stop="20230506223500 -0400" channel="9402">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">U. Católica vs. Cobresal, Fecha 4, Estadio San Carlos de Apoquindo</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506223500 -0400" stop="20230507011000 -0400" channel="9402">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Unión La Calera vs. Curicó Unido, Fecha 4, Estadio Municipal Nicolás Chahuán Nazar</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
   </programme>
   <programme start="20230505000000 -0400" stop="20230505060000 -0400" channel="9403">
     <title lang="es">TNT Sports 3</title>
@@ -15110,17 +15352,32 @@
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230505090000 -0400" stop="20230505140000 -0400" channel="9403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230505090000 -0400" stop="20230505092500 -0400" channel="9403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 12</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
-  <programme start="20230505140000 -0400" stop="20230505163000 -0400" channel="9403">
+  <programme start="20230505092500 -0400" stop="20230505113000 -0400" channel="9403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Barnechea vs. San Luis de Quillota, Fecha 10, Estadio Municipal de Lo Barnechea</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230505113000 -0400" stop="20230505140000 -0400" channel="9403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">O'Higgins vs. Unión Española, Fecha 12, Estadio El Teniente</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230505140000 -0400" stop="20230505160000 -0400" channel="9403">
     <title lang="es">Pelota parada</title>
     <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
-  <programme start="20230505163000 -0400" stop="20230505180000 -0400" channel="9403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230505160000 -0400" stop="20230505170000 -0400" channel="9403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 12</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230505170000 -0400" stop="20230505180000 -0400" channel="9403">
+    <title lang="es">Goles ascenso</title>
   </programme>
   <programme start="20230505180000 -0400" stop="20230505190000 -0400" channel="9403">
     <title lang="es">TNT Data Sports</title>
@@ -15134,25 +15391,72 @@
     <title lang="es">TNT Data Sports</title>
     <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
-  <programme start="20230505220000 -0400" stop="20230506000000 -0400" channel="9403">
+  <programme start="20230505220000 -0400" stop="20230505235500 -0400" channel="9403">
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230506000000 -0400" stop="20230506060000 -0400" channel="9403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230505235500 -0400" stop="20230506021000 -0400" channel="9403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">San Marcos de Arica vs. U. de Concepción, Fecha 10, Estadio Carlos Dittborn</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230506021000 -0400" stop="20230506031000 -0400" channel="9403">
+    <title lang="es">Goles ascenso</title>
+  </programme>
+  <programme start="20230506031000 -0400" stop="20230506040500 -0400" channel="9403">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+  </programme>
+  <programme start="20230506040500 -0400" stop="20230506060000 -0400" channel="9403">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
   <programme start="20230506060000 -0400" stop="20230506070000 -0400" channel="9403">
     <title lang="es">TNT Data Sports</title>
     <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
-  <programme start="20230506070000 -0400" stop="20230506190000 -0400" channel="9403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230506070000 -0400" stop="20230506090000 -0400" channel="9403">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230506190000 -0400" stop="20230507070000 -0400" channel="9403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230506090000 -0400" stop="20230506094000 -0400" channel="9403">
+    <title lang="es">Podcast - Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230506094000 -0400" stop="20230506114000 -0400" channel="9403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Dep. Copiapó vs. Colo Colo, Fecha 1, Estadio Luis Valenzuela Hermosilla</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506114000 -0400" stop="20230506140000 -0400" channel="9403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Ñublense vs. Magallanes, Fecha 2, Estadio Bicentenario Nelson Oyarzún</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506140000 -0400" stop="20230506160000 -0400" channel="9403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Coquimbo Unido vs. U. Católica, Fecha 3, Estadio Francisco Sánchez Rumoroso</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506160000 -0400" stop="20230506180500 -0400" channel="9403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">O'Higgins vs. Colo Colo, Fecha 2, Estadio El Teniente</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506180500 -0400" stop="20230506203500 -0400" channel="9403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Dep. Copiapó vs. Palestino, Fecha 4, Estadio Luis Valenzuela Hermosilla</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506203500 -0400" stop="20230506223500 -0400" channel="9403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">U. Católica vs. Cobresal, Fecha 4, Estadio San Carlos de Apoquindo</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
+  </programme>
+  <programme start="20230506223500 -0400" stop="20230507011000 -0400" channel="9403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Unión La Calera vs. Curicó Unido, Fecha 4, Estadio Municipal Nicolás Chahuán Nazar</sub-title>
+    <desc lang="es">Vive los partidos de la 107º edición de la primera categoría del fútbol chileno.</desc>
   </programme>
   <programme start="20230505000000 -0400" stop="20230505003000 -0400" channel="0405">
     <title lang="es">Lo mejor de Copa Libertadores</title>
@@ -16300,14 +16604,14 @@
     <desc lang="es">Evento que forma parte del Masters 1000. Es el cuarto en disputarse en la temporada.</desc>
   </programme>
   <programme start="20230506213000 -0400" stop="20230506223000 -0400" channel="0413">
-    <title lang="es">ESPN Compact - Serie A</title>
-    <sub-title lang="es">Roma vs. Inter, Fecha 34, Estadio Olimpico</sub-title>
-    <desc lang="es">Un repaso por los mejores momentos de los grandes partidos del campeonato italiano de fútbol con análisis y comentarios sobre los equipos. Se revisan los grandes remates, los goles imperdibles y mucho más.</desc>
-  </programme>
-  <programme start="20230506223000 -0400" stop="20230506233000 -0400" channel="0413">
-    <title lang="es">ESPN Compact - Premier League</title>
+    <title lang="es">Compacto - Premier League</title>
     <sub-title lang="es">Manchester City vs. Leeds Utd., Fecha 35, Etihad Stadium</sub-title>
     <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+  </programme>
+  <programme start="20230506223000 -0400" stop="20230506233000 -0400" channel="0413">
+    <title lang="es">Compacto - Serie A</title>
+    <sub-title lang="es">Roma vs. Inter, Fecha 34, Estadio Olimpico</sub-title>
+    <desc lang="es">Un repaso por los mejores momentos de los grandes partidos del campeonato italiano de fútbol con análisis y comentarios sobre los equipos. Se revisan los grandes remates, los goles imperdibles y mucho más.</desc>
   </programme>
   <programme start="20230506233000 -0400" stop="20230507003000 -0400" channel="0413">
     <title lang="es">Goles de la Serie A</title>
@@ -16393,15 +16697,18 @@
     <title lang="es">WWE Raw Highlights</title>
     <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
   </programme>
-  <programme start="20230505180000 -0400" stop="20230505213000 -0400" channel="0414">
-    <title lang="es">A confirmar</title>
+  <programme start="20230505180000 -0400" stop="20230505190000 -0400" channel="0414">
+    <title lang="es">Rally Mobil</title>
+    <desc lang="es">Cobertura del Campeonato RallyMobil, el evento motorsport más importante de Chile, con exclusivos detalles de la jornada, competidores, pistas de carrera, comentarios de especialistas en la materia y los resultados de la vuelta final.</desc>
   </programme>
-  <programme start="20230505213000 -0400" stop="20230505220000 -0400" channel="0414">
+  <programme start="20230505190000 -0400" stop="20230505210000 -0400" channel="0414">
+    <title lang="es">CONMEBOL Libertadores</title>
+    <sub-title lang="es">Racing Club (Arg) vs. Flamengo (Bra), Fecha 3 Grupo A, Estadio Presidente Perón</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
+  </programme>
+  <programme start="20230505210000 -0400" stop="20230505230000 -0400" channel="0414">
     <title lang="es">Goles de la Champions League</title>
     <desc lang="es">Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
-  </programme>
-  <programme start="20230505220000 -0400" stop="20230505230000 -0400" channel="0414">
-    <title lang="es">ESPN 4</title>
   </programme>
   <programme start="20230505230000 -0400" stop="20230506010000 -0400" channel="0414">
     <title lang="es">Liga Profesional 2023</title>
@@ -18574,6 +18881,9 @@
   </programme>
   <programme start="20230506130000 -0400" stop="20230506170000 -0400" channel="0507">
     <title lang="es">Top Hits Of 1989</title>
+  </programme>
+  <programme start="20230506170000 -0400" stop="20230506190000 -0400" channel="0507">
+    <title lang="es">... So 80s</title>
   </programme>
   <programme start="20230505000000 -0400" stop="20230505235900 -0400" channel="0508">
     <title lang="es">Stingray Euro Hits</title>
@@ -21038,21 +21348,21 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230505060000 -0400" stop="20230505102600 -0400" channel="0544">
+  <programme start="20230505060000 -0400" stop="20230505120000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230505102600 -0400" stop="20230505123800 -0400" channel="0544">
-    <title lang="en">Paul McCartney - The Space Within US</title>
-    <desc lang="en">Paul McCartney trae el DVD especial de la gira US Tour, realizada en Estados Unidos, 11 semanas y 34 shows, con la interpretación de grandes composiciones de su carrera solista junto con algunas canciones de Wings y Beatles.</desc>
+  <programme start="20230505120000 -0400" stop="20230505165600 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230505220300 -0400" stop="20230506003700 -0400" channel="0544">
     <title lang="en">George Michael - George Michael - Live in London</title>
     <desc lang="en">George Michael finaliza su gira 25 Live en su primer concierto grabado, en el que el antiguo líder de Wham! vuelve a éxitos familiares y frescos en dos espectáculos agotados en Earls Court, Londres.</desc>
   </programme>
-  <programme start="20230506060000 -0400" stop="20230506120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230506055600 -0400" stop="20230506073700 -0400" channel="0544">
+    <title lang="en">Ellie Goulding - Ellie Goulding - Live at the iTunes Festival</title>
+    <desc lang="en">Ellie ha viajado por todo el mundo para exhibir sus talentos: su voz y la composición de sus canciones. Tales talentos podrán apreciarse en este espectáculo del iTunes Festival de Londres.</desc>
   </programme>
   <programme start="20230506120000 -0400" stop="20230506180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -21066,11 +21376,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230505060000 -0400" stop="20230505110000 -0400" channel="0545">
+  <programme start="20230505060000 -0400" stop="20230505120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230505120000 -0400" stop="20230505180000 -0400" channel="0545">
+  <programme start="20230505120000 -0400" stop="20230505160000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -21082,9 +21392,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230506060000 -0400" stop="20230506120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230506060000 -0400" stop="20230506070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230506120000 -0400" stop="20230506180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
