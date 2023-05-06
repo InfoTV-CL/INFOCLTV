@@ -1820,7 +1820,7 @@
     <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
   </programme>
   <programme start="20230506020000 -0400" stop="20230506030000 -0400" channel="0102">
-    <title lang="es">Antimafia Squad</title>
+    <title lang="es">Antimafia Squadra</title>
     <desc lang="es">Un equipo de la policía, conocido como 'Duomo', está bajo el cargo de la superintendente Claudia Mares. Éste deberá trabajar intensamente por la justicia y para atrapar a una organización mafiosa.</desc>
   </programme>
   <programme start="20230506030000 -0400" stop="20230506050000 -0400" channel="0102">
@@ -1838,9 +1838,13 @@
     <title lang="es">Swiss Nature Labs</title>
     <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
   </programme>
-  <programme start="20230507020000 -0400" stop="20230507050000 -0400" channel="0102">
+  <programme start="20230507020000 -0400" stop="20230507023000 -0400" channel="0102">
     <title lang="es">Sex and the City</title>
-    <desc lang="es">Las aventuras amorosas y sexuales de cuatro solteras independientes de la ciudad de Nueva York. Se trata de mujeres que se confían unas a otras sus siempre cambiantes vidas sexuales, tan diferentes como sus personalidades. Carrie Bradshaw es una columnista, Miranda Hobbes es una abogada pelirroja, decidida a ser ruda tanto en lo profesional como en el amor. Aun así, su único amante confiable es un nerd. Charlotte York es una moralista poco moderna, que a pesar de todo, aun no encuentra a su amante ideal. Finalmente conocemos a Samantha Jones, una feminista que se convierte además en la voz de la lujuria para sus compañeras.</desc>
+    <sub-title lang="es">16 Was It Good for You?</sub-title>
+    <desc lang="es">Las aventuras amorosas y sexuales de cuatro solteras independientes de la ciudad de Nueva York. Se trata de mujeres que se confían unas a otras sus siempre cambiantes vidas sexuales, tan diferentes como sus personalidades. Carrie Bradshaw es una columnista, Miranda Hobbes es una abogada pelirroja, decidida a ser ruda tanto en lo profesional como en el amor. Aun así, su único amante confiable es un nerd. Charlotte York es una moralista poco moderna, que a pesar de todo, aun no encuentra a su amante ideal. Finalmente conocemos a Samantha Jones, una feminista que se convierte además en la voz de la lujuria para sus compañeras. ¿Cómo sabes si eres bueno en la cama? Carrie sale con un alcohólico en recuperación y se convierte en el objeto de su última compulsión.</desc>
+  </programme>
+  <programme start="20230507023000 -0400" stop="20230507050000 -0400" channel="0102">
+    <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20230507050000 -0400" stop="20230507083000 -0400" channel="0102">
     <title lang="es">Swiss Nature Labs</title>
@@ -1854,7 +1858,11 @@
     <title lang="es">Raffi</title>
     <desc lang="es">Producción infantil que narra las aventuras de un perro curioso y súper hiperquinético, y de Ema, una niña que vive en una granja ubicada en medio de la ciudad.</desc>
   </programme>
-  <programme start="20230507153000 -0400" stop="20230507160000 -0400" channel="0102">
+  <programme start="20230507153000 -0400" stop="20230507154500 -0400" channel="0102">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.</desc>
+  </programme>
+  <programme start="20230507154500 -0400" stop="20230507160000 -0400" channel="0102">
     <title lang="es">Plaza Sésamo</title>
     <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.</desc>
   </programme>
@@ -1870,9 +1878,20 @@
     <title lang="es">La picá de mi compadre</title>
     <desc lang="es">Programa que nos invita a recorrer diferentes barrios relacionados con la historia, el arte y la culinaria; y a través de grandes invitados conocer y disfrutar de diferentes picadas.</desc>
   </programme>
-  <programme start="20230507220000 -0400" stop="20230508000000 -0400" channel="0102">
+  <programme start="20230507220000 -0400" stop="20230507224000 -0400" channel="0102">
     <title lang="es">La rebelión de los bárbaros</title>
-    <desc lang="es">Esta no es una historia sobre la gloria de Roma, es la de los millones de personas que se levantan y luchan por la libertad en la sombra del poder absoluto, y los pocos que encabezaron el ataque. El imperio los llama bárbaros, tribus más allá de la periferia de la civilización que viven una existencia primitiva, brutal y violenta; estos pueblos son también algunos de los guerreros más feroces de la historia. Los hombres y las mujeres que se niegan a someterse a la opresión despiadada, el lanzamiento de una saga épica de la resistencia que marca el comienzo de la caída de Roma y da forma al mundo por venir.</desc>
+    <sub-title lang="es">2 Frente de combate</sub-title>
+    <desc lang="es">Esta no es una historia sobre la gloria de Roma, es la de los millones de personas que se levantan y luchan por la libertad en la sombra del poder absoluto, y los pocos que encabezaron el ataque. El imperio los llama bárbaros, tribus más allá de la periferia de la civilización que viven una existencia primitiva, brutal y violenta; estos pueblos son también algunos de los guerreros más feroces de la historia. Los hombres y las mujeres que se niegan a someterse a la opresión despiadada, el lanzamiento de una saga épica de la resistencia que marca el comienzo de la caída de Roma y da forma al mundo por venir. En la antigua Hispania, Roma busca vengarse de las tribus bárbaras que lucharon junto a Aníbal en su fallida campaña para derrocar la República. El gobernador Galba masacra a los lusitanos, una tribu celta del oeste de Iberia, y casi aniquila a toda la población. Los supervivientes viven como refugiados en su propia tierra. Los bárbaros utilizan su conocimiento del terreno a favor con el fin de continuar la lucha, mientras que Vetillius lanza una persecución a gran escala para localizar al líder rebelde. Las dos partes se reúnen en el bosque de Tribola en un choque fatal.</desc>
+  </programme>
+  <programme start="20230507224000 -0400" stop="20230507232000 -0400" channel="0102">
+    <title lang="es">La rebelión de los bárbaros</title>
+    <sub-title lang="es">3 Rebelión</sub-title>
+    <desc lang="es">Esta no es una historia sobre la gloria de Roma, es la de los millones de personas que se levantan y luchan por la libertad en la sombra del poder absoluto, y los pocos que encabezaron el ataque. El imperio los llama bárbaros, tribus más allá de la periferia de la civilización que viven una existencia primitiva, brutal y violenta; estos pueblos son también algunos de los guerreros más feroces de la historia. Los hombres y las mujeres que se niegan a someterse a la opresión despiadada, el lanzamiento de una saga épica de la resistencia que marca el comienzo de la caída de Roma y da forma al mundo por venir. Roma gobierna el Mediterráneo con mano de hierro y se embarca en una estrategia de dominación a través de la expansión. Conquistando y esclavizando a los bárbaros de cada nuevo territorio que reclama. Pero cuanto más crece, más enemigos traen dentro de sus fronteras - un vasto ejército bárbaro en estado latente, esperando a que su líder se eleve. Espartaco, el esclavo bárbaro obligado a luchar como gladiador, se convierte en el comandante y la mayor amenaza para Roma en un siglo.</desc>
+  </programme>
+  <programme start="20230507232000 -0400" stop="20230508000000 -0400" channel="0102">
+    <title lang="es">La rebelión de los bárbaros</title>
+    <sub-title lang="es">4 Línea de sangre</sub-title>
+    <desc lang="es">Esta no es una historia sobre la gloria de Roma, es la de los millones de personas que se levantan y luchan por la libertad en la sombra del poder absoluto, y los pocos que encabezaron el ataque. El imperio los llama bárbaros, tribus más allá de la periferia de la civilización que viven una existencia primitiva, brutal y violenta; estos pueblos son también algunos de los guerreros más feroces de la historia. Los hombres y las mujeres que se niegan a someterse a la opresión despiadada, el lanzamiento de una saga épica de la resistencia que marca el comienzo de la caída de Roma y da forma al mundo por venir. La República se convierte en un imperio y sigue una política de romanización destinada a educar a los bárbaros, pero incluso el primer emperador, Augusto César, es ciego a los enemigos crecientes dentro de las propias filas de Roma. Arminio, el hijo de un jefe bárbaro germano se rindió a Roma como un niño y se convierte en uno de los oficiales bárbaros de más alto rango en el ejército imperial, pero cuando se le envió a su tierra natal para aplastar la rebelión en curso entre su propia gente, debe decidir donde están sus lealtades. La batalla del Bosque de Teutoburgo empuja el Imperio al borde.</desc>
   </programme>
   <programme start="20230506000000 -0400" stop="20230506011500 -0400" channel="0103">
     <title lang="es">Toc Show</title>
@@ -2305,63 +2324,42 @@
     <title lang="es">De Paseo</title>
     <desc lang="es">Coté y Karla nos invitan a un divertido recorrido por lugares emblemáticos de Chile.</desc>
   </programme>
-  <programme start="20230507054500 -0400" stop="20230507064500 -0400" channel="0105">
+  <programme start="20230507054500 -0400" stop="20230507054500 -0400" channel="0105">
     <title lang="es">La nube Carolina</title>
     <desc lang="es">Las mejores secciones de todos los programas de Radio Carolina. Muchas risas, llamados telefónicos y la dosis de energía que necesitas para animar tus noches de fin de semana.</desc>
   </programme>
-  <programme start="20230507064500 -0400" stop="20230507074500 -0400" channel="0105">
-    <title lang="es">Mega festival</title>
-    <desc lang="es">Programa que recopila momentos emblemáticos del Festival de Viña del Mar.</desc>
+  <programme start="20230507054500 -0400" stop="20230507063000 -0400" channel="0105">
+    <title lang="es">Meganoticias amanece</title>
+    <desc lang="es">Despierta informado en esta edición que busca entregar el mejor y más detallado reporte de todo el acontecer nacional, de lo que está pasando en Chile y en el mundo, de una forma ágil y dinámica.</desc>
   </programme>
-  <programme start="20230507074500 -0400" stop="20230507090000 -0400" channel="0105">
-    <title lang="es">Secretos urbanos</title>
-    <desc lang="es">Koke Santa Ana y su contrincante se sientan frente a un tablero de juego de mesa y se hacen preguntas sobre Santiago. En estas salidas a terreno, suelen aparecer figuras históricas representadas por actores conocidos.</desc>
-  </programme>
-  <programme start="20230507090000 -0400" stop="20230507124500 -0400" channel="0105">
-    <title lang="es">Meganoticias alerta</title>
+  <programme start="20230507063000 -0400" stop="20230507080000 -0400" channel="0105">
+    <title lang="es">Meganoticias conecta</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
   </programme>
-  <programme start="20230507124500 -0400" stop="20230507130000 -0400" channel="0105">
-    <title lang="es">Franja Electoral</title>
-    <desc lang="es">Espacio para los candidatos al Consejo Constitucional.</desc>
+  <programme start="20230507080000 -0400" stop="20230507130000 -0400" channel="0105">
+    <title lang="es">Mucho gusto</title>
+    <desc lang="es">Entretención, actualidad, conversación y muchas risas para acompañar tus mañanas con el panel más entretenido de la TV.</desc>
   </programme>
-  <programme start="20230507130000 -0400" stop="20230507150000 -0400" channel="0105">
+  <programme start="20230507130000 -0400" stop="20230507153000 -0400" channel="0105">
     <title lang="es">Meganoticias actualiza</title>
     <desc lang="es">Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que ocurre en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.</desc>
   </programme>
-  <programme start="20230507150000 -0400" stop="20230507170000 -0400" channel="0105">
-    <title lang="es">De Paseo</title>
-    <desc lang="es">Coté y Karla nos invitan a un divertido recorrido por lugares emblemáticos de Chile.</desc>
+  <programme start="20230507153000 -0400" stop="20230507173000 -0400" channel="0105">
+    <title lang="es">Meganoticias alerta</title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
   </programme>
-  <programme start="20230507170000 -0400" stop="20230507184500 -0400" channel="0105">
-    <title lang="es">Juego de Ilusiones</title>
-    <desc lang="es">Mariana Nazir, descubre la infidelidad de su marido con su mejor amiga, su historia dará un vuelco que cambiará para siempre la vida que tenía planeada.</desc>
+  <programme start="20230507173000 -0400" stop="20230507213000 -0400" channel="0105">
+    <title lang="es">Especial de Prensa</title>
   </programme>
-  <programme start="20230507184500 -0400" stop="20230507203000 -0400" channel="0105">
-    <title lang="es">La ley de Baltazar</title>
-    <desc lang="es">Cuenta la vida de un hombre que desea vivir su vejez de manera libre sin que sus hijos le impongan lo que debe hacer.</desc>
-  </programme>
-  <programme start="20230507203000 -0400" stop="20230507204500 -0400" channel="0105">
+  <programme start="20230507213000 -0400" stop="20230507230000 -0400" channel="0105">
     <title lang="es">Meganoticias Prime</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
   </programme>
-  <programme start="20230507204500 -0400" stop="20230507210000 -0400" channel="0105">
-    <title lang="es">Franja Electoral</title>
-    <desc lang="es">Espacio para los candidatos al Consejo Constitucional.</desc>
-  </programme>
-  <programme start="20230507210000 -0400" stop="20230507222500 -0400" channel="0105">
-    <title lang="es">Meganoticias Prime</title>
-    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
-  </programme>
-  <programme start="20230507222500 -0400" stop="20230507223000 -0400" channel="0105">
-    <title lang="es">El Tiempo</title>
-    <desc lang="es">Toda la informacion meteorológica del país.</desc>
-  </programme>
-  <programme start="20230507223000 -0400" stop="20230508000000 -0400" channel="0105">
+  <programme start="20230507230000 -0400" stop="20230508003000 -0400" channel="0105">
     <title lang="es">Yargi</title>
     <desc lang="es">Las vidas de Ilgaz Kaya y Ceylin Erguvan, un fiscal y una abogada, se cruzarán de la manera más inesperada. El hermano de Ilgaz, Çinar, ha sido acusado de asesinato y, a pesar de sus diferencias, el fiscal elegirá a Ceylin para defenderlo.</desc>
   </programme>
-  <programme start="20230508000000 -0400" stop="20230508023000 -0400" channel="0105">
+  <programme start="20230508003000 -0400" stop="20230508023000 -0400" channel="0105">
     <title lang="es">Hijos del desierto</title>
     <desc lang="es">En el norte grande de Chile, por el año 1907, dos pequeños hermanos, Pedro y Antonio son separados a la fuerza.</desc>
   </programme>
@@ -2399,13 +2397,9 @@
     <title lang="es">Sabingo</title>
     <desc lang="es">Te acompañarán cada sábado y domingo con historias humanas, notas de viajes y sobre todo mucha entretención.</desc>
   </programme>
-  <programme start="20230506203000 -0400" stop="20230506204500 -0400" channel="0106">
+  <programme start="20230506203000 -0400" stop="20230506210000 -0400" channel="0106">
     <title lang="es">CHV Noticias central</title>
     <desc lang="es">La actualidad nacional e internacional presentada por los mejores profesionales del periodismo actual.</desc>
-  </programme>
-  <programme start="20230506204500 -0400" stop="20230506210000 -0400" channel="0106">
-    <title lang="es">Franja Electoral</title>
-    <desc lang="es">Espacio para los candidatos al Consejo Constitucional.</desc>
   </programme>
   <programme start="20230506210000 -0400" stop="20230506221000 -0400" channel="0106">
     <title lang="es">CHV Noticias central</title>
@@ -15114,12 +15108,14 @@
     <desc lang="es">Vive los partidos de la vigésima segunda edición del torneo organizado por la CONMEBOL.</desc>
   </programme>
   <programme start="20230507050000 -0400" stop="20230507070000 -0400" channel="0410">
-    <title lang="es">CONMEBOL Sudamericana</title>
+    <title lang="es">Copa Sudamericana</title>
     <sub-title lang="es">Newell's (Arg) vs. Santos (Bra), Fecha 3 Grupo E, Estadio Coloso del Parque M. Bielsa</sub-title>
     <desc lang="es">Vive los partidos de la vigésima segunda edición del torneo organizado por la CONMEBOL.</desc>
   </programme>
   <programme start="20230507070000 -0400" stop="20230507080000 -0400" channel="0410">
-    <title lang="es">Real Madrid TV</title>
+    <title lang="es">LaLiga Talking</title>
+    <sub-title lang="es">8 Técnicos al habla</sub-title>
+    <desc lang="es">Conversaciones exclusivas con entrenadores, jugadores y personalidades deportivas de LaLiga.</desc>
   </programme>
   <programme start="20230507080000 -0400" stop="20230507100000 -0400" channel="0410">
     <title lang="es">Serie B</title>
@@ -15139,19 +15135,25 @@
     <title lang="es">El show de la CONMEBOL Sudamericana</title>
     <desc lang="es">Los goles, las mejores jugadas, el mejor resumen y la mejor afición de este torneo histórico se presentan en el show de la Copa CONMEBOL Sudamericana. Edición que te trae los mejores momentos de cada encuentro.</desc>
   </programme>
-  <programme start="20230507133000 -0400" stop="20230507160000 -0400" channel="0410">
-    <title lang="es">Copa del Rey</title>
-    <sub-title lang="es">Real Madrid vs. Osasuna, Final, Estadio de La Cartuja</sub-title>
-    <desc lang="es">Vive los partidos de la edición número 119 de la competición nacional por eliminatorias del fútbol español. Participan un total de 116 equipos, entre las categorías Primera y Segunda División, Segunda B y Tercera División.</desc>
-  </programme>
-  <programme start="20230507160000 -0400" stop="20230507163000 -0400" channel="0410">
+  <programme start="20230507133000 -0400" stop="20230507135000 -0400" channel="0410">
     <title lang="es">Hilos</title>
     <sub-title lang="es">78 River vs. Boca</sub-title>
     <desc lang="es">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
   </programme>
-  <programme start="20230507163000 -0400" stop="20230507170000 -0400" channel="0410">
-    <title lang="es">LaLiga Legends</title>
-    <sub-title lang="es">1 Simeone</sub-title>
+  <programme start="20230507135000 -0400" stop="20230507140000 -0400" channel="0410">
+    <title lang="es">Previa - Torneo Federal A</title>
+    <sub-title lang="es">Olimpo vs. Cipolletti</sub-title>
+    <desc lang="es">Sigue la previa al Torneo Federal A.</desc>
+  </programme>
+  <programme start="20230507140000 -0400" stop="20230507160000 -0400" channel="0410">
+    <title lang="es">Federal A</title>
+    <sub-title lang="es">Olimpo vs. Cipolletti</sub-title>
+    <desc lang="es">Campeonato de fútbol profesional de tercera categoría, organizado por el Consejo Federal, órgano interno de la AFA que nuclea a los clubes indirectamente afiliados, originarios de las ligas regionales.</desc>
+  </programme>
+  <programme start="20230507160000 -0400" stop="20230507170000 -0400" channel="0410">
+    <title lang="es">LaLiga Talking</title>
+    <sub-title lang="es">8 Técnicos al habla</sub-title>
+    <desc lang="es">Conversaciones exclusivas con entrenadores, jugadores y personalidades deportivas de LaLiga.</desc>
   </programme>
   <programme start="20230507170000 -0400" stop="20230507180000 -0400" channel="0410">
     <title lang="es">Real Madrid TV</title>
@@ -15160,17 +15162,15 @@
     <title lang="es">City TV</title>
     <sub-title lang="es">58 Manchester City vs. Leeds Utd., EPL</sub-title>
   </programme>
-  <programme start="20230507210000 -0400" stop="20230507213000 -0400" channel="0410">
+  <programme start="20230507210000 -0400" stop="20230507230000 -0400" channel="0410">
+    <title lang="es">Serie B</title>
+    <sub-title lang="es">Palermo vs. SPAL</sub-title>
+    <desc lang="es">La Serie B, conocida por motivos de patrocinio como Serie BKT, es la segunda competición del sistema de ligas del fútbol italiano.</desc>
+  </programme>
+  <programme start="20230507230000 -0400" stop="20230507233000 -0400" channel="0410">
     <title lang="es">Hilos</title>
-    <sub-title lang="es">76 Stephen Curry</sub-title>
+    <sub-title lang="es">78 River vs. Boca</sub-title>
     <desc lang="es">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
-  </programme>
-  <programme start="20230507213000 -0400" stop="20230507223000 -0400" channel="0410">
-    <title lang="es">DSports Básquet</title>
-  </programme>
-  <programme start="20230507223000 -0400" stop="20230507233000 -0400" channel="0410">
-    <title lang="es">El show de la CONMEBOL Sudamericana</title>
-    <desc lang="es">Los goles, las mejores jugadas, el mejor resumen y la mejor afición de este torneo histórico se presentan en el show de la Copa CONMEBOL Sudamericana. Edición que te trae los mejores momentos de cada encuentro.</desc>
   </programme>
   <programme start="20230507233000 -0400" stop="20230508010000 -0400" channel="0410">
     <title lang="es">DSports noticias</title>
@@ -16076,7 +16076,7 @@
     <sub-title lang="es">Borussia Dortmund vs. Wolfsburgo, Fecha 31, Signal Iduna Park</sub-title>
     <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
   </programme>
-  <programme start="20230507220000 -0400" stop="20230508020000 -0400" channel="0416">
+  <programme start="20230507220000 -0400" stop="20230508013000 -0400" channel="0416">
     <title lang="es">ESPN Knockout Preliminares</title>
     <sub-title lang="es">288: Aljamain Sterling vs. Henry Cejudo</sub-title>
     <desc lang="es">Disfruta de los encuentros preliminares de la Ultimate Fight Champions, que reúne a los mejores luchadores del mundo para enfrentarse y avanzar hasta las finales.</desc>
@@ -20350,21 +20350,21 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230506060000 -0400" stop="20230506112300 -0400" channel="0544">
+  <programme start="20230506060000 -0400" stop="20230506120000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230506112300 -0400" stop="20230506124200 -0400" channel="0544">
-    <title lang="en">The Rolling Stones - The Rolling Stones - Live at Glastonbury</title>
-    <desc lang="en">Los Rolling Stones tocaron en el icónico Glastonbury Festival por primera vez en la historia de la banda y del festival, donde encabezaron el Pyramid Stage. La banda interpretó un increíble repertorio.</desc>
+  <programme start="20230506120000 -0400" stop="20230506152600 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230506212400 -0400" stop="20230507003000 -0400" channel="0544">
     <title lang="en">Guns N' Roses - Appetite for Democracy</title>
     <desc lang="en">La legendaria banda Guns N' Roses ha tomado el desierto por sorpresa y ha conquistado el Hard Rock Casino de Las Vegas.</desc>
   </programme>
-  <programme start="20230507060000 -0400" stop="20230507120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230507033000 -0400" stop="20230507063600 -0400" channel="0544">
+    <title lang="en">Guns N' Roses - Appetite for Democracy</title>
+    <desc lang="en">La legendaria banda Guns N' Roses ha tomado el desierto por sorpresa y ha conquistado el Hard Rock Casino de Las Vegas.</desc>
   </programme>
   <programme start="20230507120000 -0400" stop="20230507180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -20378,11 +20378,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230506060000 -0400" stop="20230506110000 -0400" channel="0545">
+  <programme start="20230506060000 -0400" stop="20230506120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230506120000 -0400" stop="20230506180000 -0400" channel="0545">
+  <programme start="20230506120000 -0400" stop="20230506160000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20394,9 +20394,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230507060000 -0400" stop="20230507120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230507060000 -0400" stop="20230507070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230507120000 -0400" stop="20230507180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -22490,7 +22490,7 @@
     <desc lang="es">Giada De Laurentiis ha hecho de sus raíces italianas el foco central de su carrera culinaria. En esta emisión televisiva, ella regresa a la tierra que la vio nacer para quedarse una larga temporada con sus amigos y revivir los sabores que han inspirado su trabajo de toda la vida. Esta chica espera que los ingredientes y la belleza de Italia la ayuden a inspirarse para sus recetas, ya sea que revise un viejo libro de su abuela con su tía, o que cocine para el equipo de fútbol de su tío, su herencia familiar es el centro de los platillos que prepara durante su estadía en el país de la bota. Giada De Laurentiis celebra la pizza de Nápoples cuando crea su propia masa para pizza al estilo napolitano y una de sus pizzas favoritas con su hija, Jade y amigos. Ellos disfrutan de una pizza de brócoli y salchicha y una pizza de scamorza ahumada, espinacas y panceta.</desc>
   </programme>
   <programme start="20230506132400 -0400" stop="20230506134800 -0400" channel="0608">
-    <title lang="es">Giada on the Beach</title>
+    <title lang="es">Giada en la playa</title>
     <sub-title lang="es">6 El almuerzo del mercado de los granjeros</sub-title>
     <desc lang="es">Giada De Laurentiis traduce el verano en recetas de deliciosos platos frescos que recuerdan al mar. Pasa sus vacaciones en la playa con su hija Jade y recibe a amigos y familiares para preparar deliciosas comidas. Giada se dirige al mercado de los granjeros para elegir ingredientes frescos para un almuerzo con amigos.</desc>
   </programme>
@@ -22690,7 +22690,7 @@
     <desc lang="es">Giada De Laurentiis ha hecho de sus raíces italianas el foco central de su carrera culinaria. En esta emisión televisiva, ella regresa a la tierra que la vio nacer para quedarse una larga temporada con sus amigos y revivir los sabores que han inspirado su trabajo de toda la vida. Esta chica espera que los ingredientes y la belleza de Italia la ayuden a inspirarse para sus recetas, ya sea que revise un viejo libro de su abuela con su tía, o que cocine para el equipo de fútbol de su tío, su herencia familiar es el centro de los platillos que prepara durante su estadía en el país de la bota. Giada De Laurentiis crea platos con increíbles mariscos y muchos cítricos que consiguió en Sorrento, incluyendo pez espada asado con ensalada de limón confitado y brochetas de camarón y pomelo.</desc>
   </programme>
   <programme start="20230507132400 -0400" stop="20230507134800 -0400" channel="0608">
-    <title lang="es">Giada on the Beach</title>
+    <title lang="es">Giada en la playa</title>
     <sub-title lang="es">7 Brunch veraniego</sub-title>
     <desc lang="es">Giada De Laurentiis traduce el verano en recetas de deliciosos platos frescos que recuerdan al mar. Pasa sus vacaciones en la playa con su hija Jade y recibe a amigos y familiares para preparar deliciosas comidas. Luego de hacer surf a remo, Giada, su hija y una amiga preparan un brunch casual que incluye bayas con crema especiada, una fritata de melocotón y tocino, panqueques de ricotta y limón y batidos de limón.</desc>
   </programme>
@@ -23958,10 +23958,15 @@
     <sub-title lang="es">1 Pequeño bebé, gran riesgo</sub-title>
     <desc lang="es">Conoce a Terra y Joe en su nuevo rol como padres, el proceso y todo lo que vivió Terra en su embarazo, hasta que Penny nace saludable y cumple seis meses, aunque corre riesgo de sufrir algunos problemas de salud. Terra debe someterse a una resonancia magnética y otros estudios médicos ante las inquietantes noticias sobre la salud de su bebé. Con los resultados en la mano, y considerando el riesgo que supone el embarazo de una persona pequeña, el médico toma una inesperada decisión sobre la fecha del nacimiento.</desc>
   </programme>
-  <programme start="20230506090000 -0400" stop="20230506100000 -0400" channel="0617">
+  <programme start="20230506090000 -0400" stop="20230506095000 -0400" channel="0617">
     <title lang="es">#AvísameCuandoLlegues</title>
     <sub-title lang="es">3 April Millsap</sub-title>
     <desc lang="es">Las historias de diversas mujeres secuestradas, lesionadas o asesinadas son contadas a través de emotivas entrevistas o recreaciones, junto a textos o registros telefónicos que las autoridades utilizaron para resolver los casos. La madre de April Millsap aún recuerda el día en que le pidió a su hija de 14 años que le enviara un mensaje de texto cuando llegara a casa después de pasear al perro. Sin embargo, nunca le contestó, el novio de la niña recibió un mensaje de texto críptico y ella desapareció. ¿Qué le sucedió?</desc>
+  </programme>
+  <programme start="20230506095000 -0400" stop="20230506100000 -0400" channel="0617">
+    <title lang="es">Renovación zombi</title>
+    <sub-title lang="es">Cápsula del tiempo</sub-title>
+    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria.</desc>
   </programme>
   <programme start="20230506100000 -0400" stop="20230506110000 -0400" channel="0617">
     <title lang="es">Infomerciales</title>
@@ -23971,81 +23976,97 @@
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
   </programme>
-  <programme start="20230506120000 -0400" stop="20230506134000 -0400" channel="0617">
+  <programme start="20230506120000 -0400" stop="20230506120500 -0400" channel="0617">
+    <title lang="es">Renovación zombi</title>
+    <sub-title lang="es">Casi listo</sub-title>
+    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria.</desc>
+  </programme>
+  <programme start="20230506120500 -0400" stop="20230506134400 -0400" channel="0617">
     <title lang="es">Secretos de una familia</title>
     <desc lang="es">Joyce Hollingsworth es una ambiciosa mujer de negocios que hará lo que sea para proteger la reputación de su compañía de cosméticos. Cuando descubre que su hija adolescente, Katherine, está embarazada de su mediocre novio, Chuck, Joyce le prohíbe a Katherine que le cuente a Chuck sobre el embarazo y finalmente le dice a Katherine que su beba murió en el parto, y en secreto le ordena a la doctora que ponga en adopción a la bebé. Veinte años después, Katherine está casada con Chuck, que ahora es un hombre exitoso. Sin embargo, su vida deja de ser ideal ya que deben buscar desesperadamente a un donante de médula ósea para salvar a su hija, Haley, quien está muriendo de leucemia. No dispuesta a ver a su nieta sufrir y sabiendo que su hermana biológica es una donante compatible para Haley, Joyce busca a la primera hija de Katherine, quien fue adoptada y llamada Libby. Libby, que lucha por tratar de pagar sus estudios, acepta la oferta de ser la donante de médula ósea de Haley a cambio de dinero, bajo la condición de permanecer en completo anonimato, y sin saber que Joyce es su madre biológica y Haley su hermana biológica. Mientras Libby y Haley se preparan para la cirugía, Joyce se esfuerza mucho para asegurarse de que ni los doctores ni enfermeros le revelen a Katherine la identidad de Libby. Pero cuando la mentira de Joyce se sale de control, Katherine acomoda todas las piezas y debe enfrentarse a su madre controladora de una vez por todas para poder salvar a sus dos hijas.</desc>
   </programme>
-  <programme start="20230506134000 -0400" stop="20230506144000 -0400" channel="0617">
+  <programme start="20230506134400 -0400" stop="20230506143400 -0400" channel="0617">
     <title lang="es">Renovación zombi</title>
     <sub-title lang="es">5 Guardabosques peligroso</sub-title>
-    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria. El equipo consigue una casa zombi que por fuera parece una ganga pero por dentro es una verdadera pesadilla. Su último dueño era un acaparador compulsivo que la dejó repleta de basura. A medida que avanza la remodelación, una serie de extraños eventos les hace creer que la casa podría estar embrujada.</desc>
+    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria. El equipo consigue una casa zombi que desde afuera parece una ganga pero por dentro es una verdadera pesadilla. Su último dueño era un acaparador compulsivo que la dejó repleta de basura. A medida que avanza la remodelación, una serie de extraños eventos les hace creer que la casa podría estar embrujada.</desc>
   </programme>
-  <programme start="20230506144000 -0400" stop="20230506154000 -0400" channel="0617">
+  <programme start="20230506143400 -0400" stop="20230506152400 -0400" channel="0617">
     <title lang="es">Renovación zombi</title>
     <sub-title lang="es">6 Renovación monstruosa</sub-title>
-    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria. El equipo compra una costosa casa de 300 metros cuadrados en uno de los mejores vecindarios de Orlando. Aunque parecía estar en muy buen estado, pronto se dan cuenta de varios problemas en el techo y las paredes. Pero la mayor sorpresa es un caimán nadando en la piscina. ¿Podrán ahuyentarlo?</desc>
+    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria. El equipo compra una costosa casa de 300 metros cuadrados en uno de los mejores vecindarios de Orlando. Aunque parecía estar en muy buen estado, pronto se dan cuenta de varios problemas en el techo y las paredes. Pero la mayor sorpresa es un caimán nadando en la piscina.</desc>
   </programme>
-  <programme start="20230506154000 -0400" stop="20230506172000 -0400" channel="0617">
+  <programme start="20230506152400 -0400" stop="20230506170700 -0400" channel="0617">
     <title lang="es">Mi marido. Mi asesino</title>
     <desc lang="es">Kristin acaba de casarse con Jay, pero empieza a dudar del amor de su marido cuando comienza a descubrir que tiene un comportamiento extraño. Su sueño se convierte en pesadilla cuando la tía de Jay aparece asesinada y, al investigar el oscuro pasado de su esposo, se convierte en su próxima víctima.</desc>
   </programme>
-  <programme start="20230506172000 -0400" stop="20230506182500 -0400" channel="0617">
+  <programme start="20230506170700 -0400" stop="20230506182100 -0400" channel="0617">
     <title lang="es">Morgana: la detective genial</title>
     <sub-title lang="es">1 Vientos del oeste</sub-title>
     <desc lang="es">Morgane es una empleada de la limpieza en una comisaría de policía de Lille, con alto potencial intelectual, a la que los investigadores policiales le ofrecen convertirse en consultora para atrapar a criminales inteligentes. El DIPJ de Lille investiga al asesino de Antoine Levasseur, encontrado muerto en su casa. Jeanne, su esposa, está desaparecida y es la principal sospechosa según los investigadores. Sin embargo, Morgane Alvaro, ama de llaves de la comisaría, con un coeficiente intelectual de 160, está convencida de que Jeanne no tiene nada que ver. El comandante Karadec se ve entonces obligado a colaborar con Alvaro, a quien el comisionado Hazan ofrece un puesto de consultor.</desc>
   </programme>
-  <programme start="20230506182500 -0400" stop="20230506202000 -0400" channel="0617">
+  <programme start="20230506182100 -0400" stop="20230506202000 -0400" channel="0617">
     <title lang="es">Un respiro es suficiente</title>
     <desc lang="es">Una joven condenada por una enfermedad cardíaca pero que todavía cree en los milagros, se cruza con un joven suicida que no puede superar haber sido la causa de la muerte de sus padres. Juntos vivirán un amor atormentado mientras aprenden a valorar sus días juntos.</desc>
   </programme>
-  <programme start="20230506202000 -0400" stop="20230506212000 -0400" channel="0617">
+  <programme start="20230506202000 -0400" stop="20230506211900 -0400" channel="0617">
     <title lang="es">Corazón en la tierra</title>
-    <sub-title lang="es">3 Road Curves</sub-title>
+    <sub-title lang="es">3 Curvas de carretera</sub-title>
     <desc lang="es">Amy y Lou son dos hermanas que se mudan desde Nueva York a Heartland, el rancho de caballos de su familia, después de la inesperada muerte de su madre. Viviendo junto a su abuelo Jack, deben lidiar con las buenas y malas cosas que vienen con el nuevo hogar y que ha estado en su familia por generaciones. Ahora tiene tantas deudas que están a punto de perderlo todo. Cuando vuelve a surgir una atracción tácita, Amy descubre que la honestidad puede ser la mejor política, pero ciertamente no es la más fácil.</desc>
   </programme>
-  <programme start="20230506212000 -0400" stop="20230506222000 -0400" channel="0617">
+  <programme start="20230506211900 -0400" stop="20230506221800 -0400" channel="0617">
     <title lang="es">Corazón en la tierra</title>
-    <sub-title lang="es">4 Graduation</sub-title>
+    <sub-title lang="es">4 Graduación</sub-title>
     <desc lang="es">Amy y Lou son dos hermanas que se mudan desde Nueva York a Heartland, el rancho de caballos de su familia, después de la inesperada muerte de su madre. Viviendo junto a su abuelo Jack, deben lidiar con las buenas y malas cosas que vienen con el nuevo hogar y que ha estado en su familia por generaciones. Ahora tiene tantas deudas que están a punto de perderlo todo. Una inminente graduación de la escuela secundaria y la casi fatal pelea de Spartan con cólicos hacen que Amy se enfrente a su verdadero futuro.</desc>
   </programme>
-  <programme start="20230506222000 -0400" stop="20230507000000 -0400" channel="0617">
+  <programme start="20230506221800 -0400" stop="20230507000000 -0400" channel="0617">
     <title lang="es">Prometido fatal</title>
     <desc lang="es">La fotógrafa Abby es enviada fuera de la ciudad por su editora y cree que es la oportunidad perfecta para escapar de su exprometido de pesadilla, Richard. Sin embargo, Abby descubre rápidamente que es imposible eludirlo.</desc>
   </programme>
-  <programme start="20230507000000 -0400" stop="20230507014000 -0400" channel="0617">
+  <programme start="20230507000000 -0400" stop="20230507014100 -0400" channel="0617">
     <title lang="es">Compromiso mortal</title>
+    <desc lang="es">Convencida de que la prometida de su hijo sólo quiere su dinero, Amanda intenta detener la boda. Ahora la mujer será capaz de todo con tal de separar a Jackson de su novia, Olivia.</desc>
   </programme>
-  <programme start="20230507014000 -0400" stop="20230507032000 -0400" channel="0617">
+  <programme start="20230507014100 -0400" stop="20230507032200 -0400" channel="0617">
     <title lang="es">Marcha nupcial mortal</title>
     <desc lang="es">La hermana de Carlos descubre que él se casará en una semana con Grace, una chica que acaba de conocer en un club de striptease. Su hermana investiga y se ve envuelta en un torbellino de eventos, poniendo en riesgo su propia vida.</desc>
   </programme>
-  <programme start="20230507032000 -0400" stop="20230507045500 -0400" channel="0617">
+  <programme start="20230507032200 -0400" stop="20230507050300 -0400" channel="0617">
     <title lang="es">No me puedes quitar a mi hija</title>
     <desc lang="es">Amy, una estudiante de derecho, es atacada y violada por Demetri, un conocido. Tiempo más tarde, descubre que está embarazada y decide quedarse con el bebé. Luego de dar a luz, se muda a Atlanta y, seis años más tarde, Demetri la encuentra y demanda la custodia de su hija. A partir de ese momento, Amy utiliza sus habilidades legales para defenderse.</desc>
   </programme>
-  <programme start="20230507045500 -0400" stop="20230507063000 -0400" channel="0617">
+  <programme start="20230507050300 -0400" stop="20230507064100 -0400" channel="0617">
     <title lang="es">Despertando al peligro</title>
     <desc lang="es">Una joven madre intenta recomponer su vida luego de que un horrible accidente le dañara la memoria. Sin embargo, pronto comienza a sospechar que las indiscreciones de su esposo son las que le causaron sufrimiento.</desc>
   </programme>
-  <programme start="20230507063000 -0400" stop="20230507073500 -0400" channel="0617">
+  <programme start="20230507064100 -0400" stop="20230507074600 -0400" channel="0617">
     <title lang="es">Morgana: la detective genial</title>
     <sub-title lang="es">1 Vientos del oeste</sub-title>
     <desc lang="es">Morgane es una empleada de la limpieza en una comisaría de policía de Lille, con alto potencial intelectual, a la que los investigadores policiales le ofrecen convertirse en consultora para atrapar a criminales inteligentes. El DIPJ de Lille investiga al asesino de Antoine Levasseur, encontrado muerto en su casa. Jeanne, su esposa, está desaparecida y es la principal sospechosa según los investigadores. Sin embargo, Morgane Alvaro, ama de llaves de la comisaría, con un coeficiente intelectual de 160, está convencida de que Jeanne no tiene nada que ver. El comandante Karadec se ve entonces obligado a colaborar con Alvaro, a quien el comisionado Hazan ofrece un puesto de consultor.</desc>
   </programme>
-  <programme start="20230507073500 -0400" stop="20230507083500 -0400" channel="0617">
+  <programme start="20230507074600 -0400" stop="20230507083600 -0400" channel="0617">
     <title lang="es">#AvísameCuandoLlegues</title>
     <sub-title lang="es">3 April Millsap</sub-title>
     <desc lang="es">Las historias de diversas mujeres secuestradas, lesionadas o asesinadas son contadas a través de emotivas entrevistas o recreaciones, junto a textos o registros telefónicos que las autoridades utilizaron para resolver los casos. La madre de April Millsap aún recuerda el día en que le pidió a su hija de 14 años que le enviara un mensaje de texto cuando llegara a casa después de pasear al perro. Sin embargo, nunca le contestó, el novio de la niña recibió un mensaje de texto críptico y ella desapareció. ¿Qué le sucedió?</desc>
   </programme>
-  <programme start="20230507083500 -0400" stop="20230507090000 -0400" channel="0617">
+  <programme start="20230507083600 -0400" stop="20230507090000 -0400" channel="0617">
     <title lang="es">La pequeña familia de Terra</title>
-    <sub-title lang="es">1 Pequeño bebé, gran riesgo</sub-title>
-    <desc lang="es">Conoce a Terra y Joe en su nuevo rol como padres, el proceso y todo lo que vivió Terra en su embarazo, hasta que Penny nace saludable y cumple seis meses, aunque corre riesgo de sufrir algunos problemas de salud. Terra debe someterse a una resonancia magnética y otros estudios médicos ante las inquietantes noticias sobre la salud de su bebé. Con los resultados en la mano, y considerando el riesgo que supone el embarazo de una persona pequeña, el médico toma una inesperada decisión sobre la fecha del nacimiento.</desc>
+    <sub-title lang="es">36 Hagamos un trato</sub-title>
+    <desc lang="es">Conoce a Terra y Joe en su nuevo rol como padres, el proceso y todo lo que vivió Terra en su embarazo, hasta que Penny nace saludable y cumple seis meses, aunque corre riesgo de sufrir algunos problemas de salud. Terra programa una actuación en vivo para promocionar su disco de música para niños y convoca a Joe y a Tonya para que participen. Joe apuesta con Terra que la actuación de su banda en un bar tendrá más fanáticos que la exhibición de su esposa. ¿Hará Terra bien en confiar en su trabajo?</desc>
   </programme>
-  <programme start="20230507090000 -0400" stop="20230507100000 -0400" channel="0617">
+  <programme start="20230507090000 -0400" stop="20230507095400 -0400" channel="0617">
     <title lang="es">Corazón en la tierra</title>
-    <sub-title lang="es">3 Road Curves</sub-title>
+    <sub-title lang="es">3 Curvas de carretera</sub-title>
     <desc lang="es">Amy y Lou son dos hermanas que se mudan desde Nueva York a Heartland, el rancho de caballos de su familia, después de la inesperada muerte de su madre. Viviendo junto a su abuelo Jack, deben lidiar con las buenas y malas cosas que vienen con el nuevo hogar y que ha estado en su familia por generaciones. Ahora tiene tantas deudas que están a punto de perderlo todo. Cuando vuelve a surgir una atracción tácita, Amy descubre que la honestidad puede ser la mejor política, pero ciertamente no es la más fácil.</desc>
+  </programme>
+  <programme start="20230507095400 -0400" stop="20230507095700 -0400" channel="0617">
+    <title lang="es">Renovación zombi</title>
+    <sub-title lang="es">Gran oportunidad</sub-title>
+    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria.</desc>
+  </programme>
+  <programme start="20230507095700 -0400" stop="20230507100000 -0400" channel="0617">
+    <title lang="es">Renovación zombi</title>
+    <sub-title lang="es">Sin demora</sub-title>
+    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria.</desc>
   </programme>
   <programme start="20230507100000 -0400" stop="20230507110000 -0400" channel="0617">
     <title lang="es">Infomerciales</title>
@@ -24055,52 +24076,62 @@
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
   </programme>
-  <programme start="20230507120000 -0400" stop="20230507122500 -0400" channel="0617">
-    <title lang="es">La pequeña familia de Terra</title>
-    <sub-title lang="es">1 Pequeño bebé, gran riesgo</sub-title>
-    <desc lang="es">Conoce a Terra y Joe en su nuevo rol como padres, el proceso y todo lo que vivió Terra en su embarazo, hasta que Penny nace saludable y cumple seis meses, aunque corre riesgo de sufrir algunos problemas de salud. Terra debe someterse a una resonancia magnética y otros estudios médicos ante las inquietantes noticias sobre la salud de su bebé. Con los resultados en la mano, y considerando el riesgo que supone el embarazo de una persona pequeña, el médico toma una inesperada decisión sobre la fecha del nacimiento.</desc>
+  <programme start="20230507120000 -0400" stop="20230507121000 -0400" channel="0617">
+    <title lang="es">Renovación zombi</title>
+    <sub-title lang="es">Cápsula del tiempo</sub-title>
+    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria.</desc>
   </programme>
-  <programme start="20230507122500 -0400" stop="20230507142500 -0400" channel="0617">
+  <programme start="20230507121000 -0400" stop="20230507123400 -0400" channel="0617">
+    <title lang="es">La pequeña familia de Terra</title>
+    <sub-title lang="es">11 Noticias emocionantes</sub-title>
+    <desc lang="es">Conoce a Terra y Joe en su nuevo rol como padres, el proceso y todo lo que vivió Terra en su embarazo, hasta que Penny nace saludable y cumple seis meses, aunque corre riesgo de sufrir algunos problemas de salud. Terra está entusiasmada por contarle a Joe que está embarazada, pero la pone nerviosa que su marido se enoje porque se lo contó primero sus amigas. Joe tiene su propia sorpresa para Terra: finalmente intentará superar su miedo a las agujas y se dará una inyección de cortisona. ¿Cuál será la reacción de Joe cuando vaya al hospital?</desc>
+  </programme>
+  <programme start="20230507123400 -0400" stop="20230507123700 -0400" channel="0617">
+    <title lang="es">Renovación zombi</title>
+    <sub-title lang="es">Zombi no tan zombi</sub-title>
+    <desc lang="es">Justin Stamper y su equipo, conocidos como los Robin Hoods de Bienes Raíces, 'roban' casas embargadas para ayudar a los vecindarios a regresar a su antigua gloria.</desc>
+  </programme>
+  <programme start="20230507123700 -0400" stop="20230507143200 -0400" channel="0617">
     <title lang="es">Un respiro es suficiente</title>
     <desc lang="es">Una joven condenada por una enfermedad cardíaca pero que todavía cree en los milagros, se cruza con un joven suicida que no puede superar haber sido la causa de la muerte de sus padres. Juntos vivirán un amor atormentado mientras aprenden a valorar sus días juntos.</desc>
   </programme>
-  <programme start="20230507142500 -0400" stop="20230507152500 -0400" channel="0617">
+  <programme start="20230507143200 -0400" stop="20230507152200 -0400" channel="0617">
     <title lang="es">#AvísameCuandoLlegues</title>
     <sub-title lang="es">1 Kenia Monge</sub-title>
     <desc lang="es">Las historias de diversas mujeres secuestradas, lesionadas o asesinadas son contadas a través de emotivas entrevistas o recreaciones, junto a textos o registros telefónicos que las autoridades utilizaron para resolver los casos. La familia de Kenia Monge comparte los detalles de la desaparición de esta bella joven de 19 años. Su padre, su hermana y las autoridades explican cómo los mensajes de texto en el teléfono celular de Kenia fueron claves para encontrar a su secuestrador, quien finalmente los llevó hasta Kenia.</desc>
   </programme>
-  <programme start="20230507152500 -0400" stop="20230507170500 -0400" channel="0617">
+  <programme start="20230507152200 -0400" stop="20230507165800 -0400" channel="0617">
     <title lang="es">Incriminada por mi prometido</title>
     <desc lang="es">Daniel, un brillante abogado que está a punto de convertirse en uno de los jueces más jóvenes del estado, conduce con su novia Jenny cuando chocan con otro automóvil. Se despierta y se entera de que el otro conductor está muerto y la acusan de homicidio involuntario. Antes de que la ayuda llegara a la escena, Daniel llevó a Jenny al asiento del conductor para ocultar su culpabilidad. Desesperada por recuperar su vida, Jenny se dispone a convencer a la esposa del vengativo conductor muerto de que es inocente, solo para darse cuenta de que Daniel está decidido a mantener la verdad en secreto.</desc>
   </programme>
-  <programme start="20230507170500 -0400" stop="20230507180500 -0400" channel="0617">
+  <programme start="20230507165800 -0400" stop="20230507175700 -0400" channel="0617">
     <title lang="es">Corazón en la tierra</title>
-    <sub-title lang="es">3 Road Curves</sub-title>
+    <sub-title lang="es">3 Curvas de carretera</sub-title>
     <desc lang="es">Amy y Lou son dos hermanas que se mudan desde Nueva York a Heartland, el rancho de caballos de su familia, después de la inesperada muerte de su madre. Viviendo junto a su abuelo Jack, deben lidiar con las buenas y malas cosas que vienen con el nuevo hogar y que ha estado en su familia por generaciones. Ahora tiene tantas deudas que están a punto de perderlo todo. Cuando vuelve a surgir una atracción tácita, Amy descubre que la honestidad puede ser la mejor política, pero ciertamente no es la más fácil.</desc>
   </programme>
-  <programme start="20230507180500 -0400" stop="20230507190000 -0400" channel="0617">
+  <programme start="20230507175700 -0400" stop="20230507185600 -0400" channel="0617">
     <title lang="es">Corazón en la tierra</title>
-    <sub-title lang="es">4 Graduation</sub-title>
+    <sub-title lang="es">4 Graduación</sub-title>
     <desc lang="es">Amy y Lou son dos hermanas que se mudan desde Nueva York a Heartland, el rancho de caballos de su familia, después de la inesperada muerte de su madre. Viviendo junto a su abuelo Jack, deben lidiar con las buenas y malas cosas que vienen con el nuevo hogar y que ha estado en su familia por generaciones. Ahora tiene tantas deudas que están a punto de perderlo todo. Una inminente graduación de la escuela secundaria y la casi fatal pelea de Spartan con cólicos hacen que Amy se enfrente a su verdadero futuro.</desc>
   </programme>
-  <programme start="20230507190000 -0400" stop="20230507204000 -0400" channel="0617">
+  <programme start="20230507185600 -0400" stop="20230507203700 -0400" channel="0617">
     <title lang="es">Compromiso mortal</title>
     <desc lang="es">Convencida de que la prometida de su hijo sólo quiere su dinero, Amanda intenta detener la boda. Ahora la mujer será capaz de todo con tal de separar a Jackson de su novia, Olivia.</desc>
   </programme>
-  <programme start="20230507204000 -0400" stop="20230507222000 -0400" channel="0617">
+  <programme start="20230507203700 -0400" stop="20230507221800 -0400" channel="0617">
     <title lang="es">Marcha nupcial mortal</title>
     <desc lang="es">La hermana de Carlos descubre que él se casará en una semana con Grace, una chica que acaba de conocer en un club de striptease. Su hermana investiga y se ve envuelta en un torbellino de eventos, poniendo en riesgo su propia vida.</desc>
   </programme>
-  <programme start="20230507222000 -0400" stop="20230508000000 -0400" channel="0617">
+  <programme start="20230507221800 -0400" stop="20230508000000 -0400" channel="0617">
     <title lang="es">No me puedes quitar a mi hija</title>
     <desc lang="es">Amy, una estudiante de derecho, es atacada y violada por Demetri, un conocido. Tiempo más tarde, descubre que está embarazada y decide quedarse con el bebé. Luego de dar a luz, se muda a Atlanta y, seis años más tarde, Demetri la encuentra y demanda la custodia de su hija. A partir de ese momento, Amy utiliza sus habilidades legales para defenderse.</desc>
   </programme>
-  <programme start="20230508000000 -0400" stop="20230508010000 -0400" channel="0617">
+  <programme start="20230508000000 -0400" stop="20230508010200 -0400" channel="0617">
     <title lang="es">Señorita 89</title>
     <sub-title lang="es">1 Elena</sub-title>
     <desc lang="es">Diferentes candidatas llegan a la finca La Encantada para convertirse en Señorita México. Cada aspirante trae consigo su propio pasado, así como la ilusión de ser la ganadora. En el camino descubrirán los oscuros secretos que hay para conseguir la corona. Meses después que las concursantes llegan a la finca La Encantada, en la gran final del concurso Señorita México, Elena quiere revelar la verdad a la prensa, pero sucede un trágico incidente en la terraza que interrumpe sus planes.</desc>
   </programme>
-  <programme start="20230508010000 -0400" stop="20230508020000 -0400" channel="0617">
+  <programme start="20230508010200 -0400" stop="20230508020600 -0400" channel="0617">
     <title lang="es">Señorita 89</title>
     <sub-title lang="es">2 Jocelyn</sub-title>
     <desc lang="es">Diferentes candidatas llegan a la finca La Encantada para convertirse en Señorita México. Cada aspirante trae consigo su propio pasado, así como la ilusión de ser la ganadora. En el camino descubrirán los oscuros secretos que hay para conseguir la corona. Jocelyn se entera de que su hermana ha desaparecido. Además, en la presentación con los patrocinadores, Nora engaña a Dolores, Marijo y Jocelyn para participar en una grabación. Luego, un político se sobrepasa con Jocelyn y termina con resultados fatales.</desc>
@@ -26729,7 +26760,7 @@
     <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
   </programme>
   <programme start="20230506061000 -0400" stop="20230506070000 -0400" channel="0802">
-    <title lang="es">The Flash</title>
+    <title lang="es">Flash</title>
     <sub-title lang="es">6 El de los noventa</sub-title>
     <desc lang="es">Sigue las veloces aventuras de Barry Allen, un científico de la policía de Central City con corazón de héroe y un deseo genuino por ayudar a los demás. Aún está resentido por el asesinato de su madre cuando él era un niño. Tras el hecho, fue recogido por el Detective West, y creció en la casa del policía junto a Iris, su hija. Cisco y Chester viajan atrás en el tiempo y se atascan en 1998, repitiendo el mismo día una y otra vez. La clave para regresar al presente está en la casa de la infancia de Chester, pero él se niega a visitarla.</desc>
   </programme>
@@ -26800,7 +26831,7 @@
     <desc lang="es">Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual.</desc>
   </programme>
   <programme start="20230507060000 -0400" stop="20230507065200 -0400" channel="0802">
-    <title lang="es">The Flash</title>
+    <title lang="es">Flash</title>
     <sub-title lang="es">7 Problemas de adolescencia</sub-title>
     <desc lang="es">Sigue las veloces aventuras de Barry Allen, un científico de la policía de Central City con corazón de héroe y un deseo genuino por ayudar a los demás. Aún está resentido por el asesinato de su madre cuando él era un niño. Tras el hecho, fue recogido por el Detective West, y creció en la casa del policía junto a Iris, su hija. Cuando un enemigo misterioso impulsado por el hielo incrimina a Frost por un crimen brutal, ella debe encontrar una manera de limpiar su nombre. Por otro lado, Barry e Iris tienen una invitada sorpresa, y Joe continúa lidiando con Kristen Kramer.</desc>
   </programme>
@@ -28012,8 +28043,8 @@
     <desc lang="es">Varios equipos competirán alrededor del mundo en busca del gran premio. Un miedo extremo a las alturas paraliza a un corredor en una barricada cuando se enfrenta a un salto en bungee de 240 pies desde un puente hacia el canal de Corinto.</desc>
   </programme>
   <programme start="20230507061100 -0400" stop="20230507070000 -0400" channel="0809">
-    <title lang="es">Programación especial</title>
-    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230507070000 -0400" stop="20230507073000 -0400" channel="0809">
     <title lang="es">Infomercial</title>
@@ -29107,110 +29138,105 @@
     <sub-title lang="es">3 SLS</sub-title>
     <desc lang="es">Sam es una auténtica representante de Kansas en la superficie, pero, en el fondo, lucha por encajar en el molde de la ciudad natal. Mientras lidia con la pérdida y la aceptación, el canto es la gracia salvadora de Sam y la guía en un viaje para descubrirse a sí misma y a una comunidad de extraños que no encajan pero que no se dan por vencidos,. A medida que el comportamiento de Mary Jo empeora, Sam y Tricia se enfrentan a la difícil decisión de aumentar sus cuidados. Entonces, cuando Tricia presenta sus servicios para la boda de Fred y Susan, Joel tiene una crisis de fe y Sam lucha por volver a ponerse en contacto con su instrumento.</desc>
   </programme>
-  <programme start="20230506010500 -0400" stop="20230506033600 -0400" channel="8813">
-    <title lang="es">Jurassic World: Dominio</title>
-    <desc lang="es">Años después de la destrucción de Isla Nublar, los dinosaurios viven y cazan junto a los humanos. Este equilibrio determinará, si los humanos seguirán siendo los depredadores máximos en un planeta que comparten con las criaturas temibles.</desc>
+  <programme start="20230506014500 -0400" stop="20230506034000 -0400" channel="8813">
+    <title lang="es">Ocean's 8: Las Estafadoras</title>
+    <title lang="xx">Ocean's 8</title>
+    <desc lang="es">La marea ha cambiado en un nuevo "océano" cuando un grupo de ocho chicas planean y ejecutan un robo en Nueva York.</desc>
   </programme>
-  <programme start="20230506033600 -0400" stop="20230506050000 -0400" channel="8813">
-    <title lang="es">Eliminar amigo</title>
-    <desc lang="es">Mientras están chateando una noche, seis amigos reciben por Skype un mensaje de Laura Barns, una joven estudiante que se había suicidado un año antes tras ser humillada en Internet por un video sexual en el que aparecía borracha una noche. Al principio los amigos piensan que es una broma, pero cuando la persona con la que chatean comienza a revelar sus secretos más íntimos, se dan cuenta de que el asunto es grave.</desc>
+  <programme start="20230506034000 -0400" stop="20230506061400 -0400" channel="8813">
+    <title lang="es">Doctor Sueño</title>
+    <title lang="xx">Doctor Sleep</title>
+    <desc lang="es">Una adolescente valiente busca la ayuda de Dan Torrance para enfrentarse a "Rose la del sombrero" y sus seguidores en una brutal batalla de vida o muerte.</desc>
   </programme>
-  <programme start="20230506050000 -0400" stop="20230506062800 -0400" channel="8813">
-    <title lang="es">Infectados</title>
-    <desc lang="es">El virus COVID-23 ha mutado y el mundo se encuentra en su cuarto año de confinamiento. Un mensajero corre contra el tiempo para salvar a la mujer que ama de un campo de cuarentena.</desc>
+  <programme start="20230506061400 -0400" stop="20230506080000 -0400" channel="8813">
+    <title lang="es">Focus maestros de la estafa</title>
   </programme>
-  <programme start="20230506062800 -0400" stop="20230506080500 -0400" channel="8813">
-    <title lang="es">Bestia</title>
-    <desc lang="es">El Doctor Nate Samuels, que se ha quedado viudo recientemente, regresa a Sudáfrica, lugar en el que conoció a su mujer, para visitar una reserva de animales con sus hijas. Pero lo que empieza siendo un viaje de relax se convierte en una lucha por la supervivencia cuando un león que ha escapado de unos cazadores furtivos empieza a perseguirles.</desc>
+  <programme start="20230506080000 -0400" stop="20230506102200 -0400" channel="8813">
+    <title lang="es">Ready Player One: Comienza el Juego</title>
+    <title lang="xx">Ready Player One</title>
+    <desc lang="es">Después de la muerte del creador de OASIS deja una gran fortuna al primero que encuentre el huevo de pascua digital escondido en algún lugar de OASIS.</desc>
   </programme>
-  <programme start="20230506080500 -0400" stop="20230506101500 -0400" channel="8813">
-    <title lang="es">Godzilla</title>
-    <desc lang="es">El famoso monstruo se enfrenta a malvadas criaturas que, animadas por la arrogancia científica de la humanidad, amenazan nuestra propia existencia, en una historia de valor y reconciliación frente a las poderosas fuerzas de la naturaleza. El aterrador Godzilla aparece para restablecer el equilibrio ante una humanidad indefensa.</desc>
+  <programme start="20230506102200 -0400" stop="20230506124700 -0400" channel="8813">
+    <title lang="es">Rápidos y Furiosos 9</title>
+    <title lang="xx">F9</title>
+    <desc lang="es">Dom Toretto debe enfrentar los pecados de su pasado si quiere salvar a los que más ama cuando su hermano menor, Jakob, aparece en búsqueda de venganza.</desc>
   </programme>
-  <programme start="20230506101500 -0400" stop="20230506111800 -0400" channel="8813">
-    <title lang="es">Los plomeros de la Casa Blanca</title>
-    <sub-title lang="es">1 The Beverly Hills Burglary</sub-title>
-    <desc lang="es">Cuenta la historia de cómo los propios aliados políticos de Nixon y cerebros detrás del escándalo Watergate derribaron accidentalmente la presidencia que intentaban proteger. Un año antes del infame robo de Watergate, E. Howard Hunt y G. Gordon Liddy tienen la tarea de investigar la filtración de los Documentos del Pentágono, reuniendo un equipo de cubanos, todos veteranos de Bahía de Cochinos, para infiltrarse en la oficina del psiquiatra del denunciante Daniel Ellsberg.</desc>
+  <programme start="20230506124700 -0400" stop="20230506134700 -0400" channel="8813">
+    <title lang="es">Los Plomeros de la Casa Blanca</title>
+    <title lang="xx">White House Plumbers</title>
+    <desc lang="es">Cuenta la historia detrás de escena sobre cómo dos hombres que intentaban proteger la presidencia de Nixon, la terminaron saboteando accidentalmente.</desc>
   </programme>
-  <programme start="20230506111800 -0400" stop="20230506122500 -0400" channel="8813">
+  <programme start="20230506134700 -0400" stop="20230506145200 -0400" channel="8813">
     <title lang="es">Succession</title>
-    <sub-title lang="es">6 Living+</sub-title>
-    <desc lang="es">Multimillonarios, ricos y poderosos, los Redstone tienen todo lo que ansían, salvo vida familiar. El único objetivo es hacer que el imperio crezca, y para ello las lealtades se pondrán en duda, las traiciones están a la orden del día y el ambiente se crispa cada vez más ante la presión de negociar y conseguir contactos cada vez más influyentes para poder expandir el negocio. El precio del poder y el éxito es muy alto, y los Redstone deberán estar dispuestos a pagarlo. Antes del lanzamiento de un nuevo producto crucial en el Día del Inversor, Shiv evalúa una propuesta comercial de Matsson, mientras que Kendall y Roman convocan una reunión improvisada para cambiar el guión de su última interacción con el multimillonario tecnológico.</desc>
+    <title lang="xx">Succession</title>
+    <desc lang="es">Como contemplarán su futuro los hijos de Logan Roy una vez que se retire de controlar uno de los grupos de medios y entretenimiento más grande del mundo.</desc>
   </programme>
-  <programme start="20230506122500 -0400" stop="20230506145000 -0400" channel="8813">
-    <title lang="es">Rápidos y furiosos 9</title>
-    <desc lang="es">Dom Toretto lleva una vida tranquila fuera de alcance con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha en su tranquilo horizonte. Esta vez, esa amenaza obligará a Dom a enfrentar los pecados de su pasado si va a salvar a los que más ama. Su equipo se une para detener una complot revolucionario liderado por el asesino y conductor de alto rendimiento más hábil que jamás hayan encontrado: un hombre que también es el hermano abandonado de Dom, Jakob.</desc>
+  <programme start="20230506145200 -0400" stop="20230506172200 -0400" channel="8813">
+    <title lang="es">Jurassic World Dominion</title>
+    <title lang="xx">Jurassic World Dominion</title>
+    <desc lang="es">Los humanos y los dinosaurios viven en un frágil equilibrio que determinará de una vez por todas si las personas seguirán siendo los depredadores máximos.</desc>
   </programme>
-  <programme start="20230506145000 -0400" stop="20230506170000 -0400" channel="8813">
-    <title lang="es">Jurassic World: mundo jurásico</title>
-    <desc lang="es">Veintidós años después de lo ocurrido en Jurassic Park, la isla Nublar ha sido transformada en un parque temático, Jurassic Wold, con versiones 'domesticadas' de algunos de los dinosaurios más conocidos. Cuando todo parece ir a la perfección y ser el negocio del siglo, un nuevo dinosaurio de especie todavía desconocida y que es mucho más inteligente de lo que se pensaba, comienza a causar estragos entre los visitantes del Parque.</desc>
+  <programme start="20230506172200 -0400" stop="20230506195500 -0400" channel="8813">
+    <title lang="es">Tenet</title>
+    <title lang="xx">Tenet</title>
+    <desc lang="es">Un hombre debe viajar a través de un mundo crepuscular de espionaje internacional en una misión que se desarrollará en algo más allá del tiempo real.</desc>
   </programme>
-  <programme start="20230506170000 -0400" stop="20230506185900 -0400" channel="8813">
-    <title lang="es">El conjuro 3: El Diablo me obligó a hacerlo</title>
-    <desc lang="es">Ed y Lorraine Warren deberán afrontar un nuevo caso que se presenta con un hombre llamado Arne Cheyne Johnson, quien es acusado de asesinato tras haber sido poseído por un demonio.</desc>
+  <programme start="20230506195500 -0400" stop="20230506213000 -0400" channel="8813">
+    <title lang="es">La maldición de la llorona</title>
   </programme>
-  <programme start="20230506185900 -0400" stop="20230506210000 -0400" channel="8813">
-    <title lang="es">Un crimen argentino</title>
-    <desc lang="es">Argentina, 1980. Mientras el país atraviesa tiempos sombríos, las fuerzas del orden buscan al responsable de un crimen aparentemente perfecto, un secuestro extorsivo con la consecuente desaparición de todo rastro de la víctima.</desc>
+  <programme start="20230506213000 -0400" stop="20230507000000 -0400" channel="8813">
+    <title lang="es">Rápidos y Furiosos 9</title>
+    <title lang="xx">F9</title>
+    <desc lang="es">Dom Toretto debe enfrentar los pecados de su pasado si quiere salvar a los que más ama cuando su hermano menor, Jakob, aparece en búsqueda de venganza.</desc>
   </programme>
-  <programme start="20230506210000 -0400" stop="20230506225300 -0400" channel="8813">
+  <programme start="20230507000000 -0400" stop="20230507015500 -0400" channel="8813">
     <title lang="es">Juego de criminales</title>
-    <desc lang="es">Una comisaría de policía de un pequeño pueblo se convierte en el improbable campo de batalla entre un asesino a sueldo, una inteligente policía novata y un estafador que busca refugio tras las rejas sin ningún lugar al que huir.</desc>
   </programme>
-  <programme start="20230506225300 -0400" stop="20230507012000 -0400" channel="8813">
-    <title lang="es">Rápidos y furiosos 9</title>
-    <desc lang="es">Dom Toretto lleva una vida tranquila fuera de alcance con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha en su tranquilo horizonte. Esta vez, esa amenaza obligará a Dom a enfrentar los pecados de su pasado si va a salvar a los que más ama. Su equipo se une para detener una complot revolucionario liderado por el asesino y conductor de alto rendimiento más hábil que jamás hayan encontrado: un hombre que también es el hermano abandonado de Dom, Jakob.</desc>
+  <programme start="20230507015500 -0400" stop="20230507043000 -0400" channel="8813">
+    <title lang="es">Jurassic World Dominion</title>
+    <title lang="xx">Jurassic World Dominion</title>
+    <desc lang="es">Los humanos y los dinosaurios viven en un frágil equilibrio que determinará de una vez por todas si las personas seguirán siendo los depredadores máximos.</desc>
   </programme>
-  <programme start="20230507012000 -0400" stop="20230507033500 -0400" channel="8813">
-    <title lang="es">¡Nop!</title>
-    <desc lang="es">Los residentes de un barranco solitario en el interior de California son testigos de un descubrimiento extraño y escalofriante.</desc>
+  <programme start="20230507043000 -0400" stop="20230507060000 -0400" channel="8813">
+    <title lang="es">Inframundo El despertar</title>
   </programme>
-  <programme start="20230507033500 -0400" stop="20230507050000 -0400" channel="8813">
-    <title lang="es">La aparición</title>
-    <desc lang="es">Cuando eventos aterradores comienzan a ocurrir en su casa, Kelly y Ben descubren que están siendo espantados por una presencia que fue conjurada accidentalmente durante un experimento universitario parapsicológico. La horrible aparición se alimenta de sus miedos y los atormenta sin importar a donde intenten huir. Su última esperanza es un experto en lo sobrenatural, Patrick, pero, aun con su ayuda, puede ya ser muy tarde para salvarse a sí mismos de esta fuerza aterradora.</desc>
+  <programme start="20230507060000 -0400" stop="20230507080000 -0400" channel="8813">
+    <title lang="es">Fuerza antigánster</title>
   </programme>
-  <programme start="20230507050000 -0400" stop="20230507073500 -0400" channel="8813">
-    <title lang="es">Spider-Man: Sin camino a casa</title>
-    <desc lang="es">La identidad secreta de Peter Parker se revela al mundo entero. Desesperado por ayuda, Peter recurre al Doctor Strange para hacer que el mundo olvide que él es Spider-Man. Pero el hechizo sale terriblemente mal y destroza el multiverso, haciendo que villanos de mundos paralelos aparezcan para destruir el planeta.</desc>
+  <programme start="20230507080000 -0400" stop="20230507103500 -0400" channel="8813">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <title lang="xx">Wonder Woman 1984</title>
+    <desc lang="es">Sinopsis no disponible.</desc>
   </programme>
-  <programme start="20230507073500 -0400" stop="20230507095000 -0400" channel="8813">
-    <title lang="es">Van Helsing: el cazador de monstruos</title>
-    <desc lang="es">Van Helsing, el caza vampiros, viajará a Transilvania para destruir al Conde Drácula, y unirá sus fuerzas con Anna Valerious, quien está empeñada en librar a su familia de una maldición de muchas generaciones. Juntos deberán encontrar una solución para Velkan, el hermano de Anna, que bajo la luna llena se transforma en el Hombre Lobo.</desc>
+  <programme start="20230507103500 -0400" stop="20230507122000 -0400" channel="8813">
+    <title lang="es">¿Qué pasó ayer</title>
   </programme>
-  <programme start="20230507095000 -0400" stop="20230507114000 -0400" channel="8813">
-    <title lang="es">Halloween Kills - La noche aún no termina</title>
-    <desc lang="es">Minutos después de que Laurie Strode, su hija Karen y su nieta Allyson dejaran al despiadado asesino Michael Myers encerrado y ardiendo en el sótano, Laurie es llevada de urgencia al hospital con heridas que ponen en peligro su vida, creyendo haber acabado por fin con quien ha convertido su vida en un infierno. Pero cuando Michael consigue liberarse de la trampa de Laurie, reinicia su ritual de baño de sangre. Ahora, los sobrevivientes de la primera matanza de Myers, sumados a los residentes de Haddonfield, intentarán cazar al despiadado criminal.</desc>
+  <programme start="20230507122000 -0400" stop="20230507143000 -0400" channel="8813">
+    <title lang="es">Damas en Guerra</title>
+    <desc lang="es">Annie es elegida como dama de honor de su mejor amiga, pero hay un problema, ella está en banca rota, aun así se aventura en juntar este grupo de damas.</desc>
   </programme>
-  <programme start="20230507114000 -0400" stop="20230507134000 -0400" channel="8813">
-    <title lang="es">Cóctel explosivo</title>
-    <desc lang="es">Eva era lo más importante en la turbulenta vida de su madre, Scarlet. Pero sus enemigos obligaron a Scarlet a huir abandonándolo todo, incluida a su hija. Años más tarde, Eva se convierte en una asesina a sangre fría siguiendo los pasos de su progenitora.</desc>
+  <programme start="20230507143000 -0400" stop="20230507164000 -0400" channel="8813">
+    <title lang="es">Where the Crawdads Sing</title>
+    <title lang="xx">Where the Crawdads Sing</title>
+    <desc lang="es">Una joven que se crio sola en los pantanos de Carolina del Norte se convierte en sospechosa de la muerte de un joven con el que alguna vez se relacionó.</desc>
   </programme>
-  <programme start="20230507134000 -0400" stop="20230507152500 -0400" channel="8813">
-    <title lang="es">¿Qué pasó ayer?</title>
-    <desc lang="es">Dos días antes de la boda, Doug viaja con sus mejores amigos Phil y Stu más su futuro cuñado, Alan, para tener una despedida de soltero que nunca olvidarán. Pero a la mañana siguiente los tres padrinos de boda, que tienen una resaca monumental y no recuerdan nada de lo ocurrido durante la noche anterior, notan que el prometido ha desaparecido topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé. En poco tiempo deberán averiguar qué sucedió y dónde está el novio.</desc>
+  <programme start="20230507164000 -0400" stop="20230507181500 -0400" channel="8813">
+    <title lang="es">Las momias y el anillo perdido</title>
   </programme>
-  <programme start="20230507152500 -0400" stop="20230507175800 -0400" channel="8813">
-    <title lang="es">Spider-Man: Sin camino a casa</title>
-    <desc lang="es">La identidad secreta de Peter Parker se revela al mundo entero. Desesperado por ayuda, Peter recurre al Doctor Strange para hacer que el mundo olvide que él es Spider-Man. Pero el hechizo sale terriblemente mal y destroza el multiverso, haciendo que villanos de mundos paralelos aparezcan para destruir el planeta.</desc>
+  <programme start="20230507181500 -0400" stop="20230507202500 -0400" channel="8813">
+    <title lang="es">Shazam!</title>
+    <title lang="xx">Shazam!</title>
+    <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes.</desc>
   </programme>
-  <programme start="20230507175800 -0400" stop="20230507210300 -0400" channel="8813">
-    <title lang="es">Batman</title>
-    <desc lang="es">Después de dos años acechando por las calles de la ciudad como Batman, e infundiendo miedo en las mentes perversas de los criminales, Bruce Wayne está sumido en las profundidades de las sombras de Gotham City. Este vigilante solitario cuenta con pocos aliados de confianza y eso le ha llevado a convertirse en la única encarnación de la venganza entre sus conciudadanos. Cuando un asesino apunta a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas lleva a Batman a realizar una investigación en el inframundo.</desc>
+  <programme start="20230507202500 -0400" stop="20230507230000 -0400" channel="8813">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <title lang="xx">Wonder Woman 1984</title>
+    <desc lang="es">Sinopsis no disponible.</desc>
   </programme>
-  <programme start="20230507210300 -0400" stop="20230507220800 -0400" channel="8813">
+  <programme start="20230507230000 -0400" stop="20230508000000 -0400" channel="8813">
     <title lang="es">Succession</title>
-    <sub-title lang="es">7 Tailgate Party</sub-title>
-    <desc lang="es">Multimillonarios, ricos y poderosos, los Redstone tienen todo lo que ansían, salvo vida familiar. El único objetivo es hacer que el imperio crezca, y para ello las lealtades se pondrán en duda, las traiciones están a la orden del día y el ambiente se crispa cada vez más ante la presión de negociar y conseguir contactos cada vez más influyentes para poder expandir el negocio. El precio del poder y el éxito es muy alto, y los Redstone deberán estar dispuestos a pagarlo. Con la esperanza de trabajar en el acuerdo de GoJo, Kendall y Roman le piden a Shiv que invite a un experto político a la fiesta anual previa a las elecciones de Logan. Por otro lado, se enteran de un escándalo potencialmente fortuito.</desc>
-  </programme>
-  <programme start="20230507220800 -0400" stop="20230507224200 -0400" channel="8813">
-    <title lang="es">Barry</title>
-    <sub-title lang="es">5 legados complicados</sub-title>
-    <desc lang="es">Barry es un ex-marine que trabaja como asesino a sueldo, un mercenario que obedece al mejor postor y no tiene remordimiento alguno por lo que hace. Debido a un trabajo, se ve obligado a viajar a Los Ángeles donde por casualidad encuentra un grupo de aspirantes a actores y actrices de teatro. Quizás eso sea lo que Barry necesita para llenar el vacío que siente y renovar sus ganas de vivir. El asesino a sueldo comienza a establecer relación con un profesor de teatro y una aspirante a actriz, pero al mismo tiempo se ve acosado por un par de gánster. Debe lidiar con sus dos vidas, intentando que una no afecte a la otra. Las cosas han cambiado.</desc>
-  </programme>
-  <programme start="20230507224200 -0400" stop="20230507231600 -0400" channel="8813">
-    <title lang="es">Alguien en algún lugar</title>
-    <sub-title lang="es">3 SLS</sub-title>
-    <desc lang="es">Sam es una auténtica representante de Kansas en la superficie, pero, en el fondo, lucha por encajar en el molde de la ciudad natal. Mientras lidia con la pérdida y la aceptación, el canto es la gracia salvadora de Sam y la guía en un viaje para descubrirse a sí misma y a una comunidad de extraños que no encajan pero que no se dan por vencidos,. A medida que el comportamiento de Mary Jo empeora, Sam y Tricia se enfrentan a la difícil decisión de aumentar sus cuidados. Entonces, cuando Tricia presenta sus servicios para la boda de Fred y Susan, Joel tiene una crisis de fe y Sam lucha por volver a ponerse en contacto con su instrumento.</desc>
+    <title lang="xx">Succession</title>
+    <desc lang="es">Como contemplarán su futuro los hijos de Logan Roy una vez que se retire de controlar uno de los grupos de medios y entretenimiento más grande del mundo.</desc>
   </programme>
   <programme start="20230506003800 -0400" stop="20230506014000 -0400" channel="0814">
     <title lang="es">Los plomeros de la Casa Blanca</title>
