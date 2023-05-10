@@ -7315,6 +7315,9 @@
   <programme start="20230511113000 -0400" stop="20230511123000 -0400" channel="0209">
     <title lang="es">La Noche</title>
   </programme>
+  <programme start="20230511170000 -0400" stop="20230511190000 -0400" channel="0209">
+    <title lang="es">La Tarde</title>
+  </programme>
   <programme start="20230511210000 -0400" stop="20230511213000 -0400" channel="0209">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
@@ -13358,7 +13361,9 @@
     <desc lang="es">Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.</desc>
   </programme>
   <programme start="20230510170000 -0400" stop="20230510173000 -0400" channel="0312">
-    <title lang="es">Zamba</title>
+    <title lang="es">La asombrosa excursión de Zamba</title>
+    <sub-title lang="es">19 Culturas precolombinas</sub-title>
+    <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina! Zamba viaja al siglo XVI a la tierra de Tahuantinsuyo, en donde conoce a Atahualpa Inca, el gran último emperador del Imperio incaico. Juntos visitarán diferentes regiones del imperio, descubriendo todos los recursos que la tierra tiene para ofrecer y las curiosidades más asombrosas de esta cultura precolombina. Zamba también conocerá la vida de Moctezuma Xocoyotzín, quien le contará sobre costumbres y creencias aztecas. Por otra parte, Hernán Cortés resaltará el punto de vista colonizador para con los pueblos precolombinos. Y Zamba junto a Diego Rivera explorarán un mural del pintor mexicano.</desc>
   </programme>
   <programme start="20230510173000 -0400" stop="20230510174500 -0400" channel="0312">
     <title lang="es">Polinópolis</title>
@@ -13507,7 +13512,9 @@
     <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal. Los ingredientes, las técnicas, los condimentos y los secretos de sus combinaciones quedan asociados a experiencias propias, evocando desde la memoria culinaria las tradiciones de un país surgido de múltiples nacionalidades.</desc>
   </programme>
   <programme start="20230511040000 -0400" stop="20230511043000 -0400" channel="0312">
-    <title lang="es">Zamba</title>
+    <title lang="es">La asombrosa excursión de Zamba</title>
+    <sub-title lang="es">A la vida de Manuel Belgrano</sub-title>
+    <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
   <programme start="20230511043000 -0400" stop="20230511044500 -0400" channel="0312">
     <title lang="es">Shaun the Sheep</title>
@@ -13690,7 +13697,9 @@
     <desc lang="es">Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.</desc>
   </programme>
   <programme start="20230511170000 -0400" stop="20230511173000 -0400" channel="0312">
-    <title lang="es">Zamba</title>
+    <title lang="es">La asombrosa excursión de Zamba</title>
+    <sub-title lang="es">A la vida de Manuel Belgrano</sub-title>
+    <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
   <programme start="20230511173000 -0400" stop="20230511174500 -0400" channel="0312">
     <title lang="es">Polinópolis</title>
@@ -21172,7 +21181,7 @@
     <desc lang="es">No hay información disponible.</desc>
   </programme>
   <programme start="20230511001000 -0400" stop="20230511020500 -0400" channel="0539">
-    <title lang="es">Las imperdibles</title>
+    <title lang="es">Las imperdibles BDX</title>
     <desc lang="es">No hay información disponible.</desc>
   </programme>
   <programme start="20230511020500 -0400" stop="20230511030000 -0400" channel="0539">
@@ -21407,7 +21416,11 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230510060000 -0400" stop="20230510103400 -0400" channel="0544">
+  <programme start="20230510060000 -0400" stop="20230510120000 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230510120000 -0400" stop="20230510154100 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -21419,9 +21432,9 @@
     <title lang="en">Varios Artistas - Lo mejor de Qello Concerts</title>
     <desc lang="en">Una selección de las mejores canciones de los 80 de la biblioteca de Qello Concerts.</desc>
   </programme>
-  <programme start="20230511060000 -0400" stop="20230511120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230511054300 -0400" stop="20230511060600 -0400" channel="0544">
+    <title lang="en">Varios Artistas - Lo mejor de Qello Concerts</title>
+    <desc lang="en">Una selección de las mejores canciones de los 80 de la biblioteca de Qello Concerts.</desc>
   </programme>
   <programme start="20230511120000 -0400" stop="20230511180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -21435,11 +21448,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230510060000 -0400" stop="20230510110000 -0400" channel="0545">
+  <programme start="20230510060000 -0400" stop="20230510120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230510120000 -0400" stop="20230510180000 -0400" channel="0545">
+  <programme start="20230510120000 -0400" stop="20230510160000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -21451,9 +21464,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230511060000 -0400" stop="20230511120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230511060000 -0400" stop="20230511070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230511120000 -0400" stop="20230511180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -35226,9 +35239,9 @@
     <sub-title lang="es">Lo Mejor</sub-title>
     <desc lang="es">Programa de entretención donde se abordan los temas locales con una variedad de invitados, que van desde cultural, musical, políticos, cine, entre muchos otros.</desc>
   </programme>
-  <programme start="20230511204500 -0400" stop="20230511213000 -0400" channel="0153">
-    <title lang="es">Noticias Edición Central</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
+  <programme start="20230511211000 -0400" stop="20230511223000 -0400" channel="0153">
+    <title lang="es">Del fin del mundo</title>
+    <desc lang="es">Ana Josefa Silva y Marco Antonio de la Parra, nos adentran al mundo de la Cultura, teatro y libros, junto con grandes invitados.</desc>
   </programme>
   <programme start="20230511223000 -0400" stop="20230511230000 -0400" channel="0153">
     <title lang="es">Efemérides</title>
