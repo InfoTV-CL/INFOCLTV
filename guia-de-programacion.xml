@@ -5030,24 +5030,57 @@
     <title lang="es">UESTV</title>
     <desc lang="es">Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.</desc>
   </programme>
-  <programme start="20230511100000 -0400" stop="20230511200000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230511100000 -0400" stop="20230511113000 -0400" channel="0125">
+    <title lang="es">Semanas musicales de Frutillar</title>
+    <sub-title lang="es">Banda Sinfónica de la Fuerza Aérea</sub-title>
+    <desc lang="es">Disfrute del festival de música docta que se realiza desde 1968 en la ciudad balneario chilena de Frutillar, en la Región de Los Lagos.</desc>
   </programme>
-  <programme start="20230511200000 -0400" stop="20230511210000 -0400" channel="0125">
+  <programme start="20230511113000 -0400" stop="20230511131500 -0400" channel="0125">
+    <title lang="es">Comisión de agricultura</title>
+    <desc lang="es">Emisión institucional en la cual se aborda la situación actual del ámbito agrario en Chile a través del análisis en contexto de las problemáticas actuales y la presentación de posibles soluciones para afianzar este sector económico.</desc>
+  </programme>
+  <programme start="20230511131500 -0400" stop="20230511133000 -0400" channel="0125">
+    <title lang="es">La cámara en la radio</title>
+  </programme>
+  <programme start="20230511133000 -0400" stop="20230511153000 -0400" channel="0125">
+    <title lang="es">Sesión de sala</title>
+    <sub-title lang="es">Sesión Nº 26</sub-title>
+    <desc lang="es">Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.</desc>
+  </programme>
+  <programme start="20230511153000 -0400" stop="20230511160000 -0400" channel="0125">
+    <title lang="es">Mentes brillantes</title>
+    <sub-title lang="es">Nibaldo Inestrosa</sub-title>
+    <desc lang="es">Serie documental, de carácter humano-histórico científico, que nos cuenta de manera entretenida la historia de la ciencia chilena de los últimos 50 años, a través de sus protagonistas principales: los Premios Nacionales de Ciencias.</desc>
+  </programme>
+  <programme start="20230511160000 -0400" stop="20230511183000 -0400" channel="0125">
+    <title lang="es">Proceso constitucional</title>
+    <desc lang="es">Un programa que ahonda en el nuevo proceso constitucional establecido en Chile. El segundo intento en Chile por redactar una nueva Constitución arrancó con la instalación de una comisión de 24 expertos nombrados por el Congreso, encargados de elaborar un anteproyecto sobre le que trabajarán más adelante los asambléistas que serás elegidos popularmente.</desc>
+  </programme>
+  <programme start="20230511183000 -0400" stop="20230511190000 -0400" channel="0125">
+    <title lang="es">Puntos de vista</title>
+    <desc lang="es">Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.</desc>
+  </programme>
+  <programme start="20230511190000 -0400" stop="20230511200000 -0400" channel="0125">
+    <title lang="es">Comisión de trabajo</title>
+    <sub-title lang="es">Emisión del día 09/05/23</sub-title>
+    <desc lang="es">Presentamos una serie de sesiones de debate auspiciadas por las comisiones de trabajo del parlamento chileno, en las cuales se argumenta en base a la situación laboral que atraviesa el país actualmente.</desc>
+  </programme>
+  <programme start="20230511200000 -0400" stop="20230511205000 -0400" channel="0125">
     <title lang="es">UESTV</title>
     <desc lang="es">Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.</desc>
   </programme>
-  <programme start="20230511210000 -0400" stop="20230511220000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230511205000 -0400" stop="20230511220000 -0400" channel="0125">
+    <title lang="es">Comisión de zonas extremas</title>
+    <sub-title lang="es">Emisión del día 08/05/23</sub-title>
+    <desc lang="es">Espacio dirigido al debate en pro de buscar soluciones a la situación existente dentro de las comisiones encargadas de las zonas extremas en Chile, con la participación de expertos en la materia quienes ofrecen respuestas de utilidad.</desc>
   </programme>
   <programme start="20230511220000 -0400" stop="20230511223000 -0400" channel="0125">
     <title lang="es">De frente</title>
   </programme>
   <programme start="20230511223000 -0400" stop="20230512003000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+    <title lang="es">Comisión de constitución</title>
+    <sub-title lang="es">Emisión del día 08/05/23</sub-title>
+    <desc lang="es">Edición institucional que presenta la discusión particular del proyecto constitucional que involucra a parlamentarios, alcaldes, concejales y ciudadanos con la finalidad de establecer estrategias de desarrollo para la nación.</desc>
   </programme>
   <programme start="20230512003000 -0400" stop="20230512070000 -0400" channel="0125">
     <title lang="es">Cierre</title>
@@ -16546,7 +16579,7 @@
     <desc lang="es">Vive los partidos de la 66º edición del Campeonato Brasileño de Serie A. Los 20 equipos participantes se enfrentan en partidos de ida y vuelta en un sistema de todos contra todos. Al final de las 38 fechas el club con la mayor cantidad de puntos se proclamará campeón.</desc>
   </programme>
   <programme start="20230511203000 -0400" stop="20230511210000 -0400" channel="0413">
-    <title lang="es">UEFA Champions League Highlights</title>
+    <title lang="es">Goles de la Champions League</title>
     <desc lang="es">Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
   </programme>
   <programme start="20230511210000 -0400" stop="20230511220000 -0400" channel="0413">
@@ -16679,18 +16712,17 @@
     <desc lang="es">Revive los mejores momentos de las carreras de la 75º edición de la categoría principal del Campeonato del Mundo de Motociclismo.</desc>
   </programme>
   <programme start="20230511190000 -0400" stop="20230511210000 -0400" channel="0414">
-    <title lang="es">Liga Profesional 2023</title>
-    <sub-title lang="es">River Plate vs. Boca Jrs., Fecha 15, Estadio Antonio Vespucio Liberti</sub-title>
-    <desc lang="es">Vive los partidos de la nonagésima cuarta temporada y el centésimo trigésimo octavo torneo de la era profesional de la Primera División del fútbol argentino, y el tecero organizado por la Liga Profesional, órgano interno de la Asociación del Fútbol Argentino.</desc>
+    <title lang="es">CONMEBOL Libertadores</title>
+    <sub-title lang="es">Internacional (Bra) vs. Nacional (Uru), Fecha 3 Grupo B, Estadio Beira-Rio</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
   <programme start="20230511210000 -0400" stop="20230511220000 -0400" channel="0414">
     <title lang="es">El show de la Copa Libertadores</title>
     <desc lang="es">El mejor resumen de los partidos de la Copa Conmebol Libertadores: goles, jugadas, polémicas, los mejores jugadores son parte de este imperdible show con lo mejor del fútbol de nuestro continente.</desc>
   </programme>
   <programme start="20230511220000 -0400" stop="20230511230000 -0400" channel="0414">
-    <title lang="es">Expediente fútbol</title>
-    <sub-title lang="es">Selección Argentina La era post Maradona</sub-title>
-    <desc lang="es">Un programa de archivo, basado en hechos, partidos y campañas de los equipos de fútbol de Latinoamérica. Para recordar aquellas finales históricas, grandes goles, jugadas y circunstancias que marcaron una época.</desc>
+    <title lang="es">Goles de la Bundesliga</title>
+    <desc lang="es">Disfruta de un repaso completo de los mejores momentos vividos durante el desarrollo de la Bundesliga, desde su primera división en Alemania.</desc>
   </programme>
   <programme start="20230511230000 -0400" stop="20230512010000 -0400" channel="0414">
     <title lang="es">Liga Profesional 2023</title>
@@ -21459,7 +21491,11 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230511060000 -0400" stop="20230511110700 -0400" channel="0544">
+  <programme start="20230511060000 -0400" stop="20230511120000 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230511120000 -0400" stop="20230511163800 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -21471,9 +21507,9 @@
     <title lang="en">Stevie Ray Vaughan - Lonestar</title>
     <desc lang="en">Esta película rastrea y revela la historia completa y no contada de los años de gloria de Stevie Ray Vaughan, el período entre el lanzamiento de su álbum debut y su trágica muerte en un accidente de helicóptero en 1989.</desc>
   </programme>
-  <programme start="20230512060000 -0400" stop="20230512120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230512050600 -0400" stop="20230512075000 -0400" channel="0544">
+    <title lang="en">Foo Fighters - Live at Glastonbury</title>
+    <desc lang="en">El Glastonbury Festival of Contemporary Performing Arts es el segundo festival de música al aire libre más grande del mundo.Es conocido principalmente por sus espectáculos musicales, pero también presenta atracciones de danza, humor, teatro y circo.</desc>
   </programme>
   <programme start="20230512120000 -0400" stop="20230512180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -21487,11 +21523,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230511060000 -0400" stop="20230511110000 -0400" channel="0545">
+  <programme start="20230511060000 -0400" stop="20230511120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230511120000 -0400" stop="20230511180000 -0400" channel="0545">
+  <programme start="20230511120000 -0400" stop="20230511160000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -21503,9 +21539,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230512060000 -0400" stop="20230512120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230512060000 -0400" stop="20230512070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230512120000 -0400" stop="20230512180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -35094,9 +35130,9 @@
     <sub-title lang="es">Lo Mejor</sub-title>
     <desc lang="es">Programa de entretención donde se abordan los temas locales con una variedad de invitados, que van desde cultural, musical, políticos, cine, entre muchos otros.</desc>
   </programme>
-  <programme start="20230511211000 -0400" stop="20230511223000 -0400" channel="0153">
-    <title lang="es">Del fin del mundo</title>
-    <desc lang="es">Ana Josefa Silva y Marco Antonio de la Parra, nos adentran al mundo de la Cultura, teatro y libros, junto con grandes invitados.</desc>
+  <programme start="20230511204500 -0400" stop="20230511213000 -0400" channel="0153">
+    <title lang="es">Noticias Edición Central</title>
+    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
   </programme>
   <programme start="20230511223000 -0400" stop="20230511230000 -0400" channel="0153">
     <title lang="es">Efemérides</title>
