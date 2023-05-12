@@ -5387,8 +5387,8 @@
     <desc lang="es">Programa sobre las noticias de los próximos estrenos del cine.</desc>
   </programme>
   <programme start="20230513124500 -0400" stop="20230513130000 -0400" channel="0201">
-    <title lang="es">DW analiza</title>
-    <desc lang="es">Ponemos en contexto la actualidad internacional y analizamos el contexto de los hechos. Hablamos con especialistas para conocer todos los ángulos de la noticia y presentamos todo con un lenguaje diferente que acerca temas complejos también al público más joven.</desc>
+    <title lang="es">Entrevistas 24</title>
+    <desc lang="es">Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.</desc>
   </programme>
   <programme start="20230513130000 -0400" stop="20230513144500 -0400" channel="0201">
     <title lang="es">24 tarde</title>
@@ -16676,10 +16676,14 @@
     <sub-title lang="es">Sergio Mendoza vs. Jose Javier Torres</sub-title>
     <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
   </programme>
-  <programme start="20230513065500 -0400" stop="20230513075000 -0400" channel="0415">
-    <title lang="es">MotoGP Qualifying</title>
-    <sub-title lang="es">Gran Premio de Francia, Circuito de Bugatti, Le Mans</sub-title>
-    <desc lang="es">Vive las carreras de clasificación de la 75º edición de la categoría principal del Campeonato del Mundo de Motociclismo.</desc>
+  <programme start="20230513065500 -0400" stop="20230513072300 -0400" channel="0415">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
+  </programme>
+  <programme start="20230513072300 -0400" stop="20230513075000 -0400" channel="0415">
+    <title lang="es">Spirit of Yachting</title>
+    <sub-title lang="es">Rolex China Sea Race</sub-title>
+    <desc lang="es">Explora algunos de los eventos más emocionantes en el mundo de la navegación. Contando las historias humanas detrás de la carrera, la emoción y la dedicación necesarias para participar en cualquier evento deportivo de clase mundial.</desc>
   </programme>
   <programme start="20230513075000 -0400" stop="20230513095500 -0400" channel="0415">
     <title lang="es">LaLiga</title>
@@ -17148,7 +17152,7 @@
     <title lang="es">Independiente campeón Sudamericana 2010</title>
   </programme>
   <programme start="20230512190000 -0400" stop="20230512220000 -0400" channel="0418">
-    <title lang="es">MLB</title>
+    <title lang="es">Major League Baseball</title>
     <sub-title lang="es">Pittsburgh Pirates vs. Baltimore Orioles, Temporada regular, Oriole Park</sub-title>
     <desc lang="es">Vive los partidos de la liga más importante de béisbol, la más antigua de las ligas mayores profesionales en EUA y Canadá. El juego de las estrellas se disputará el 11 de julio en el T-Mobile Park.</desc>
   </programme>
@@ -17161,7 +17165,8 @@
     <desc lang="es">Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa.</desc>
   </programme>
   <programme start="20230512230000 -0400" stop="20230513000000 -0400" channel="0418">
-    <title lang="es">A confirmar</title>
+    <title lang="es">WWE Raw Highlights</title>
+    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
   </programme>
   <programme start="20230513000000 -0400" stop="20230513010000 -0400" channel="0418">
     <title lang="es">UFC Unleashed</title>
@@ -17185,7 +17190,8 @@
     <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
   </programme>
   <programme start="20230513050000 -0400" stop="20230513060000 -0400" channel="0418">
-    <title lang="es">A confirmar</title>
+    <title lang="es">UFC Unleashed</title>
+    <desc lang="es">Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la Ultimate Fighting Championship, para revivir, nuevamente, los triunfos y los fracasos más decisivos de esta famosa competencia.</desc>
   </programme>
   <programme start="20230513060000 -0400" stop="20230513070000 -0400" channel="0418">
     <title lang="es">ESPN Compact - UEFA Champions League</title>
@@ -17206,7 +17212,7 @@
     <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
   </programme>
   <programme start="20230513103000 -0400" stop="20230513120000 -0400" channel="0418">
-    <title lang="es">Fórmula 2</title>
+    <title lang="es">Fórmula 2 - Feature Race</title>
     <sub-title lang="es">Gran Premio de Azerbaiyán, Circuito callejero de Bakú, Bakú</sub-title>
     <desc lang="es">Vive las carreras de la séptima edición de la competición de automovilismo de velocidad creada en el año 2017 tras renombrar a la competición que hasta entonces ocupaba su lugar, la GP2 Series.</desc>
   </programme>
@@ -17230,7 +17236,7 @@
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.</desc>
   </programme>
   <programme start="20230513180000 -0400" stop="20230513193000 -0400" channel="0418">
-    <title lang="es">Fórmula 2</title>
+    <title lang="es">Fórmula 2 - Feature Race</title>
     <sub-title lang="es">Gran Premio de Azerbaiyán, Circuito callejero de Bakú, Bakú</sub-title>
     <desc lang="es">Vive las carreras de la séptima edición de la competición de automovilismo de velocidad creada en el año 2017 tras renombrar a la competición que hasta entonces ocupaba su lugar, la GP2 Series.</desc>
   </programme>
@@ -21269,21 +21275,21 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230512060000 -0400" stop="20230512103600 -0400" channel="0544">
+  <programme start="20230512060000 -0400" stop="20230512120000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230512103600 -0400" stop="20230512124200 -0400" channel="0544">
-    <title lang="en">Coldplay - Live at Glastonbury</title>
-    <desc lang="en">¡Ser cabecera de uno de los festivales más grandes del mundo no es cosa que pueda hacer cualquiera! Coldplay, que no es precisamente una banda cualquiera, decidió convertir el espectáculo en una noche histórica para los que acudieron a Glastonbury.</desc>
+  <programme start="20230512120000 -0400" stop="20230512163400 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230512221100 -0400" stop="20230513004100 -0400" channel="0544">
     <title lang="en">Metallica - Orion Festival: Tour Through the Never</title>
     <desc lang="en">Este concierto, filmado en Orion Festival, Atlantic City, le brinda a los fans, de principio a fin, una experiencia en vivo sin igual. Metallica deleita al público con una versión inolvidable de sus éxitos 'One', 'Master Of Puppets' y muchos más.</desc>
   </programme>
-  <programme start="20230513060000 -0400" stop="20230513120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230513043600 -0400" stop="20230513064500 -0400" channel="0544">
+    <title lang="en">The Moody Blues - The Moody Blues - Days of Future Passed Live</title>
+    <desc lang="en">Esta película capta una velada eléctrica en The Sony Centre, Toronto, durante la cual el grupo estuvo acompañado por primera vez en su historia de una orquesta al completo: es la interpretación definitiva del álbum "Days of Future Passed".</desc>
   </programme>
   <programme start="20230513120000 -0400" stop="20230513180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -21297,11 +21303,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230512060000 -0400" stop="20230512110000 -0400" channel="0545">
+  <programme start="20230512060000 -0400" stop="20230512120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230512120000 -0400" stop="20230512180000 -0400" channel="0545">
+  <programme start="20230512120000 -0400" stop="20230512160000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -21313,9 +21319,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230513060000 -0400" stop="20230513120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230513060000 -0400" stop="20230513070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230513120000 -0400" stop="20230513180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -29538,42 +29544,42 @@
     <sub-title lang="es">3 Crímenes de la moda</sub-title>
     <desc lang="es">Programa que reúne a cientos de idiotas cayéndose de cara mientras intentan convertirse en la próxima sensación de YouTube. Los percances más estúpidos y chistosos, involucrando animales, bodas, deportes, criminales, niños y más. Los crímenes de la moda reciben un tratamiento de lo más ridículo, desde el caos en la pasarela a accidentes en sesiones fotográficas.</desc>
   </programme>
-  <programme start="20230512073000 -0400" stop="20230512080000 -0400" channel="0812">
+  <programme start="20230512073000 -0400" stop="20230512075500 -0400" channel="0812">
     <title lang="es">Idiotas por accidente</title>
     <sub-title lang="es">4 Programas de talentos</sub-title>
     <desc lang="es">Programa que reúne a cientos de idiotas cayéndose de cara mientras intentan convertirse en la próxima sensación de YouTube. Los percances más estúpidos y chistosos, involucrando animales, bodas, deportes, criminales, niños y más. Los programas de talentos reciben un tratamiento de lo más ridículo, desde dramas arriesgados a accidentes en musicales.</desc>
   </programme>
-  <programme start="20230512080000 -0400" stop="20230512083000 -0400" channel="0812">
+  <programme start="20230512075500 -0400" stop="20230512082700 -0400" channel="0812">
     <title lang="es">Casados con hijos</title>
     <sub-title lang="es">62 Argento que bien se te ve</sub-title>
     <desc lang="es">Una familia muy particular, de clase media, compuesta por el padre, vendedor de zapatos, la madre, una mujer poco afectada ante las tareas de la casa, y sus dos hijos, un varón y una chica adolescente. Un excelente retrato sobre la supervivencia marital, que romperá con el concepto tradicional de lo típico de Argentina. Paola empieza su propio programa de televisión y resulta ser un éxito; Pepe recibe una gran oferta, pero las cosas pueden cambiar.</desc>
   </programme>
-  <programme start="20230512083000 -0400" stop="20230512085500 -0400" channel="0812">
+  <programme start="20230512082700 -0400" stop="20230512085800 -0400" channel="0812">
     <title lang="es">Casados con hijos</title>
     <sub-title lang="es">63 El cumpleaños de Coqui</sub-title>
     <desc lang="es">Una familia muy particular, de clase media, compuesta por el padre, vendedor de zapatos, la madre, una mujer poco afectada ante las tareas de la casa, y sus dos hijos, un varón y una chica adolescente. Un excelente retrato sobre la supervivencia marital, que romperá con el concepto tradicional de lo típico de Argentina. Coqui cumple 18 años, así que Pepe y Dardo deciden llevarlo a un cabaret para intentar que logre debutar.</desc>
   </programme>
-  <programme start="20230512085500 -0400" stop="20230512092500 -0400" channel="0812">
+  <programme start="20230512085800 -0400" stop="20230512092500 -0400" channel="0812">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">17 Una historia de pesca</sub-title>
     <desc lang="es">Una comedia multigeneracional ambientada en los años 80 acerca de una familia ruidosa, cariñosa y un poco disfuncional: los Goldberg. Después de que Geoff jura reavivar su interés en la música, Erica decide audicionar para un grupo de acapella en el campus.</desc>
   </programme>
-  <programme start="20230512092500 -0400" stop="20230512095000 -0400" channel="0812">
+  <programme start="20230512092500 -0400" stop="20230512095200 -0400" channel="0812">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">18 La gran aventura de Adam</sub-title>
     <desc lang="es">Una comedia multigeneracional ambientada en los años 80 acerca de una familia ruidosa, cariñosa y un poco disfuncional: los Goldberg. Beverly le compra una bicicleta a Adam como la de 'La gran aventura de Pee Wee'; Barry y Erica convierten la tienda de muebles de Murray en una sala de espera para estudiantes universitarios.</desc>
   </programme>
-  <programme start="20230512095000 -0400" stop="20230512102000 -0400" channel="0812">
+  <programme start="20230512095200 -0400" stop="20230512102000 -0400" channel="0812">
     <title lang="es">Kenan and Kel</title>
     <sub-title lang="es">23 Get the Kel Out of Here</sub-title>
     <desc lang="es">Kenan está convencido de que puede conseguir lo que quiera siempre y cuando tenga dos cosas: su amigo Kel y su propio plan casero. Desafortunadamente, esa combinación fatal, lo llevan a meterse en problemas. Después de que Kel le causara serias heridas en la espalda a Roger, este le prohibió la entrada a la casa de los Rockmore. Como resultado de ello, Kel trata de convencer a Roger que le permita volver a entrar.</desc>
   </programme>
-  <programme start="20230512102000 -0400" stop="20230512104500 -0400" channel="0812">
+  <programme start="20230512102000 -0400" stop="20230512104800 -0400" channel="0812">
     <title lang="es">Kenan and Kel</title>
     <sub-title lang="es">21 Foul Bull</sub-title>
     <desc lang="es">Kenan está convencido de que puede conseguir lo que quiera siempre y cuando tenga dos cosas: su amigo Kel y su propio plan casero. Desafortunadamente, esa combinación fatal, lo llevan a meterse en problemas. Cuando el jugador estrella de baloncesto, Ron Harper, se lesiona la rodilla al resbalarse en un charco de gaseosa de naranja en Rigby's, Kenan y Kel son culpados y se convierten en las personas más odiadas de la ciudad de Chicago.</desc>
   </programme>
-  <programme start="20230512104500 -0400" stop="20230512111500 -0400" channel="0812">
+  <programme start="20230512104800 -0400" stop="20230512111500 -0400" channel="0812">
     <title lang="es">Ridiculousness</title>
     <sub-title lang="es">9 Chanel y Sterling XLIII</sub-title>
     <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling 'Steelo' Brim y Chanel West Coast, en un estudio con audiencia en vivo. Rob, Steelo y Chanel ingresan en la 'Zona refrigerio', aprenden sobre los peligros de contratar 'Niñeras de bajo presupuesto' y se identifican con los conductores de carros de golf en 'A la deriva en el country'.</desc>
@@ -29588,31 +29594,31 @@
     <sub-title lang="es">11 El dominador del universo</sub-title>
     <desc lang="es">La historia de Saitama, un héroe que adopta ese rol por diversión y que puede derrotar a sus enemigos con un solo golpe. Mientras una nave espacial colosal flota en los cielos sobre la Ciudad A, un miembro de su monstruosa tripulación lucha en el suelo contra un grupo de héroes de Clase S. A pesar de sus poderes, parece que no pueden terminarlo. Mientras tanto, Saitama ha abordado la nave enemiga por su cuenta.</desc>
   </programme>
-  <programme start="20230512121000 -0400" stop="20230512130500 -0400" channel="0812">
+  <programme start="20230512121000 -0400" stop="20230512130600 -0400" channel="0812">
     <title lang="es">La clínica</title>
     <desc lang="es">La desquiciada teleserie se basa en lo sucedido en un hospital psiquiátrico mejor conocido como La Clínica dirigida por el Dr. Cosme Krauss, psiquiatra astuto y perverso, donde comenzarán a desencadenarse conflictos cuando al lugar llega Elvicio, un pintor alternativo e irreverente quien ha sido secuestrado por Fernando Rivadeneyra, padre de su novia Maripili, para separarlo de ella. Es ahí donde Elvicio conocerá y quedará atrapado sentimentalmente por Lucy la hermosa y conservadora enfermera que a su vez es el objeto de deseo del Dr. Krauss. Para enredar más las cosas Maripili se autoingresa con tal de estar cerca de su amado Elvicio, que dice estar más cuerdo que todos y le tiene odio a un enfermo que está deprimido porque su equipo bajó a la Segunda División. Entre los pacientes de La Clínica también se encuentra Doña Elsa, una mujer que después de tenerlo todo termina recluida en el psiquiátrico tras perder toda su fortuna, y ahora cree que el lugar es aquél que perdió y a todos los trata como sus sirvientes.</desc>
   </programme>
-  <programme start="20230512130500 -0400" stop="20230512140000 -0400" channel="0812">
+  <programme start="20230512130600 -0400" stop="20230512140100 -0400" channel="0812">
     <title lang="es">Mi corazón es tuyo</title>
     <sub-title lang="es">55 Ana le dice mamá a Yolanda</sub-title>
     <desc lang="es">Fernando Lascuráin es un hombre de negocios rico y viudo con siete hijos rebeldes, el cual busca una nueva niñera para sus hijos. Tras eso, Ana es contratada como niñera, y Fernando se enamora al integrarse a la mansión. Ana es una bailarina exótica que trata de guardar su doble vida en secreto, para poder mantener su trabajo como niñera, que se encariña con los niños y tiene que lidiar con muchos obstáculos y aventuras con ellos. Enrique y Linda se unen para destruir a Fernando. Fernando le dice a Ana que decidió renunciar a ella para siempre. Diego le lleva serenata a Ana y le pide de una manera muy romántica que sea su novia.</desc>
   </programme>
-  <programme start="20230512140000 -0400" stop="20230512142500 -0400" channel="0812">
-    <title lang="es">Sabrina, the Teenage Witch</title>
+  <programme start="20230512140100 -0400" stop="20230512142600 -0400" channel="0812">
+    <title lang="es">Sabrina the Teenage Witch</title>
     <sub-title lang="es">19 The Wild, Wild Witch</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. El Oeste se vuelve aún más salvaje cuando Sabrina toma las riendas como sheriff de la ciudad.</desc>
   </programme>
-  <programme start="20230512142500 -0400" stop="20230512145500 -0400" channel="0812">
+  <programme start="20230512142600 -0400" stop="20230512145500 -0400" channel="0812">
     <title lang="es">Everybody Hates Chris</title>
     <sub-title lang="es">7 Todos odian a los delatores</sub-title>
     <desc lang="es">Chris es un chico afroamericano de trece años que pensaba que en 1982 acercarse a la adolescencia iba a ser una especie de promoción hacia una vida más agradable. Sin embargo, recién mudado a un nuevo vecindario en Brooklyn, empezará a padecer los rigores de la genial ocurrencia de su madre de apuntarlo en una escuela a la que tiene que 'viajar' tomando dos autobuses y pasando del barrio negro a las zonas blancas para encontrar, finalmente, que el único moreno del lugar parece ser él. ¿Qué otra cosa podría esperarse de un colegio llamado Corleone Junior High? Chris se escapa para ir al cine con sus amigos y presencia un tiroteo afuera del lugar.</desc>
   </programme>
-  <programme start="20230512145500 -0400" stop="20230512152000 -0400" channel="0812">
+  <programme start="20230512145500 -0400" stop="20230512152300 -0400" channel="0812">
     <title lang="es">Everybody Hates Chris</title>
     <sub-title lang="es">8 Todos odian a Big Bird</sub-title>
     <desc lang="es">Chris es un chico afroamericano de trece años que pensaba que en 1982 acercarse a la adolescencia iba a ser una especie de promoción hacia una vida más agradable. Sin embargo, recién mudado a un nuevo vecindario en Brooklyn, empezará a padecer los rigores de la genial ocurrencia de su madre de apuntarlo en una escuela a la que tiene que 'viajar' tomando dos autobuses y pasando del barrio negro a las zonas blancas para encontrar, finalmente, que el único moreno del lugar parece ser él. ¿Qué otra cosa podría esperarse de un colegio llamado Corleone Junior High? Chris apenas empieza a encajar en su nueva escuela cuando Kelly, la chica más torpe de toda la preparatoria, y a quien todos llaman 'Big Bird', lo invita a salir.</desc>
   </programme>
-  <programme start="20230512152000 -0400" stop="20230512155000 -0400" channel="0812">
+  <programme start="20230512152300 -0400" stop="20230512155000 -0400" channel="0812">
     <title lang="es">Schitt's Creek</title>
     <sub-title lang="es">6 The Wingman</sub-title>
     <desc lang="es">Cuando el rico magnate de la tienda de videos Johnny Rose y su familia se encuentran repentinamente en bancarrota, se ven obligados a abandonar sus mimadas vidas para reagruparse y reconstruir su imperio dentro de los límites de la ciudad rural de su único activo restante: Schitt's Creek, una axila de un pueblo que alguna vez compraron como broma. Alexis y Moira lidian con el resultado de un video viral, mientras que Johnny ayuda a Bob a volver al mundo de las citas.</desc>
@@ -29626,17 +29632,17 @@
     <title lang="es">La clínica</title>
     <desc lang="es">La desquiciada teleserie se basa en lo sucedido en un hospital psiquiátrico mejor conocido como La Clínica dirigida por el Dr. Cosme Krauss, psiquiatra astuto y perverso, donde comenzarán a desencadenarse conflictos cuando al lugar llega Elvicio, un pintor alternativo e irreverente quien ha sido secuestrado por Fernando Rivadeneyra, padre de su novia Maripili, para separarlo de ella. Es ahí donde Elvicio conocerá y quedará atrapado sentimentalmente por Lucy la hermosa y conservadora enfermera que a su vez es el objeto de deseo del Dr. Krauss. Para enredar más las cosas Maripili se autoingresa con tal de estar cerca de su amado Elvicio, que dice estar más cuerdo que todos y le tiene odio a un enfermo que está deprimido porque su equipo bajó a la Segunda División. Entre los pacientes de La Clínica también se encuentra Doña Elsa, una mujer que después de tenerlo todo termina recluida en el psiquiátrico tras perder toda su fortuna, y ahora cree que el lugar es aquél que perdió y a todos los trata como sus sirvientes.</desc>
   </programme>
-  <programme start="20230512171000 -0400" stop="20230512174000 -0400" channel="0812">
+  <programme start="20230512171000 -0400" stop="20230512173900 -0400" channel="0812">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">19 Cowardly Lyin'</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Doug y Carrie intentan ser lo más honestos el uno con el otro, pero luego Doug miente para evitar ir a la ópera.</desc>
   </programme>
-  <programme start="20230512174000 -0400" stop="20230512180500 -0400" channel="0812">
+  <programme start="20230512173900 -0400" stop="20230512180700 -0400" channel="0812">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">20 Driving Reign</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Doug acepta de mala gana darle una recomendación a su primo para que sea promovido como conductor en IPS.</desc>
   </programme>
-  <programme start="20230512180500 -0400" stop="20230512200000 -0400" channel="0812">
+  <programme start="20230512180700 -0400" stop="20230512200000 -0400" channel="0812">
     <title lang="es">Bill &amp; Ted's Bogus Journey</title>
     <desc lang="es">Un tirano del futuro crea dobles androides malvados de los rockeros Bill y Ted y los envía a eliminar a los originales, enviándolos al Infierno, literalmente. ¿Podrán salvarse de La Parca y recuperar sus vidas?</desc>
   </programme>
@@ -29670,12 +29676,12 @@
     <sub-title lang="es">4 El destino de Ike</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. El Sr. Mackey es despedido de la escuela por perder una hoja de marihuana durante una presentación en contra de las drogas. Entretanto, los chicos tratan de salvar a Ike de su fiesta ''bris'.</desc>
   </programme>
-  <programme start="20230512233000 -0400" stop="20230513000000 -0400" channel="0812">
+  <programme start="20230512233000 -0400" stop="20230513000100 -0400" channel="0812">
     <title lang="es">South Park</title>
     <sub-title lang="es">5 La señora unida a un feto</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. Aunque todos odian jugar a los quemados, los chicos están obligados a participar en el campeonato. Mientras tanto, Sheila lucha para que se conozca el caso de ''mixlésia de mellizos unidos'' de la enfermera escolar.</desc>
   </programme>
-  <programme start="20230513000000 -0400" stop="20230513015000 -0400" channel="0812">
+  <programme start="20230513000100 -0400" stop="20230513015000 -0400" channel="0812">
     <title lang="es">Ordinary Love</title>
     <desc lang="es">Joan y Tom viven en Irlanda y están casados hace muchos años. Juntos enfrentan un gran impacto emocional cuando a ella la diagnostican cáncer de mama.</desc>
   </programme>
@@ -29684,22 +29690,22 @@
     <sub-title lang="es">21 Driving Mr. Goodman</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Sabrina persuade a Miles Goodman para que saque su licencia de conducir y se encuentra en el medio de un desagradable juicio.</desc>
   </programme>
-  <programme start="20230513021500 -0400" stop="20230513024000 -0400" channel="0812">
+  <programme start="20230513021500 -0400" stop="20230513024100 -0400" channel="0812">
     <title lang="es">South Park</title>
     <sub-title lang="es">3 Amor pollístico</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. Un violador de gallinas anda suelto en South Park y el Oficial Barbrady no puede atraparlo porque es analfabeta.</desc>
   </programme>
-  <programme start="20230513024000 -0400" stop="20230513030500 -0400" channel="0812">
+  <programme start="20230513024100 -0400" stop="20230513030900 -0400" channel="0812">
     <title lang="es">South Park</title>
     <sub-title lang="es">4 El destino de Ike</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. El Sr. Mackey es despedido de la escuela por perder una hoja de marihuana durante una presentación en contra de las drogas. Entretanto, los chicos tratan de salvar a Ike de su fiesta ''bris'.</desc>
   </programme>
-  <programme start="20230513030500 -0400" stop="20230513033000 -0400" channel="0812">
+  <programme start="20230513030900 -0400" stop="20230513033400 -0400" channel="0812">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">19 Cowardly Lyin'</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Doug y Carrie intentan ser lo más honestos el uno con el otro, pero luego Doug miente para evitar ir a la ópera.</desc>
   </programme>
-  <programme start="20230513033000 -0400" stop="20230513040000 -0400" channel="0812">
+  <programme start="20230513033400 -0400" stop="20230513040000 -0400" channel="0812">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">20 Driving Reign</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Doug acepta de mala gana darle una recomendación a su primo para que sea promovido como conductor en IPS.</desc>
@@ -29734,97 +29740,97 @@
     <sub-title lang="es">9 Rebound</sub-title>
     <desc lang="es">Cuando el rico magnate de la tienda de videos Johnny Rose y su familia se encuentran repentinamente en bancarrota, se ven obligados a abandonar sus mimadas vidas para reagruparse y reconstruir su imperio dentro de los límites de la ciudad rural de su único activo restante: Schitt's Creek, una axila de un pueblo que alguna vez compraron como broma. Johnny se involucra demasiado en la vida romántica de Alexis, mientras que Moira ofende a la gente del pueblo en una entrevista con la revista People.</desc>
   </programme>
-  <programme start="20230513070000 -0400" stop="20230513073000 -0400" channel="0812">
+  <programme start="20230513070000 -0400" stop="20230513072700 -0400" channel="0812">
     <title lang="es">Idiotas por accidente</title>
     <sub-title lang="es">5 Conductores</sub-title>
     <desc lang="es">Programa que reúne a cientos de idiotas cayéndose de cara mientras intentan convertirse en la próxima sensación de YouTube. Los percances más estúpidos y chistosos, involucrando animales, bodas, deportes, criminales, niños y más. Los conductores reciben un tratamiento de lo más ridículo, con estacionamientos malos y muchos accidentes de transporte.</desc>
   </programme>
-  <programme start="20230513073000 -0400" stop="20230513080000 -0400" channel="0812">
+  <programme start="20230513072700 -0400" stop="20230513075300 -0400" channel="0812">
     <title lang="es">Idiotas por accidente</title>
     <sub-title lang="es">6 Pingüinos y otros animales salvajes</sub-title>
     <desc lang="es">Programa que reúne a cientos de idiotas cayéndose de cara mientras intentan convertirse en la próxima sensación de YouTube. Los percances más estúpidos y chistosos, involucrando animales, bodas, deportes, criminales, niños y más. Es el turno de los pingüinos y otros animales salvajes para que reciban un tratamiento de lo más ridículo, desde monos frenéticos a osos rudos.</desc>
   </programme>
-  <programme start="20230513080000 -0400" stop="20230513083000 -0400" channel="0812">
+  <programme start="20230513075300 -0400" stop="20230513082500 -0400" channel="0812">
     <title lang="es">Casados con hijos</title>
     <sub-title lang="es">64 El deporte y añaga</sub-title>
     <desc lang="es">Una familia muy particular, de clase media, compuesta por el padre, vendedor de zapatos, la madre, una mujer poco afectada ante las tareas de la casa, y sus dos hijos, un varón y una chica adolescente. Un excelente retrato sobre la supervivencia marital, que romperá con el concepto tradicional de lo típico de Argentina. Moni compra el muñeco de un dios llamado Añanga, el cual se cree podría dar buena suerte; Pepe logra quedar en un comercial de botines deportivos.</desc>
   </programme>
-  <programme start="20230513083000 -0400" stop="20230513085500 -0400" channel="0812">
+  <programme start="20230513082500 -0400" stop="20230513085700 -0400" channel="0812">
     <title lang="es">Casados con hijos</title>
     <sub-title lang="es">65 El testamento de Pepe</sub-title>
     <desc lang="es">Una familia muy particular, de clase media, compuesta por el padre, vendedor de zapatos, la madre, una mujer poco afectada ante las tareas de la casa, y sus dos hijos, un varón y una chica adolescente. Un excelente retrato sobre la supervivencia marital, que romperá con el concepto tradicional de lo típico de Argentina. Cuando el tío de Pepe muere sin dejar un testamento, Pepe comienza a pensar que podría dejar en su testamento.</desc>
   </programme>
-  <programme start="20230513085500 -0400" stop="20230513092500 -0400" channel="0812">
+  <programme start="20230513085700 -0400" stop="20230513092500 -0400" channel="0812">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">19 Island Time</sub-title>
     <desc lang="es">Una comedia multigeneracional ambientada en los años 80 acerca de una familia ruidosa, cariñosa y un poco disfuncional: los Goldberg. Erica, Barry, Geoff y la pandilla se van de viaje de vacaciones de primavera y las cosas no salen como se esperaba; Adam se pregunta si la universidad es para él cuando sus calificaciones en las pruebas no son tan buenas como esperaba.</desc>
   </programme>
-  <programme start="20230513092500 -0400" stop="20230513095000 -0400" channel="0812">
+  <programme start="20230513092500 -0400" stop="20230513095200 -0400" channel="0812">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">20 The Return of the Formica King</sub-title>
     <desc lang="es">Una comedia multigeneracional ambientada en los años 80 acerca de una familia ruidosa, cariñosa y un poco disfuncional: los Goldberg. El rival comercial y némesis 'Formica' Mike intenta hacer una oferta que Murray no puede rechazar; Adam le ofrece a la Sra. Cinoman su espectáculo original y el de Erica cuando William Penn no puede asegurar los derechos de un conocido musical de primavera.</desc>
   </programme>
-  <programme start="20230513095000 -0400" stop="20230513102000 -0400" channel="0812">
+  <programme start="20230513095200 -0400" stop="20230513102000 -0400" channel="0812">
     <title lang="es">Kenan and Kel</title>
     <sub-title lang="es">16 The Crush</sub-title>
     <desc lang="es">Kenan está convencido de que puede conseguir lo que quiera siempre y cuando tenga dos cosas: su amigo Kel y su propio plan casero. Desafortunadamente, esa combinación fatal, lo llevan a meterse en problemas. Todos se burlan de Kenan por estar enamorado de la nueva maestra sustituta, la señorita Horn; pero Kel cree erróneamente que es algo mucho más serio.</desc>
   </programme>
-  <programme start="20230513102000 -0400" stop="20230513104500 -0400" channel="0812">
+  <programme start="20230513102000 -0400" stop="20230513104800 -0400" channel="0812">
     <title lang="es">Kenan and Kel</title>
     <sub-title lang="es">15 Turkey Day</sub-title>
     <desc lang="es">Kenan está convencido de que puede conseguir lo que quiera siempre y cuando tenga dos cosas: su amigo Kel y su propio plan casero. Desafortunadamente, esa combinación fatal, lo llevan a meterse en problemas. Es el Día de Acción de Gracias y el padre de Kenan ha preparado un pavo. Pero cuando nadie está en la cocina, Kel no puede resistir la tentación y se devora el pavo en cuestión de minutos. Ahora Kenan y Kel están en grandes problemas.</desc>
   </programme>
-  <programme start="20230513104500 -0400" stop="20230513111500 -0400" channel="0812">
+  <programme start="20230513104800 -0400" stop="20230513111700 -0400" channel="0812">
     <title lang="es">Ridiculousness</title>
     <sub-title lang="es">11 Teyana Taylor</sub-title>
     <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling 'Steelo' Brim y Chanel West Coast, en un estudio con audiencia en vivo. Teyana Taylor se une a Ron, Steelo y Chanel para brindar tributo a la 'Siesta de niños' y nos cuenta sobre los 'Asesinos de cumpleaños' y lo que se siente estar dentro de una 'Pompa de lujuría'.</desc>
   </programme>
-  <programme start="20230513111500 -0400" stop="20230513114000 -0400" channel="0812">
+  <programme start="20230513111700 -0400" stop="20230513114300 -0400" channel="0812">
     <title lang="es">Ridiculousness</title>
     <sub-title lang="es">12 Chanel and Sterling XLIV</sub-title>
     <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling 'Steelo' Brim y Chanel West Coast, en un estudio con audiencia en vivo. Rob, Chanel y Steelo se sumergen en 'Piscinas mortales', atraviesan una 'Terapia al rojo vivo' y aprenden la valiosa lección de vida que 'Todo se pedorrea'.</desc>
   </programme>
-  <programme start="20230513114000 -0400" stop="20230513121000 -0400" channel="0812">
+  <programme start="20230513114300 -0400" stop="20230513121000 -0400" channel="0812">
     <title lang="es">Daria</title>
     <sub-title lang="es">2 El cazador de Daria</sub-title>
     <desc lang="es">Daria usa gafas, es muy inteligente, no se preocupa por su aspecto y representa a una adolescente sensible y cínica que retrata un icono de cordura en un entorno insensato. A través de su irónico y agudo sentido del humor, dejará expuestas las absurdas contradicciones que se producen en los entornos juveniles de cualquier país occidental. La escuela Lawndale sale en un viaje de campo, esta vez a un curso de paint-ball, con Helen y Jake como acompañantes. Darie y Jane deciden escapar hasta otra atracción turística cercana que terminará resultando un timo.</desc>
   </programme>
-  <programme start="20230513121000 -0400" stop="20230513123500 -0400" channel="0812">
+  <programme start="20230513121000 -0400" stop="20230513123900 -0400" channel="0812">
     <title lang="es">Daria</title>
     <sub-title lang="es">3 Quinn, la cerebrito</sub-title>
     <desc lang="es">Daria usa gafas, es muy inteligente, no se preocupa por su aspecto y representa a una adolescente sensible y cínica que retrata un icono de cordura en un entorno insensato. A través de su irónico y agudo sentido del humor, dejará expuestas las absurdas contradicciones que se producen en los entornos juveniles de cualquier país occidental. Quinn necesita conseguir una nota muy alta para su próximo ensayo y así no repetir de año. Lo consigue, pero entonces le da una inmediata reputación de intelectual.</desc>
   </programme>
-  <programme start="20230513123500 -0400" stop="20230513130500 -0400" channel="0812">
-    <title lang="es">Sabrina, the Teenage Witch</title>
+  <programme start="20230513123900 -0400" stop="20230513130500 -0400" channel="0812">
+    <title lang="es">Sabrina the Teenage Witch</title>
     <sub-title lang="es">7 You Bet Your Family</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Salem pierde a Sabrina y sus tías por un tiburón de cartas en el Otro Reino.</desc>
   </programme>
-  <programme start="20230513130500 -0400" stop="20230513133000 -0400" channel="0812">
-    <title lang="es">Sabrina, the Teenage Witch</title>
+  <programme start="20230513130500 -0400" stop="20230513133200 -0400" channel="0812">
+    <title lang="es">Sabrina the Teenage Witch</title>
     <sub-title lang="es">8 And the Sabrina Goes To..</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Sintiéndose poco apreciada, Sabrina lanza un hechizo de 'aprecio' a sus maestros y amigos.</desc>
   </programme>
-  <programme start="20230513133000 -0400" stop="20230513140000 -0400" channel="0812">
-    <title lang="es">Sabrina, the Teenage Witch</title>
+  <programme start="20230513133200 -0400" stop="20230513140000 -0400" channel="0812">
+    <title lang="es">Sabrina the Teenage Witch</title>
     <sub-title lang="es">9 Nobody Nose Libby Like Sabrina Noses Libby</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Una nave espacial mágica fuera de control lleva a Sabrina y Salem al interior del cerebro de Libby.</desc>
   </programme>
-  <programme start="20230513140000 -0400" stop="20230513142500 -0400" channel="0812">
-    <title lang="es">Sabrina, the Teenage Witch</title>
+  <programme start="20230513140000 -0400" stop="20230513142600 -0400" channel="0812">
+    <title lang="es">Sabrina the Teenage Witch</title>
     <sub-title lang="es">20 She's Baaaack!</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. La prima Amanda regresa para darle a Sabrina una pequeña competencia en el departamento de brujas adolescentes y amor.</desc>
   </programme>
-  <programme start="20230513142500 -0400" stop="20230513145500 -0400" channel="0812">
+  <programme start="20230513142600 -0400" stop="20230513145500 -0400" channel="0812">
     <title lang="es">Everybody Hates Chris</title>
     <sub-title lang="es">9 Todos odian a James</sub-title>
     <desc lang="es">Chris es un chico afroamericano de trece años que pensaba que en 1982 acercarse a la adolescencia iba a ser una especie de promoción hacia una vida más agradable. Sin embargo, recién mudado a un nuevo vecindario en Brooklyn, empezará a padecer los rigores de la genial ocurrencia de su madre de apuntarlo en una escuela a la que tiene que 'viajar' tomando dos autobuses y pasando del barrio negro a las zonas blancas para encontrar, finalmente, que el único moreno del lugar parece ser él. ¿Qué otra cosa podría esperarse de un colegio llamado Corleone Junior High? Julius se da cuenta de que la clave para mantener a Rochelle feliz en su matrimonio es recibir consejos del 'Show de Oprah Winfrey'.</desc>
   </programme>
-  <programme start="20230513145500 -0400" stop="20230513152000 -0400" channel="0812">
+  <programme start="20230513145500 -0400" stop="20230513152400 -0400" channel="0812">
     <title lang="es">Everybody Hates Chris</title>
     <sub-title lang="es">10 Todos odian la víspera de Año Nuevo</sub-title>
     <desc lang="es">Chris es un chico afroamericano de trece años que pensaba que en 1982 acercarse a la adolescencia iba a ser una especie de promoción hacia una vida más agradable. Sin embargo, recién mudado a un nuevo vecindario en Brooklyn, empezará a padecer los rigores de la genial ocurrencia de su madre de apuntarlo en una escuela a la que tiene que 'viajar' tomando dos autobuses y pasando del barrio negro a las zonas blancas para encontrar, finalmente, que el único moreno del lugar parece ser él. ¿Qué otra cosa podría esperarse de un colegio llamado Corleone Junior High? Chris está decidido a pasar la Víspera de Año Nuevo en Times Square, pero Rochelle dice que Chris solo podrá ir si encuentra un adulto responsable que lo acompañe.</desc>
   </programme>
-  <programme start="20230513152000 -0400" stop="20230513155000 -0400" channel="0812">
+  <programme start="20230513152400 -0400" stop="20230513155000 -0400" channel="0812">
     <title lang="es">Schitt's Creek</title>
     <sub-title lang="es">8 The Presidential Suite</sub-title>
     <desc lang="es">Cuando el rico magnate de la tienda de videos Johnny Rose y su familia se encuentran repentinamente en bancarrota, se ven obligados a abandonar sus mimadas vidas para reagruparse y reconstruir su imperio dentro de los límites de la ciudad rural de su único activo restante: Schitt's Creek, una axila de un pueblo que alguna vez compraron como broma. Johnny y Moira pasan una noche en la Suite Presidencial en el nuevo motel, mientras que Alexis recibe un invitado sorpresa.</desc>
@@ -29839,40 +29845,40 @@
     <sub-title lang="es">3 Cuidadores de chicas</sub-title>
     <desc lang="es">Kenan está convencido de que puede conseguir lo que quiera siempre y cuando tenga dos cosas: su amigo Kel y su propio plan casero. Desafortunadamente, esa combinación fatal, lo llevan a meterse en problemas. Eric deja a Kenan y Kel a cargo de su novia, quien ha venido de visita cuando se desata el caos y le siguen pasando cosas malas.</desc>
   </programme>
-  <programme start="20230513164500 -0400" stop="20230513171000 -0400" channel="0812">
+  <programme start="20230513164500 -0400" stop="20230513171400 -0400" channel="0812">
     <title lang="es">Kenan and Kel</title>
     <sub-title lang="es">4 Problemas de autos</sub-title>
     <desc lang="es">Kenan está convencido de que puede conseguir lo que quiera siempre y cuando tenga dos cosas: su amigo Kel y su propio plan casero. Desafortunadamente, esa combinación fatal, lo llevan a meterse en problemas. No es más que un problema cuando Kenan trata de eludir la decisión de sus padres de hacerlo esperar hasta que tenga 18 años para obtener su licencia de conducir. Así que Kenan y Kel idean un plan para atrapar a Marc para que ayude a corregir la situación... ¡pero pronto Marc se encuentra en un aprieto!</desc>
   </programme>
-  <programme start="20230513171000 -0400" stop="20230513174000 -0400" channel="0812">
-    <title lang="es">Sabrina, the Teenage Witch</title>
+  <programme start="20230513171400 -0400" stop="20230513174200 -0400" channel="0812">
+    <title lang="es">Sabrina the Teenage Witch</title>
     <sub-title lang="es">20 She's Baaaack!</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. La prima Amanda regresa para darle a Sabrina una pequeña competencia en el departamento de brujas adolescentes y amor.</desc>
   </programme>
-  <programme start="20230513174000 -0400" stop="20230513180500 -0400" channel="0812">
+  <programme start="20230513174200 -0400" stop="20230513180700 -0400" channel="0812">
     <title lang="es">The Neighborhood</title>
     <sub-title lang="es">18 Welcome to the Feud</sub-title>
     <desc lang="es">El hombre más amable del Medio Oeste traslada a su familia a un barrio difícil en Los Ángeles donde no todos aprecian su extrema simpatía. Eso incluye a su nuevo vecino de al lado, Calvin. El trabajo de Dave lo lleva a mediar una disputa entre dos hermanos adinerados y Calvin intenta ayudar a que encuentren puntos en común.</desc>
   </programme>
-  <programme start="20230513180500 -0400" stop="20230513183500 -0400" channel="0812">
+  <programme start="20230513180700 -0400" stop="20230513183500 -0400" channel="0812">
     <title lang="es">The Neighborhood</title>
     <sub-title lang="es">19 Welcome to the Quinceañera</sub-title>
     <desc lang="es">El hombre más amable del Medio Oeste traslada a su familia a un barrio difícil en Los Ángeles donde no todos aprecian su extrema simpatía. Eso incluye a su nuevo vecino de al lado, Calvin. Calvin y Tina se ofrecen a organizar una fiesta de quinceañera para Yoli, una joven que es aprendiz de Calvin en su taller de autos.</desc>
   </programme>
-  <programme start="20230513183500 -0400" stop="20230513201500 -0400" channel="0812">
+  <programme start="20230513183500 -0400" stop="20230513201200 -0400" channel="0812">
     <title lang="es">Ordinary Love</title>
     <desc lang="es">Joan y Tom viven en Irlanda y están casados hace muchos años. Juntos enfrentan un gran impacto emocional cuando a ella la diagnostican cáncer de mama.</desc>
   </programme>
-  <programme start="20230513201500 -0400" stop="20230513212000 -0400" channel="0812">
+  <programme start="20230513201200 -0400" stop="20230513211800 -0400" channel="0812">
     <title lang="es">La culpa es de Cortés</title>
     <sub-title lang="es">1 La ley</sub-title>
     <desc lang="es">Se reúne a cinco comediantes todas las semanas para compartir su sarcástica y humorística mirada sobre distintos temas cotidianos, celebridades o situaciones insólitas que ponen en marcha desopilantes rondas de comentarios y debates. Los comediantes debaten con humor sobre la ley, se cuestionan cosas que son lo mismo pero no igual, confiesan qué les da vergüenza y juegan a ponerse en los zapatos de unos personajes muy particulares.</desc>
   </programme>
-  <programme start="20230513212000 -0400" stop="20230513222500 -0400" channel="0812">
+  <programme start="20230513211800 -0400" stop="20230513222500 -0400" channel="0812">
     <title lang="es">Bar Central</title>
     <desc lang="es">Un espacio que presenta entrevistas entre comediantes del stand up en un bar bebiendo algún aperitivo. En cada edición, sabremos intimidades sobre el género y contarán anécdotas de sus espectáculos previos y sus inicios como comediantes.</desc>
   </programme>
-  <programme start="20230513222500 -0400" stop="20230514012000 -0400" channel="0812">
+  <programme start="20230513222500 -0400" stop="20230514013400 -0400" channel="0812">
     <title lang="es">Watchmen</title>
     <desc lang="es">En los Estados Unidos, la Guerra Fría está en su apogeo, y los superhéroes, que antes habían sido admirados, ahora son perseguidos por la ley. Un día aparece muerto uno de ellos, 'El Comediante', que trabajaba para la CIA. Su amigo Rorschach, el único héroe enmascarado en activo, emprenderá la investigación de su fallecimiento, en la que se oculta algo muy importante.</desc>
   </programme>
