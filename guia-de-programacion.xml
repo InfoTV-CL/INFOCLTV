@@ -18825,6 +18825,9 @@
   <programme start="20230514162000 -0400" stop="20230514163000 -0400" channel="0522">
     <title lang="es">HD Hits</title>
   </programme>
+  <programme start="20230514180000 -0400" stop="20230514190000 -0400" channel="0522">
+    <title lang="es">MTV Rewind</title>
+  </programme>
   <programme start="20230514190000 -0400" stop="20230514200500 -0400" channel="0522">
     <title lang="es">MTV Top 20</title>
   </programme>
@@ -20801,21 +20804,21 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230513060000 -0400" stop="20230513110500 -0400" channel="0544">
+  <programme start="20230513060000 -0400" stop="20230513120000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230513110500 -0400" stop="20230513124600 -0400" channel="0544">
-    <title lang="en">Scorpions - Moment Of Glory</title>
-    <desc lang="en">Producido en su ciudad natal con la prestigiosa Orquesta Filármonica, The Scorpions intepreta grandes clásicos del rock desde 'Hurricane 2000' y 'Big City Nights' hasta 'Winds of Change'.</desc>
+  <programme start="20230513120000 -0400" stop="20230513163300 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230513233100 -0400" stop="20230514004000 -0400" channel="0544">
     <title lang="en">Electric Light Orchestra - Live at Wembley 1978</title>
     <desc lang="en">Grabado en directo en el Wembley Arena de Londres y dirigido por Mike Mansfield, esta moderna actuación perdurará por siempre en la historia del rock como algo, literalmente, fuera de este mundo.</desc>
   </programme>
-  <programme start="20230514060000 -0400" stop="20230514120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230514053100 -0400" stop="20230514060100 -0400" channel="0544">
+    <title lang="en">Varios Artistas - Lo mejor de Qello Concerts</title>
+    <desc lang="en">Una selección de las mejores canciones de los 80 de la biblioteca de Qello Concerts.</desc>
   </programme>
   <programme start="20230514120000 -0400" stop="20230514180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -20829,11 +20832,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230513060000 -0400" stop="20230513110000 -0400" channel="0545">
+  <programme start="20230513060000 -0400" stop="20230513120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230513120000 -0400" stop="20230513180000 -0400" channel="0545">
+  <programme start="20230513120000 -0400" stop="20230513160000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20845,9 +20848,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230514060000 -0400" stop="20230514120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230514060000 -0400" stop="20230514070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230514120000 -0400" stop="20230514180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -26980,8 +26983,8 @@
     <desc lang="es">Lara Croft, extraordinaria arqueóloga y exploradora, viaja a un templo que ha quedado sumergido bajo el agua en busca de tesoros perdidos. Durante la expedición, Croft encuentra una esfera que contiene la mítica caja de Pandora, que luego le es arrebatada por Chen Lo, líder de un sindicato del crimen chino. Chen Lo está asociado con un malvado llamado Reiss, que quiere usar la inestimable caja como un arma de destrucción total.</desc>
   </programme>
   <programme start="20230514084800 -0400" stop="20230514092800 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
   </programme>
   <programme start="20230514092800 -0400" stop="20230514114800 -0400" channel="0801">
     <title lang="es">Erin Brockovich, una mujer audaz</title>
@@ -27024,11 +27027,11 @@
     <sub-title lang="es">10 Pide cualquier cosa</sub-title>
     <desc lang="es">Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel. Inspirado por el devoto Ned Flanders, Homero pone su fe en la religión y la oración, en la búsqueda de una mejor vida.</desc>
   </programme>
-  <programme start="20230514220000 -0400" stop="20230514233700 -0400" channel="0801">
+  <programme start="20230514220000 -0400" stop="20230514233800 -0400" channel="0801">
     <title lang="es">Paratemporal</title>
     <desc lang="es">Los paramédicos de Nueva Orleans y mejores amigos Steve y Dennis descubre que una serie de extraños y horribles accidentes son causados por la nueva y misteriosa droga de diseño encontrada en la escena. Pero después de que la hija mayor de Dennis desaparece repentinamente, Steve se topa con una aterradora verdad sobre la supuesta droga psicodélica que cambiará todo lo que sabe acerca de la realidad.</desc>
   </programme>
-  <programme start="20230514233700 -0400" stop="20230515013100 -0400" channel="0801">
+  <programme start="20230514233800 -0400" stop="20230515013100 -0400" channel="0801">
     <title lang="es">Jiu Jitsu</title>
     <desc lang="es">Cada seis años, una antigua orden de luchadores de jiu-jitsu une fuerzas para pelear contra una despiadada raza de invasores alienígenas. Sin embargo, cuando uno de ellos caiga derrotado, el destino del planeta y de la humanidad correrá peligro.</desc>
   </programme>
