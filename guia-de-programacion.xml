@@ -15609,12 +15609,7 @@
     <title lang="es">El chiringuito de Jugones</title>
     <desc lang="es">Contará toda la actualidad deportiva, convirtiéndose en un programa de opinión dirigido y presentado por Josep Pedrerol. Un equipo de expertos periodistas, exjugadores y árbitros debatirán sobre los partidos de fútbol de la jornada, las jugadas más polémicas, la última hora de los equipos y de los entrenadores y jugadores.</desc>
   </programme>
-  <programme start="20230515013000 -0400" stop="20230515023000 -0400" channel="0410">
-    <title lang="es">LaLiga Talking</title>
-    <sub-title lang="es">8 Técnicos al habla</sub-title>
-    <desc lang="es">Conversaciones exclusivas con entrenadores, jugadores y personalidades deportivas de LaLiga.</desc>
-  </programme>
-  <programme start="20230515023000 -0400" stop="20230515050000 -0400" channel="0410">
+  <programme start="20230515013000 -0400" stop="20230515050000 -0400" channel="0410">
     <title lang="es">Saudi King's Cup</title>
     <sub-title lang="es">Al Hilal vs. Al Wahda</sub-title>
   </programme>
@@ -15786,7 +15781,7 @@
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
   </programme>
   <programme start="20230515130000 -0400" stop="20230515135500 -0400" channel="0411">
-    <title lang="es">ESPN Compact - French Ligue 1</title>
+    <title lang="es">ESPN Compact - Ligue 1</title>
     <sub-title lang="es">Paris Saint-Germain vs. AC Ajaccio, Fecha 35, Parc des Princes</sub-title>
     <desc lang="es">Viví el post y todo el análisis de los partidos de la 85º edición de Liga Francesa de fútbol, el torneo organizado por la Ligue de Football Professionnel.</desc>
   </programme>
@@ -15973,23 +15968,23 @@
     <title lang="es">Equipo F</title>
     <desc lang="es">El mejor análisis de lo ocurrido en el fútbol del fin de semana en Chile y el extranjero, sumado a un extenso repaso de todos los detalles que deja la fecha de nuestro.</desc>
   </programme>
-  <programme start="20230516070000 -0400" stop="20230516073000 -0400" channel="0412">
+  <programme start="20230516070000 -0400" stop="20230516072500 -0400" channel="0412">
     <title lang="es">UEFA Champions League Weekly</title>
     <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
   </programme>
-  <programme start="20230516073000 -0400" stop="20230516080000 -0400" channel="0412">
+  <programme start="20230516072500 -0400" stop="20230516075500 -0400" channel="0412">
     <title lang="es">Spirit of Yachting</title>
     <sub-title lang="es">Rolex China Sea Race</sub-title>
     <desc lang="es">Explora algunos de los eventos más emocionantes en el mundo de la navegación. Contando las historias humanas detrás de la carrera, la emoción y la dedicación necesarias para participar en cualquier evento deportivo de clase mundial.</desc>
   </programme>
-  <programme start="20230516080000 -0400" stop="20230516100000 -0400" channel="0412">
-    <title lang="es">Premier League</title>
-    <sub-title lang="es">Leicester City vs. Liverpool, Fecha 36, King Power Stadium</sub-title>
-    <desc lang="es">Viví los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
-  </programme>
-  <programme start="20230516100000 -0400" stop="20230516110000 -0400" channel="0412">
+  <programme start="20230516075500 -0400" stop="20230516085000 -0400" channel="0412">
     <title lang="es">Goles de la Ligue 1</title>
     <desc lang="es">Lo mejor de la primera división del fútbol francés.</desc>
+  </programme>
+  <programme start="20230516085000 -0400" stop="20230516110000 -0400" channel="0412">
+    <title lang="es">Eredivisie</title>
+    <sub-title lang="es">FC Groningen vs. Ajax, Fecha 32, Hitachi Capital Mobility Stadium</sub-title>
+    <desc lang="es">Viví los partidos de la sexagésima séptima edición de la Eredivisie, la primera división de fútbol de los Países Bajos.</desc>
   </programme>
   <programme start="20230516110000 -0400" stop="20230516150000 -0400" channel="0412">
     <title lang="es">SportsCenter</title>
@@ -16322,15 +16317,14 @@
     <sub-title lang="es">Arlington Renegades vs. DC Defenders, Championship, Alamodome, San Antonio, TX, USA</sub-title>
     <desc lang="es">Cobertura de la acción futbolística de todo el XFL.</desc>
   </programme>
-  <programme start="20230515110000 -0400" stop="20230515130000 -0400" channel="0415">
-    <title lang="es">Off Road Electric Car Racing Series</title>
-    <sub-title lang="es">Hydro X Prix, Scotland, Carrera 2, Dumfries &amp; Galloway, Scotland, Scotland</sub-title>
-    <desc lang="es">Competición de automóviles todoterreno eléctricos, en lugares extremadamente remotos del mundo y que fueron afectados por el cambio climático, en un intento de generar conciencia sobre esa problemática.</desc>
+  <programme start="20230515110000 -0400" stop="20230515133000 -0400" channel="0415">
+    <title lang="es">Stanley Cup</title>
+    <sub-title lang="es">Vegas Golden Knights vs. Edmonton Oilers, Juego 6 Segunda ronda, Rogers Place</sub-title>
+    <desc lang="es">Vive los partidos de la 106º temporada de la liga profesional norteamericana de hockey sobre hielo, formada por clubes de Estados Unidos y Canadá.</desc>
   </programme>
-  <programme start="20230515130000 -0400" stop="20230515140000 -0400" channel="0415">
-    <title lang="es">ESPN Compact - LaLiga</title>
-    <sub-title lang="es">Espanyol vs. Barcelona, Fecha 34, Estadio RCDE Stadium</sub-title>
-    <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la nonagésima segunda edición de la Primera División de España de fútbol, organizado por la Liga de Fútbol Profesional.</desc>
+  <programme start="20230515133000 -0400" stop="20230515140000 -0400" channel="0415">
+    <title lang="es">Acción de la NBA</title>
+    <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.</desc>
   </programme>
   <programme start="20230515140000 -0400" stop="20230515143000 -0400" channel="0415">
     <title lang="es">La Liga World</title>
@@ -16387,19 +16381,19 @@
     <title lang="es">ESPN Compact - ATP Masters 1000 - Roma</title>
     <desc lang="es">Compactos del torneo oficial de tenis que se disputa anualmente en Roma, Italia. Tiene lugar a fines de abril o principios de mayo en semanas separadas, utilizándose canchas de tierra batida.</desc>
   </programme>
-  <programme start="20230516040000 -0400" stop="20230516050000 -0400" channel="0415">
-    <title lang="es">Goles de la Ligue 1</title>
-    <desc lang="es">Lo mejor de la primera división del fútbol francés.</desc>
+  <programme start="20230516040000 -0400" stop="20230516043000 -0400" channel="0415">
+    <title lang="es">ATP Tour Uncovered</title>
+    <desc lang="es">La actualidad del circuito profesional masculino de tenis.</desc>
   </programme>
-  <programme start="20230516050000 -0400" stop="20230516060000 -0400" channel="0415">
+  <programme start="20230516043000 -0400" stop="20230516053000 -0400" channel="0415">
     <title lang="es">ESPN Compact - Premier League</title>
     <sub-title lang="es">Aston Villa vs. Tottenham Hotspur, Fecha 36, Villa Park</sub-title>
     <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
   </programme>
-  <programme start="20230516060000 -0400" stop="20230516080000 -0400" channel="0415">
-    <title lang="es">Super Rugby Américas</title>
-    <sub-title lang="es">Cobras Brasil XV vs. Peñarol Rugby, Fecha 12</sub-title>
-    <desc lang="es">El Super Rugby Americas 2023 será la temporada inaugural de un nuevo formato del rugby profesional que empezará el 18 de febrero.</desc>
+  <programme start="20230516053000 -0400" stop="20230516080000 -0400" channel="0415">
+    <title lang="es">Stanley Cup</title>
+    <sub-title lang="es">Seattle Kraken vs. Dallas Stars, Juego 7 Segunda ronda, American Airlines Center</sub-title>
+    <desc lang="es">Vive los partidos de la 106º temporada de la liga profesional norteamericana de hockey sobre hielo, formada por clubes de Estados Unidos y Canadá.</desc>
   </programme>
   <programme start="20230516080000 -0400" stop="20230516110000 -0400" channel="0415">
     <title lang="es">ESPN's Monday Night Baseball</title>
@@ -18427,6 +18421,9 @@
   </programme>
   <programme start="20230516130000 -0400" stop="20230516150000 -0400" channel="0507">
     <title lang="es">Electric 80s</title>
+  </programme>
+  <programme start="20230516160000 -0400" stop="20230516180000 -0400" channel="0507">
+    <title lang="es">... So 80s</title>
   </programme>
   <programme start="20230515000000 -0400" stop="20230515235900 -0400" channel="0508">
     <title lang="es">Stingray Euro Hits</title>
@@ -20952,7 +20949,11 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230515060000 -0400" stop="20230515113100 -0400" channel="0544">
+  <programme start="20230515060000 -0400" stop="20230515120000 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230515120000 -0400" stop="20230515163700 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20964,9 +20965,9 @@
     <title lang="en">Vampire Weekend - Glastonbury Festival 2019</title>
     <desc lang="en">El Glastonbury Festival of Contemporary Performing Arts es el segundo festival de música al aire libre más grande del mundo. Es conocido principalmente por sus espectáculos musicales, pero también presenta atracciones de danza, humor, teatro y circo.</desc>
   </programme>
-  <programme start="20230516060000 -0400" stop="20230516120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230516042500 -0400" stop="20230516063000 -0400" channel="0544">
+    <title lang="en">Matchbox Twenty - Live in London</title>
+    <desc lang="en">Esta película de concierto, filmada en el Roundhouse de Londres, será una experiencia en vivo espectacular de principio a fin para todos los fans. Matchbox Twenty interpreta sus éxitos, como "Bright Lights", "Parade", "You're So Real", y muchos más.</desc>
   </programme>
   <programme start="20230516120000 -0400" stop="20230516180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -20980,11 +20981,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230515060000 -0400" stop="20230515110000 -0400" channel="0545">
+  <programme start="20230515060000 -0400" stop="20230515120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230515120000 -0400" stop="20230515180000 -0400" channel="0545">
+  <programme start="20230515120000 -0400" stop="20230515160000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20996,9 +20997,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230516060000 -0400" stop="20230516120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230516060000 -0400" stop="20230516070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230516120000 -0400" stop="20230516180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -29419,32 +29420,32 @@
     <sub-title lang="es">68 Moni Pitonisa</sub-title>
     <desc lang="es">Una familia muy particular, de clase media, compuesta por el padre, vendedor de zapatos, la madre, una mujer poco afectada ante las tareas de la casa, y sus dos hijos, un varón y una chica adolescente. Un excelente retrato sobre la supervivencia marital, que romperá con el concepto tradicional de lo típico de Argentina. Moni comienza a interesarse en la cartomancia y el tarot, pero sus predicciones pueden ser a veces acertadas y otras tantas erróneas.</desc>
   </programme>
-  <programme start="20230515083000 -0400" stop="20230515085500 -0400" channel="0812">
+  <programme start="20230515083000 -0400" stop="20230515085700 -0400" channel="0812">
     <title lang="es">Casados con hijos</title>
     <sub-title lang="es">70 Todo preso es político</sub-title>
     <desc lang="es">Una familia muy particular, de clase media, compuesta por el padre, vendedor de zapatos, la madre, una mujer poco afectada ante las tareas de la casa, y sus dos hijos, un varón y una chica adolescente. Un excelente retrato sobre la supervivencia marital, que romperá con el concepto tradicional de lo típico de Argentina. María Elena realiza una protesta en contra del machismo, pero todo se vuelve un caos cuando Pepe y María Elena se agreden verbalmente y terminan presos; el resto de los Argento intentan sacar a Pepe de la cárcel.</desc>
   </programme>
-  <programme start="20230515085500 -0400" stop="20230515092500 -0400" channel="0812">
+  <programme start="20230515085700 -0400" stop="20230515092500 -0400" channel="0812">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">23 Pretty in Pink</sub-title>
     <desc lang="es">Una comedia multigeneracional ambientada en los años 80 acerca de una familia ruidosa, cariñosa y un poco disfuncional: los Goldberg. Adam y Brea deciden ir juntos al baile de graduación, pero cuando Adam se preocupa de no ser el Rey del Baile, las acciones de Beverly ponen en peligro el evento; Barry le enseña a Erica cómo ser compasiva y cariñosa cuando el padre de Geoff está en el hospital.</desc>
   </programme>
-  <programme start="20230515092500 -0400" stop="20230515095000 -0400" channel="0812">
+  <programme start="20230515092500 -0400" stop="20230515095300 -0400" channel="0812">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">1 Airplane!</sub-title>
     <desc lang="es">Una comedia multigeneracional ambientada en los años 80 acerca de una familia ruidosa, cariñosa y un poco disfuncional: los Goldberg. Cuando Beverly anuncia unas vacaciones familiares en Miami, Erica sospecha que trae algo entre manos. Murray lucha contra su miedo a volar y Geoff trata de mantener la paz.</desc>
   </programme>
-  <programme start="20230515095000 -0400" stop="20230515102000 -0400" channel="0812">
+  <programme start="20230515095300 -0400" stop="20230515102000 -0400" channel="0812">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">1 Pilot</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Cuando al padre de Carrie, Arthur, se le incendia la casa, ella y Doug lo dejan hospedarse en su hogar, por lo que Doug debe cederle su sótano. La hermana de Carrie, Sarah tambien se mudará junto a ellos.</desc>
   </programme>
-  <programme start="20230515102000 -0400" stop="20230515104500 -0400" channel="0812">
+  <programme start="20230515102000 -0400" stop="20230515104900 -0400" channel="0812">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">2 Fat City</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Cuando Doug descubre que las mujeres de la familia de Carrie tienen sobrepeso, intenta evitar que ella también lo padezca.</desc>
   </programme>
-  <programme start="20230515104500 -0400" stop="20230515111500 -0400" channel="0812">
+  <programme start="20230515104900 -0400" stop="20230515111500 -0400" channel="0812">
     <title lang="es">Ridiculousness</title>
     <sub-title lang="es">15 Vic Mensa</sub-title>
     <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling 'Steelo' Brim y Chanel West Coast, en un estudio con audiencia en vivo. La estrella del hip hop Vic Mensa se une a Rob, Chanel y Steelo para chequear lo que se siente 'Aún estar vivo', aprenden modos creativos de 'Guardar más dinero' y todo se vuelve extraño cuando 'Suceden muchas cosas'.</desc>
@@ -29454,41 +29455,41 @@
     <sub-title lang="es">16 Chanel and Sterling XLVI</sub-title>
     <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling 'Steelo' Brim y Chanel West Coast, en un estudio con audiencia en vivo. Rob, Chanel y Steelo conocen un poco de la 'Carne de calle', salen de fiesta con algunas 'Hermanas serpenteantes' y se chocan algunas escaleras con unos 'Slinkies' extremos.</desc>
   </programme>
-  <programme start="20230515114000 -0400" stop="20230515123500 -0400" channel="0812">
+  <programme start="20230515114000 -0400" stop="20230515123700 -0400" channel="0812">
     <title lang="es">La clínica</title>
     <desc lang="es">La desquiciada teleserie se basa en lo sucedido en un hospital psiquiátrico mejor conocido como La Clínica dirigida por el Dr. Cosme Krauss, psiquiatra astuto y perverso, donde comenzarán a desencadenarse conflictos cuando al lugar llega Elvicio, un pintor alternativo e irreverente quien ha sido secuestrado por Fernando Rivadeneyra, padre de su novia Maripili, para separarlo de ella. Es ahí donde Elvicio conocerá y quedará atrapado sentimentalmente por Lucy la hermosa y conservadora enfermera que a su vez es el objeto de deseo del Dr. Krauss. Para enredar más las cosas Maripili se autoingresa con tal de estar cerca de su amado Elvicio, que dice estar más cuerdo que todos y le tiene odio a un enfermo que está deprimido porque su equipo bajó a la Segunda División. Entre los pacientes de La Clínica también se encuentra Doña Elsa, una mujer que después de tenerlo todo termina recluida en el psiquiátrico tras perder toda su fortuna, y ahora cree que el lugar es aquél que perdió y a todos los trata como sus sirvientes.</desc>
   </programme>
-  <programme start="20230515123500 -0400" stop="20230515133000 -0400" channel="0812">
+  <programme start="20230515123700 -0400" stop="20230515133000 -0400" channel="0812">
     <title lang="es">Mi corazón es tuyo</title>
     <sub-title lang="es">56 El amor cambia</sub-title>
     <desc lang="es">Fernando Lascuráin es un hombre de negocios rico y viudo con siete hijos rebeldes, el cual busca una nueva niñera para sus hijos. Tras eso, Ana es contratada como niñera, y Fernando se enamora al integrarse a la mansión. Ana es una bailarina exótica que trata de guardar su doble vida en secreto, para poder mantener su trabajo como niñera, que se encariña con los niños y tiene que lidiar con muchos obstáculos y aventuras con ellos. Ximena sufre un ataque, el doctor le inyecta un sedante y se la llevan al hospital. Los gemelos planean vengarse de Isabela por haberles robado sus tareas. Nando le dice a Fernando que su felicidad está al lado de Ana.</desc>
   </programme>
-  <programme start="20230515133000 -0400" stop="20230515135500 -0400" channel="0812">
+  <programme start="20230515133000 -0400" stop="20230515135700 -0400" channel="0812">
     <title lang="es">Sabrina the Teenage Witch</title>
     <sub-title lang="es">21 The Four Faces of Sabrina</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Elegir una universidad literalmente divide a Sabrina cuando intenta con mucho esfuerzo que todos estén contentos.</desc>
   </programme>
-  <programme start="20230515135500 -0400" stop="20230515142500 -0400" channel="0812">
+  <programme start="20230515135700 -0400" stop="20230515142300 -0400" channel="0812">
     <title lang="es">Sabrina the Teenage Witch</title>
     <sub-title lang="es">22 The End of an Era</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Después de cuatro años de hechizos y conductas extrañas permanentes de Sabrina, Harvey finalmente sospecha que ella es una bruja.</desc>
   </programme>
-  <programme start="20230515142500 -0400" stop="20230515145500 -0400" channel="0812">
+  <programme start="20230515142300 -0400" stop="20230515145200 -0400" channel="0812">
     <title lang="es">Everybody Hates Chris</title>
     <sub-title lang="es">11 Todos odian al Sr. Levine</sub-title>
     <desc lang="es">Chris es un chico afroamericano de trece años que pensaba que en 1982 acercarse a la adolescencia iba a ser una especie de promoción hacia una vida más agradable. Sin embargo, recién mudado a un nuevo vecindario en Brooklyn, empezará a padecer los rigores de la genial ocurrencia de su madre de apuntarlo en una escuela a la que tiene que 'viajar' tomando dos autobuses y pasando del barrio negro a las zonas blancas para encontrar, finalmente, que el único moreno del lugar parece ser él. ¿Qué otra cosa podría esperarse de un colegio llamado Corleone Junior High? Cuando Rochelle pide una copia de su acta de nacimiento, descubre que en realidad es un año más joven de lo que creía y decide comenzar a vivir su vida con una actitud nueva y más juvenil.</desc>
   </programme>
-  <programme start="20230515145500 -0400" stop="20230515152000 -0400" channel="0812">
+  <programme start="20230515145200 -0400" stop="20230515152000 -0400" channel="0812">
     <title lang="es">Everybody Hates Chris</title>
     <sub-title lang="es">12 Todos odian las chaquetas deportivas</sub-title>
     <desc lang="es">Chris es un chico afroamericano de trece años que pensaba que en 1982 acercarse a la adolescencia iba a ser una especie de promoción hacia una vida más agradable. Sin embargo, recién mudado a un nuevo vecindario en Brooklyn, empezará a padecer los rigores de la genial ocurrencia de su madre de apuntarlo en una escuela a la que tiene que 'viajar' tomando dos autobuses y pasando del barrio negro a las zonas blancas para encontrar, finalmente, que el único moreno del lugar parece ser él. ¿Qué otra cosa podría esperarse de un colegio llamado Corleone Junior High? Chris y Greg deciden unirse al equipo de lucha para conseguir una chaqueta deportiva e impresionar a las damas.</desc>
   </programme>
-  <programme start="20230515152000 -0400" stop="20230515155000 -0400" channel="0812">
+  <programme start="20230515152000 -0400" stop="20230515154700 -0400" channel="0812">
     <title lang="es">Schitt's Creek</title>
     <sub-title lang="es">12 The Pitch</sub-title>
     <desc lang="es">Cuando el rico magnate de la tienda de videos Johnny Rose y su familia se encuentran repentinamente en bancarrota, se ven obligados a abandonar sus mimadas vidas para reagruparse y reconstruir su imperio dentro de los límites de la ciudad rural de su único activo restante: Schitt's Creek, una axila de un pueblo que alguna vez compraron como broma. Johnny, Stevie y Roland van a Nueva York para la reunión de negocios, mientras que la familia espera su vuelta con ansias.</desc>
   </programme>
-  <programme start="20230515155000 -0400" stop="20230515161500 -0400" channel="0812">
+  <programme start="20230515154700 -0400" stop="20230515161500 -0400" channel="0812">
     <title lang="es">Schitt's Creek</title>
     <sub-title lang="es">13 Start Spreading the News</sub-title>
     <desc lang="es">Cuando el rico magnate de la tienda de videos Johnny Rose y su familia se encuentran repentinamente en bancarrota, se ven obligados a abandonar sus mimadas vidas para reagruparse y reconstruir su imperio dentro de los límites de la ciudad rural de su único activo restante: Schitt's Creek, una axila de un pueblo que alguna vez compraron como broma. Moira recibe una noticia inesperada y David toma una decisión difícil sobre dónde quiere vivir.</desc>
@@ -29497,27 +29498,27 @@
     <title lang="es">La clínica</title>
     <desc lang="es">La desquiciada teleserie se basa en lo sucedido en un hospital psiquiátrico mejor conocido como La Clínica dirigida por el Dr. Cosme Krauss, psiquiatra astuto y perverso, donde comenzarán a desencadenarse conflictos cuando al lugar llega Elvicio, un pintor alternativo e irreverente quien ha sido secuestrado por Fernando Rivadeneyra, padre de su novia Maripili, para separarlo de ella. Es ahí donde Elvicio conocerá y quedará atrapado sentimentalmente por Lucy la hermosa y conservadora enfermera que a su vez es el objeto de deseo del Dr. Krauss. Para enredar más las cosas Maripili se autoingresa con tal de estar cerca de su amado Elvicio, que dice estar más cuerdo que todos y le tiene odio a un enfermo que está deprimido porque su equipo bajó a la Segunda División. Entre los pacientes de La Clínica también se encuentra Doña Elsa, una mujer que después de tenerlo todo termina recluida en el psiquiátrico tras perder toda su fortuna, y ahora cree que el lugar es aquél que perdió y a todos los trata como sus sirvientes.</desc>
   </programme>
-  <programme start="20230515171000 -0400" stop="20230515174000 -0400" channel="0812">
+  <programme start="20230515171000 -0400" stop="20230515173900 -0400" channel="0812">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">21 Clothes Encounter</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Carrie no puede dejar de comprar ropa cara y luego devolverla en unos pocos días. La nueva novia de Spence le tiene miedo a su perro y le dice que decida a quién quiere, si al perro oa ella.</desc>
   </programme>
-  <programme start="20230515174000 -0400" stop="20230515180500 -0400" channel="0812">
+  <programme start="20230515173900 -0400" stop="20230515180700 -0400" channel="0812">
     <title lang="es">The King of Queens</title>
     <sub-title lang="es">22 Queens'bro Bridge</sub-title>
     <desc lang="es">Doug Heffernan es un repartidor del barrio de Queens, Nueva york, que tiene deseos muy simples. Entre sus más valiosas posesiones se encuentra un televisor de 70 pulgadas que su adorada esposa, Carrie, le regaló. Sin embargo, ahora que el padre viudo de Carrie, Arthur, vive con ellos, la sala de televisión se ha convertido en la habitación de Arthur. Doug y sus amigos Spence y Deacon, con los que mira los partidos, (y el adorado televisor) han sido transferidos al garaje, y Doug ahora debe compartir su castillo con su suegro excéntrico de hábitos poco comunes. Doug ve la oportunidad de deshacerse de Arthur después de que descubre que él y su medio hermano Skitch heredaron la casa de su tía 10 años atrás y trata de que los hermanos se muden juntos.</desc>
   </programme>
-  <programme start="20230515180500 -0400" stop="20230515183500 -0400" channel="0812">
+  <programme start="20230515180700 -0400" stop="20230515183400 -0400" channel="0812">
     <title lang="es">The Neighborhood</title>
     <sub-title lang="es">20 Welcome to the Mama Drama</sub-title>
     <desc lang="es">El hombre más amable del Medio Oeste traslada a su familia a un barrio difícil en Los Ángeles donde no todos aprecian su extrema simpatía. Eso incluye a su nuevo vecino de al lado, Calvin. Cuando Calvin recibe un reconocimiento por el impacto positivo que su negocio ha tenido en la comunidad, espera finalmente obtener la aprobación de su madre.</desc>
   </programme>
-  <programme start="20230515183500 -0400" stop="20230515190000 -0400" channel="0812">
+  <programme start="20230515183400 -0400" stop="20230515190100 -0400" channel="0812">
     <title lang="es">The Neighborhood</title>
     <sub-title lang="es">21 Welcome to the Dream Girls</sub-title>
     <desc lang="es">El hombre más amable del Medio Oeste traslada a su familia a un barrio difícil en Los Ángeles donde no todos aprecian su extrema simpatía. Eso incluye a su nuevo vecino de al lado, Calvin. Cuando Tina se reúne con su antiguo grupo musical de chicas, se reavivan viejos problemas que amenazan con frustrar la gran actuación del trío.</desc>
   </programme>
-  <programme start="20230515190000 -0400" stop="20230515193000 -0400" channel="0812">
+  <programme start="20230515190100 -0400" stop="20230515193000 -0400" channel="0812">
     <title lang="es">Sabrina the Teenage Witch</title>
     <sub-title lang="es">21 The Four Faces of Sabrina</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Elegir una universidad literalmente divide a Sabrina cuando intenta con mucho esfuerzo que todos estén contentos.</desc>
@@ -29547,12 +29548,12 @@
     <sub-title lang="es">22 I Fall to Pieces</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Cuando el novio de Hilda la deja, ella queda devastada y afirma que ya no quiere estar con hombres.</desc>
   </programme>
-  <programme start="20230515223000 -0400" stop="20230515230000 -0400" channel="0812">
+  <programme start="20230515223000 -0400" stop="20230515230100 -0400" channel="0812">
     <title lang="es">Ridiculousness</title>
     <sub-title lang="es">10 Chanel and Sterling CCCX</sub-title>
     <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling 'Steelo' Brim y Chanel West Coast, en un estudio con audiencia en vivo. En este episodio de Ridiculousness, Rob, Chanel y Steelo protegen su burbuja en BTFU, ejercitan la paciencia en ESPERA ANTES DE ODIAR y pierden su almuerzo en SNACCIDENTES.</desc>
   </programme>
-  <programme start="20230515230000 -0400" stop="20230515233000 -0400" channel="0812">
+  <programme start="20230515230100 -0400" stop="20230515233000 -0400" channel="0812">
     <title lang="es">South Park</title>
     <sub-title lang="es">15 El pez espeluznante</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. La ''Tía Regla'' de Stan le regala un pez dorado que le da mucho miedo y comienzan a haber asesinatos que la mamá de Stan trata de encubrir. Mientras tanto, Cartman se comporta muy extraño de repente y se deja crecer la barba.</desc>
@@ -29562,12 +29563,12 @@
     <sub-title lang="es">16 ¡Feliz Navidad, Charlie Manson!</sub-title>
     <desc lang="es">Satiriza con humor negro la sociedad, actualidad y cultura estadounidense a través de historias y situaciones surrealistas que les suceden a cuatro niños: Stan, Kyle, Eric y Kenny, quienes viven en el pueblo de South Park. Stan, Kyle y Kenny viajan a Nebraska para pasar la Navidad con la familia de Eric. Mientras tanto, Charlie Manson escapa de la cárcel con el tío de Eric. Los niños intentarán enseñarle el verdadero significado de la Navidad.</desc>
   </programme>
-  <programme start="20230516000000 -0400" stop="20230516003500 -0400" channel="0812">
+  <programme start="20230516000000 -0400" stop="20230516003700 -0400" channel="0812">
     <title lang="es">Se rentan cuartos</title>
     <sub-title lang="es">1 Cilantro 18</sub-title>
     <desc lang="es">Se centra en la historia de una familia adinerada que termina en bancarrota y, después del rechazo de su entorno social, no les queda más remedio que iniciar una nueva vida al resguardarse en la única propiedad que lograron salvar: una grande y vieja casona ubicada en uno de los barrios más populares de la CDMX, que convierten en una casa de huéspedes. De esta manera, sumidos en el mundo que siempre despreciaron desde su posición privilegiada, la lucha de clases se vuelve una guerra y la familia aprenderá lecciones de sencillez, humildad y amor fraternal. La acaudalada familia Garza de la Garza se ha hundido en la miseria y deben refugiarse en Cilantro 18, una vieja casona abandonada, en donde Graciela y sus dos hijos se llevarán una sorpresa al descubrir que la casa ya está tomada por Pepenacho.</desc>
   </programme>
-  <programme start="20230516003500 -0400" stop="20230516011000 -0400" channel="0812">
+  <programme start="20230516003700 -0400" stop="20230516011000 -0400" channel="0812">
     <title lang="es">Se rentan cuartos</title>
     <sub-title lang="es">2 Los extranjeros</sub-title>
     <desc lang="es">Se centra en la historia de una familia adinerada que termina en bancarrota y, después del rechazo de su entorno social, no les queda más remedio que iniciar una nueva vida al resguardarse en la única propiedad que lograron salvar: una grande y vieja casona ubicada en uno de los barrios más populares de la CDMX, que convierten en una casa de huéspedes. De esta manera, sumidos en el mundo que siempre despreciaron desde su posición privilegiada, la lucha de clases se vuelve una guerra y la familia aprenderá lecciones de sencillez, humildad y amor fraternal. Con la intención de generar dinero a como dé lugar, la familia Garza de la Garza decide rentar las habitaciones de Cilantro 18. Sin embargo, sus primeros huéspedes traerán consigo más sorpresas que remuneraciones.</desc>
@@ -29577,12 +29578,12 @@
     <sub-title lang="es">22 I Fall to Pieces</sub-title>
     <desc lang="es">Sabrina es una adolescente normal cuya vida se transforma, al cumplir 16 años, y descubrir que es una bruja. Ella trata de vivir una vida normal mientras aprende a dominar sus poderes. Cuando el novio de Hilda la deja, ella queda devastada y afirma que ya no quiere estar con hombres.</desc>
   </programme>
-  <programme start="20230516014000 -0400" stop="20230516020500 -0400" channel="0812">
+  <programme start="20230516014000 -0400" stop="20230516020700 -0400" channel="0812">
     <title lang="es">The Neighborhood</title>
     <sub-title lang="es">20 Welcome to the Mama Drama</sub-title>
     <desc lang="es">El hombre más amable del Medio Oeste traslada a su familia a un barrio difícil en Los Ángeles donde no todos aprecian su extrema simpatía. Eso incluye a su nuevo vecino de al lado, Calvin. Cuando Calvin recibe un reconocimiento por el impacto positivo que su negocio ha tenido en la comunidad, espera finalmente obtener la aprobación de su madre.</desc>
   </programme>
-  <programme start="20230516020500 -0400" stop="20230516023500 -0400" channel="0812">
+  <programme start="20230516020700 -0400" stop="20230516023500 -0400" channel="0812">
     <title lang="es">The Neighborhood</title>
     <sub-title lang="es">21 Welcome to the Dream Girls</sub-title>
     <desc lang="es">El hombre más amable del Medio Oeste traslada a su familia a un barrio difícil en Los Ángeles donde no todos aprecian su extrema simpatía. Eso incluye a su nuevo vecino de al lado, Calvin. Cuando Tina se reúne con su antiguo grupo musical de chicas, se reavivan viejos problemas que amenazan con frustrar la gran actuación del trío.</desc>
@@ -34580,9 +34581,9 @@
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
   </programme>
-  <programme start="20230515134500 -0400" stop="20230515143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
+  <programme start="20230515130000 -0400" stop="20230515141500 -0400" channel="0153">
+    <title lang="es">Efemérides</title>
+    <desc lang="es">Cada día una nueva historia en Bío Bío TV.</desc>
   </programme>
   <programme start="20230515143000 -0400" stop="20230515153000 -0400" channel="0153">
     <title lang="es">El Tablón</title>
