@@ -5378,29 +5378,20 @@
     <title lang="es">24 horas a la hora</title>
     <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
   </programme>
-  <programme start="20230520200000 -0400" stop="20230520203000 -0400" channel="0201">
-    <title lang="es">24 Horas deportes</title>
-    <desc lang="es">Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.</desc>
-  </programme>
-  <programme start="20230520203000 -0400" stop="20230520210000 -0400" channel="0201">
-    <title lang="es">24 horas a la hora</title>
-    <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
+  <programme start="20230520200000 -0400" stop="20230520210000 -0400" channel="0201">
+    <title lang="es">Rumbo a Santiago 2023</title>
   </programme>
   <programme start="20230520210000 -0400" stop="20230520223000 -0400" channel="0201">
     <title lang="es">24 horas central</title>
     <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
   </programme>
-  <programme start="20230520223000 -0400" stop="20230520224500 -0400" channel="0201">
-    <title lang="es">24 cuadros</title>
-    <desc lang="es">Programa sobre las noticias de los próximos estrenos del cine.</desc>
-  </programme>
-  <programme start="20230520224500 -0400" stop="20230520231500 -0400" channel="0201">
+  <programme start="20230520223000 -0400" stop="20230520230000 -0400" channel="0201">
     <title lang="es">Especialista responde</title>
     <desc lang="es">Las respuestas a todas las consultas en temas relacionados a la salud y bienestar.</desc>
   </programme>
-  <programme start="20230520231500 -0400" stop="20230520233000 -0400" channel="0201">
-    <title lang="es">Entrevistas 24</title>
-    <desc lang="es">Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.</desc>
+  <programme start="20230520230000 -0400" stop="20230520233000 -0400" channel="0201">
+    <title lang="es">24 Horas deportes</title>
+    <desc lang="es">Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.</desc>
   </programme>
   <programme start="20230520233000 -0400" stop="20230520234500 -0400" channel="0201">
     <title lang="es">24 cuadros</title>
@@ -9140,423 +9131,530 @@
     <sub-title lang="es">2 Manejo de la ira</sub-title>
     <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. Para participar de un exitoso programa para niños, Nom Nom debe superar con éxito la prueba de manejo de la ira, con Pardo como compañero.</desc>
   </programme>
-  <programme start="20230519060000 -0400" stop="20230519061000 -0400" channel="0305">
-    <title lang="es">Manzana y Cebollín</title>
-    <sub-title lang="es">37 Victoria o vertedero</sub-title>
-    <desc lang="es">Ambientados en un mundo poblado por comida antropomórfica, Apple y Onion, un par de recién llegados infantiles a la gran ciudad, intentan adaptarse a su nuevo entorno, mientras enfrentan desafíos con amigos y otros escenarios. Cada episodio involucra a Apple o Onion en su entorno. Manzana y Cebollín están a apunto de conseguir un nuevo y lujoso ático y deshacerse de su choza para siempre. Solo necesitan una buena referencia de su arrendador anterior... Falafel.</desc>
-  </programme>
-  <programme start="20230519061000 -0400" stop="20230519062000 -0400" channel="0305">
-    <title lang="es">Manzana y Cebollín</title>
-    <sub-title lang="es">33 Lamporcini</sub-title>
-    <desc lang="es">Ambientados en un mundo poblado por comida antropomórfica, Apple y Onion, un par de recién llegados infantiles a la gran ciudad, intentan adaptarse a su nuevo entorno, mientras enfrentan desafíos con amigos y otros escenarios. Cada episodio involucra a Apple o Onion en su entorno. Manzana Y Cebollín están muy contentos con sus nuevos y espectaculares atuendos de diseño que hacen juego. Ellos se los compraron a un conocido artista de la estafa, Perro Callejero. Todo marcha bien hasta que Nugget de Pollo los confunde con algo que no son.</desc>
-  </programme>
-  <programme start="20230519062000 -0400" stop="20230519063000 -0400" channel="0305">
+  <programme start="20230519060000 -0400" stop="20230519061200 -0400" channel="0305">
     <title lang="es">Manzana y Cebollín</title>
     <sub-title lang="es">11 Zarrapastroso</sub-title>
     <desc lang="es">Ambientados en un mundo poblado por comida antropomórfica, Apple y Onion, un par de recién llegados infantiles a la gran ciudad, intentan adaptarse a su nuevo entorno, mientras enfrentan desafíos con amigos y otros escenarios. Cada episodio involucra a Apple o Onion en su entorno. Manzana y Cebollín deben deshacerse del compañero de casa de Hamburguesa para conseguir su ayuda.</desc>
   </programme>
-  <programme start="20230519063000 -0400" stop="20230519073000 -0400" channel="0305">
-    <title lang="es">Los Jóvenes Titanes en acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
+  <programme start="20230519061200 -0400" stop="20230519062300 -0400" channel="0305">
+    <title lang="es">Manzana y Cebollín</title>
+    <sub-title lang="es">33 Lamporcini</sub-title>
+    <desc lang="es">Ambientados en un mundo poblado por comida antropomórfica, Apple y Onion, un par de recién llegados infantiles a la gran ciudad, intentan adaptarse a su nuevo entorno, mientras enfrentan desafíos con amigos y otros escenarios. Cada episodio involucra a Apple o Onion en su entorno. Manzana Y Cebollín están muy contentos con sus nuevos y espectaculares atuendos de diseño que hacen juego. Ellos se los compraron a un conocido artista de la estafa, Perro Callejero. Todo marcha bien hasta que Nugget de Pollo los confunde con algo que no son.</desc>
   </programme>
-  <programme start="20230519073000 -0400" stop="20230519074000 -0400" channel="0305">
+  <programme start="20230519062300 -0400" stop="20230519063400 -0400" channel="0305">
+    <title lang="es">Manzana y Cebollín</title>
+    <sub-title lang="es">37 Victoria o vertedero</sub-title>
+    <desc lang="es">Ambientados en un mundo poblado por comida antropomórfica, Apple y Onion, un par de recién llegados infantiles a la gran ciudad, intentan adaptarse a su nuevo entorno, mientras enfrentan desafíos con amigos y otros escenarios. Cada episodio involucra a Apple o Onion en su entorno. Manzana y Cebollín están a apunto de conseguir un nuevo y lujoso ático y deshacerse de su choza para siempre. Solo necesitan una buena referencia de su arrendador anterior... Falafel.</desc>
+  </programme>
+  <programme start="20230519063400 -0400" stop="20230519064800 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">36 Estrellas de la suerte</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Raven les explica astrología a los Titanes y les dice sus horóscopos, pero Cyborg no cree.</desc>
+  </programme>
+  <programme start="20230519064800 -0400" stop="20230519065900 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">44 Kyle</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Los Titans regresan en el tiempo a los 1990 para visitar una tienda de video, pero hallan a un enemigo familiar.</desc>
+  </programme>
+  <programme start="20230519065900 -0400" stop="20230519071100 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">21 Aventura corporal</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Cuando Cyborg se enferma, Robin insisten en encogerse a tamaño célula para luchar él mismo contra la infección.</desc>
+  </programme>
+  <programme start="20230519071100 -0400" stop="20230519072200 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">8 La racha Parte 1</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Llega la temporada de delitos, y Robin está decidido a continuar su racha de impedir 52 delitos por año. El héroe tendrá que luchar contra todo tipo de criminales para mantener su racha.</desc>
+  </programme>
+  <programme start="20230519072200 -0400" stop="20230519073300 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">8 La racha Parte 1</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Llega la temporada de delitos, y Robin está decidido a continuar su racha de impedir 52 delitos por año. El héroe tendrá que luchar contra todo tipo de criminales para mantener su racha.</desc>
+  </programme>
+  <programme start="20230519073300 -0400" stop="20230519074400 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
     <sub-title lang="es">39 El triángulo</sub-title>
     <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Darwin es seleccionado para hacer un solo en la banda de la escuela, pero hay alguien que quiere sabotearlo.</desc>
   </programme>
-  <programme start="20230519074000 -0400" stop="20230519075000 -0400" channel="0305">
+  <programme start="20230519074400 -0400" stop="20230519075100 -0400" channel="0305">
+    <title lang="es">Any Malu Backstage</title>
+    <sub-title lang="es">5 Dando consejos con mi BFF</sub-title>
+    <desc lang="es">Mientras esperamos la llegada de su show, hemos preparado un evento exclusivo para ti: ¡el backstage de Any Malu! ¡Mira lo que hay detrás de la nueva serie de Cartoon Network! Dar consejos puede ser una tarea difícil, por lo que Any Malu invita a su mejor amiga, Agatha, a ayudarla a responder preguntas sobre las relaciones de los cartoons. Pero incluso las mejores amigas pueden enojarse la una con la otra, ¿verdad?</desc>
+  </programme>
+  <programme start="20230519075100 -0400" stop="20230519080400 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
     <sub-title lang="es">3 Los caballeros</sub-title>
     <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Gumball y Tobías se disputan el afecto de Penny a través del duelo más tonto de la historia.</desc>
   </programme>
-  <programme start="20230519075000 -0400" stop="20230519080000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">5 La flor</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Cuando Gumball ve a Leslie con Penny, lo asaltan unos celos incontrolables.</desc>
-  </programme>
-  <programme start="20230519080000 -0400" stop="20230519083000 -0400" channel="0305">
-    <title lang="es">Bakugan: Geogan Rising</title>
+  <programme start="20230519080400 -0400" stop="20230519082800 -0400" channel="0305">
+    <title lang="es">Bakugan: Battle Planet</title>
     <sub-title lang="es">320 The Battle of Aquilia / The Aquilla Artifact</sub-title>
     <desc lang="es">Sigue las aventuras de Dan Kouzo y sus mejores amigos: ¡los primeros niños en la Tierra que se unen a las misteriosas criaturas conocidas como Bakugan! Cuando los Bakugan surgen de la corteza terrestre en un enigmático despertar mundial, Dan y sus amigos deben aprender a trabajar con sus Bakugan en batalla, con el fin de sobrevivir a las poderosas fuerzas que intentan controlar, esclavizar y destruir a la misteriosa raza de criaturas. Dan y su equipo deben proteger a sus Bakugan, a la Tierra y, por último, el increíble secreto escondido bajo sus pies.</desc>
   </programme>
-  <programme start="20230519083000 -0400" stop="20230519090000 -0400" channel="0305">
-    <title lang="es">Dragons: The Nine Realms</title>
+  <programme start="20230519082800 -0400" stop="20230519085400 -0400" channel="0305">
+    <title lang="es">Dragones: Los nueve reinos</title>
     <sub-title lang="es">13 Sigue los rayos: Parte 2</sub-title>
     <desc lang="es">En el mundo moderno, los dragones son cosas de fantasía, mitos y leyendas. Después de que un cometa casi choca con la Tierra y provoca un gran levantamiento tectónico, creando una inmensa y misteriosa fisura, los científicos acuden de todo el mundo y construyen un centro de investigación de vanguardia. Allí, Tom Kullersen, un niño en busca de aventuras, cuya madre es una de las principales científicas del laboratorio, descubre en secreto que los dragones existen y que en la fisura hay una entrada al Mundo Oculto. Tom y los jinetes ayudan a Trueno, que está buscando vengarse de los dragones que ahuyentaron a su familia.</desc>
   </programme>
-  <programme start="20230519090000 -0400" stop="20230519091000 -0400" channel="0305">
-    <title lang="es">Drama total: la guardería</title>
-    <sub-title lang="es">49 Paul: la leyenda</sub-title>
-    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Duncan siente celos por los 100 años de descanso de Paul y, decidido a ser el rey de las bromas, tiene que aliarse con él, aprender sus trucos, y luego traicionarlo para convertirse en una leyenda.</desc>
-  </programme>
-  <programme start="20230519091000 -0400" stop="20230519092000 -0400" channel="0305">
+  <programme start="20230519085400 -0400" stop="20230519090600 -0400" channel="0305">
     <title lang="es">Drama total: la guardería</title>
     <sub-title lang="es">44 El día del hámster</sub-title>
     <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Owen Toma el trabajo de cuidar al hamster de la clase y descubre que es malvado.</desc>
   </programme>
-  <programme start="20230519092000 -0400" stop="20230519093000 -0400" channel="0305">
+  <programme start="20230519090600 -0400" stop="20230519091600 -0400" channel="0305">
     <title lang="es">Drama total: la guardería</title>
     <sub-title lang="es">12 El día de la piñata</sub-title>
     <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Izzy no logra golpear una piñata durante las celebraciones del Cinco de Mayo de la clase. Pero cuando esa piñata sin aplastar cobra vida y genera un ejército de piñatas malignas, es la hora de la verdad.</desc>
   </programme>
-  <programme start="20230519093000 -0400" stop="20230519094000 -0400" channel="0305">
+  <programme start="20230519091600 -0400" stop="20230519092700 -0400" channel="0305">
+    <title lang="es">Drama total: la guardería</title>
+    <sub-title lang="es">49 Paul: la leyenda</sub-title>
+    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Duncan siente celos por los 100 años de descanso de Paul y, decidido a ser el rey de las bromas, tiene que aliarse con él, aprender sus trucos, y luego traicionarlo para convertirse en una leyenda.</desc>
+  </programme>
+  <programme start="20230519092700 -0400" stop="20230519094200 -0400" channel="0305">
     <title lang="es">Campamento de verano</title>
     <sub-title lang="es">3 Insignias de chocomonedas</sub-title>
     <desc lang="es">Acaban de dejar a Oscar y a su mejor amiga Erizo en el campamento de verano por primera vez. Una vez que los padres salen de la isla, todas las rarezas que acechan bajo la superficie comienzan a salir. Los extraterrestres existen, los caballos se convierten en unicornios, hay monstruos debajo de la cama y los consejeros del campamento son brujos. Lejos de sus padres por primera vez, Oscar y Erizo deben reunir todo su coraje y espíritu aventurero mientras se unen a sus compañeros de campamento para explorar la diversión y los peligros de su nuevo y mágico hogar. Oscar se entera de que puede ganar medallas al mérito que desbloquean premios.</desc>
   </programme>
-  <programme start="20230519094000 -0400" stop="20230519095000 -0400" channel="0305">
-    <title lang="es">Campamento de verano</title>
-    <sub-title lang="es">2 Monstruos bebés</sub-title>
-    <desc lang="es">Acaban de dejar a Oscar y a su mejor amiga Erizo en el campamento de verano por primera vez. Una vez que los padres salen de la isla, todas las rarezas que acechan bajo la superficie comienzan a salir. Los extraterrestres existen, los caballos se convierten en unicornios, hay monstruos debajo de la cama y los consejeros del campamento son brujos. Lejos de sus padres por primera vez, Oscar y Erizo deben reunir todo su coraje y espíritu aventurero mientras se unen a sus compañeros de campamento para explorar la diversión y los peligros de su nuevo y mágico hogar. Alice tienta a Oscar y a sus amigos monstruos para que asistan a una fiesta de té, pero el objetivo real es convertir a los monstruos en tiernos bebés.</desc>
-  </programme>
-  <programme start="20230519095000 -0400" stop="20230519100000 -0400" channel="0305">
+  <programme start="20230519094200 -0400" stop="20230519095300 -0400" channel="0305">
     <title lang="es">Campamento de verano</title>
     <sub-title lang="es">3 Problemas lunares</sub-title>
     <desc lang="es">Acaban de dejar a Oscar y a su mejor amiga Erizo en el campamento de verano por primera vez. Una vez que los padres salen de la isla, todas las rarezas que acechan bajo la superficie comienzan a salir. Los extraterrestres existen, los caballos se convierten en unicornios, hay monstruos debajo de la cama y los consejeros del campamento son brujos. Lejos de sus padres por primera vez, Oscar y Erizo deben reunir todo su coraje y espíritu aventurero mientras se unen a sus compañeros de campamento para explorar la diversión y los peligros de su nuevo y mágico hogar. La Luna se entristece cuando Oscar pierde su brazalete de la amistad.</desc>
   </programme>
-  <programme start="20230519100000 -0400" stop="20230519101000 -0400" channel="0305">
+  <programme start="20230519095300 -0400" stop="20230519100500 -0400" channel="0305">
+    <title lang="es">Campamento de verano</title>
+    <sub-title lang="es">2 Monstruos bebés</sub-title>
+    <desc lang="es">Acaban de dejar a Oscar y a su mejor amiga Erizo en el campamento de verano por primera vez. Una vez que los padres salen de la isla, todas las rarezas que acechan bajo la superficie comienzan a salir. Los extraterrestres existen, los caballos se convierten en unicornios, hay monstruos debajo de la cama y los consejeros del campamento son brujos. Lejos de sus padres por primera vez, Oscar y Erizo deben reunir todo su coraje y espíritu aventurero mientras se unen a sus compañeros de campamento para explorar la diversión y los peligros de su nuevo y mágico hogar. Alice tienta a Oscar y a sus amigos monstruos para que asistan a una fiesta de té, pero el objetivo real es convertir a los monstruos en tiernos bebés.</desc>
+  </programme>
+  <programme start="20230519100500 -0400" stop="20230519101900 -0400" channel="0305">
     <title lang="es">El mundo de Craig</title>
     <sub-title lang="es">6 Fuerte Williams</sub-title>
     <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. ¡Cuando Craig no puede ir al Arroyo, él y su madre deciden construir el fuerte de cobijas más grande del mundo!</desc>
   </programme>
-  <programme start="20230519101000 -0400" stop="20230519102000 -0400" channel="0305">
+  <programme start="20230519101900 -0400" stop="20230519103100 -0400" channel="0305">
     <title lang="es">El mundo de Craig</title>
     <sub-title lang="es">2 Afuera en el frío</sub-title>
     <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. En la víspera de una gran fiesta, los chicos Williams se quedan afuera de la casa, lo que lleva a una frenética búsqueda por toda la ciudad de una llave extra.</desc>
   </programme>
-  <programme start="20230519102000 -0400" stop="20230519103000 -0400" channel="0305">
-    <title lang="es">El mundo de Craig</title>
-    <sub-title lang="es">11 Perro decisivo</sub-title>
-    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Incapaz de tomar decisiones difíciles, Craig decide poner sus decisiones en manos de un perro llamado Fred.</desc>
-  </programme>
-  <programme start="20230519103000 -0400" stop="20230519104000 -0400" channel="0305">
+  <programme start="20230519103100 -0400" stop="20230519104700 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
     <sub-title lang="es">27 La tormenta</sub-title>
     <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. El amor está en el aire y Gumball se encuentra en el ojo de un huracán emocional ¡literalmente!</desc>
   </programme>
-  <programme start="20230519104000 -0400" stop="20230519105000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">36 Los chicos suéter</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Alguien desafía la reputación de Gumball y Darwin, aunque en realidad no les importa en lo más mínimo.</desc>
-  </programme>
-  <programme start="20230519105000 -0400" stop="20230519110000 -0400" channel="0305">
+  <programme start="20230519104700 -0400" stop="20230519105900 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
     <sub-title lang="es">2 La fanática</sub-title>
     <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Sarah sigue a Gumball y a Darwin por todas partes con la esperanza de ganarse su amistad. Cuando Gumball le dice que se está portando como una acosadora, a ella le encanta la idea e intensifica la acción. Pero cuando Gumball y Darwin comprenden que actúa así porque se siente sola, llegan a límites insospechados para hacerla sentir mejor.</desc>
   </programme>
-  <programme start="20230519110000 -0400" stop="20230519120000 -0400" channel="0305">
-    <title lang="es">Teen Titans Go Month</title>
-    <desc lang="es">¡Sigue las aventuras de los jóvenes titanes cuando están o no salvando el mundo, mientras viven juntos como adolescentes!</desc>
+  <programme start="20230519105900 -0400" stop="20230519111100 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">15 La camada</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. La determinación de Craig de conseguirle a su abuelo un caparazón de cigarra hace que él, Kelsey y JP queden atrapados en su tronco.</desc>
   </programme>
-  <programme start="20230519120000 -0400" stop="20230519130000 -0400" channel="0305">
+  <programme start="20230519111100 -0400" stop="20230519112800 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">27 Día de trueque</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Cuando, por accidente, Craig destruye un cargamento de chocolates poco comunes en el árbol del trueque, Kit lo hace trabajar para pagar su deuda: ¡debe ocuparse de los intercambios de Kit por todo el bosque!</desc>
+  </programme>
+  <programme start="20230519112800 -0400" stop="20230519113900 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">15 La caída y ascenso del Poncho Verde</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Craig intenta advertir a sus amigos sobre la existencia del otro lado del bosque con un cuento sobre el Niño Arquero, el defensor del bosque.</desc>
+  </programme>
+  <programme start="20230519113900 -0400" stop="20230519115300 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">38 La gran fiebre de fósiles</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. JP encuentra un fósil en el Arroyo, lo que causa que el paisaje cambie rápidamente.</desc>
+  </programme>
+  <programme start="20230519115300 -0400" stop="20230519120500 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">3 Más allá del puente</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. La guerra por la bandera terminó. Craig regresa al arroyo esperando un reconocimiento por sus actos heroicos pero, en lugar de eso, se encuentra con una nueva aventura.</desc>
+  </programme>
+  <programme start="20230519120500 -0400" stop="20230519122000 -0400" channel="0305">
     <title lang="es">Los Jóvenes Titanes en acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
+    <sub-title lang="es">36 Estrellas de la suerte</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Raven les explica astrología a los Titanes y les dice sus horóscopos, pero Cyborg no cree.</desc>
   </programme>
-  <programme start="20230519130000 -0400" stop="20230519131000 -0400" channel="0305">
+  <programme start="20230519122000 -0400" stop="20230519123500 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">44 Kyle</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Los Titans regresan en el tiempo a los 1990 para visitar una tienda de video, pero hallan a un enemigo familiar.</desc>
+  </programme>
+  <programme start="20230519123500 -0400" stop="20230519124600 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">8 La racha Parte 1</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Llega la temporada de delitos, y Robin está decidido a continuar su racha de impedir 52 delitos por año. El héroe tendrá que luchar contra todo tipo de criminales para mantener su racha.</desc>
+  </programme>
+  <programme start="20230519124600 -0400" stop="20230519125700 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">8 La racha Parte 1</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Llega la temporada de delitos, y Robin está decidido a continuar su racha de impedir 52 delitos por año. El héroe tendrá que luchar contra todo tipo de criminales para mantener su racha.</desc>
+  </programme>
+  <programme start="20230519125700 -0400" stop="20230519131300 -0400" channel="0305">
     <title lang="es">Manzana y Cebollín</title>
     <sub-title lang="es">33 Lamporcini</sub-title>
     <desc lang="es">Ambientados en un mundo poblado por comida antropomórfica, Apple y Onion, un par de recién llegados infantiles a la gran ciudad, intentan adaptarse a su nuevo entorno, mientras enfrentan desafíos con amigos y otros escenarios. Cada episodio involucra a Apple o Onion en su entorno. Manzana Y Cebollín están muy contentos con sus nuevos y espectaculares atuendos de diseño que hacen juego. Ellos se los compraron a un conocido artista de la estafa, Perro Callejero. Todo marcha bien hasta que Nugget de Pollo los confunde con algo que no son.</desc>
   </programme>
-  <programme start="20230519131000 -0400" stop="20230519132000 -0400" channel="0305">
-    <title lang="es">Manzana y Cebollín</title>
-    <sub-title lang="es">11 Zarrapastroso</sub-title>
-    <desc lang="es">Ambientados en un mundo poblado por comida antropomórfica, Apple y Onion, un par de recién llegados infantiles a la gran ciudad, intentan adaptarse a su nuevo entorno, mientras enfrentan desafíos con amigos y otros escenarios. Cada episodio involucra a Apple o Onion en su entorno. Manzana y Cebollín deben deshacerse del compañero de casa de Hamburguesa para conseguir su ayuda.</desc>
-  </programme>
-  <programme start="20230519132000 -0400" stop="20230519133000 -0400" channel="0305">
+  <programme start="20230519131300 -0400" stop="20230519132400 -0400" channel="0305">
     <title lang="es">Manzana y Cebollín</title>
     <sub-title lang="es">37 Victoria o vertedero</sub-title>
     <desc lang="es">Ambientados en un mundo poblado por comida antropomórfica, Apple y Onion, un par de recién llegados infantiles a la gran ciudad, intentan adaptarse a su nuevo entorno, mientras enfrentan desafíos con amigos y otros escenarios. Cada episodio involucra a Apple o Onion en su entorno. Manzana y Cebollín están a apunto de conseguir un nuevo y lujoso ático y deshacerse de su choza para siempre. Solo necesitan una buena referencia de su arrendador anterior... Falafel.</desc>
   </programme>
-  <programme start="20230519133000 -0400" stop="20230519134000 -0400" channel="0305">
-    <title lang="es">We Baby Bears</title>
+  <programme start="20230519132400 -0400" stop="20230519134100 -0400" channel="0305">
+    <title lang="es">Escandalositos</title>
     <sub-title lang="es">35 Who Crashed the RV?</sub-title>
     <desc lang="es">Escandalositos sigue a los adorables ositos hermanos Pardo, Panda y Polar mientras buscan un sitio que puedan llamar hogar. Luego de pedir un deseo, los ositos obtienen una caja mágica que los transporta a cualquier lugar, y viajan a tierras fantásticas donde hacen nuevos amigos y se divierten mucho. ¡En el camino, hay fantasía, aventura y emoción! Cuando la Nutria Ocupante encuentra su nueva camioneta destruida, cada oso tiene su propia versión de lo que sucedió.</desc>
   </programme>
-  <programme start="20230519134000 -0400" stop="20230519135000 -0400" channel="0305">
-    <title lang="es">We Baby Bears</title>
-    <sub-title lang="es">7 La casa de carne</sub-title>
-    <desc lang="es">Escandalositos sigue a los adorables ositos hermanos Pardo, Panda y Polar mientras buscan un sitio que puedan llamar hogar. Luego de pedir un deseo, los ositos obtienen una caja mágica que los transporta a cualquier lugar, y viajan a tierras fantásticas donde hacen nuevos amigos y se divierten mucho. ¡En el camino, hay fantasía, aventura y emoción! Los Osos y su nuevo amigo, Squatter Otter, se instalan en una misteriosa casa hecha de carne.</desc>
-  </programme>
-  <programme start="20230519135000 -0400" stop="20230519140000 -0400" channel="0305">
-    <title lang="es">We Baby Bears</title>
+  <programme start="20230519134100 -0400" stop="20230519135300 -0400" channel="0305">
+    <title lang="es">Escandalositos</title>
     <sub-title lang="es">6 Excalibúrsido</sub-title>
     <desc lang="es">Escandalositos sigue a los adorables ositos hermanos Pardo, Panda y Polar mientras buscan un sitio que puedan llamar hogar. Luego de pedir un deseo, los ositos obtienen una caja mágica que los transporta a cualquier lugar, y viajan a tierras fantásticas donde hacen nuevos amigos y se divierten mucho. ¡En el camino, hay fantasía, aventura y emoción! Los osos visitan un pueblo vegetal medieval y Pardo está convencido de que es el rey legítimo.</desc>
   </programme>
-  <programme start="20230519140000 -0400" stop="20230519141000 -0400" channel="0305">
-    <title lang="es">Escandalosos</title>
-    <sub-title lang="es">8 Naturaleza</sub-title>
-    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. ¿Acaso los Osos perdieron sus instintos de supervivencia en el mundo moderno? Pardo quiere saberlo, así que lleva a los Osos para que se pierdan intencionalmente en las profundidades del bosque.</desc>
-  </programme>
-  <programme start="20230519141000 -0400" stop="20230519142000 -0400" channel="0305">
-    <title lang="es">Escandalosos</title>
-    <sub-title lang="es">33 Balseando</sub-title>
-    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. En busca de un poco de aventura, los Osos descienden por un río peligroso dentro de un tubo.</desc>
-  </programme>
-  <programme start="20230519142000 -0400" stop="20230519143000 -0400" channel="0305">
+  <programme start="20230519135300 -0400" stop="20230519140900 -0400" channel="0305">
     <title lang="es">Escandalosos</title>
     <sub-title lang="es">1 Pardo, la película</sub-title>
     <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. ¡Eligen a Pardo para que participe en una película sobre un oso pardo! Pero muy pronto, Pardo se da cuenta de que la representación de los osos pardos de la película no se parece a lo que él tenía en mente.</desc>
   </programme>
-  <programme start="20230519143000 -0400" stop="20230519144000 -0400" channel="0305">
-    <title lang="es">Drama total: la guardería</title>
-    <sub-title lang="es">40 Un dragón en la guardería</sub-title>
-    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Duncan finalmente logra escapar solo para descubrir que ha olvidado su chupete y necesita entrar a la escuela para recuperarlo.</desc>
+  <programme start="20230519140900 -0400" stop="20230519142000 -0400" channel="0305">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">8 Naturaleza</sub-title>
+    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. ¿Acaso los Osos perdieron sus instintos de supervivencia en el mundo moderno? Pardo quiere saberlo, así que lleva a los Osos para que se pierdan intencionalmente en las profundidades del bosque.</desc>
   </programme>
-  <programme start="20230519144000 -0400" stop="20230519145000 -0400" channel="0305">
-    <title lang="es">Drama total: la guardería</title>
-    <sub-title lang="es">1 Ventila-Hala</sub-title>
-    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Chef le confisca la mega-bola a Owen y la guarda en su oficina. Duncan, viendo una oportunidad para conseguir ayuda escapando de la guardería, lidera un equipo de fuga por los conductos del aire acondicionado para recuperarla.</desc>
+  <programme start="20230519142000 -0400" stop="20230519143200 -0400" channel="0305">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">33 Balseando</sub-title>
+    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. En busca de un poco de aventura, los Osos descienden por un río peligroso dentro de un tubo.</desc>
   </programme>
-  <programme start="20230519145000 -0400" stop="20230519150000 -0400" channel="0305">
+  <programme start="20230519143200 -0400" stop="20230519144800 -0400" channel="0305">
     <title lang="es">Drama total: la guardería</title>
     <sub-title lang="es">7 Pudín-Pocalipsis</sub-title>
     <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Después de que Chef dice que los puntos de vista opuestos hacen que el mundo sea más interesante y divertido, Izzy lo aplica de la peor manera posible.</desc>
   </programme>
-  <programme start="20230519150000 -0400" stop="20230519151000 -0400" channel="0305">
-    <title lang="es">Drama total: la guardería</title>
-    <sub-title lang="es">28 The Big Bangs Theory</sub-title>
-    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Chef olvida la contraseña de su computadora, pero sabe que tiene algo que ver con una de las 99 explosiones anteriores que ocurrieron en la escuela. La introducción de una contraseña incorrecta hará que la escuela estalle una centésima vez.</desc>
-  </programme>
-  <programme start="20230519151000 -0400" stop="20230519152000 -0400" channel="0305">
-    <title lang="es">Drama total: la guardería</title>
-    <sub-title lang="es">36 Celos que duelen</sub-title>
-    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. La escuela cae en el caos después de recibir una visita de Gazunga, el Duende de los Celos.</desc>
-  </programme>
-  <programme start="20230519152000 -0400" stop="20230519153000 -0400" channel="0305">
+  <programme start="20230519144800 -0400" stop="20230519145900 -0400" channel="0305">
     <title lang="es">Drama total: la guardería</title>
     <sub-title lang="es">50 Harold matamoscas y el cáliz de moscas</sub-title>
     <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Después de descubrir lo que cree que es una varita mágica, Owen convierte accidentalmente a Harold en una mosca común.</desc>
   </programme>
-  <programme start="20230519153000 -0400" stop="20230519154000 -0400" channel="0305">
+  <programme start="20230519145900 -0400" stop="20230519151200 -0400" channel="0305">
+    <title lang="es">Drama total: la guardería</title>
+    <sub-title lang="es">36 Celos que duelen</sub-title>
+    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. La escuela cae en el caos después de recibir una visita de Gazunga, el Duende de los Celos.</desc>
+  </programme>
+  <programme start="20230519151200 -0400" stop="20230519152300 -0400" channel="0305">
+    <title lang="es">Drama total: la guardería</title>
+    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles.</desc>
+  </programme>
+  <programme start="20230519152300 -0400" stop="20230519154100 -0400" channel="0305">
     <title lang="es">El mundo de Craig</title>
     <sub-title lang="es">11 Perro decisivo</sub-title>
     <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Incapaz de tomar decisiones difíciles, Craig decide poner sus decisiones en manos de un perro llamado Fred.</desc>
   </programme>
-  <programme start="20230519154000 -0400" stop="20230519155000 -0400" channel="0305">
-    <title lang="es">El mundo de Craig</title>
-    <sub-title lang="es">2 Afuera en el frío</sub-title>
-    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. En la víspera de una gran fiesta, los chicos Williams se quedan afuera de la casa, lo que lleva a una frenética búsqueda por toda la ciudad de una llave extra.</desc>
-  </programme>
-  <programme start="20230519155000 -0400" stop="20230519160000 -0400" channel="0305">
+  <programme start="20230519154100 -0400" stop="20230519155300 -0400" channel="0305">
     <title lang="es">El mundo de Craig</title>
     <sub-title lang="es">6 Fuerte Williams</sub-title>
     <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. ¡Cuando Craig no puede ir al Arroyo, él y su madre deciden construir el fuerte de cobijas más grande del mundo!</desc>
   </programme>
-  <programme start="20230519160000 -0400" stop="20230519161000 -0400" channel="0305">
+  <programme start="20230519155300 -0400" stop="20230519160400 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">2 Afuera en el frío</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. En la víspera de una gran fiesta, los chicos Williams se quedan afuera de la casa, lo que lleva a una frenética búsqueda por toda la ciudad de una llave extra.</desc>
+  </programme>
+  <programme start="20230519160400 -0400" stop="20230519162000 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
     <sub-title lang="es">27 La tormenta</sub-title>
     <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. El amor está en el aire y Gumball se encuentra en el ojo de un huracán emocional ¡literalmente!</desc>
   </programme>
-  <programme start="20230519161000 -0400" stop="20230519162000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">36 Los chicos suéter</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Alguien desafía la reputación de Gumball y Darwin, aunque en realidad no les importa en lo más mínimo.</desc>
-  </programme>
-  <programme start="20230519162000 -0400" stop="20230519163000 -0400" channel="0305">
+  <programme start="20230519162000 -0400" stop="20230519163200 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
     <sub-title lang="es">2 La fanática</sub-title>
     <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Sarah sigue a Gumball y a Darwin por todas partes con la esperanza de ganarse su amistad. Cuando Gumball le dice que se está portando como una acosadora, a ella le encanta la idea e intensifica la acción. Pero cuando Gumball y Darwin comprenden que actúa así porque se siente sola, llegan a límites insospechados para hacerla sentir mejor.</desc>
   </programme>
-  <programme start="20230519163000 -0400" stop="20230519174500 -0400" channel="0305">
+  <programme start="20230519163200 -0400" stop="20230519164900 -0400" channel="0305">
     <title lang="es">Los Jóvenes Titanes en acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
+    <sub-title lang="es">9 Alejarse</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Cuando el automóvil de los Titanes queda destruido en una pelea, los Titanes van a un lote de autos usados para encontrar otro vehículo.</desc>
   </programme>
-  <programme start="20230519174500 -0400" stop="20230519180000 -0400" channel="0305">
+  <programme start="20230519164900 -0400" stop="20230519170000 -0400" channel="0305">
     <title lang="es">Los Jóvenes Titanes en acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
+    <sub-title lang="es">48 Yo soy silla</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Durante una estresante estadía en el centro comercial, Robin encuentra algo de paz en una silla de masaje.</desc>
   </programme>
-  <programme start="20230519180000 -0400" stop="20230519181000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">38 El plan</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Los niños de la familia Watterson crean un plan a prueba de tontos para salvar a su mamá, pero, ¿es también a prueba de las travesuras de Gumball?</desc>
+  <programme start="20230519170000 -0400" stop="20230519171000 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">16 Lluvia en el día de tu boda</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Mientras se enfrenta a Cerebro, Robin intenta enseñarles a los otros Titanes la definición correcta de ironía.</desc>
   </programme>
-  <programme start="20230519181000 -0400" stop="20230519182000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">38 La fila</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Los Watterson están dispuestos a hacer cualquier cosa para llegar primeros a la proyección de la última secuela de la Odisea Estelar.</desc>
+  <programme start="20230519171000 -0400" stop="20230519172400 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">33 La ópera Titán</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Robin sorprende a los demás Titanes con un viaje a la ópera, pero pronto se duermen y sueñan con protagonizar sus propias obras musicales.</desc>
   </programme>
-  <programme start="20230519182000 -0400" stop="20230519183000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">34 La cassetera</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Gumball y Darwin tratan de entender el mensaje en beatbox urgente de Juke, pero ¿por qué simplemente no habla en español?</desc>
+  <programme start="20230519172400 -0400" stop="20230519173500 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">48 Retrospectiva Parte 1</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Con escenas retrospectivas, se revela cómo Robin formó a los Jóvenes Titanes.</desc>
   </programme>
-  <programme start="20230519183000 -0400" stop="20230519184000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">18 La contraseña</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Cuando Gumball, Darwin y Anais quieren usar la computadora se dan cuenta de que tiene contraseña. Para adivinarla, la pregunta clave les indica que la contraseña es el nombre del favorito de papá y deberán descubrir quién es.</desc>
+  <programme start="20230519173500 -0400" stop="20230519174600 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">49 Retrospectiva Parte 2</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? En la segunda parte del episodio, se revela de qué manera Robin pasó de ser un secuaz apacible a convertirse en un líder temperamental.</desc>
   </programme>
-  <programme start="20230519184000 -0400" stop="20230519185000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">38 La recopilación</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Un compilado de algunos de los videos más divertidos y extraños que los vecinos de Elmore suben a Internet. Los videos incluyen las acrobacias de Banana Joe con coreografías propias, la última invención culinaria de Richard y el concurso de Gumball y Darwin para ver quién hace la mueca más extraña.</desc>
+  <programme start="20230519174600 -0400" stop="20230519175600 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">46 Ya regresamos</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Debido a que las publicidades son la única parte del programa que le gusta, Control Freak crea anuncios adicionales para atormentar a los Titans.</desc>
   </programme>
-  <programme start="20230519185000 -0400" stop="20230519190000 -0400" channel="0305">
+  <programme start="20230519175600 -0400" stop="20230519180700 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">16 Transoceánico y mágico crucero</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Alta mar es entretenida. Los Titans disfrutan de un crucero con misiones peligrosas, automóviles rápidos y ataques extraterrestres.</desc>
+  </programme>
+  <programme start="20230519180700 -0400" stop="20230519183500 -0400" channel="0305">
+    <title lang="es">Animaníacs</title>
+    <sub-title lang="es">2 Yakko's World / Cookies for Einstein / Win Big</sub-title>
+    <desc lang="es">Una singular colección de personajes chiflados y traviesos cobran vida en ésta galardonada serie. A la cabeza de ésta cómica media hora de aventuras locas y alborotadas están los hermanos Warner: Yakko, Wakko y su simpática hermanita Dot. Primero, Yakko canta el nombre de todos los países del mundo con una cancioncita alegre. Después, los hermanos Warner ayudan a Albert Einstein a descubrir la teoría de la relatividad. Y más tarde, para financiar su último plan para apoderarse del mundo, Cerebro concursa en un programa de juegos, donde espera ganar en grande.</desc>
+  </programme>
+  <programme start="20230519183500 -0400" stop="20230519184700 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
     <sub-title lang="es">22 Historias alternas</sub-title>
     <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Rob crea una variedad de programas y formatos derivados ambientados en Elmore para reemplazar a Gumball.</desc>
   </programme>
-  <programme start="20230519190000 -0400" stop="20230519200000 -0400" channel="0305">
-    <title lang="es">Los Jóvenes Titanes en acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
+  <programme start="20230519184700 -0400" stop="20230519185600 -0400" channel="0305">
+    <title lang="es">Any Malu Backstage</title>
+    <sub-title lang="es">7 El mejor Gameplay que has visto</sub-title>
+    <desc lang="es">Mientras esperamos la llegada de su show, hemos preparado un evento exclusivo para ti: ¡el backstage de Any Malu! ¡Mira lo que hay detrás de la nueva serie de Cartoon Network! Any Malu recibe un regalo de bienvenida de la princesa Grumosa: ¡una tablet con el juego Mini Titanes! Su tarea es probar el nuevo juego y devolver la tablet de la misma forma en que la recibió. ¿Será que nuestra jugadora podrá cumplir la misión como se le pidió?</desc>
   </programme>
-  <programme start="20230519200000 -0400" stop="20230519213000 -0400" channel="0305">
-    <title lang="es">Smurfs: The Lost Village</title>
+  <programme start="20230519185600 -0400" stop="20230519190700 -0400" channel="0305">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">38 La fila</sub-title>
+    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Los Watterson están dispuestos a hacer cualquier cosa para llegar primeros a la proyección de la última secuela de la Odisea Estelar.</desc>
+  </programme>
+  <programme start="20230519190700 -0400" stop="20230519192500 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">17 Búsqueda de huevos</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Robin todavía se arrepiente de no haber encontrado un huevo de Pascua cuando era niño, así que los Titanes se dirigen a Ciudad Gótica para resolver el misterio.</desc>
+  </programme>
+  <programme start="20230519192500 -0400" stop="20230519193600 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">26 Desayuno</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Los Jóvenes Titanes descubren el placer de alimentarse en cada comida como en el desayuno pero, ¿un viejo amigo se hará demasiado poderoso?</desc>
+  </programme>
+  <programme start="20230519193600 -0400" stop="20230519194400 -0400" channel="0305">
+    <title lang="es">Any Malu Backstage</title>
+    <sub-title lang="es">4 Ceremonia de premios y muchos estilos</sub-title>
+    <desc lang="es">Mientras esperamos la llegada de su show, hemos preparado un evento exclusivo para ti: ¡el backstage de Any Malu! ¡Mira lo que hay detrás de la nueva serie de Cartoon Network! ¡Any Malu es nuestra invitada para participar en la ceremonia de premios del cine más importante del mundo! ¿Pero tendrá la ropa indicada para eso? ¡Para decidir que ponerse en la noche del gran evento, nuestra estrella recuerda sus looks más icónicos!</desc>
+  </programme>
+  <programme start="20230519194400 -0400" stop="20230519200100 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">32 Pongámonos serios</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Cuando Justicia Joven derrota sin problemas a HIVE mientras los demás Titanes se divierten haciendo tonterías, Robin decide que el equipo debe tomarse las cosas en serio.</desc>
+  </programme>
+  <programme start="20230519200100 -0400" stop="20230519213600 -0400" channel="0305">
+    <title lang="es">Los Pitufos: en la aldea perdida</title>
     <desc lang="es">Un misterioso mapa lleva a Pitufina, Filósofo, Fortachón y Tontín en una inquietante carrera a través del Bosque Prohibido, lleno de criaturas mágicas, para encontrar un misterioso pueblo perdido, antes de que el malvado mago Gargamel lo haga primero. Estos pequeños están por descubrir uno de los secretos más grandes de la historia de los Pitufos.</desc>
   </programme>
-  <programme start="20230519213000 -0400" stop="20230519220000 -0400" channel="0305">
+  <programme start="20230519213600 -0400" stop="20230519215200 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole.</desc>
+    <sub-title lang="es">37 El trato</sub-title>
+    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Richard decide que Nicole no valora el trabajo que él hace en la casa, y comienza una huelga para demostrarlo.</desc>
   </programme>
-  <programme start="20230519220000 -0400" stop="20230519230000 -0400" channel="0305">
-    <title lang="es">Teen Titans Go Month</title>
-    <desc lang="es">¡Sigue las aventuras de los jóvenes titanes cuando están o no salvando el mundo, mientras viven juntos como adolescentes!</desc>
+  <programme start="20230519215200 -0400" stop="20230519220400 -0400" channel="0305">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">40 Las marionetas</sub-title>
+    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Darwin se alegra cuando encuentran los juguetes viejos de su infancia, pero pronto se da cuenta de que es mejor que algunas cosas queden en el pasado.</desc>
   </programme>
-  <programme start="20230519230000 -0400" stop="20230519233000 -0400" channel="0305">
+  <programme start="20230519220400 -0400" stop="20230519222000 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">38 La gran fiebre de fósiles</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. JP encuentra un fósil en el Arroyo, lo que causa que el paisaje cambie rápidamente.</desc>
+  </programme>
+  <programme start="20230519222000 -0400" stop="20230519223200 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">27 Día de trueque</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Cuando, por accidente, Craig destruye un cargamento de chocolates poco comunes en el árbol del trueque, Kit lo hace trabajar para pagar su deuda: ¡debe ocuparse de los intercambios de Kit por todo el bosque!</desc>
+  </programme>
+  <programme start="20230519223200 -0400" stop="20230519224600 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">15 La caída y ascenso del Poncho Verde</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Craig intenta advertir a sus amigos sobre la existencia del otro lado del bosque con un cuento sobre el Niño Arquero, el defensor del bosque.</desc>
+  </programme>
+  <programme start="20230519224600 -0400" stop="20230519225700 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">3 Más allá del puente</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. La guerra por la bandera terminó. Craig regresa al arroyo esperando un reconocimiento por sus actos heroicos pero, en lugar de eso, se encuentra con una nueva aventura.</desc>
+  </programme>
+  <programme start="20230519225700 -0400" stop="20230519231200 -0400" channel="0305">
     <title lang="es">Los Jóvenes Titanes en acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
+    <sub-title lang="es">14 Animales. ¡Es solo una palabra!</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Cuando los demás Titanes resultan heridos, Chico Bestia dona sangre para salvarlos.</desc>
   </programme>
-  <programme start="20230519233000 -0400" stop="20230520000000 -0400" channel="0305">
+  <programme start="20230519231200 -0400" stop="20230519232300 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">9 Chico fantasma</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Chico Bestia finge ser un fantasma que persigue a Starfire para que ella haga lo que él desee. Cuando descubre la farsa, ella y los demás Titanes intentan convencer a Chico Bestia de que está muerto de verdad.</desc>
+  </programme>
+  <programme start="20230519232300 -0400" stop="20230519234000 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole.</desc>
+    <sub-title lang="es">7 El teléfono</sub-title>
+    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Gumball y Darwin tienen su primer teléfono celular y, sin pensarlo, le dan el número al vehemente Ocho.</desc>
   </programme>
-  <programme start="20230520000000 -0400" stop="20230520001000 -0400" channel="0305">
-    <title lang="es">Drama total: la guardería</title>
-    <sub-title lang="es">6 Ejercitando los demonios</sub-title>
-    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Cuando una adicción severa a la pantalla convierte a los niños en vagos perezosos, Chef trae a un profesional para que los ponga en forma.</desc>
+  <programme start="20230519234000 -0400" stop="20230519235200 -0400" channel="0305">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">13 El jefe</sub-title>
+    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Después de un problema de salud, los niños deciden reunir al señor Robinson con su hijo. El señor Robinson siempre se mostró decepcionado de Rocky, así que, cuando Gumball y Darwin lo ayudan a conseguir un empleo en la compañía Chanax, está encantado. Pero ocurre que la compañía Chanax no es lo que parece. ¿Podrán Gumball y Darwin rescatar a Rocky antes de que se convierta un esclavo corporativo por toda la eternidad?</desc>
   </programme>
-  <programme start="20230520001000 -0400" stop="20230520002000 -0400" channel="0305">
-    <title lang="es">Drama total: la guardería</title>
-    <sub-title lang="es">23 Cosi-loco</sub-title>
-    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Cuando la falta de motivación amenaza con hundir las oportunidades de los niños en los premios Sportslete Athlaction Awards, crean la mascota más grande de todos los tiempos para impulsar el espíritu escolar.</desc>
-  </programme>
-  <programme start="20230520002000 -0400" stop="20230520003000 -0400" channel="0305">
+  <programme start="20230519235200 -0400" stop="20230520000500 -0400" channel="0305">
     <title lang="es">Drama total: la guardería</title>
     <sub-title lang="es">72 Quiero ser payaso</sub-title>
     <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Después de probarse la nariz de un payaso, Owen descubre que así es como se hacen los payasos. Pero quedará atrapado en el disfraz hasta que pueda engañar a alguien para que le pida probarse la nariz.</desc>
   </programme>
-  <programme start="20230520003000 -0400" stop="20230520004500 -0400" channel="0305">
+  <programme start="20230520000500 -0400" stop="20230520001600 -0400" channel="0305">
+    <title lang="es">Drama total: la guardería</title>
+    <sub-title lang="es">6 Ejercitando los demonios</sub-title>
+    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Cuando una adicción severa a la pantalla convierte a los niños en vagos perezosos, Chef trae a un profesional para que los ponga en forma.</desc>
+  </programme>
+  <programme start="20230520001600 -0400" stop="20230520002700 -0400" channel="0305">
+    <title lang="es">Drama total: la guardería</title>
+    <sub-title lang="es">23 Cosi-loco</sub-title>
+    <desc lang="es">Owen y la nerviosa Courtney retroceden en el tiempo desde la adolescencia hasta la niñez. Puede que los personajes sean pequeñitos, pero sus personalidades adolescentes completamente formadas los hacen sabios más allá de su edad, mientras desatan ataques verbales destructivos sobre un modesto Chef, que rápidamente se retira a la sala de profesores cuando las cosas se ponen difíciles. Cuando la falta de motivación amenaza con hundir las oportunidades de los niños en los premios Sportslete Athlaction Awards, crean la mascota más grande de todos los tiempos para impulsar el espíritu escolar.</desc>
+  </programme>
+  <programme start="20230520002700 -0400" stop="20230520004200 -0400" channel="0305">
     <title lang="es">Looney Tunes Cartoons</title>
-    <desc lang="es">Looney Tunes Cartoons es una nueva serie de caricaturas protagonizada por la icónica y querida pandilla de Looney Tunes. Bugs Bunny, el Pato Lucas, Porky y otros reconocidos personajes de Looney Tunes se reunirán en historias humorísticas y dinámicas ¡en las que la risa estará garantizada!</desc>
+    <sub-title lang="es">29 Conejo a alta velocidad / Casimiro buitre: serpiente de cascabel / La no-Es del demonio</sub-title>
+    <desc lang="es">Looney Tunes Cartoons es una nueva serie de caricaturas protagonizada por la icónica y querida pandilla de Looney Tunes. Bugs Bunny, el Pato Lucas, Porky y otros reconocidos personajes de Looney Tunes se reunirán en historias humorísticas y dinámicas ¡en las que la risa estará garantizada! Bugs Bunny compra un auto sin conductor, solo para que un gremlin intente destruirlo. Beaky Buzzard intenta atrapar una serpiente de cascabel. Taz intenta abrir un coco de cáscara increíblemente dura.</desc>
   </programme>
-  <programme start="20230520004500 -0400" stop="20230520010000 -0400" channel="0305">
+  <programme start="20230520004200 -0400" stop="20230520005200 -0400" channel="0305">
     <title lang="es">Looney Tunes Cartoons</title>
-    <desc lang="es">Looney Tunes Cartoons es una nueva serie de caricaturas protagonizada por la icónica y querida pandilla de Looney Tunes. Bugs Bunny, el Pato Lucas, Porky y otros reconocidos personajes de Looney Tunes se reunirán en historias humorísticas y dinámicas ¡en las que la risa estará garantizada!</desc>
+    <sub-title lang="es">30 La foto pig-Fecta / Secuencia del poste de teléfono 2: gancho / ¡Vuelo en picada!</sub-title>
+    <desc lang="es">Looney Tunes Cartoons es una nueva serie de caricaturas protagonizada por la icónica y querida pandilla de Looney Tunes. Bugs Bunny, el Pato Lucas, Porky y otros reconocidos personajes de Looney Tunes se reunirán en historias humorísticas y dinámicas ¡en las que la risa estará garantizada! Petunia Pig intenta tomar una foto de una ardilla que no se queda quieta. / Sylvester intenta atrapar a Piolín en la parte superior de un poste de teléfono con un gancho de agarre. / Wile E. Coyote usa un traje de halcón para intentar abalanzarse y atrapar a Road Runner.</desc>
   </programme>
-  <programme start="20230520010000 -0400" stop="20230520011000 -0400" channel="0305">
-    <title lang="es">El mundo de Craig</title>
-    <sub-title lang="es">28 Crisis en la roca de ancianos</sub-title>
-    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Una tragedia azota al bosque cuando los Ancianos quedan atrapados bajo la Roca Anciana. Ahora Craig, Kelsey y JP deben rescatarlos.</desc>
-  </programme>
-  <programme start="20230520011000 -0400" stop="20230520012000 -0400" channel="0305">
+  <programme start="20230520005200 -0400" stop="20230520010600 -0400" channel="0305">
     <title lang="es">El mundo de Craig</title>
     <sub-title lang="es">7 El trío de los helados</sub-title>
     <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Craig sale en busca de Ice Pops en un día caluroso, con la ayuda de un dúo poco probable.</desc>
   </programme>
-  <programme start="20230520012000 -0400" stop="20230520013000 -0400" channel="0305">
-    <title lang="es">El mundo de Craig</title>
-    <sub-title lang="es">13 El día opuesto</sub-title>
-    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Durante un eclipse solar, se convierte en Día opuesto en el arroyo, lo que hace que todos actúen y digan de repente lo contrario de lo que están haciendo. Los Stump Kids se esconden en el búnker de Wren, que está ubicado en una zona horaria diferente, y fabrican un artilugio para que puedan desalinear el sol. A pesar de algunos contratiempos, pueden hacer que el artilugio funcione y arreglar las cosas.</desc>
-  </programme>
-  <programme start="20230520013000 -0400" stop="20230520014000 -0400" channel="0305">
+  <programme start="20230520010600 -0400" stop="20230520011700 -0400" channel="0305">
     <title lang="es">El mundo de Craig</title>
     <sub-title lang="es">29 La moneda de la suerte</sub-title>
     <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Craig y sus amigos se topan con Carter, el genio del cartón convertido en cyborg. Craig decide ayudar a Carter a convertirse en un niño nuevamente, como él.</desc>
   </programme>
-  <programme start="20230520014000 -0400" stop="20230520015000 -0400" channel="0305">
+  <programme start="20230520011700 -0400" stop="20230520012900 -0400" channel="0305">
     <title lang="es">El mundo de Craig</title>
     <sub-title lang="es">17 Hidra y Zeke</sub-title>
     <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Los Stump Kids conocen a Zeke, que tiene un trozo del cubo y les pide que encuentren a su hermano gemelo Hyde, que no ha sido encontrado después de un juego de escondite. Después de muchos intentos fallidos de atraparlo, Craig de repente se da cuenta de que Hyde está inventado y el grupo logra sacar a Zeke, quien les da la pieza. Sin embargo, después de que se van, se revela que Hyde y Zeke en realidad son gemelos que atraen a otros niños para que jueguen con ellos.</desc>
   </programme>
-  <programme start="20230520015000 -0400" stop="20230520020000 -0400" channel="0305">
+  <programme start="20230520012900 -0400" stop="20230520014100 -0400" channel="0305">
     <title lang="es">El mundo de Craig</title>
-    <sub-title lang="es">9 Monstruo en el jardín</sub-title>
-    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Craig está decidido a atrapar al monstruo que ha estado desatando un caos en el jardín del abuelo.</desc>
+    <sub-title lang="es">13 El día opuesto</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Durante un eclipse solar, se convierte en Día opuesto en el arroyo, lo que hace que todos actúen y digan de repente lo contrario de lo que están haciendo. Los Stump Kids se esconden en el búnker de Wren, que está ubicado en una zona horaria diferente, y fabrican un artilugio para que puedan desalinear el sol. A pesar de algunos contratiempos, pueden hacer que el artilugio funcione y arreglar las cosas.</desc>
   </programme>
-  <programme start="20230520020000 -0400" stop="20230520030000 -0400" channel="0305">
+  <programme start="20230520014100 -0400" stop="20230520015200 -0400" channel="0305">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">28 Crisis en la roca de ancianos</sub-title>
+    <desc lang="es">Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo. Una tragedia azota al bosque cuando los Ancianos quedan atrapados bajo la Roca Anciana. Ahora Craig, Kelsey y JP deben rescatarlos.</desc>
+  </programme>
+  <programme start="20230520015200 -0400" stop="20230520020300 -0400" channel="0305">
     <title lang="es">Los Jóvenes Titanes en acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
+    <sub-title lang="es">48 Yo soy silla</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Durante una estresante estadía en el centro comercial, Robin encuentra algo de paz en una silla de masaje.</desc>
   </programme>
-  <programme start="20230520030000 -0400" stop="20230520031200 -0400" channel="0305">
-    <title lang="es">Steven Universe</title>
-    <sub-title lang="es">9 Tres gemas y un bebé</sub-title>
-    <desc lang="es">¡El Universo está en peligro! Pero afortunadamente el héroe más enérgico, positivo, encantador y despistado está aquí para protegernos. ¡Y es solo un niño! Conoce a Steven, el típico hermanito menor de las guardianas mágicas de la humanidad, ¡las Crystal Gems! Acompáñalo mientras trata de descifrar el increíble poder que heredó de su madre. Únete a Garnet, Amatista, Perla y Steven en sus mágicas aventuras ¡y ayúdalos a salvar el día! Greg le cuenta a Steven la historia de su primer invierno con él.</desc>
+  <programme start="20230520020300 -0400" stop="20230520021700 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">42 ¿El lanzamiento perfecto?</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Después de mirar todo lo que había en TV, los Titans deciden crear su propio programa.</desc>
   </programme>
-  <programme start="20230520031200 -0400" stop="20230520032400 -0400" channel="0305">
+  <programme start="20230520021700 -0400" stop="20230520022800 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">41 Una situación pegajosa</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? La búsqueda de un abrelatas por parte de Sticky Joe conduce a una serie de alocadas aventuras.</desc>
+  </programme>
+  <programme start="20230520022800 -0400" stop="20230520023300 -0400" channel="0305">
+    <title lang="es">Any Malu Backstage</title>
+    <sub-title lang="es">5 Dando consejos con mi BFF</sub-title>
+    <desc lang="es">Mientras esperamos la llegada de su show, hemos preparado un evento exclusivo para ti: ¡el backstage de Any Malu! ¡Mira lo que hay detrás de la nueva serie de Cartoon Network! Dar consejos puede ser una tarea difícil, por lo que Any Malu invita a su mejor amiga, Agatha, a ayudarla a responder preguntas sobre las relaciones de los cartoons. Pero incluso las mejores amigas pueden enojarse la una con la otra, ¿verdad?</desc>
+  </programme>
+  <programme start="20230520023300 -0400" stop="20230520024400 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">36 ¡Al ataque!</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Robin se esfuerza por liderar a los Jóvenes Titanes después de hallar que su frase característica es marca registrada de otro equipo.</desc>
+  </programme>
+  <programme start="20230520024400 -0400" stop="20230520025600 -0400" channel="0305">
+    <title lang="es">Los Jóvenes Titanes en acción</title>
+    <sub-title lang="es">43 Temporada de piscina</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen? Black Manta se ofrece a construirles una nueva piscina a los Titans, pero Robin piensa que el proceso de construcción es demasiado lento. Pronto cruzarán el desafío junto a un poderoso de los mares.</desc>
+  </programme>
+  <programme start="20230520025600 -0400" stop="20230520031000 -0400" channel="0305">
     <title lang="es">Steven Universe</title>
     <sub-title lang="es">10 Los sueños de Steven</sub-title>
     <desc lang="es">¡El Universo está en peligro! Pero afortunadamente el héroe más enérgico, positivo, encantador y despistado está aquí para protegernos. ¡Y es solo un niño! Conoce a Steven, el típico hermanito menor de las guardianas mágicas de la humanidad, ¡las Crystal Gems! Acompáñalo mientras trata de descifrar el increíble poder que heredó de su madre. Únete a Garnet, Amatista, Perla y Steven en sus mágicas aventuras ¡y ayúdalos a salvar el día! Un extraño sueño hace que Steven busque respuestas.</desc>
   </programme>
-  <programme start="20230520032400 -0400" stop="20230520033600 -0400" channel="0305">
+  <programme start="20230520031000 -0400" stop="20230520033300 -0400" channel="0305">
     <title lang="es">Steven Universe</title>
     <sub-title lang="es">8 Cosecha de gemas</sub-title>
     <desc lang="es">¡El Universo está en peligro! Pero afortunadamente el héroe más enérgico, positivo, encantador y despistado está aquí para protegernos. ¡Y es solo un niño! Conoce a Steven, el típico hermanito menor de las guardianas mágicas de la humanidad, ¡las Crystal Gems! Acompáñalo mientras trata de descifrar el increíble poder que heredó de su madre. Únete a Garnet, Amatista, Perla y Steven en sus mágicas aventuras ¡y ayúdalos a salvar el día! La visita de Steven en el otoño para ver a Lapis y Peridot trae a un nuevo extraño a su vida.</desc>
   </programme>
-  <programme start="20230520033600 -0400" stop="20230520034800 -0400" channel="0305">
-    <title lang="es">Steven Universe</title>
-    <sub-title lang="es">12 Asalto de gemas</sub-title>
-    <desc lang="es">¡El Universo está en peligro! Pero afortunadamente el héroe más enérgico, positivo, encantador y despistado está aquí para protegernos. ¡Y es solo un niño! Conoce a Steven, el típico hermanito menor de las guardianas mágicas de la humanidad, ¡las Crystal Gems! Acompáñalo mientras trata de descifrar el increíble poder que heredó de su madre. Únete a Garnet, Amatista, Perla y Steven en sus mágicas aventuras ¡y ayúdalos a salvar el día! Las Gemas tratan de llevar a cabo un asalto.</desc>
-  </programme>
-  <programme start="20230520034800 -0400" stop="20230520040000 -0400" channel="0305">
+  <programme start="20230520033300 -0400" stop="20230520034500 -0400" channel="0305">
     <title lang="es">Steven Universe</title>
     <sub-title lang="es">11 Aventuras en la distorsión de la luz</sub-title>
     <desc lang="es">¡El Universo está en peligro! Pero afortunadamente el héroe más enérgico, positivo, encantador y despistado está aquí para protegernos. ¡Y es solo un niño! Conoce a Steven, el típico hermanito menor de las guardianas mágicas de la humanidad, ¡las Crystal Gems! Acompáñalo mientras trata de descifrar el increíble poder que heredó de su madre. Únete a Garnet, Amatista, Perla y Steven en sus mágicas aventuras ¡y ayúdalos a salvar el día! Steven y las gemas despegan en una misión de búsqueda y recuperación.</desc>
   </programme>
-  <programme start="20230520040000 -0400" stop="20230520041000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">39 La lista</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Cuando los niños descubren que la vida de Nicole no ha funcionado como esperaba, comienzan a asumir sus tareas, pero accidentalmente toman su lista de deseos en lugar de su lista de tareas pendientes.</desc>
+  <programme start="20230520034500 -0400" stop="20230520035600 -0400" channel="0305">
+    <title lang="es">Steven Universe</title>
+    <sub-title lang="es">12 Asalto de gemas</sub-title>
+    <desc lang="es">¡El Universo está en peligro! Pero afortunadamente el héroe más enérgico, positivo, encantador y despistado está aquí para protegernos. ¡Y es solo un niño! Conoce a Steven, el típico hermanito menor de las guardianas mágicas de la humanidad, ¡las Crystal Gems! Acompáñalo mientras trata de descifrar el increíble poder que heredó de su madre. Únete a Garnet, Amatista, Perla y Steven en sus mágicas aventuras ¡y ayúdalos a salvar el día! Las Gemas tratan de llevar a cabo un asalto.</desc>
   </programme>
-  <programme start="20230520041000 -0400" stop="20230520042000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">26 La mentira</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Los habitantes de Elmore están deprimidos porque Navidad y Año Nuevo ya pasaron, así que Gumball y Anaís inventan una festividad nueva. El pueblo la recibe con mucho entusiasmo y se genera expectativa por la llegada del personaje protagonista. Ahora Gumball y Anaís deben idear algo para no desilusionar a nadie.</desc>
-  </programme>
-  <programme start="20230520042000 -0400" stop="20230520043000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">36 Los chicos suéter</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Alguien desafía la reputación de Gumball y Darwin, aunque en realidad no les importa en lo más mínimo.</desc>
-  </programme>
-  <programme start="20230520043000 -0400" stop="20230520044000 -0400" channel="0305">
-    <title lang="es">El increíble mundo de Gumball</title>
-    <sub-title lang="es">24 La dieta</sub-title>
-    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Los intentos de los chicos por convencer a Richard de ponerse a dieta tienen resultados demasiado buenos.</desc>
-  </programme>
-  <programme start="20230520044000 -0400" stop="20230520045000 -0400" channel="0305">
+  <programme start="20230520035600 -0400" stop="20230520041000 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
     <sub-title lang="es">24 El secuaz</sub-title>
     <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Darwin está cansado de ser el secuaz de Gumball, por lo que quiere convertirse en el líder y tomar las decisiones.</desc>
   </programme>
-  <programme start="20230520045000 -0400" stop="20230520050000 -0400" channel="0305">
+  <programme start="20230520041000 -0400" stop="20230520042200 -0400" channel="0305">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">26 La mentira</sub-title>
+    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Los habitantes de Elmore están deprimidos porque Navidad y Año Nuevo ya pasaron, así que Gumball y Anaís inventan una festividad nueva. El pueblo la recibe con mucho entusiasmo y se genera expectativa por la llegada del personaje protagonista. Ahora Gumball y Anaís deben idear algo para no desilusionar a nadie.</desc>
+  </programme>
+  <programme start="20230520042200 -0400" stop="20230520043400 -0400" channel="0305">
     <title lang="es">El increíble mundo de Gumball</title>
     <sub-title lang="es">16 El aprendiz</sub-title>
     <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Gumball decide que la mejor manera de demostrarle al Sr. Fitzgerald que es lo suficientemente bueno para Penny es convertirse en su aprendiz del día. El problema es que el Sr. Fitzgerald tiene una entrevista importante y los entusiasmados intentos de Gumball por ayudarlo podrían hacer más daño que bien, tanto al negocio del Sr. Fitzgerald como a su futuro con Penny.</desc>
   </programme>
-  <programme start="20230520050000 -0400" stop="20230520051000 -0400" channel="0305">
-    <title lang="es">Escandalosos</title>
-    <sub-title lang="es">43 Yo soy Polar</sub-title>
-    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. Cuando polar se golpea la cabeza, pardo y panda se dan cuenta de que su comportamiento cambia.</desc>
+  <programme start="20230520043400 -0400" stop="20230520044600 -0400" channel="0305">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">24 La dieta</sub-title>
+    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Los intentos de los chicos por convencer a Richard de ponerse a dieta tienen resultados demasiado buenos.</desc>
   </programme>
-  <programme start="20230520051000 -0400" stop="20230520052000 -0400" channel="0305">
-    <title lang="es">Escandalosos</title>
-    <sub-title lang="es">3 Googs</sub-title>
-    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. Los Osos ganan una visita a las oficinas centrales de la infame compañía Googs.</desc>
+  <programme start="20230520044600 -0400" stop="20230520045700 -0400" channel="0305">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">39 La lista</sub-title>
+    <desc lang="es">Sigue las aventuras de Gumball, un gato de doce años de edad, quien con la ayuda de su mejor amigo Darwin, su ex pez al que le crecieron piernas y se sumó a la familia, se mete en todo tipo de travesuras. Lo acompañan, además de su hermana, Anais, su padre Richard y su madre Nicole. Cuando los niños descubren que la vida de Nicole no ha funcionado como esperaba, comienzan a asumir sus tareas, pero accidentalmente toman su lista de deseos en lugar de su lista de tareas pendientes.</desc>
   </programme>
-  <programme start="20230520052000 -0400" stop="20230520053000 -0400" channel="0305">
-    <title lang="es">Escandalosos</title>
-    <sub-title lang="es">18 El gatito</sub-title>
-    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. Luego de un percance en el bosque, los Osos pierden su hogar en manos de unos animales peligrosos.</desc>
-  </programme>
-  <programme start="20230520053000 -0400" stop="20230520054000 -0400" channel="0305">
-    <title lang="es">Escandalosos</title>
-    <sub-title lang="es">7 Burrito</sub-title>
-    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. A Pardo le gustan los burritos. Mucho. Tanto que cuando un restaurant elabora un Burrito tamaño oso, Pardo se obliga a comer semejante obra de arte majestuosa. Lleva el burrito consigo a todas partes y lo convierte en una parte nueva y cada vez más olorosa.</desc>
-  </programme>
-  <programme start="20230520054000 -0400" stop="20230520055000 -0400" channel="0305">
+  <programme start="20230520045700 -0400" stop="20230520050900 -0400" channel="0305">
     <title lang="es">Escandalosos</title>
     <sub-title lang="es">17 El camino</sub-title>
     <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. ¡Este episodio transcurre cuando los Osos son cachorritos! Los tres Osos, en su viaje por el desierto, se topan con un depósito gigante. Los Osos tratan de convertir este paraíso repleto de cajas en su hogar.</desc>
   </programme>
-  <programme start="20230520055000 -0400" stop="20230520060000 -0400" channel="0305">
+  <programme start="20230520050900 -0400" stop="20230520052200 -0400" channel="0305">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">18 El gatito</sub-title>
+    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. Luego de un percance en el bosque, los Osos pierden su hogar en manos de unos animales peligrosos.</desc>
+  </programme>
+  <programme start="20230520052200 -0400" stop="20230520053400 -0400" channel="0305">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">43 Yo soy Polar</sub-title>
+    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. Cuando polar se golpea la cabeza, pardo y panda se dan cuenta de que su comportamiento cambia.</desc>
+  </programme>
+  <programme start="20230520053400 -0400" stop="20230520053600 -0400" channel="0305">
+    <title lang="es">Manzana y Cebollín - Cortos</title>
+    <sub-title lang="es">4 Dormir</sub-title>
+    <desc lang="es">Ambientados en un mundo poblado de comida antropomórfica, Apple y Onion, un par de recién llegados infantiles a la gran ciudad, intentan adaptarse a su nuevo entorno. Manzana y Cebollín te muestran cómo tener una noche de descanso puro y absoluto.</desc>
+  </programme>
+  <programme start="20230520053600 -0400" stop="20230520054800 -0400" channel="0305">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">3 Googs</sub-title>
+    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. Los Osos ganan una visita a las oficinas centrales de la infame compañía Googs.</desc>
+  </programme>
+  <programme start="20230520054800 -0400" stop="20230520060000 -0400" channel="0305">
     <title lang="es">Escandalosos</title>
     <sub-title lang="es">36 Bebés serpientes</sub-title>
     <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse. Charlie adopta a unas serpientes bebé a pesar de que los Osos creen que no está listo para la paternidad.</desc>
@@ -15051,7 +15149,7 @@
     <desc lang="es">Vive toda la previa de la máxima competición de clubes de baloncesto de Europa.</desc>
   </programme>
   <programme start="20230519110000 -0400" stop="20230519130000 -0400" channel="0409">
-    <title lang="es">Euroliga</title>
+    <title lang="es">EuroLeague</title>
     <sub-title lang="es">Olympiacos vs. Mónaco, Final Four</sub-title>
     <desc lang="es">Sigue emoción de la máxima competición de clubes de baloncesto de Europa.</desc>
   </programme>
@@ -15519,11 +15617,11 @@
     <sub-title lang="es">Milan vs. Sampdoria, Fecha 36, Estadio Giuseppe Meazza</sub-title>
     <desc lang="es">Viví los partidos de la nonagésima primera edición de la máxima competición futbolística de Italia, desde su creación en 1929.</desc>
   </programme>
-  <programme start="20230520164000 -0400" stop="20230520220000 -0400" channel="0411">
+  <programme start="20230520164000 -0400" stop="20230520200000 -0400" channel="0411">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
   </programme>
-  <programme start="20230520220000 -0400" stop="20230521010000 -0400" channel="0411">
+  <programme start="20230520200000 -0400" stop="20230521010000 -0400" channel="0411">
     <title lang="es">ESPN Knockout</title>
     <sub-title lang="es">Devin Haney vs. Vasiliy Lomachenko</sub-title>
     <desc lang="es">Los mejores combates de boxeo y MMA. Un ajedrez boxístico de alta escuela es el que nos espera esta semana cuando el invicto, favorito y campeón indiscutido Devin 'The Dream' Haney, de 24 años, exponga su condición ante el legendario Vasiliy 'Hi Tech' Lomachenko, quien con 11 años más de edad promete ser una verdadera amenaza para el joven estadounidense.</desc>
@@ -15731,12 +15829,12 @@
     <title lang="es">Acción de la NBA</title>
     <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.</desc>
   </programme>
-  <programme start="20230519120000 -0400" stop="20230519140000 -0400" channel="0413">
+  <programme start="20230519120000 -0400" stop="20230519135500 -0400" channel="0413">
     <title lang="es">Premier League</title>
     <sub-title lang="es">Newcastle Utd. vs. Brighton and Hove Albion, Fecha 25, St. James' Park</sub-title>
     <desc lang="es">Viví los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
   </programme>
-  <programme start="20230519140000 -0400" stop="20230519145000 -0400" channel="0413">
+  <programme start="20230519135500 -0400" stop="20230519145000 -0400" channel="0413">
     <title lang="es">ESPN Compact - UEFA Europa League</title>
     <sub-title lang="es">Sevilla (Esp) vs. Juventus (Ita), Semifinal Vuelta, Estadio Ramón Sánchez-Pizjuán</sub-title>
     <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.</desc>
@@ -15836,14 +15934,13 @@
     <title lang="es">Triple Corona - The Preakness</title>
     <desc lang="es">El Preakness Stakes 2023 del hipódromo de Pimlico se llevará a cabo el 20 de mayo con el ganador del Derby de Kentucky, Mage.</desc>
   </programme>
-  <programme start="20230520193000 -0400" stop="20230520195500 -0400" channel="0413">
+  <programme start="20230520193000 -0400" stop="20230520200000 -0400" channel="0413">
     <title lang="es">Acción de la NBA</title>
     <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.</desc>
   </programme>
-  <programme start="20230520195500 -0400" stop="20230520220000 -0400" channel="0413">
-    <title lang="es">Campeonato Brasileiro Série A</title>
-    <sub-title lang="es">Santos vs. Palmeiras, Fecha 7, Estadio Vila Belmiro</sub-title>
-    <desc lang="es">Vive los partidos de la 66º edición del Campeonato Brasileño de Serie A. Los 20 equipos participantes se enfrentan en partidos de ida y vuelta en un sistema de todos contra todos. Al final de las 38 fechas el club con la mayor cantidad de puntos se proclamará campeón.</desc>
+  <programme start="20230520200000 -0400" stop="20230520220000 -0400" channel="0413">
+    <title lang="es">Moto América</title>
+    <sub-title lang="es">Barber Motorsports Park</sub-title>
   </programme>
   <programme start="20230520220000 -0400" stop="20230520230000 -0400" channel="0413">
     <title lang="es">ESPN Compact - ATP Masters 1000 - Roma</title>
@@ -16218,13 +16315,15 @@
     <sub-title lang="es">Selknam vs. Yacaré XV, Fecha 13</sub-title>
     <desc lang="es">El Super Rugby Americas 2023 será la temporada inaugural de un nuevo formato del rugby profesional que empezará el 18 de febrero.</desc>
   </programme>
-  <programme start="20230520195500 -0400" stop="20230520210000 -0400" channel="0415">
-    <title lang="es">ESPN Compact - Heineken Cup</title>
-    <desc lang="es">La Copa de Campeones Europeos de Rugby es el torneo continental de rugby más importante a nivel de clubes en Europa, organizado por la European Professional Club Rugby.</desc>
+  <programme start="20230520195500 -0400" stop="20230520220000 -0400" channel="0415">
+    <title lang="es">Campeonato Brasileiro Série A</title>
+    <sub-title lang="es">Santos vs. Palmeiras, Fecha 7, Estadio Vila Belmiro</sub-title>
+    <desc lang="es">Vive los partidos de la 66º edición del Campeonato Brasileño de Serie A. Los 20 equipos participantes se enfrentan en partidos de ida y vuelta en un sistema de todos contra todos. Al final de las 38 fechas el club con la mayor cantidad de puntos se proclamará campeón.</desc>
   </programme>
-  <programme start="20230520210000 -0400" stop="20230520230000 -0400" channel="0415">
-    <title lang="es">Moto América</title>
-    <sub-title lang="es">Barber Motorsports Park</sub-title>
+  <programme start="20230520220000 -0400" stop="20230520230000 -0400" channel="0415">
+    <title lang="es">ESPN Compact - Heineken Cup</title>
+    <sub-title lang="es">Leinster Rugby vs. La Rochelle, Final</sub-title>
+    <desc lang="es">Los eventos más destacados de la Copa de Campeones Europeos de Rugby, el torneo continental donde compiten clubes de Francia, Inglaterra, Irlanda, Escocia, Gales e Italia.</desc>
   </programme>
   <programme start="20230520230000 -0400" stop="20230521010000 -0400" channel="0415">
     <title lang="es">Torneo de la URBA Top 12 - Copa Star+</title>
@@ -16316,7 +16415,7 @@
     <desc lang="es">Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa.</desc>
   </programme>
   <programme start="20230519210000 -0400" stop="20230519230000 -0400" channel="0416">
-    <title lang="es">Extreme E Championship</title>
+    <title lang="es">Off Road Electric Car Racing Series</title>
     <sub-title lang="es">Hydro X Prix, Scotland, Carrera 2, Dumfries &amp; Galloway, Scotland, Scotland</sub-title>
     <desc lang="es">Competición de automóviles todoterreno eléctricos, en lugares extremadamente remotos del mundo y que fueron afectados por el cambio climático, en un intento de generar conciencia sobre esa problemática.</desc>
   </programme>
@@ -16356,7 +16455,7 @@
     <desc lang="es">Vive los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
   </programme>
   <programme start="20230520085000 -0400" stop="20230520092000 -0400" channel="0416">
-    <title lang="es">A confirmar</title>
+    <title lang="es">Previa - Bundesliga</title>
   </programme>
   <programme start="20230520092000 -0400" stop="20230520112500 -0400" channel="0416">
     <title lang="es">Bundesliga</title>
@@ -16527,15 +16626,14 @@
     <title lang="es">UFC Unleashed: Sensational Submissions</title>
     <desc lang="es">Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la Ultimate Fighting Championship, para revivir, nuevamente, los triunfos y los fracasos más decisivos de esta famosa competencia.</desc>
   </programme>
-  <programme start="20230520050000 -0400" stop="20230520070000 -0400" channel="0417">
+  <programme start="20230520050000 -0400" stop="20230520073000 -0400" channel="0417">
     <title lang="es">UEFA Europa League</title>
     <sub-title lang="es">Sevilla (Esp) vs. Juventus (Ita), Semifinal Vuelta, Estadio Ramón Sánchez-Pizjuán</sub-title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.</desc>
   </programme>
-  <programme start="20230520070000 -0400" stop="20230520080000 -0400" channel="0417">
-    <title lang="es">ESPN Compact - UEFA Europa League</title>
-    <sub-title lang="es">Bayer Leverkusen (Ale) vs. Roma (Ita), Semifinal Vuelta, BayArena</sub-title>
-    <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.</desc>
+  <programme start="20230520073000 -0400" stop="20230520080000 -0400" channel="0417">
+    <title lang="es">Goles de la Champions League</title>
+    <desc lang="es">Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
   </programme>
   <programme start="20230520080000 -0400" stop="20230520083000 -0400" channel="0417">
     <title lang="es">Bundesliga Preview Show</title>
@@ -16675,7 +16773,7 @@
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.</desc>
   </programme>
   <programme start="20230519190000 -0400" stop="20230519210000 -0400" channel="0418">
-    <title lang="es">Indy Car Series - Indianapolis Motor Speedway</title>
+    <title lang="es">IndyCar Series</title>
     <sub-title lang="es">107th Running of the Indianapolis 500, Indianapolis Motor Speedway</sub-title>
     <desc lang="es">Vive las carreras de la temporada 2023 de la IndyCar Series de Estados Unidos. El público podrá disfrutar de la 112º temporada oficial de campeonatos de monoplazas en el país. Los mejores pilotos y sus equipos se presentan para hacer gala de su destreza y alcanzar la victoria.</desc>
   </programme>
@@ -16746,7 +16844,7 @@
     <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
   </programme>
   <programme start="20230520103000 -0400" stop="20230520120000 -0400" channel="0418">
-    <title lang="es">Fórmula 2</title>
+    <title lang="es">Fórmula 2 - Feature Race</title>
     <sub-title lang="es">Gran Premio de Azerbaiyán, Circuito callejero de Bakú, Bakú</sub-title>
     <desc lang="es">Vive las carreras de la séptima edición de la competición de automovilismo de velocidad creada en el año 2017 tras renombrar a la competición que hasta entonces ocupaba su lugar, la GP2 Series.</desc>
   </programme>
@@ -16764,17 +16862,13 @@
     <sub-title lang="es">Bayer Leverkusen (Ale) vs. Roma (Ita), Semifinal Vuelta, BayArena</sub-title>
     <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.</desc>
   </programme>
-  <programme start="20230520160000 -0400" stop="20230520180000 -0400" channel="0418">
+  <programme start="20230520160000 -0400" stop="20230520183000 -0400" channel="0418">
     <title lang="es">UEFA Europa League</title>
     <sub-title lang="es">Sevilla (Esp) vs. Juventus (Ita), Semifinal Vuelta, Estadio Ramón Sánchez-Pizjuán</sub-title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.</desc>
   </programme>
-  <programme start="20230520180000 -0400" stop="20230520183000 -0400" channel="0418">
-    <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
-  </programme>
   <programme start="20230520183000 -0400" stop="20230520200000 -0400" channel="0418">
-    <title lang="es">Fórmula 2</title>
+    <title lang="es">Fórmula 2 - Feature Race</title>
     <sub-title lang="es">Gran Premio de Azerbaiyán, Circuito callejero de Bakú, Bakú</sub-title>
     <desc lang="es">Vive las carreras de la séptima edición de la competición de automovilismo de velocidad creada en el año 2017 tras renombrar a la competición que hasta entonces ocupaba su lugar, la GP2 Series.</desc>
   </programme>
@@ -16784,7 +16878,7 @@
     <desc lang="es">Vive las carreras de la 74º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
   </programme>
   <programme start="20230520220000 -0400" stop="20230521000000 -0400" channel="0418">
-    <title lang="es">Indy Car Series - Indianapolis Motor Speedway</title>
+    <title lang="es">IndyCar Series</title>
     <sub-title lang="es">107th Running of the Indianapolis 500, Indianapolis Motor Speedway</sub-title>
     <desc lang="es">Vive las carreras de la temporada 2023 de la IndyCar Series de Estados Unidos. El público podrá disfrutar de la 112º temporada oficial de campeonatos de monoplazas en el país. Los mejores pilotos y sus equipos se presentan para hacer gala de su destreza y alcanzar la victoria.</desc>
   </programme>
@@ -18312,6 +18406,9 @@
   </programme>
   <programme start="20230520130000 -0400" stop="20230520170000 -0400" channel="0507">
     <title lang="es">Top Hits Of 1983</title>
+  </programme>
+  <programme start="20230520170000 -0400" stop="20230520190000 -0400" channel="0507">
+    <title lang="es">... So 80s</title>
   </programme>
   <programme start="20230519000000 -0400" stop="20230519235900 -0400" channel="0508">
     <title lang="es">Stingray Euro Hits</title>
@@ -20779,7 +20876,11 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230519060000 -0400" stop="20230519112600 -0400" channel="0544">
+  <programme start="20230519060000 -0400" stop="20230519120000 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
+  </programme>
+  <programme start="20230519120000 -0400" stop="20230519162700 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20791,9 +20892,9 @@
     <title lang="en">Guns N' Roses - Appetite for Democracy</title>
     <desc lang="en">La legendaria banda Guns N' Roses ha tomado el desierto por sorpresa y ha conquistado el Hard Rock Casino de Las Vegas.</desc>
   </programme>
-  <programme start="20230520060000 -0400" stop="20230520120000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230520052900 -0400" stop="20230520074400 -0400" channel="0544">
+    <title lang="en">The Cure - Live at Glastonbury Festival</title>
+    <desc lang="en">The Cure es una banda de rock británica formada en 1976. Varias canciones han alcanzado el éxito en las radios y las primeras posiciones en las listas de ventas, como "Just Like Heaven", "Lovesong" o "Friday I'm in Love".</desc>
   </programme>
   <programme start="20230520120000 -0400" stop="20230520180000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -20807,11 +20908,11 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230519060000 -0400" stop="20230519110000 -0400" channel="0545">
+  <programme start="20230519060000 -0400" stop="20230519120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230519120000 -0400" stop="20230519180000 -0400" channel="0545">
+  <programme start="20230519120000 -0400" stop="20230519160000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
@@ -20823,9 +20924,9 @@
     <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
     <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
-  <programme start="20230520060000 -0400" stop="20230520120000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230520060000 -0400" stop="20230520070000 -0400" channel="0545">
+    <title lang="en">Cantemos Con Los Chicos</title>
+    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
   </programme>
   <programme start="20230520120000 -0400" stop="20230520180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
