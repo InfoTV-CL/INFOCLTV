@@ -4534,21 +4534,13 @@
     <title lang="es">Más 100Cia</title>
     <desc lang="es">Programa de ciencia y con las últimas tendencias tecnológicas.</desc>
   </programme>
-  <programme start="20230520130000 -0400" stop="20230520150000 -0400" channel="0122">
+  <programme start="20230520130000 -0400" stop="20230520145500 -0400" channel="0122">
     <title lang="es">Teletrece Tarde</title>
     <desc lang="es">Informativo de mediodía con toda la actualidad y un resumen de los acontecimientos que trascienden en Chile y el resto del mundo.</desc>
   </programme>
-  <programme start="20230520150000 -0400" stop="20230520152500 -0400" channel="0122">
+  <programme start="20230520150000 -0400" stop="20230520180000 -0400" channel="0122">
     <title lang="es">Selección de la semana</title>
     <desc lang="es">Selección de la semana.</desc>
-  </programme>
-  <programme start="20230520152500 -0400" stop="20230520173000 -0400" channel="0122">
-    <title lang="es">EN VIVO: Magallanes vs. Audax Italiano - Campeonato Betsson 2023, Fecha 14</title>
-    <desc lang="es">Magallanes no pudo ante Curicó Unido en el Municipal San Bernardo. Sus resultados han sido variados: 2 fueron empate y ha perdido 2. En esos últimos partidos, le convirtieron 7 goles y logró anotar 2 a sus rivales. Audax Italiano llega a este partido con una derrota por 1 a 2 ante Colo Colo. Recientemente, el equipo visitante tiene resultados bastante diversos: 2 victorias, 1 derrota y 1 empate, en los que convirtió 8 goles y le han encajado 6.</desc>
-  </programme>
-  <programme start="20230520173000 -0400" stop="20230520183000 -0400" channel="0122">
-    <title lang="es">Informe T13</title>
-    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
   </programme>
   <programme start="20230520183000 -0400" stop="20230520190000 -0400" channel="0122">
     <title lang="es">Selección de la semana</title>
@@ -4622,27 +4614,15 @@
     <title lang="es">Más 100Cia</title>
     <desc lang="es">Programa de ciencia y con las últimas tendencias tecnológicas.</desc>
   </programme>
-  <programme start="20230521130000 -0400" stop="20230521150000 -0400" channel="0122">
-    <title lang="es">Teletrece Tarde</title>
-    <desc lang="es">Informativo de mediodía con toda la actualidad y un resumen de los acontecimientos que trascienden en Chile y el resto del mundo.</desc>
+  <programme start="20230521145500 -0400" stop="20230521171500 -0400" channel="0122">
+    <title lang="es">EN VIVO: Manquehue vs. Old Gabs: Primera División de Hockey</title>
+    <desc lang="es">Desde Club Deportivo Manquehue.</desc>
   </programme>
-  <programme start="20230521150000 -0400" stop="20230521152500 -0400" channel="0122">
-    <title lang="es">Selección de la semana</title>
-    <desc lang="es">Selección de la semana.</desc>
+  <programme start="20230521171500 -0400" stop="20230521193000 -0400" channel="0122">
+    <title lang="es">EN VIVO: Everton vs. Copiapó - Campeonato Betsson - Fecha 15</title>
+    <desc lang="es">Los Ruleteros están invictos hace tres partidos, pero sus últimos dos juegos fueron empates, por lo que necesitan la victoria en casa para entrar a puestos de clasificación a torneos internacionales. Por su parte, los Atacameños vienen de perder como locales ante Universidad Católica y, por diferencia de goles, son penúltimos y estan en zona de descenso a Primera B.</desc>
   </programme>
-  <programme start="20230521152500 -0400" stop="20230521173000 -0400" channel="0122">
-    <title lang="es">EN VIVO: Magallanes vs. Audax Italiano - Campeonato Betsson 2023, Fecha 14</title>
-    <desc lang="es">Magallanes no pudo ante Curicó Unido en el Municipal San Bernardo. Sus resultados han sido variados: 2 fueron empate y ha perdido 2. En esos últimos partidos, le convirtieron 7 goles y logró anotar 2 a sus rivales. Audax Italiano llega a este partido con una derrota por 1 a 2 ante Colo Colo. Recientemente, el equipo visitante tiene resultados bastante diversos: 2 victorias, 1 derrota y 1 empate, en los que convirtió 8 goles y le han encajado 6.</desc>
-  </programme>
-  <programme start="20230521173000 -0400" stop="20230521183000 -0400" channel="0122">
-    <title lang="es">Informe T13</title>
-    <desc lang="es">Rueda de prensa con las actualizaciones de las noticias más importantes de Chile y del Mundo.</desc>
-  </programme>
-  <programme start="20230521183000 -0400" stop="20230521190000 -0400" channel="0122">
-    <title lang="es">Selección de la semana</title>
-    <desc lang="es">Selección de la semana.</desc>
-  </programme>
-  <programme start="20230521190000 -0400" stop="20230521200000 -0400" channel="0122">
+  <programme start="20230521193000 -0400" stop="20230521200000 -0400" channel="0122">
     <title lang="es">Comunidad T13</title>
     <desc lang="es">Comunidad T13.</desc>
   </programme>
@@ -17689,6 +17669,9 @@
   <programme start="20230521030000 -0400" stop="20230521070000 -0400" channel="0507">
     <title lang="es">Top Hits Of 1983</title>
   </programme>
+  <programme start="20230521110000 -0400" stop="20230521130000 -0400" channel="0507">
+    <title lang="es">Forever 80s</title>
+  </programme>
   <programme start="20230521130000 -0400" stop="20230521160000 -0400" channel="0507">
     <title lang="es">80s Power Ballad Heaven</title>
   </programme>
@@ -20168,25 +20151,21 @@
     <title lang="es">Retro latina</title>
     <desc lang="es">OLD Music es para todos los amantes de la música reto latina de los años 60s, 70s, 80s y algo de los 90s, con canciones que marcaron toda una época.</desc>
   </programme>
-  <programme start="20230520000000 -0400" stop="20230520023600 -0400" channel="0544">
+  <programme start="20230520000000 -0400" stop="20230520060000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230520052900 -0400" stop="20230520074400 -0400" channel="0544">
-    <title lang="en">The Cure - Live at Glastonbury Festival</title>
-    <desc lang="en">The Cure es una banda de rock británica formada en 1976. Varias canciones han alcanzado el éxito en las radios y las primeras posiciones en las listas de ventas, como "Just Like Heaven", "Lovesong" o "Friday I'm in Love".</desc>
+  <programme start="20230520060000 -0400" stop="20230520105900 -0400" channel="0544">
+    <title lang="en">Conciertos por Stingray</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230520105900 -0400" stop="20230520124800 -0400" channel="0544">
     <title lang="en">Paramore - Paramore - Live at Roundhouse</title>
     <desc lang="en">El iTunes Festival es un festival anual de música que se lleva a cabo en Londres a lo largo de un mes. Está patrocinado por Apple Inc. y tuvo su primera edición en 2007.</desc>
   </programme>
-  <programme start="20230520180000 -0400" stop="20230521000000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
-  </programme>
-  <programme start="20230521000000 -0400" stop="20230521060000 -0400" channel="0544">
-    <title lang="en">Conciertos por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230520235900 -0400" stop="20230521004900 -0400" channel="0544">
+    <title lang="en">Oasis - Live at Wembley Arena 2008</title>
+    <desc lang="en">Este concierto, filmado en Wembley Arena, London, le brinda a los fans, de principio a fin, una experiencia en vivo sin igual. Oasis deleita al público con una versión inolvidable de sus éxitos 'Champagne Supernova', 'Don’t Look Back In...' y muchos más.</desc>
   </programme>
   <programme start="20230521060000 -0400" stop="20230521120000 -0400" channel="0544">
     <title lang="en">Conciertos por Stingray</title>
@@ -20200,13 +20179,13 @@
     <title lang="en">Conciertos por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230520000000 -0400" stop="20230520030000 -0400" channel="0545">
+  <programme start="20230520000000 -0400" stop="20230520060000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230520060000 -0400" stop="20230520070000 -0400" channel="0545">
-    <title lang="en">Cantemos Con Los Chicos</title>
-    <desc lang="en">Canta al ritmo de las canciones de cuna, películas animadas y canciones para chicos.</desc>
+  <programme start="20230520060000 -0400" stop="20230520110000 -0400" channel="0545">
+    <title lang="en">Karaoke por Stingray</title>
+    <desc lang="en">No information available.</desc>
   </programme>
   <programme start="20230520120000 -0400" stop="20230520180000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -20216,9 +20195,9 @@
     <title lang="en">Karaoke por Stingray</title>
     <desc lang="en">No information available.</desc>
   </programme>
-  <programme start="20230521000000 -0400" stop="20230521060000 -0400" channel="0545">
-    <title lang="en">Karaoke por Stingray</title>
-    <desc lang="en">No information available.</desc>
+  <programme start="20230521000000 -0400" stop="20230521010000 -0400" channel="0545">
+    <title lang="en">Fiesta De Karaoke Hasta Tarde</title>
+    <desc lang="en">Esta selección de éxitos incluye clásicos y novedades con mucho hip-hop y  R&amp;B.</desc>
   </programme>
   <programme start="20230521060000 -0400" stop="20230521120000 -0400" channel="0545">
     <title lang="en">Karaoke por Stingray</title>
@@ -30272,411 +30251,407 @@
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">El acto de heroísmo de Kevin (Kevin James) es ensombrecido por el rescate de un gato por parte de Kyle (Gary Valentine) del incendio de un departamento.</desc>
   </programme>
-  <programme start="20230520030500 -0400" stop="20230520033000 -0400" channel="0823">
-    <title lang="es">Un hombre. Un plan</title>
-    <sub-title lang="es">Un hombre. Un plan</sub-title>
-    <desc lang="es">Cuando los padres de Adam llegan de visita sin avisar, revelan planes inesperados para su vida futura.</desc>
-  </programme>
-  <programme start="20230520033000 -0400" stop="20230520035500 -0400" channel="0823">
-    <title lang="es">La extraña pareja</title>
-    <sub-title lang="es">La extraña pareja</sub-title>
-    <desc lang="es">Oscar se enfrenta a un dilema personal cuando sale con una joven niñera, Allyson (Brianne Howey), que trabaja para su vecina Charlotte (Teri Hatcher). Emily obliga a Félix a participar en una actividad en la que ella está interesada, para variar.</desc>
-  </programme>
-  <programme start="20230520035500 -0400" stop="20230520042000 -0400" channel="0823">
-    <title lang="es">Odd Mom Out</title>
-    <sub-title lang="es">Odd Mom Out</sub-title>
-    <desc lang="es">Los problemas de comportamiento de Miles obligan a Jill y Andy a buscar el consejo de una psicóloga infantil.</desc>
-  </programme>
-  <programme start="20230520042000 -0400" stop="20230520051000 -0400" channel="0823">
+  <programme start="20230520032000 -0400" stop="20230520041000 -0400" channel="0823">
     <title lang="es">Psíquico</title>
     <sub-title lang="es">Psíquico</sub-title>
     <desc lang="es">Shawn y Gus ayudan al Departamento de Policía de Santa Bárbara, pero pronto se les amonesta por no haber seguido los procedimientos policiales.</desc>
   </programme>
-  <programme start="20230520051000 -0400" stop="20230520060000 -0400" channel="0823">
+  <programme start="20230520041000 -0400" stop="20230520050000 -0400" channel="0823">
     <title lang="es">Psíquico</title>
     <sub-title lang="es">Psíquico</sub-title>
     <desc lang="es">Las acciones laborales de Shawn hacen que se pierdan las pruebas sobre una persecución importante de un líder delictivo llamado Czarsky. En consecuencia se cierra todo el caso y desvinculan a la agencia Psych, además se corta el contacto profesional con Henry.</desc>
   </programme>
-  <programme start="20230520060000 -0400" stop="20230520062000 -0400" channel="0823">
+  <programme start="20230520050000 -0400" stop="20230520052000 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">Ignorando las advertencias de Vanessa, Kevin se reúne con su vieja banda para dar un show en Enzo's.</desc>
   </programme>
-  <programme start="20230520062000 -0400" stop="20230520064500 -0400" channel="0823">
+  <programme start="20230520052000 -0400" stop="20230520054500 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">Kevin Gable (Kevin James) descubre que su retiro prematuro de la policía se ha ido por los suelos cuando su hija regresa del colegio con una gran sorpresa.</desc>
   </programme>
-  <programme start="20230520064500 -0400" stop="20230520071000 -0400" channel="0823">
+  <programme start="20230520054500 -0400" stop="20230520061000 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">Kevin reorganiza la casa después de que sus amigos lo convencen de que Donna toma todas las decisiones y organizó las cosas en beneficio propio. Entretanto, Kendra consigue que su tío Kyle la ayude a fortalecer a Chale.</desc>
   </programme>
-  <programme start="20230520071000 -0400" stop="20230520073000 -0400" channel="0823">
+  <programme start="20230520061000 -0400" stop="20230520063000 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">Kevin contrata en secreto a alguien que haga sus obligaciones mientras él juega football con sus amigos.</desc>
   </programme>
-  <programme start="20230520073000 -0400" stop="20230520075500 -0400" channel="0823">
+  <programme start="20230520063000 -0400" stop="20230520065500 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">Habiendo interrumpido el aburrimiento de sus amigos, Kevin recibe una invitación al rudo club fiestero de lectura de Donna.</desc>
   </programme>
-  <programme start="20230520075500 -0400" stop="20230520082000 -0400" channel="0823">
+  <programme start="20230520065500 -0400" stop="20230520072000 -0400" channel="0823">
     <title lang="es">30 Rock</title>
     <sub-title lang="es">30 Rock</sub-title>
     <desc lang="es">Jack decide que su compromiso con Elisa es lo suficientemente serio como para salir a comprar un anillo junto a Liz. Irónicamente, es a Tracy a quien Jack pide consejos sobre cómo lidiar con las presiones de la vida matrimonial. Mientras tanto, Elisa le confiesa a Liz que guarda un secreto. Y cuando una broma termina en una lesión en TGS, Jenna se siente atraída por un paramédico.</desc>
   </programme>
-  <programme start="20230520082000 -0400" stop="20230520084500 -0400" channel="0823">
+  <programme start="20230520072000 -0400" stop="20230520074500 -0400" channel="0823">
     <title lang="es">30 Rock</title>
     <sub-title lang="es">30 Rock</sub-title>
     <desc lang="es">Luego de que Liz reprende a Tracy frente al equipo de TGS, él decide mejorar su papel y comenzar a actuar como un profesional. Una vez que acepta dejar de recibir un tratamiento especial, siente que Liz también debería dejar de lado ciertos privilegios. Por otra parte, la madre de Jack, Colleen, viene de visita y revela desagradables recuerdos sobre el abandono de su exmarido. En tanto, Jenna adopta un mono como mascota y aprende sobre los peligros de la maternidad.</desc>
   </programme>
-  <programme start="20230520084500 -0400" stop="20230520091000 -0400" channel="0823">
+  <programme start="20230520074500 -0400" stop="20230520081000 -0400" channel="0823">
     <title lang="es">30 Rock</title>
     <sub-title lang="es">30 Rock</sub-title>
     <desc lang="es">Con el apoyo de Liz y Tracy, Jack comienza a buscar a su verdadero padre. Cuando Tracy les presenta a su recién descubierto hijo ilegítimo a sus amigos de TGS, Liz y Pete ponen en cuestión las intenciones del joven. Mientras tanto, Jenna y Liz se pelean por la atención cuando Jenna es reconocida por una de las ideas de Liz.</desc>
   </programme>
-  <programme start="20230520091000 -0400" stop="20230520093500 -0400" channel="0823">
+  <programme start="20230520081000 -0400" stop="20230520083500 -0400" channel="0823">
     <title lang="es">30 Rock</title>
     <sub-title lang="es">30 Rock</sub-title>
     <desc lang="es">Mientras Jack comienza a construir una relación con su padre biológico, la salud de Milton pende de un hilo. A pesar de sus antecedentes amorosos, Liz capta la atención pública como experta en relaciones luego de aparecer en un talk show. Mientras tanto, la escuela secundaria de Tracy lo invita a hablar en una graduación y Kenneth debe ayudarlo a sobreponerse a algunos recuerdos embarazosos de su época de estudiante.</desc>
   </programme>
-  <programme start="20230520093500 -0400" stop="20230520100000 -0400" channel="0823">
+  <programme start="20230520083500 -0400" stop="20230520090000 -0400" channel="0823">
     <title lang="es">The Unicorn</title>
     <sub-title lang="es">The Unicorn</sub-title>
     <desc lang="es">Las mujeres del grupo de apoyo para viudos le ofrecen consejos inesperados a Wade para salir de la rutina de las citas. Mientras Michelle se recupera de una operación de vesícula, Delia la impulsa implacablemente a seguir los consejos médicos estrictamente.</desc>
   </programme>
-  <programme start="20230520100000 -0400" stop="20230520102500 -0400" channel="0823">
+  <programme start="20230520090000 -0400" stop="20230520092500 -0400" channel="0823">
     <title lang="es">The Unicorn</title>
     <sub-title lang="es">The Unicorn</sub-title>
     <desc lang="es">Cuando Wade decide cambiar su testamento, tiene conflictos en relación a quién tendría la custodia de sus hijas. Michelle trata de convencer a Ben de que se haga una vasectomía después de que se asustan porque creyeron que Michelle había quedado embarazada.</desc>
   </programme>
-  <programme start="20230520102500 -0400" stop="20230520111000 -0400" channel="0823">
+  <programme start="20230520092500 -0400" stop="20230520101000 -0400" channel="0823">
     <title lang="es">Psíquico</title>
     <sub-title lang="es">Psíquico</sub-title>
     <desc lang="es">Shawn y Gus se infiltran en un círculo de ladrones de coches para carreras ilegales a fin de atrapar a un asesino.</desc>
   </programme>
-  <programme start="20230520111000 -0400" stop="20230520115500 -0400" channel="0823">
+  <programme start="20230520101000 -0400" stop="20230520105500 -0400" channel="0823">
     <title lang="es">Psíquico</title>
     <sub-title lang="es">Psíquico</sub-title>
     <desc lang="es">Dos expolicías vuelven de su jubilación para ayudar a Shawn y Gus a resolver el asesinato de un antiguo jefe de policía.</desc>
   </programme>
-  <programme start="20230520115500 -0400" stop="20230520124000 -0400" channel="0823">
+  <programme start="20230520105500 -0400" stop="20230520114000 -0400" channel="0823">
     <title lang="es">Psíquico</title>
     <sub-title lang="es">Psíquico</sub-title>
     <desc lang="es">Shawn y Gus ayudan a un guardia de la cárcel a ubicar a sus internos fugitivos en un ferry que se dirige a las Islas del Canal. Con la participación estelar de Chi McBride.</desc>
   </programme>
-  <programme start="20230520124000 -0400" stop="20230520132500 -0400" channel="0823">
+  <programme start="20230520114000 -0400" stop="20230520122500 -0400" channel="0823">
     <title lang="es">Psíquico</title>
     <sub-title lang="es">Psíquico</sub-title>
     <desc lang="es">En un caso de asesinato que involucra a víctimas en una lista de donantes para trasplante de hígado, Shawn se ve enfrentado con un hombre cuyas habilidades de investigación criminal compiten con las suyas.</desc>
   </programme>
-  <programme start="20230520132500 -0400" stop="20230520141000 -0400" channel="0823">
+  <programme start="20230520122500 -0400" stop="20230520131000 -0400" channel="0823">
     <title lang="es">Psíquico</title>
     <sub-title lang="es">Psíquico</sub-title>
     <desc lang="es">Shawn y Gus se encuentran en medio de una investigación, cuando una espía del Gobierno los busca para que la ayuden a limpiar su nombre manchado por un delito, que supuestamente no cometió.</desc>
   </programme>
-  <programme start="20230520141000 -0400" stop="20230520145500 -0400" channel="0823">
+  <programme start="20230520131000 -0400" stop="20230520135500 -0400" channel="0823">
     <title lang="es">Psíquico</title>
     <sub-title lang="es">Psíquico</sub-title>
     <desc lang="es">Shawn y Gus vuelven a Vancouver para visitar en prisión a su antiguo enemigo, Despereaux, a solicitud del criminal, quien luego los utiliza para escapar y llevar a cabo un último pendiente antes de su extradición a los Estados Unidos. Pero cuando sale, se le acusa del asesinato de un fiscal general y pide ayuda a los chicos para ayudar a limpiar su nombre de estos cargos recientes y, francamente, improbables.</desc>
   </programme>
-  <programme start="20230520145500 -0400" stop="20230520154000 -0400" channel="0823">
+  <programme start="20230520135500 -0400" stop="20230520144000 -0400" channel="0823">
     <title lang="es">Psíquico</title>
     <sub-title lang="es">Psíquico</sub-title>
     <desc lang="es">Cuando se encuentran en la casa encantada de la Feria del Terror de Santa Bárbara, Shawn y Gus presencian un asesinato y pronto empiezan a creer que la persona que lo cometió es el fantasma de un hombre que murió en el mismo festival 13 años atrás.</desc>
   </programme>
-  <programme start="20230520154000 -0400" stop="20230520160500 -0400" channel="0823">
+  <programme start="20230520144000 -0400" stop="20230520150500 -0400" channel="0823">
     <title lang="es">AP Bio</title>
     <sub-title lang="es">AP Bio</sub-title>
     <desc lang="es">Cuando Jack no puede escribir su propio libro, acepta ser escritor fantasma para el popular autor Robin Shwank, solo para insertar sus propios capítulos en el libro. Mientras tanto, Durbin lidia con un hacker chantajista.</desc>
   </programme>
-  <programme start="20230520160500 -0400" stop="20230520163000 -0400" channel="0823">
+  <programme start="20230520150500 -0400" stop="20230520153000 -0400" channel="0823">
     <title lang="es">AP Bio</title>
     <sub-title lang="es">AP Bio</sub-title>
     <desc lang="es">Un misterioso fajo de billetes revuelve a la Preparatoria Whitlock. El director Durbin y Helen investigan quién robó el dinero, pero los estudiantes y maestros admiten otras fechorías. Mientras, Jack lucha contra un pájaro amenazador.</desc>
   </programme>
-  <programme start="20230520163000 -0400" stop="20230520165500 -0400" channel="0823">
+  <programme start="20230520153000 -0400" stop="20230520155500 -0400" channel="0823">
     <title lang="es">AP Bio</title>
     <sub-title lang="es">AP Bio</sub-title>
     <desc lang="es">El director Durbin se convierte en un maníaco hambriento de poder después de autopublicar el libro de filosofía de Jack.</desc>
   </programme>
-  <programme start="20230520165500 -0400" stop="20230520172000 -0400" channel="0823">
+  <programme start="20230520155500 -0400" stop="20230520162000 -0400" channel="0823">
     <title lang="es">AP Bio</title>
     <sub-title lang="es">AP Bio</sub-title>
     <desc lang="es">Jack le pide a Mary que lo lleve al médico, pero una broma hace que se someta al mismo procedimiento dos veces. Entonces, Mary, Stef y Michelle se unen para ayudarlo. En la escuela, Durbin y Helen se avergüenzan y los niños compiten por títulos superlativos de clase.</desc>
   </programme>
-  <programme start="20230520172000 -0400" stop="20230520174500 -0400" channel="0823">
+  <programme start="20230520162000 -0400" stop="20230520164500 -0400" channel="0823">
     <title lang="es">AP Bio</title>
     <sub-title lang="es">AP Bio</sub-title>
     <desc lang="es">Jack pasa las vacaciones de invierno solo en la escuela, extrañando a sus amigos y perdiendo la cabeza.</desc>
   </programme>
-  <programme start="20230520174500 -0400" stop="20230520181000 -0400" channel="0823">
+  <programme start="20230520164500 -0400" stop="20230520171000 -0400" channel="0823">
     <title lang="es">The Office</title>
     <sub-title lang="es">The Office</sub-title>
     <desc lang="es">Con la ayuda del ex Ceo David Wallace, Andy lanza un plan para vengarse de la sucursal Scranton. Mientras, Dwight organiza su propia fiesta para descubrir si es el padre del hijo de Angela.</desc>
   </programme>
-  <programme start="20230520181000 -0400" stop="20230520183500 -0400" channel="0823">
+  <programme start="20230520171000 -0400" stop="20230520173500 -0400" channel="0823">
     <title lang="es">The Office</title>
     <sub-title lang="es">The Office</sub-title>
     <desc lang="es">Jim y Dwight quedan desconcertados ante la llegada de dos empleados jóvenes que los demás apodan \"el nuevo Jim\" y \"Dwight, Jr.\" Andy regresa del programa de entrenamiento de liderazgo Outward Bound con un fuerte deseo de vengarse de Nellie. ¿Adoptará Oscar el gato de Ángela? Kevin salva a una tortuga.</desc>
   </programme>
-  <programme start="20230520183500 -0400" stop="20230520190000 -0400" channel="0823">
+  <programme start="20230520173500 -0400" stop="20230520180000 -0400" channel="0823">
     <title lang="es">The Office</title>
     <sub-title lang="es">The Office</sub-title>
     <desc lang="es">El brindis de casamiento de Roy, el ex novio de Pam, obliga a Pam y Jim a revisar su relación en búsqueda de secretos enterrados. Dwight protesta tenazmente contra la iniciativa de caridad obligatoria de Nellie defendiendo a los talibanes y aceptando vivir bajo sus leyes estrictas. Clark conquista a Erin ofreciéndole un falso trabajo como conductora de un noticiero; Andy también muerde el anzuelo.</desc>
   </programme>
-  <programme start="20230520190000 -0400" stop="20230520210000 -0400" channel="0823">
+  <programme start="20230520180000 -0400" stop="20230520200000 -0400" channel="0823">
     <title lang="es">El bebé de Bridget Jones</title>
     <sub-title lang="es">El bebé de Bridget Jones</sub-title>
     <desc lang="es">Después de romper con Darcy, Bridget Jones decide centrarse en su trabajo y rodearse de amigos, pero su vida amorosa toma una nueva dirección cuando conoce a Jack. Pronto ella descubre que está embarazada, pero no sabe quién es el padre.</desc>
   </programme>
-  <programme start="20230520210000 -0400" stop="20230520223500 -0400" channel="0823">
+  <programme start="20230520200000 -0400" stop="20230520213500 -0400" channel="0823">
     <title lang="es">Chicas pesadas</title>
     <desc lang="es">Después de crecer en la selva africana con sus padres zoólogos, Cady cree estar preparada para todo, hasta que llega a una escuela pública en los EE UU. Ahí descubrirá que la vida en la ciudad puede ser tan salvaje como la jungla.</desc>
   </programme>
-  <programme start="20230520223500 -0400" stop="20230521002000 -0400" channel="0823">
+  <programme start="20230520213500 -0400" stop="20230520232000 -0400" channel="0823">
     <title lang="es">Ricky Bobby: Loco por la velocidad</title>
     <desc lang="es">El piloto número uno de NASCAR, Ricky Bobby, se mantiene en la cima gracias a un pacto con su mejor amigo y compañero de equipo, Cal Naughton, Jr. Pero pronto el talento y la devoción de Ricky Bobby se pondrán a prueba.</desc>
   </programme>
-  <programme start="20230520223500 -0400" stop="20230521002000 -0400" channel="0823">
-    <title lang="es">Ricky Bobby: Loco por la velocidad</title>
-    <desc lang="es">El piloto número uno de NASCAR, Ricky Bobby, se mantiene en la cima gracias a un pacto con su mejor amigo y compañero de equipo, Cal Naughton, Jr. Pero pronto el talento y la devoción de Ricky Bobby se pondrán a prueba.</desc>
-  </programme>
-  <programme start="20230521002000 -0400" stop="20230521004500 -0400" channel="0823">
+  <programme start="20230520232000 -0400" stop="20230520234500 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">Aunque Kevin está decidido a pasar más tiempo con su familia, su determinación se pone a prueba cuando sus amigos lo sorprenden con entradas para ir a un concierto de su músico favorito, también oriundo de Long Island, Billy Joel.</desc>
   </programme>
-  <programme start="20230521004500 -0400" stop="20230521011000 -0400" channel="0823">
+  <programme start="20230520234500 -0400" stop="20230521001000 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">Cuando Kevin se acerca para ayudar cuando la esposa de Mott se va antes de Navidad, Kyle lo reemplaza en casa.</desc>
   </programme>
-  <programme start="20230521011000 -0400" stop="20230521013500 -0400" channel="0823">
+  <programme start="20230520234500 -0400" stop="20230521001000 -0400" channel="0823">
+    <title lang="es">Kevin puede esperar</title>
+    <sub-title lang="es">Kevin puede esperar</sub-title>
+    <desc lang="es">Cuando Kevin se acerca para ayudar cuando la esposa de Mott se va antes de Navidad, Kyle lo reemplaza en casa.</desc>
+  </programme>
+  <programme start="20230521001000 -0400" stop="20230521003500 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">Cuando Kevin descubre que Chale aceptó un trabajo para comprarle un anillo de compromiso a Kendra, descide reivindicar su promesa de comprarle un anillo formal a Donna, pero su plan sale mal cuando intenta sorprenderla.</desc>
   </programme>
-  <programme start="20230521013500 -0400" stop="20230521020000 -0400" channel="0823">
+  <programme start="20230521003500 -0400" stop="20230521010000 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">Cuando Donna quiere que su piscina sea reubicada bajo el sol, Kevin opta por quitar el enorme árbol del vecino que les hace sombra.</desc>
   </programme>
-  <programme start="20230521020000 -0400" stop="20230521022500 -0400" channel="0823">
+  <programme start="20230521010000 -0400" stop="20230521012500 -0400" channel="0823">
     <title lang="es">Kevin puede esperar</title>
     <sub-title lang="es">Kevin puede esperar</sub-title>
     <desc lang="es">El acto de heroísmo de Kevin (Kevin James) es ensombrecido por el rescate de un gato por parte de Kyle (Gary Valentine) del incendio de un departamento.</desc>
   </programme>
-  <programme start="20230521022500 -0400" stop="20230521025000 -0400" channel="0823">
+  <programme start="20230521012500 -0400" stop="20230521015000 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Cuando Adam y Andi tienen una delicada plática con Teddy y Kate, su extraña forma de abordar el tema incomoda terriblemente a los chicos.</desc>
   </programme>
-  <programme start="20230521025000 -0400" stop="20230521031500 -0400" channel="0823">
+  <programme start="20230521015000 -0400" stop="20230521021500 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Cuando Andi obliga a Adam a salir con Lowell, Don se siente rechazado y Andi tiene que hacer las paces entre ellos. También, la Sra. Rodriguez le revela a Andi que tuvo un sueño sexy acerca de Adam.</desc>
   </programme>
-  <programme start="20230521031500 -0400" stop="20230521034000 -0400" channel="0823">
+  <programme start="20230521021500 -0400" stop="20230521024000 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Cuando la niñera de Adam y Andi cancela en el día de San Valentín, ello sintentan sobrevivir dejando a Kate a cargo de la casa por primera vez. También, Don olvida hacer planes románticos para Marcy e intenta robarse el plan de Adam.</desc>
   </programme>
-  <programme start="20230521034000 -0400" stop="20230521040000 -0400" channel="0823">
+  <programme start="20230521024000 -0400" stop="20230521030000 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Cuando Kate es invitada a salir en su primera cita, Adam no puede ocultar sus métodos sobreprotectores. También, Don pide la ayuda de Lowell para comprarle el regalo perfecto de aniversario a Marcy.</desc>
   </programme>
-  <programme start="20230521040000 -0400" stop="20230521042500 -0400" channel="0823">
+  <programme start="20230521030000 -0400" stop="20230521032500 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Cuando los padres de Adam llegan de visita sin avisar, revelan planes inesperados para su vida futura.</desc>
   </programme>
-  <programme start="20230521042500 -0400" stop="20230521051000 -0400" channel="0823">
+  <programme start="20230521032500 -0400" stop="20230521041000 -0400" channel="0823">
     <title lang="es">El señor Monk</title>
     <sub-title lang="es">El señor Monk</sub-title>
     <desc lang="es">Cuando Natalie sospecha que hubo algo raro en la muerte de los acaudalados vecinos de sus padres, Monk se disfraza de mayordomo para llevar a cabo una investigación.</desc>
   </programme>
-  <programme start="20230521051000 -0400" stop="20230521060000 -0400" channel="0823">
+  <programme start="20230521041000 -0400" stop="20230521050000 -0400" channel="0823">
     <title lang="es">El señor Monk</title>
     <sub-title lang="es">El señor Monk</sub-title>
     <desc lang="es">Monk se enfrenta a un popular locutor de radio sospechoso de haber matado a su esposa.</desc>
   </programme>
-  <programme start="20230521060000 -0400" stop="20230521062500 -0400" channel="0823">
+  <programme start="20230521050000 -0400" stop="20230521052500 -0400" channel="0823">
     <title lang="es">The Millers</title>
     <sub-title lang="es">The Millers</sub-title>
     <desc lang="es">Kip intenta que Carol sea más audaz y la insta a confrontar a su archienemiga en la Escuela Primaria Central¿ en la fiesta de jubilación de la mujer.</desc>
   </programme>
-  <programme start="20230521062500 -0400" stop="20230521065000 -0400" channel="0823">
+  <programme start="20230521052500 -0400" stop="20230521055000 -0400" channel="0823">
     <title lang="es">The Millers</title>
     <sub-title lang="es">The Millers</sub-title>
     <desc lang="es">Cuando Ray dice que Nathan es el peor compañero de seducción del mundo, éste intenta ser un mejor amigo y prestarse menos atención a sí mismo. Además, Debbie y Adam no se ponen de acuerdo acerca de qué es lo mejor para el sustento de su familia.</desc>
   </programme>
-  <programme start="20230521065000 -0400" stop="20230521071500 -0400" channel="0823">
+  <programme start="20230521055000 -0400" stop="20230521061500 -0400" channel="0823">
     <title lang="es">The Millers</title>
     <sub-title lang="es">The Millers</sub-title>
     <desc lang="es">El Papa programa una visita a la ciudad y los planes de Nathan de hacer un informe de una semana se ven obstaculizados cuando Ray recibe una oferta para ser el cameraman de un reportero rival.</desc>
   </programme>
-  <programme start="20230521071500 -0400" stop="20230521074000 -0400" channel="0823">
+  <programme start="20230521061500 -0400" stop="20230521064000 -0400" channel="0823">
     <title lang="es">The Millers</title>
     <sub-title lang="es">The Millers</sub-title>
     <desc lang="es">Los Miller deciden pasar el Día de Acción de Gracias separados por primera vez en la historia, pero reconsideran la nueva tradición familiar cuando todos sus planes individuales para comer el famoso pavo tienen problemas inesperados.</desc>
   </programme>
-  <programme start="20230521074000 -0400" stop="20230521080500 -0400" channel="0823">
+  <programme start="20230521064000 -0400" stop="20230521070500 -0400" channel="0823">
     <title lang="es">The Millers</title>
     <sub-title lang="es">The Millers</sub-title>
     <desc lang="es">Cuando los Miller reciben la visita de su anciana tía Louise, se afanan por ayudarla a descubrir cuál será su legado cuando a ella le preocupa todavía no haber dejado su marca en el mundo.</desc>
   </programme>
-  <programme start="20230521080500 -0400" stop="20230521083000 -0400" channel="0823">
+  <programme start="20230521070500 -0400" stop="20230521073000 -0400" channel="0823">
     <title lang="es">30 Rock</title>
     <sub-title lang="es">30 Rock</sub-title>
     <desc lang="es">Jack informa a Liz, Tracy y Jenna que TGS debe hacer ajustes inmediatos para volverse más atractivo. En un esfuerzo por hacer su parte, Jenna decide renovar su imagen, mientras Tracy intenta volver a ponerse en contacto con el hombre común. Mientras tanto, Jack envía a Liz y Pete en una misión para conseguir nuevos talentos para TGS, y Kenneth lidera una huelga de empleados.</desc>
   </programme>
-  <programme start="20230521083000 -0400" stop="20230521085500 -0400" channel="0823">
+  <programme start="20230521073000 -0400" stop="20230521075500 -0400" channel="0823">
     <title lang="es">30 Rock</title>
     <sub-title lang="es">30 Rock</sub-title>
     <desc lang="es">Cuando Devin regresa para planear una venganza contra Jack, éste necesita encontrar una manera de proteger la compañía y su propio trabajo. Mientras tanto, Tracy y Jenna tienen buenas razones para estar enojados con Liz y están decididos a hacerle la vida imposible. Liz debe encontrar el modo de recuperar el orden en su vida y también en el programa. Fuera del estudio, Kenneth dedica parte de su tiempo a hacer trabajo voluntario en un refugio para animales.</desc>
   </programme>
-  <programme start="20230521085500 -0400" stop="20230521092000 -0400" channel="0823">
+  <programme start="20230521075500 -0400" stop="20230521082000 -0400" channel="0823">
     <title lang="es">30 Rock</title>
     <sub-title lang="es">30 Rock</sub-title>
     <desc lang="es">Liz y Jack van al pueblo natal de Kenneth en el sur para descubrir nuevos talentos. Jenna intenta hacerse amiga de los guionistas para asentar su lugar en TGS antes de que el nuevo miembro del elenco sea contratado. Mientras tanto, Tracy teme por su vida cuando dos celebridades mueren y cree que él será el próximo en irse de este mundo.</desc>
   </programme>
-  <programme start="20230521092000 -0400" stop="20230521094500 -0400" channel="0823">
+  <programme start="20230521082000 -0400" stop="20230521084500 -0400" channel="0823">
     <title lang="es">30 Rock</title>
     <sub-title lang="es">30 Rock</sub-title>
     <desc lang="es">Mientras Liz y Pete tratan de manipular la audición, Tracy y Jenna deciden que lo menor es hacer su propia búsqueda de un nuevo actor para TGS. En medio del caos de la audición, Jack se enfrenta a un problema más personal.</desc>
   </programme>
-  <programme start="20230521094500 -0400" stop="20230521101000 -0400" channel="0823">
+  <programme start="20230521084500 -0400" stop="20230521091000 -0400" channel="0823">
     <title lang="es">The Unicorn</title>
     <sub-title lang="es">The Unicorn</sub-title>
     <desc lang="es">Wade convence a Forrest de seguir sus consejos en relación a su carrera y los resultados son desastrosos. Ben tiene una oportunidad lucrativa para su empresa, pero Michelle se siente incómoda con el éxito.</desc>
   </programme>
-  <programme start="20230521101000 -0400" stop="20230521103500 -0400" channel="0823">
+  <programme start="20230521091000 -0400" stop="20230521093500 -0400" channel="0823">
     <title lang="es">The Unicorn</title>
     <sub-title lang="es">The Unicorn</sub-title>
     <desc lang="es">Cuando Wade tiene una mala cita con la madre de la amiga de Natalie, Natalie termina pagando el pato. Forrest encuentra maneras inusuales de ocupar su tiempo cuando está desempleado, y Ben tiene un conflicto con el entrenador de básquet de su hija Sahai (Princess K. Mapp).</desc>
   </programme>
-  <programme start="20230521103500 -0400" stop="20230521112500 -0400" channel="0823">
+  <programme start="20230521093500 -0400" stop="20230521102500 -0400" channel="0823">
     <title lang="es">El señor Monk</title>
     <sub-title lang="es">El señor Monk</sub-title>
     <desc lang="es">Cuando el Tte. Disher hereda una granja de un tío que se suicida, decide dejar las fuerzas policiales y comenzar una nueva vida en el campo. Sin embargo, Disher pronto sospecha que a su tío lo mataron; así que Monk se une a él para llevar a cabo una investigación.</desc>
   </programme>
-  <programme start="20230521112500 -0400" stop="20230521121000 -0400" channel="0823">
+  <programme start="20230521102500 -0400" stop="20230521111000 -0400" channel="0823">
     <title lang="es">El señor Monk</title>
     <sub-title lang="es">El señor Monk</sub-title>
     <desc lang="es">El misterioso asesino de los seis métodos ataca en San Francisco. Las habilidades detectivescas de Monk compiten frente a la tecnología forense de un agente federal.</desc>
   </programme>
-  <programme start="20230521121000 -0400" stop="20230521130000 -0400" channel="0823">
+  <programme start="20230521111000 -0400" stop="20230521120000 -0400" channel="0823">
     <title lang="es">El señor Monk</title>
     <sub-title lang="es">El señor Monk</sub-title>
     <desc lang="es">Monk acude a la sala de urgencias por un sangrado nasal, pero cuando su doctor aparece muerto, Monk se une a la investigación de asesinato y, pronto, su propia vida peligra.</desc>
   </programme>
-  <programme start="20230521130000 -0400" stop="20230521134500 -0400" channel="0823">
+  <programme start="20230521120000 -0400" stop="20230521124500 -0400" channel="0823">
     <title lang="es">El señor Monk</title>
     <sub-title lang="es">El señor Monk</sub-title>
     <desc lang="es">La mayor fan de Monk es acusada de un extraño crimen y ella recurre a su ídolo en busca de ayuda.</desc>
   </programme>
-  <programme start="20230521134500 -0400" stop="20230521143000 -0400" channel="0823">
+  <programme start="20230521124500 -0400" stop="20230521133000 -0400" channel="0823">
     <title lang="es">El señor Monk</title>
     <sub-title lang="es">El señor Monk</sub-title>
     <desc lang="es">Monk ayuda a un rapero famoso a limpiar su nombre tras ser acusado de asesinato.</desc>
   </programme>
-  <programme start="20230521143000 -0400" stop="20230521151500 -0400" channel="0823">
+  <programme start="20230521133000 -0400" stop="20230521141500 -0400" channel="0823">
     <title lang="es">El señor Monk</title>
     <sub-title lang="es">El señor Monk</sub-title>
     <desc lang="es">El Sr. Monk y el hombre desnudo.</desc>
   </programme>
-  <programme start="20230521151500 -0400" stop="20230521160000 -0400" channel="0823">
+  <programme start="20230521141500 -0400" stop="20230521150000 -0400" channel="0823">
     <title lang="es">El señor Monk</title>
     <sub-title lang="es">El señor Monk</sub-title>
     <desc lang="es">El detective sospecha que la novia del capitán Stottlemeyer, Linda, podría ser una asesina.</desc>
   </programme>
-  <programme start="20230521160000 -0400" stop="20230521162500 -0400" channel="0823">
+  <programme start="20230521150000 -0400" stop="20230521152500 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Cuando Adam requiere contratar a un nuevo líder de proyectos, Andi lo acusa de ser un inconsciente tendencioso por entrevistar sólo a hombres para el puesto. Además, Andi ayuda a Kate a luchar para obtener un lugar en el equipo masculino de soccer en la escuela.</desc>
   </programme>
-  <programme start="20230521162500 -0400" stop="20230521165000 -0400" channel="0823">
+  <programme start="20230521152500 -0400" stop="20230521155000 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Después de que Adam se haya distanciado de la mayoría de los vecinos, Andi sugiere que comiencen de nuevo con los nuevos vecinos, Joy y Rudy, que se acaban de mudar.</desc>
   </programme>
-  <programme start="20230521165000 -0400" stop="20230521171500 -0400" channel="0823">
+  <programme start="20230521155000 -0400" stop="20230521161500 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Adam y Andi experimentan problemas de dinero y se enfrentan a gastos inesperados: Teddy necesita anteojos y Kate necesita aparatos ortopédicos. Los dos hacen un presupuesto y deciden renunciar a algunos lujos, principalmente la suscripción de deportes por cable de Adam, lo que tiene molestos a Don, Joe y Lowell porque siempre están en su casa viendo los juegos. Más tarde, Adam obliga a Andi a renunciar a su costosa peluquería, después de que Joe descubre que ella lo tenía catalogado como una necesidad, no como un lujo.</desc>
   </programme>
-  <programme start="20230521171500 -0400" stop="20230521174000 -0400" channel="0823">
+  <programme start="20230521161500 -0400" stop="20230521164000 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Cuando Adam lleva al trabajo a sus niños, ellos le contagian piojos accidentalmente. Además, Andi se siente una mala madre al ser ella la única en la familia en no tener piojos.</desc>
   </programme>
-  <programme start="20230521174000 -0400" stop="20230521180500 -0400" channel="0823">
+  <programme start="20230521164000 -0400" stop="20230521170500 -0400" channel="0823">
     <title lang="es">Un hombre. Un plan</title>
     <sub-title lang="es">Un hombre. Un plan</sub-title>
     <desc lang="es">Cuando Adam nota que su padre tiene un comportamiento de falta memoria que va en aumento, él busca la manera adecuada para abordar el tema.</desc>
   </programme>
-  <programme start="20230521180500 -0400" stop="20230521183000 -0400" channel="0823">
+  <programme start="20230521170500 -0400" stop="20230521173000 -0400" channel="0823">
     <title lang="es">The Office</title>
     <sub-title lang="es">The Office</sub-title>
     <desc lang="es">Darryl pasa un momento difícil en su nuevo puesto de asistente del gerente regional cuando Andy hace alarde de su carácter sangriento. Dwight enseña a Erin el lenguaje Dothraki para impresionar a la muy culta familia de su novio. Nellie intenta convencer a Pam de que Jim tiene una amante; Jim confiesa su secreto en el depósito.</desc>
   </programme>
-  <programme start="20230521183000 -0400" stop="20230521185500 -0400" channel="0823">
+  <programme start="20230521173000 -0400" stop="20230521175500 -0400" channel="0823">
     <title lang="es">The Office</title>
     <sub-title lang="es">The Office</sub-title>
     <desc lang="es">Cuando Jim convence a Dwight de que el edificio es inseguro, Dwight alquila un autobús y monta su oficina allí adentro. Nellie le pide a Andy que la ayude a adoptar un bebe. Mientras tanto, Jim busca alegrar a Pam con una porción de torta.</desc>
   </programme>
-  <programme start="20230521185500 -0400" stop="20230521192000 -0400" channel="0823">
+  <programme start="20230521175500 -0400" stop="20230521182000 -0400" channel="0823">
     <title lang="es">The Office</title>
     <sub-title lang="es">The Office</sub-title>
     <desc lang="es">Es Noche de Brujas y Andy invita al coro universitario que canta a capella; esto lo lleva a enfrentarse con su amigo\/enemigo Brócoli Rob. Mientras tanto, Dwight encuentra pruebas de que hay un loco suelto en la oficina y quiere encontrarlo; la primera reunión en el nuevo trabajo de Jim genera una pelea con Pam.</desc>
   </programme>
-  <programme start="20230521192000 -0400" stop="20230521194500 -0400" channel="0823">
+  <programme start="20230521182000 -0400" stop="20230521184500 -0400" channel="0823">
     <title lang="es">The Office</title>
     <sub-title lang="es">The Office</sub-title>
     <desc lang="es">Andy debe hacerse hombre cuando su padre gasta todo el dinero de la familia. Entrevistan a Dwight en una radio local; Jim y el resto de la oficina lo torturan con extrañas llamadas telefónicas. Mientras tanto, Kevin descubre un secreto sobre Oscar, y lucha por conservarlo mientras el destino de Oscar pende de un hilo.</desc>
   </programme>
-  <programme start="20230521194500 -0400" stop="20230521201000 -0400" channel="0823">
+  <programme start="20230521184500 -0400" stop="20230521191000 -0400" channel="0823">
     <title lang="es">The Office</title>
     <sub-title lang="es">The Office</sub-title>
     <desc lang="es">Dwight debe concretar una venta con una mujer en la lucrativa Scranton White Pages, y Pam junto a las señoras le enseñan a interactuar con las clientas. Mientras tanto, Ángela sospecha que el Senador la engaña y empieza a espiarlo durante sus clases de yoga. Mientras tanto, Andy habla por Skype desde su barco; Toby convence a varios muchachos de la oficina de que se dejen crecer el bigote en honor a \"Movember.</desc>
   </programme>
-  <programme start="20230521201000 -0400" stop="20230521203500 -0400" channel="0823">
+  <programme start="20230521191000 -0400" stop="20230521193500 -0400" channel="0823">
     <title lang="es">The Office</title>
     <sub-title lang="es">The Office</sub-title>
     <desc lang="es">Ángela descubre el romance de su esposo con Oscar y acude a Dwight para que la ayude. Mientras tanto, Jim pide un favor a Stanley y Phyllis que le sacará buen provecho, y Pam comienza a pintar su mural en el depósito pero se distrae con Pete que está armando una torre con cartas de reclamos.</desc>
   </programme>
-  <programme start="20230521203500 -0400" stop="20230521210000 -0400" channel="0823">
+  <programme start="20230521193500 -0400" stop="20230521200000 -0400" channel="0823">
     <title lang="es">Señor alcalde</title>
     <sub-title lang="es">Señor alcalde</sub-title>
     <desc lang="es">Después de visitar un dispensario de marihuana para apoyar su plan de legalización, las cosas le salen mal al alcalde Neil Bremer.</desc>
   </programme>
-  <programme start="20230521210000 -0400" stop="20230521212500 -0400" channel="0823">
+  <programme start="20230521200000 -0400" stop="20230521202500 -0400" channel="0823">
     <title lang="es">Rutherford Falls</title>
     <sub-title lang="es">Rutherford Falls</sub-title>
     <desc lang="es">Nathan trata de procesar su historia familiar. A Reagan le cuesta encontrar personal para su nuevo centro cultural.</desc>
   </programme>
-  <programme start="20230521212500 -0400" stop="20230521214500 -0400" channel="0823">
+  <programme start="20230521202500 -0400" stop="20230521204500 -0400" channel="0823">
     <title lang="es">Ghosts</title>
     <sub-title lang="es">Ghosts</sub-title>
     <desc lang="es">Una joven pareja hereda una hermosa casa de campo y luego se encuentra con que está habitada por los fantasmas.</desc>
   </programme>
-  <programme start="20230521214500 -0400" stop="20230521221000 -0400" channel="0823">
+  <programme start="20230521204500 -0400" stop="20230521211000 -0400" channel="0823">
     <title lang="es">Dr. Ken</title>
     <sub-title lang="es">Dr. Ken</sub-title>
     <desc lang="es">Ken queda pasmado cuando se entera de que el ex novio de Allison es un médico coreano muy apuesto y exitoso. Entretanto, Damona ayuda a Julie con el manejo de las redes.</desc>
   </programme>
-  <programme start="20230521221000 -0400" stop="20230521224000 -0400" channel="0823">
+  <programme start="20230521211000 -0400" stop="20230521214000 -0400" channel="0823">
     <title lang="es">Upright</title>
     <sub-title lang="es">Upright</sub-title>
     <desc lang="es">Lucky la pasa mal sin su medicación ansiolítica. Mientras espera que abra la farmacia en Port Augusta, Meg se pelea con unos motoqueros en el bar.</desc>
   </programme>
-  <programme start="20230521224000 -0400" stop="20230522001500 -0400" channel="0823">
+  <programme start="20230521214000 -0400" stop="20230521231500 -0400" channel="0823">
     <title lang="es">Chicas pesadas</title>
     <desc lang="es">Después de crecer en la selva africana con sus padres zoólogos, Cady cree estar preparada para todo, hasta que llega a una escuela pública en los EE UU. Ahí descubrirá que la vida en la ciudad puede ser tan salvaje como la jungla.</desc>
+  </programme>
+  <programme start="20230521231500 -0400" stop="20230521234000 -0400" channel="0823">
+    <title lang="es">La extraña pareja</title>
+    <sub-title lang="es">La extraña pareja</sub-title>
+    <desc lang="es">Oscar se obsesiona con estar a la altura de los estándares de vida de Murph cuando se entera de que la chica con la que sale solía salir con el apuesto ex jugador de béisbol.</desc>
+  </programme>
+  <programme start="20230521234000 -0400" stop="20230522000500 -0400" channel="0823">
+    <title lang="es">La extraña pareja</title>
+    <sub-title lang="es">La extraña pareja</sub-title>
+    <desc lang="es">Cuando el Servicio de Impuestos de Estados Unidos decide inspeccionar las finanzas de Oscar y a su ex esposa, Gaby, Félix ofrece mediar entre los conflictivos ex cuando se da cuenta de que él podría ser el motivo por el cual quieren auditar a Oscar, en el último episodio de la temporada.</desc>
   </programme>
   <programme start="20230519231500 -0400" stop="20230520000500 -0400" channel="0824">
     <title lang="es">Casado con el enemigo</title>
