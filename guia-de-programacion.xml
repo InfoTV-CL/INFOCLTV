@@ -18665,6 +18665,9 @@
   <programme start="20230523030000 -0400" stop="20230523070000 -0400" channel="0507">
     <title lang="es">Gold! Greatest Hits Of The 80s</title>
   </programme>
+  <programme start="20230523110000 -0400" stop="20230523130000 -0400" channel="0507">
+    <title lang="es">Forever 80s</title>
+  </programme>
   <programme start="20230523130000 -0400" stop="20230523150000 -0400" channel="0507">
     <title lang="es">Electric 80s</title>
   </programme>
@@ -19155,6 +19158,9 @@
   </programme>
   <programme start="20230523110000 -0400" stop="20230523123000 -0400" channel="0522">
     <title lang="es">Euro Chart Of The 10s! Top 20</title>
+  </programme>
+  <programme start="20230523130000 -0400" stop="20230523140000 -0400" channel="0522">
+    <title lang="es">Global Beats</title>
   </programme>
   <programme start="20230523140000 -0400" stop="20230523144500 -0400" channel="0522">
     <title lang="es">Gonzo with Jack Saunders</title>
@@ -20763,8 +20769,8 @@
     <desc lang="es">Un espacio que presenta los videos más destacados sobre grupero, pop, urbano, salsa y bachata. Los amantes de la música podrán disfrutar de los últimos lanzamientos, tendencias y artistas más importantes.</desc>
   </programme>
   <programme start="20230525030000 -0400" stop="20230525040000 -0400" channel="0536">
-    <title lang="es">Fútbol al día (?)</title>
-    <desc lang="es">No hay información disponible.</desc>
+    <title lang="es">Fútbol al día</title>
+    <desc lang="es">Un espacio lleno de tradición donde nos cuentan las polémicas y controversias que se viven en el fútbol. El presentador nos da su punto de vista desde donde sea necesario para tener los reportajes y perspectiva de todos los involucrados.</desc>
   </programme>
   <programme start="20230522000000 -0400" stop="20230522020000 -0400" channel="0537">
     <title lang="es">Música K-POP</title>
@@ -21067,7 +21073,7 @@
     <desc lang="es">No hay información disponible.</desc>
   </programme>
   <programme start="20230524140000 -0400" stop="20230524142500 -0400" channel="0539">
-    <title lang="es">Ídolos (?)</title>
+    <title lang="es">Ídolos</title>
     <desc lang="es">No hay información disponible.</desc>
   </programme>
   <programme start="20230524142500 -0400" stop="20230524155000 -0400" channel="0539">
@@ -27432,14 +27438,16 @@
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230523073000 -0400" stop="20230523080000 -0400" channel="0801">
-    <title lang="es">Infomercial (?)</title>
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230523080000 -0400" stop="20230523083000 -0400" channel="0801">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230523083000 -0400" stop="20230523090000 -0400" channel="0801">
-    <title lang="es">Infomercial (?)</title>
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230523090000 -0400" stop="20230523100000 -0400" channel="0801">
     <title lang="es">Infomercial</title>
@@ -28947,7 +28955,8 @@
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230523090000 -0400" stop="20230523093000 -0400" channel="0809">
-    <title lang="es">Infomercial (?)</title>
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230523093000 -0400" stop="20230523100000 -0400" channel="0809">
     <title lang="es">Infomercial</title>
@@ -32115,171 +32124,279 @@
     <desc lang="es">Dos amantes adolescentes caen bajo sospecha cuando alguien cercano a ellos encuentra un final mortal.</desc>
   </programme>
   <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Casado con el enemigo</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Hermanos asesinos</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Hermanos asesinos</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Hermanos asesinos</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Enterrados en el jardín</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Enterrados en el jardín</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">El sospechoso</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Matar me hizo famoso</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Matar me hizo famoso</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Parejas asesinas</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Parejas asesinas</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Casado con el enemigo</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Casado con el enemigo</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Hermanos asesinos</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Hermanos asesinos</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Enterrados en el jardín</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Enterrados en el jardín</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">It Takes a Killer</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Parejas asesinas</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Parejas asesinas</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Hermanos asesinos</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">El sospechoso</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Matar me hizo famoso</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Matar me hizo famoso</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Un motivo para matar</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">It Takes a Killer</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">It Takes a Killer</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Centro de crisis 911</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Casado con el enemigo</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Casado con el enemigo</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Casado con el enemigo</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Centro de crisis 911</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Centro de crisis 911</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Voz de un homicida en serie</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Enterrados en el jardín</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Enterrados en el jardín</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Un motivo para matar</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Matar me hizo famoso</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Matar me hizo famoso</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Parejas asesinas</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Parejas asesinas</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Casado con el enemigo</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Casado con el enemigo</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Centro de crisis 911</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Voz de un homicida en serie</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Enterrados en el jardín</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">Enterrados en el jardín</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
-    <title lang="es">It Takes a Killer</title>
-  </programme>
-  <programme start="20230522083000 -0400" stop="20230522092000 -0400" channel="0824">
     <title lang="es">Parejas asesinas</title>
     <sub-title lang="es">Parejas asesinas</sub-title>
     <desc lang="es">Un hombre solitario que anhela afecto encuentra la atención que necesita en una persona extraña, pero su deseo tiene repercusiones letales.</desc>
+  </programme>
+  <programme start="20230522092000 -0400" stop="20230522094500 -0400" channel="0824">
+    <title lang="es">It Takes a Killer</title>
+    <sub-title lang="es">It Takes a Killer</sub-title>
+    <desc lang="es">Cuando una mujer amigable sin un solo enemigo en el mundo es brutalmente asesinada en su hogar de Luisiana, la policía sospecha que el homicida es un examante. Pero después de dos años de investigación, y una serie de informantes, los investigadores descubren la verdad.</desc>
+  </programme>
+  <programme start="20230522094500 -0400" stop="20230522103000 -0400" channel="0824">
+    <title lang="es">Enterrados en el jardín</title>
+    <sub-title lang="es">Enterrados en el jardín</sub-title>
+    <desc lang="es">Después de que se descubre el cuerpo de una joven madre desaparecida en una tumba poco profunda detrás de su propia casa, la policía debe investigar las complicadas relaciones de su pasado y presente para identificar un motivo y localizar a su asesino.</desc>
+  </programme>
+  <programme start="20230522103000 -0400" stop="20230522112000 -0400" channel="0824">
+    <title lang="es">Enterrados en el jardín</title>
+    <sub-title lang="es">Enterrados en el jardín</sub-title>
+    <desc lang="es">Después de que un propietario descubre un cadáver enterrado dentro de un barril debajo de su casa, los detectives deben reconstruir minuciosamente una serie de pistas ocultas para localizar a un asesino que pensó que había cometido el asesinato perfecto.</desc>
+  </programme>
+  <programme start="20230522112000 -0400" stop="20230522121000 -0400" channel="0824">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Accidente, suicidio, o asesinato</sub-title>
+    <desc lang="es">Un viaje de fin de semana a un albergue de Alaska se vuelve mortal para una joven madre cuando su novio la asesina a tiros.</desc>
+  </programme>
+  <programme start="20230522121000 -0400" stop="20230522125500 -0400" channel="0824">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Accidente, suicidio, o asesinato</sub-title>
+    <desc lang="es">Un pastor hace una llamada frenética al 911, suplicando ayuda para salvar a su prometida, quien dice que acaba de suicidarse.</desc>
+  </programme>
+  <programme start="20230522125500 -0400" stop="20230522134500 -0400" channel="0824">
+    <title lang="es">Voz de un homicida en serie</title>
+    <sub-title lang="es">Voz de un homicida en serie</sub-title>
+    <desc lang="es">El Comandante de una base militar de la fuerza aérea canadiense, que llevó una doble vida secreta como un sádico doble asesino.</desc>
+  </programme>
+  <programme start="20230522134500 -0400" stop="20230522141000 -0400" channel="0824">
+    <title lang="es">Centro de crisis 911</title>
+    <sub-title lang="es">Centro de crisis 911</sub-title>
+    <desc lang="es">Essence Sullins, operadora del 911, y el equipo del turno nocturno atienden llamadas de emergencia sin parar de 6 de la tarde a 6 de la mañana, incluida una llamada que se conecta con alguien de la familia de Essence.</desc>
+  </programme>
+  <programme start="20230522141000 -0400" stop="20230522150000 -0400" channel="0824">
+    <title lang="es">Casado con el enemigo</title>
+    <sub-title lang="es">Casado con el enemigo</sub-title>
+    <desc lang="es">Luther es el hijo de un ministro que se enamora perdidamente de Anita, la hija de un pastor. Con amor y fe, hacen que funcione hasta agotarse y el aplastante golpe del fracaso convierte el cielo en la tierra en un infierno sangriento.</desc>
+  </programme>
+  <programme start="20230522150000 -0400" stop="20230522155000 -0400" channel="0824">
+    <title lang="es">Casado con el enemigo</title>
+    <sub-title lang="es">Casado con el enemigo</sub-title>
+    <desc lang="es">La historia de amor de Tom y Lynette abarca décadas desde la escuela primaria hasta una casa elegante con piscina. Pero oscuros secretos del dormitorio se esparcen sobre otros aspectos del matrimonio.</desc>
+  </programme>
+  <programme start="20230522155000 -0400" stop="20230522163500 -0400" channel="0824">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Parejas asesinas</sub-title>
+    <desc lang="es">Dos amantes adolescentes caen bajo sospecha cuando alguien cercano a ellos encuentra un final mortal.</desc>
+  </programme>
+  <programme start="20230522163500 -0400" stop="20230522172000 -0400" channel="0824">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Parejas asesinas</sub-title>
+    <desc lang="es">Un hombre solitario que anhela afecto encuentra la atención que necesita en una persona extraña, pero su deseo tiene repercusiones letales.</desc>
+  </programme>
+  <programme start="20230522172000 -0400" stop="20230522181000 -0400" channel="0824">
+    <title lang="es">Matar me hizo famoso</title>
+    <sub-title lang="es">Matar me hizo famoso</sub-title>
+    <desc lang="es">Asesinato. Violación. Mutilación. Agosto de 1990. Después de 675 sospechosos y miles de pruebas, todo se redujo a un solo hombre: Danny Rolling. Tres años después de cinco brutales e inquietantes asesinatos en Gainesville, Florida, Danny Rolling es llamado a juicio.</desc>
+  </programme>
+  <programme start="20230522181000 -0400" stop="20230522190000 -0400" channel="0824">
+    <title lang="es">Matar me hizo famoso</title>
+    <sub-title lang="es">Matar me hizo famoso</sub-title>
+    <desc lang="es">El asesino que puso de rodillas a la ciudad de Nueva York, David Berkowitz, cometió una matanza que se extendió durante un año, matando a seis personas en 1976. Sus víctimas fueron principalmente mujeres de cabello oscuro y largo, lo que llevó a muchas mujeres en la ciudad de Nueva York a cortarse el cabello y teñírselo de rubio.</desc>
+  </programme>
+  <programme start="20230522190000 -0400" stop="20230522194500 -0400" channel="0824">
+    <title lang="es">Un motivo para matar</title>
+    <sub-title lang="es">Un motivo para matar</sub-title>
+    <desc lang="es">La policía busca a un pistolero de aspecto extraño que fue visto huyendo después de matar a tiros a una joven madre y descubren a un inesperado sospechoso con un motivo imposible de comprender.</desc>
+  </programme>
+  <programme start="20230522194500 -0400" stop="20230522203000 -0400" channel="0824">
+    <title lang="es">Enterrados en el jardín</title>
+    <sub-title lang="es">Enterrados en el jardín</sub-title>
+    <desc lang="es">Después de que se descubre el cuerpo de una joven madre desaparecida en una tumba poco profunda detrás de su propia casa, la policía debe investigar las complicadas relaciones de su pasado y presente para identificar un motivo y localizar a su asesino.</desc>
+  </programme>
+  <programme start="20230522203000 -0400" stop="20230522211500 -0400" channel="0824">
+    <title lang="es">Enterrados en el jardín</title>
+    <sub-title lang="es">Enterrados en el jardín</sub-title>
+    <desc lang="es">Después de que un propietario descubre un cadáver enterrado dentro de un barril debajo de su casa, los detectives deben reconstruir minuciosamente una serie de pistas ocultas para localizar a un asesino que pensó que había cometido el asesinato perfecto.</desc>
+  </programme>
+  <programme start="20230522211500 -0400" stop="20230522220500 -0400" channel="0824">
+    <title lang="es">Voz de un homicida en serie</title>
+    <sub-title lang="es">Voz de un homicida en serie</sub-title>
+    <desc lang="es">El Comandante de una base militar de la fuerza aérea canadiense, que llevó una doble vida secreta como un sádico doble asesino.</desc>
+  </programme>
+  <programme start="20230522220500 -0400" stop="20230522223000 -0400" channel="0824">
+    <title lang="es">Centro de crisis 911</title>
+    <sub-title lang="es">Centro de crisis 911</sub-title>
+    <desc lang="es">Essence Sullins, operadora del 911, y el equipo del turno nocturno atienden llamadas de emergencia sin parar de 6 de la tarde a 6 de la mañana, incluida una llamada que se conecta con alguien de la familia de Essence.</desc>
+  </programme>
+  <programme start="20230522223000 -0400" stop="20230522225500 -0400" channel="0824">
+    <title lang="es">Centro de crisis 911</title>
+    <sub-title lang="es">Centro de crisis 911</sub-title>
+    <desc lang="es">La veterana despachadora del 911, Christine Mazzeo, en su último turno en el CVD, debe evadir el caos del Día de San Patricio y despedirse de la familia con la que ha trabajado en las buenas y en las malas durante 12 años.</desc>
+  </programme>
+  <programme start="20230522225500 -0400" stop="20230522234500 -0400" channel="0824">
+    <title lang="es">Casado con el enemigo</title>
+    <sub-title lang="es">Casado con el enemigo</sub-title>
+    <desc lang="es">Luther es el hijo de un ministro que se enamora perdidamente de Anita, la hija de un pastor. Con amor y fe, hacen que funcione hasta agotarse y el aplastante golpe del fracaso convierte el cielo en la tierra en un infierno sangriento.</desc>
+  </programme>
+  <programme start="20230522234500 -0400" stop="20230523003500 -0400" channel="0824">
+    <title lang="es">Casado con el enemigo</title>
+    <sub-title lang="es">Casado con el enemigo</sub-title>
+    <desc lang="es">La historia de amor de Tom y Lynette abarca décadas desde la escuela primaria hasta una casa elegante con piscina. Pero oscuros secretos del dormitorio se esparcen sobre otros aspectos del matrimonio.</desc>
+  </programme>
+  <programme start="20230522234500 -0400" stop="20230523003500 -0400" channel="0824">
+    <title lang="es">Casado con el enemigo</title>
+    <sub-title lang="es">Casado con el enemigo</sub-title>
+    <desc lang="es">La historia de amor de Tom y Lynette abarca décadas desde la escuela primaria hasta una casa elegante con piscina. Pero oscuros secretos del dormitorio se esparcen sobre otros aspectos del matrimonio.</desc>
+  </programme>
+  <programme start="20230523003500 -0400" stop="20230523010000 -0400" channel="0824">
+    <title lang="es">Centro de crisis 911</title>
+    <sub-title lang="es">Centro de crisis 911</sub-title>
+    <desc lang="es">La veterana despachadora del 911, Christine Mazzeo, en su último turno en el CVD, debe evadir el caos del Día de San Patricio y despedirse de la familia con la que ha trabajado en las buenas y en las malas durante 12 años.</desc>
+  </programme>
+  <programme start="20230523010000 -0400" stop="20230523012500 -0400" channel="0824">
+    <title lang="es">It Takes a Killer</title>
+    <sub-title lang="es">It Takes a Killer</sub-title>
+    <desc lang="es">Cuando una mujer amigable sin un solo enemigo en el mundo es brutalmente asesinada en su hogar de Luisiana, la policía sospecha que el homicida es un examante. Pero después de dos años de investigación, y una serie de informantes, los investigadores descubren la verdad.</desc>
+  </programme>
+  <programme start="20230523012500 -0400" stop="20230523015000 -0400" channel="0824">
+    <title lang="es">It Takes a Killer</title>
+    <sub-title lang="es">It Takes a Killer</sub-title>
+    <desc lang="es">Un propietario británico le ofrece alojamiento gratis a una mujer \"justiciera\" para que se encargue de sus inquilinos problemáticos. El único problema es que la mujer termina matando a un inquilino y al propio propietario. Esta mujer mata por deporte, y sigue en busca de víctimas para satisfacer su sed de sangre hasta que la policía la encuentra y la lleva a ella y a sus desventurados socios ante la justicia.</desc>
+  </programme>
+  <programme start="20230523015000 -0400" stop="20230523024000 -0400" channel="0824">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Accidente, suicidio, o asesinato</sub-title>
+    <desc lang="es">Un viaje de fin de semana a un albergue de Alaska se vuelve mortal para una joven madre cuando su novio la asesina a tiros.</desc>
+  </programme>
+  <programme start="20230523024000 -0400" stop="20230523033000 -0400" channel="0824">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Accidente, suicidio, o asesinato</sub-title>
+    <desc lang="es">Un pastor hace una llamada frenética al 911, suplicando ayuda para salvar a su prometida, quien dice que acaba de suicidarse.</desc>
+  </programme>
+  <programme start="20230523033000 -0400" stop="20230523042000 -0400" channel="0824">
+    <title lang="es">Un motivo para matar</title>
+    <sub-title lang="es">Un motivo para matar</sub-title>
+    <desc lang="es">La policía busca a un pistolero de aspecto extraño que fue visto huyendo después de matar a tiros a una joven madre y descubren a un inesperado sospechoso con un motivo imposible de comprender.</desc>
+  </programme>
+  <programme start="20230523042000 -0400" stop="20230523051000 -0400" channel="0824">
+    <title lang="es">Matar me hizo famoso</title>
+    <sub-title lang="es">Matar me hizo famoso</sub-title>
+    <desc lang="es">Asesinato. Violación. Mutilación. Agosto de 1990. Después de 675 sospechosos y miles de pruebas, todo se redujo a un solo hombre: Danny Rolling. Tres años después de cinco brutales e inquietantes asesinatos en Gainesville, Florida, Danny Rolling es llamado a juicio.</desc>
+  </programme>
+  <programme start="20230523051000 -0400" stop="20230523060000 -0400" channel="0824">
+    <title lang="es">Matar me hizo famoso</title>
+    <sub-title lang="es">Matar me hizo famoso</sub-title>
+    <desc lang="es">El asesino que puso de rodillas a la ciudad de Nueva York, David Berkowitz, cometió una matanza que se extendió durante un año, matando a seis personas en 1976. Sus víctimas fueron principalmente mujeres de cabello oscuro y largo, lo que llevó a muchas mujeres en la ciudad de Nueva York a cortarse el cabello y teñírselo de rubio.</desc>
+  </programme>
+  <programme start="20230523060000 -0400" stop="20230523064500 -0400" channel="0824">
+    <title lang="es">El sospechoso</title>
+    <sub-title lang="es">El sospechoso</sub-title>
+    <desc lang="es">Dennis Oland se encuentra en una de las prisiones de máxima seguridad más notorias de Canadá, cumpliendo cadena perpetua por la violenta muerte de su padre, el multimillonario Richard Oland, famoso por la cervecería Moosehead Brewing. Insiste en que él no lo hizo.</desc>
+  </programme>
+  <programme start="20230523064500 -0400" stop="20230523073000 -0400" channel="0824">
+    <title lang="es">Hermanos asesinos</title>
+    <sub-title lang="es">Hermanos asesinos</sub-title>
+    <desc lang="es">Cuando se encuentra el cuerpo de una mujer joven en una camioneta incendiada, los investigadores desentrañan un complot mortal.</desc>
+  </programme>
+  <programme start="20230523073000 -0400" stop="20230523082000 -0400" channel="0824">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Parejas asesinas</sub-title>
+    <desc lang="es">La traición de una esposa deja a su celoso esposo con sed de venganza, y las consecuencias son mortales.</desc>
+  </programme>
+  <programme start="20230523082000 -0400" stop="20230523090500 -0400" channel="0824">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Parejas asesinas</sub-title>
+    <desc lang="es">Dos adolescentes fugitivos quedan atrapados en una investigación de homicidio cuando alguien que desaprobaba su relación es descubierto asesinado.</desc>
+  </programme>
+  <programme start="20230523090500 -0400" stop="20230523093000 -0400" channel="0824">
+    <title lang="es">It Takes a Killer</title>
+    <sub-title lang="es">It Takes a Killer</sub-title>
+    <desc lang="es">Un asesino serial autodidacta recorre el país en direcciones indeterminadas eligiendo víctimas al azar y matándolas con armas y herramientas que lleva consigo a las que denomina su \"kit para matar\". La policía no tiene idea de las acciones del desquiciado hasta que él rompe sus propias reglas y elije como víctima a una persona cercana.</desc>
+  </programme>
+  <programme start="20230523093000 -0400" stop="20230523101500 -0400" channel="0824">
+    <title lang="es">Enterrados en el jardín</title>
+    <sub-title lang="es">Enterrados en el jardín</sub-title>
+    <desc lang="es">Cuando el cuerpo de una amada anciana es encontrado brutalmente asesinado y metido dentro de un pozo decorativo de los deseos en el patio trasero de su propiedad, un obstinado detective emprende una búsqueda de un año para atrapar a su escurridizo asesino.</desc>
+  </programme>
+  <programme start="20230523101500 -0400" stop="20230523110000 -0400" channel="0824">
+    <title lang="es">Enterrados en el jardín</title>
+    <sub-title lang="es">Enterrados en el jardín</sub-title>
+    <desc lang="es">Los investigadores creen que una joven desapareció por su propia voluntad, pero su madre está convencida de que alguien cercano a ella esconde un gran secreto.</desc>
+  </programme>
+  <programme start="20230523110000 -0400" stop="20230523114500 -0400" channel="0824">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Accidente, suicidio, o asesinato</sub-title>
+    <desc lang="es">La velada romántica de una pareja en la cima de Rockefeller Lookout en Nueva Jersey termina con la trágica muerte de la esposa.</desc>
+  </programme>
+  <programme start="20230523114500 -0400" stop="20230523123000 -0400" channel="0824">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Accidente, suicidio, o asesinato</sub-title>
+    <desc lang="es">El aparente suicidio de una mujer de Texas devasta a su familia.</desc>
+  </programme>
+  <programme start="20230523123000 -0400" stop="20230523131500 -0400" channel="0824">
+    <title lang="es">Hermanos asesinos</title>
+    <sub-title lang="es">Hermanos asesinos</sub-title>
+    <desc lang="es">Cuando se encuentra el cuerpo de una mujer joven en una camioneta incendiada, los investigadores desentrañan un complot mortal.</desc>
+  </programme>
+  <programme start="20230523131500 -0400" stop="20230523140000 -0400" channel="0824">
+    <title lang="es">Hermanos asesinos</title>
+    <sub-title lang="es">Hermanos asesinos</sub-title>
+    <desc lang="es">Un doble homicidio brutal en un pequeño pueblo de Ohio, conduce a la policía hacia un rencoroso miembro de la familia.</desc>
+  </programme>
+  <programme start="20230523140000 -0400" stop="20230523145000 -0400" channel="0824">
+    <title lang="es">Casado con el enemigo</title>
+    <sub-title lang="es">Casado con el enemigo</sub-title>
+    <desc lang="es">Ed es un piloto retirado cuyo sentido de la aventura vuelve a despertarse en un encuentro junto al mar con Denise, una chica mucho más joven que él.</desc>
+  </programme>
+  <programme start="20230523145000 -0400" stop="20230523154000 -0400" channel="0824">
+    <title lang="es">Casado con el enemigo</title>
+    <sub-title lang="es">Casado con el enemigo</sub-title>
+    <desc lang="es">Janice cree que Brett es un buen y tradicional chico de campo que solo necesita el toque de una mujer. Brett cree que es ella la mujer ideal para convertir su casa de campo en un hogar. A medida que aumentan las tragedias familiares, su sueño de una vida perfecta juntos pronto se prende en llamas.</desc>
+  </programme>
+  <programme start="20230523154000 -0400" stop="20230523162500 -0400" channel="0824">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Parejas asesinas</sub-title>
+    <desc lang="es">La traición de una esposa deja a su celoso esposo con sed de venganza, y las consecuencias son mortales.</desc>
+  </programme>
+  <programme start="20230523162500 -0400" stop="20230523171000 -0400" channel="0824">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Parejas asesinas</sub-title>
+    <desc lang="es">Dos adolescentes fugitivos quedan atrapados en una investigación de homicidio cuando alguien que desaprobaba su relación es descubierto asesinado.</desc>
+  </programme>
+  <programme start="20230523171000 -0400" stop="20230523180000 -0400" channel="0824">
+    <title lang="es">Matar me hizo famoso</title>
+    <sub-title lang="es">Matar me hizo famoso</sub-title>
+    <desc lang="es">La agente de policía convertida en asesina, Laurie Bembenek fue condenada por el asesinato de la entonces ex esposa de su esposo, Christine Schultz, en 1981. La casa de Schultz fue allanada y ella fue amordazada y vendada junto con sus hijos.</desc>
+  </programme>
+  <programme start="20230523180000 -0400" stop="20230523184500 -0400" channel="0824">
+    <title lang="es">Matar me hizo famoso</title>
+    <sub-title lang="es">Matar me hizo famoso</sub-title>
+    <desc lang="es">Richard Speck siempre creyó que sorprendería al mundo y sería noticia. Hizo precisamente eso cuando torturó, violó y asesinó sistemáticamente a ocho estudiantes de enfermería del Hospital Comunitario del Sur de Chicago en la noche del 13 al 14 de julio de 1966.</desc>
+  </programme>
+  <programme start="20230523184500 -0400" stop="20230523193000 -0400" channel="0824">
+    <title lang="es">El sospechoso</title>
+    <sub-title lang="es">El sospechoso</sub-title>
+    <desc lang="es">Dennis Oland se encuentra en una de las prisiones de máxima seguridad más notorias de Canadá, cumpliendo cadena perpetua por la violenta muerte de su padre, el multimillonario Richard Oland, famoso por la cervecería Moosehead Brewing. Insiste en que él no lo hizo.</desc>
+  </programme>
+  <programme start="20230523193000 -0400" stop="20230523201500 -0400" channel="0824">
+    <title lang="es">Enterrados en el jardín</title>
+    <sub-title lang="es">Enterrados en el jardín</sub-title>
+    <desc lang="es">Cuando el cuerpo de una amada anciana es encontrado brutalmente asesinado y metido dentro de un pozo decorativo de los deseos en el patio trasero de su propiedad, un obstinado detective emprende una búsqueda de un año para atrapar a su escurridizo asesino.</desc>
+  </programme>
+  <programme start="20230523201500 -0400" stop="20230523210000 -0400" channel="0824">
+    <title lang="es">Enterrados en el jardín</title>
+    <sub-title lang="es">Enterrados en el jardín</sub-title>
+    <desc lang="es">Los investigadores creen que una joven desapareció por su propia voluntad, pero su madre está convencida de que alguien cercano a ella esconde un gran secreto.</desc>
+  </programme>
+  <programme start="20230523210000 -0400" stop="20230523214500 -0400" channel="0824">
+    <title lang="es">Hermanos asesinos</title>
+    <sub-title lang="es">Hermanos asesinos</sub-title>
+    <desc lang="es">Cuando se encuentra el cuerpo de una mujer joven en una camioneta incendiada, los investigadores desentrañan un complot mortal.</desc>
+  </programme>
+  <programme start="20230523214500 -0400" stop="20230523223000 -0400" channel="0824">
+    <title lang="es">Hermanos asesinos</title>
+    <sub-title lang="es">Hermanos asesinos</sub-title>
+    <desc lang="es">Un doble homicidio brutal en un pequeño pueblo de Ohio, conduce a la policía hacia un rencoroso miembro de la familia.</desc>
+  </programme>
+  <programme start="20230523223000 -0400" stop="20230523231500 -0400" channel="0824">
+    <title lang="es">Hermanos asesinos</title>
+    <sub-title lang="es">Hermanos asesinos</sub-title>
+    <desc lang="es">Después de tres asesinatos despiadados y una ola de robos a mano armada durante meses, la policía de Fort Worth se apresura a detener a los perpetradores.</desc>
+  </programme>
+  <programme start="20230523231500 -0400" stop="20230524000500 -0400" channel="0824">
+    <title lang="es">Casado con el enemigo</title>
+    <sub-title lang="es">Casado con el enemigo</sub-title>
+    <desc lang="es">Ed es un piloto retirado cuyo sentido de la aventura vuelve a despertarse en un encuentro junto al mar con Denise, una chica mucho más joven que él.</desc>
   </programme>
   <programme start="20230522000000 -0400" stop="20230522004500 -0400" channel="0825">
     <title lang="es">Bajo cubierta</title>
@@ -32297,234 +32414,384 @@
     <desc lang="es">El mundo de Steve se voltea cuando su agencia de corredores cierra sin previo aviso, dejando al Grupo Gold sin hogar. Fredrik se dirige a Santa Lucía luego de que se le asigna promocionar impresionantes villas frente al mar a neoyorquinos adinerados.</desc>
   </programme>
   <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">The Voice</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Creciendo con los Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Creciendo con los Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta Mediterráneo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta Mediterráneo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Million Dollar Listing: New York</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Million Dollar Listing: New York</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Million Dollar Listing: New York</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Nuestro propio castillo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Nuestro propio castillo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta Mediterráneo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta Mediterráneo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Million Dollar Listing: New York</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">The Real Housewives of Dubai</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">The Real Housewives of Dubai</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">The Real Housewives of Dubai</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta Mediterráneo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta Mediterráneo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Million Dollar Listing: New York</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Million Dollar Listing: New York</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Million Dollar Listing: New York</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Nuestro propio castillo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Nuestro propio castillo</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Top Chef Masters</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
-    <title lang="es">La familia Chrisley</title>
-  </programme>
-  <programme start="20230522021500 -0400" stop="20230522031000 -0400" channel="0825">
     <title lang="es">Million Dollar Listing: New York</title>
     <sub-title lang="es">Million Dollar Listing: New York</sub-title>
     <desc lang="es">Ryan busca la casa perfecta para una reñidora pareja que no puede decidir nada. Steve está bajo presión para elegir una nueva agencia de corredores, mientras que Fredrik está presionado para atraerlo a Douglas Elliman.</desc>
+  </programme>
+  <programme start="20230522031000 -0400" stop="20230522033500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Savannah tiene una visión color de rosa sobre cómo serán sus hábitos de gasto cuando se vaya a la universidad, por lo que Todd le asigna un presupuesto realista para ayudarla a prepararse para el mundo real.</desc>
+  </programme>
+  <programme start="20230522033500 -0400" stop="20230522040000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando los Chrisley hacen un viaje por carretera a Nashville para recorrer un campus universitario, Todd se emociona por el tiempo adicional de unión familiar.</desc>
+  </programme>
+  <programme start="20230522040000 -0400" stop="20230522042500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Todd se siente herido cuando ofrece ayuda a todos sus hijos, pero ninguno la necesita, hasta que Savannah sufre una apendicitis y se vuelve dependiente de Todd y Julie; un sueño hecho realidad para Todd.</desc>
+  </programme>
+  <programme start="20230522042500 -0400" stop="20230522045000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Chase le paga a un extraño para que le cambie un neumático pinchado, Todd y Julie se dan cuenta de que han sobre protegido a sus hijos y deciden someterlos a un riguroso campamento de entrenamiento para la vida real.</desc>
+  </programme>
+  <programme start="20230522045000 -0400" stop="20230522051500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Todd se entera de que Savannah tiene un nuevo novio, Todd hace todo lo posible para tratar de echar una mirada a este nuevo chico, y no le gusta lo que ve.</desc>
+  </programme>
+  <programme start="20230522051500 -0400" stop="20230522054000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Con el cumpleaños de Todd acercándose rápidamente, él comienza a obsesionarse con su edad y a negarse a envejecer, pero con la ayuda de Mama Faye y sus amigos, él comienza a aceptar el futuro.</desc>
+  </programme>
+  <programme start="20230522054000 -0400" stop="20230522060000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Julie está emocionada por comenzar su nuevo blog de comida pero cuando a nadie le da \"me gusta\" a su página, ella y Todd emprenden un viaje gastronómico que los lleva desde la excelente cocina francesa hasta salir a forrajear para encontrar su propia comida.</desc>
+  </programme>
+  <programme start="20230522060000 -0400" stop="20230522064500 -0400" channel="0825">
+    <title lang="es">Bajo cubierta</title>
+    <sub-title lang="es">Bajo cubierta</sub-title>
+    <desc lang="es">Kelley sufre de repercusiones por dejar abandonado a Dean en una playa aislada. El Capitán Lee toma una decisión que tiene que ver con la tripulación externa que le mueve el alma a Kelley. Kate se va frustrando con la falta de atención que muestra Emily en su trabajo. Ben y Emily llevan su relación al próximo nivel y Kyle debe decidir si le dice o no a su novia Ashley, quien lo visita, sobre su cita con Sierra.</desc>
+  </programme>
+  <programme start="20230522064500 -0400" stop="20230522073000 -0400" channel="0825">
+    <title lang="es">Bajo cubierta</title>
+    <sub-title lang="es">Bajo cubierta</sub-title>
+    <desc lang="es">La paciencia de Kate es cada vez menor cuando se trata de la ética de trabajo de Emily y Sierra. Sierra y Kelley tienen una discusión fuerte cuando Sierra escucha una conversación sobre ella, Kelley se aclimata a la vida abordo con un nuevo marinero superior y Lauren y Nico se cansan de las manipulaciones de Kate.</desc>
+  </programme>
+  <programme start="20230522073000 -0400" stop="20230522081500 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">\"Haz lo que digo y lo que hago\" es el lema de este desafío rápido. Los maestros deben guiar a sus protegidos de principio a fin en un intento por crear platos idénticos.</desc>
+  </programme>
+  <programme start="20230522081500 -0400" stop="20230522090000 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">En el desafío final, se intercambian los papeles cuando el anfitrión, Curtis Stone, prepara una comida para los chefs restantes. Luego, los tres finalistas deben crear una comida de tres platos basada en recuerdos importantes a lo largo de sus vidas y carreras.</desc>
+  </programme>
+  <programme start="20230522090000 -0400" stop="20230522092500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando los Chrisley hacen un viaje por carretera a Nashville para recorrer un campus universitario, Todd se emociona por el tiempo adicional de unión familiar.</desc>
+  </programme>
+  <programme start="20230522092500 -0400" stop="20230522095000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Todd se siente herido cuando ofrece ayuda a todos sus hijos, pero ninguno la necesita, hasta que Savannah sufre una apendicitis y se vuelve dependiente de Todd y Julie; un sueño hecho realidad para Todd.</desc>
+  </programme>
+  <programme start="20230522095000 -0400" stop="20230522101500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Chase le paga a un extraño para que le cambie un neumático pinchado, Todd y Julie se dan cuenta de que han sobre protegido a sus hijos y deciden someterlos a un riguroso campamento de entrenamiento para la vida real.</desc>
+  </programme>
+  <programme start="20230522101500 -0400" stop="20230522104000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Todd se entera de que Savannah tiene un nuevo novio, Todd hace todo lo posible para tratar de echar una mirada a este nuevo chico, y no le gusta lo que ve.</desc>
+  </programme>
+  <programme start="20230522104000 -0400" stop="20230522110500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Con el cumpleaños de Todd acercándose rápidamente, él comienza a obsesionarse con su edad y a negarse a envejecer, pero con la ayuda de Mama Faye y sus amigos, él comienza a aceptar el futuro.</desc>
+  </programme>
+  <programme start="20230522110500 -0400" stop="20230522115500 -0400" channel="0825">
+    <title lang="es">Nuestro propio castillo</title>
+    <sub-title lang="es">Nuestro propio castillo</sub-title>
+    <desc lang="es">Es primavera en el castillo y hay grandes planes en marcha para tener un barco en el foso. Angel se enreda con papel tapiz antiguo mientras que Dick lucha con un viejo rastrillo en el prado.</desc>
+  </programme>
+  <programme start="20230522115500 -0400" stop="20230522124500 -0400" channel="0825">
+    <title lang="es">Nuestro propio castillo</title>
+    <sub-title lang="es">Nuestro propio castillo</sub-title>
+    <desc lang="es">Es la temporada de bodas. Dick y Angel están más ocupados que nunca mientras también se enredan con una carpa de circo, dos pajareras gigantes y un estanque de nenúfares tal como el de las pinturas de Monet.</desc>
+  </programme>
+  <programme start="20230522124500 -0400" stop="20230522133000 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">\"Haz lo que digo y lo que hago\" es el lema de este desafío rápido. Los maestros deben guiar a sus protegidos de principio a fin en un intento por crear platos idénticos.</desc>
+  </programme>
+  <programme start="20230522133000 -0400" stop="20230522141500 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">En el desafío final, se intercambian los papeles cuando el anfitrión, Curtis Stone, prepara una comida para los chefs restantes. Luego, los tres finalistas deben crear una comida de tres platos basada en recuerdos importantes a lo largo de sus vidas y carreras.</desc>
+  </programme>
+  <programme start="20230522141500 -0400" stop="20230522150000 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">Top Chef Masters está de vuelta para la cuarta temporada... y se dirige a Viva Las Vegas. Al más puro estilo de la ciudad del pecado, los Chefs jugarán un juego de cartas culinarias para obtener sus ingredientes, juzgados por los crupieres de Las Vegas.</desc>
+  </programme>
+  <programme start="20230522150000 -0400" stop="20230522154500 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">¿Qué mejor manera de casarse que con una boda a cargo de Top Chef Masters? Nuestros Chefs conocerán a la pareja, cuya idea de una boda perfecta sería alimentar a sus invitados con una comida tan duradera e inspiradora como el amor que ellos comparten.</desc>
+  </programme>
+  <programme start="20230522154500 -0400" stop="20230522161000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Grayson decide que quiere ser un auténtico citadino para su noveno cumpleaños y convence a toda su familia de quedarse a pasar la noche en un rancho para turistas, donde probarán cuán campestres los Chrisley realmente son.</desc>
+  </programme>
+  <programme start="20230522161000 -0400" stop="20230522163000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Chase y Savannah están encantados de embarcarse en un viaje familiar de graduación a Londres, para disgusto de Todd, quien es una criatura de costumbres que nunca ha abandonado el país.</desc>
+  </programme>
+  <programme start="20230522163000 -0400" stop="20230522165500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Todd lleva a su familia a la campiña inglesa, insiste en convertir a los Chrisley en una verdadera familia inglesa, pero cuando la familia se resiste Todd hace todo lo posible para demostrar que es un miembro de la realeza.</desc>
+  </programme>
+  <programme start="20230522165500 -0400" stop="20230522171500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Todd y Julie se preparan para hacer un video de \"un día en la vida\" por su aniversario, las grietas en su matrimonio comienzan a hacerse notar y luchan por reinventarse como la pareja \"perfecta\".</desc>
+  </programme>
+  <programme start="20230522171500 -0400" stop="20230522174000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cada verano, los Chrisley asisten a la barbacoa anual de día del deportivo de un amigo de la familia y todos los años son puestos en vergüenza.</desc>
+  </programme>
+  <programme start="20230522174000 -0400" stop="20230522180000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Los Chrisley se dirigen a su casa del lago en Carolina del Sur, la cual también resulta que se encuentra en la ciudad donde creció Todd.</desc>
+  </programme>
+  <programme start="20230522180000 -0400" stop="20230522184500 -0400" channel="0825">
+    <title lang="es">Million Dollar Listing: New York</title>
+    <sub-title lang="es">Million Dollar Listing: New York</sub-title>
+    <desc lang="es">Ryan intenta recuperar un desarrollo de mil millones de dólares organizando un enorme bufé en pleno Brooklyn. Después de mudarse a una nueva agencia, Steve está ansioso por demostrar su valía.</desc>
+  </programme>
+  <programme start="20230522184500 -0400" stop="20230522193000 -0400" channel="0825">
+    <title lang="es">Million Dollar Listing: New York</title>
+    <sub-title lang="es">Million Dollar Listing: New York</sub-title>
+    <desc lang="es">Steve se dirige al norte del estado para tratar de encontrar un comprador para una casa de campo encantadora pero anticuada en un terreno de la mitad del tamaño de Central Park.</desc>
+  </programme>
+  <programme start="20230522193000 -0400" stop="20230522201500 -0400" channel="0825">
+    <title lang="es">Million Dollar Listing: New York</title>
+    <sub-title lang="es">Million Dollar Listing: New York</sub-title>
+    <desc lang="es">Ryan tiene el desafío de vender la casa adosada más grande del vecindario con un precio que igual de grande. Mientras tanto, Steve intenta vender un apartamento impecablemente diseñado con un gran defecto de ubicación.</desc>
+  </programme>
+  <programme start="20230522201500 -0400" stop="20230522210000 -0400" channel="0825">
+    <title lang="es">Bajo cubierta Mediterráneo</title>
+    <sub-title lang="es">Bajo cubierta Mediterráneo</sub-title>
+    <desc lang="es">La capitana Sandy regresa a Croacia al mando del mega-yate \"Lady Michelle\" con la esperanza de guiar a un nuevo equipo a través de aguas más tranquilas a lo largo de la impresionante costa de Dalmacia.</desc>
+  </programme>
+  <programme start="20230522210000 -0400" stop="20230522214500 -0400" channel="0825">
+    <title lang="es">Bajo cubierta Mediterráneo</title>
+    <sub-title lang="es">Bajo cubierta Mediterráneo</sub-title>
+    <desc lang="es">Katie siente el peso de los exigentes huéspedes, mientras Lexi se enfrenta a un difícil problema personal. Malia trabaja para poner en buen ritmo a su nuevo equipo de cubierta mientras preparan una despedida de soltero y soltera, pero un marinero sin experiencia tiene problemas para llevar el paso.</desc>
+  </programme>
+  <programme start="20230522214500 -0400" stop="20230522223000 -0400" channel="0825">
+    <title lang="es">The Real Housewives of Dubai</title>
+    <sub-title lang="es">The Real Housewives of Dubai</sub-title>
+    <desc lang="es">Después de que Lesa y Ayan se despidan de un ser querido, Sara organiza un viaje único en la vida a Ras Al Khaimah para las chicas.</desc>
+  </programme>
+  <programme start="20230522223000 -0400" stop="20230522231500 -0400" channel="0825">
+    <title lang="es">The Real Housewives of Dubai</title>
+    <sub-title lang="es">The Real Housewives of Dubai</sub-title>
+    <desc lang="es">Las damas de Dubái traen el calor del desierto a la ciudad de Nueva York para enfrentarse entre sí después de una temporada agitada.</desc>
+  </programme>
+  <programme start="20230522231500 -0400" stop="20230523000000 -0400" channel="0825">
+    <title lang="es">Bajo cubierta</title>
+    <sub-title lang="es">Bajo cubierta</sub-title>
+    <desc lang="es">Kelley sufre de repercusiones por dejar abandonado a Dean en una playa aislada. El Capitán Lee toma una decisión que tiene que ver con la tripulación externa que le mueve el alma a Kelley. Kate se va frustrando con la falta de atención que muestra Emily en su trabajo. Ben y Emily llevan su relación al próximo nivel y Kyle debe decidir si le dice o no a su novia Ashley, quien lo visita, sobre su cita con Sierra.</desc>
+  </programme>
+  <programme start="20230523000000 -0400" stop="20230523004500 -0400" channel="0825">
+    <title lang="es">Bajo cubierta</title>
+    <sub-title lang="es">Bajo cubierta</sub-title>
+    <desc lang="es">La paciencia de Kate es cada vez menor cuando se trata de la ética de trabajo de Emily y Sierra. Sierra y Kelley tienen una discusión fuerte cuando Sierra escucha una conversación sobre ella, Kelley se aclimata a la vida abordo con un nuevo marinero superior y Lauren y Nico se cansan de las manipulaciones de Kate.</desc>
+  </programme>
+  <programme start="20230523004500 -0400" stop="20230523013000 -0400" channel="0825">
+    <title lang="es">The Real Housewives of Dubai</title>
+    <sub-title lang="es">The Real Housewives of Dubai</sub-title>
+    <desc lang="es">Las damas de Dubái traen el calor del desierto a la ciudad de Nueva York para enfrentarse entre sí después de una temporada agitada.</desc>
+  </programme>
+  <programme start="20230523013000 -0400" stop="20230523021500 -0400" channel="0825">
+    <title lang="es">Million Dollar Listing: New York</title>
+    <sub-title lang="es">Million Dollar Listing: New York</sub-title>
+    <desc lang="es">Steve se dirige al norte del estado para tratar de encontrar un comprador para una casa de campo encantadora pero anticuada en un terreno de la mitad del tamaño de Central Park.</desc>
+  </programme>
+  <programme start="20230523021500 -0400" stop="20230523024000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Grayson decide que quiere ser un auténtico citadino para su noveno cumpleaños y convence a toda su familia de quedarse a pasar la noche en un rancho para turistas, donde probarán cuán campestres los Chrisley realmente son.</desc>
+  </programme>
+  <programme start="20230523024000 -0400" stop="20230523030000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Chase y Savannah están encantados de embarcarse en un viaje familiar de graduación a Londres, para disgusto de Todd, quien es una criatura de costumbres que nunca ha abandonado el país.</desc>
+  </programme>
+  <programme start="20230523030000 -0400" stop="20230523032500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Todd lleva a su familia a la campiña inglesa, insiste en convertir a los Chrisley en una verdadera familia inglesa, pero cuando la familia se resiste Todd hace todo lo posible para demostrar que es un miembro de la realeza.</desc>
+  </programme>
+  <programme start="20230523032500 -0400" stop="20230523034500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Todd y Julie se preparan para hacer un video de \"un día en la vida\" por su aniversario, las grietas en su matrimonio comienzan a hacerse notar y luchan por reinventarse como la pareja \"perfecta\".</desc>
+  </programme>
+  <programme start="20230523034500 -0400" stop="20230523041000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cada verano, los Chrisley asisten a la barbacoa anual de día del deportivo de un amigo de la familia y todos los años son puestos en vergüenza.</desc>
+  </programme>
+  <programme start="20230523041000 -0400" stop="20230523043000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Los Chrisley se dirigen a su casa del lago en Carolina del Sur, la cual también resulta que se encuentra en la ciudad donde creció Todd.</desc>
+  </programme>
+  <programme start="20230523043000 -0400" stop="20230523051500 -0400" channel="0825">
+    <title lang="es">Bajo cubierta Mediterráneo</title>
+    <sub-title lang="es">Bajo cubierta Mediterráneo</sub-title>
+    <desc lang="es">La capitana Sandy regresa a Croacia al mando del mega-yate \"Lady Michelle\" con la esperanza de guiar a un nuevo equipo a través de aguas más tranquilas a lo largo de la impresionante costa de Dalmacia.</desc>
+  </programme>
+  <programme start="20230523051500 -0400" stop="20230523060000 -0400" channel="0825">
+    <title lang="es">Bajo cubierta Mediterráneo</title>
+    <sub-title lang="es">Bajo cubierta Mediterráneo</sub-title>
+    <desc lang="es">Katie siente el peso de los exigentes huéspedes, mientras Lexi se enfrenta a un difícil problema personal. Malia trabaja para poner en buen ritmo a su nuevo equipo de cubierta mientras preparan una despedida de soltero y soltera, pero un marinero sin experiencia tiene problemas para llevar el paso.</desc>
+  </programme>
+  <programme start="20230523060000 -0400" stop="20230523064500 -0400" channel="0825">
+    <title lang="es">Bajo cubierta</title>
+    <sub-title lang="es">Bajo cubierta</sub-title>
+    <desc lang="es">La paciencia de Kate es cada vez menor cuando se trata de la ética de trabajo de Emily y Sierra. Sierra y Kelley tienen una discusión fuerte cuando Sierra escucha una conversación sobre ella, Kelley se aclimata a la vida abordo con un nuevo marinero superior y Lauren y Nico se cansan de las manipulaciones de Kate.</desc>
+  </programme>
+  <programme start="20230523064500 -0400" stop="20230523073000 -0400" channel="0825">
+    <title lang="es">Bajo cubierta</title>
+    <sub-title lang="es">Bajo cubierta</sub-title>
+    <desc lang="es">Sierra pierde el control después de otra conversación con Kate. Emily se cuestiona si la relación entre Ben y Kate es \"únicamente de amigos.</desc>
+  </programme>
+  <programme start="20230523073000 -0400" stop="20230523081500 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">Top Chef Masters está de vuelta para la cuarta temporada... y se dirige a Viva Las Vegas. Al más puro estilo de la ciudad del pecado, los Chefs jugarán un juego de cartas culinarias para obtener sus ingredientes, juzgados por los crupieres de Las Vegas.</desc>
+  </programme>
+  <programme start="20230523081500 -0400" stop="20230523090000 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">¿Qué mejor manera de casarse que con una boda a cargo de Top Chef Masters? Nuestros Chefs conocerán a la pareja, cuya idea de una boda perfecta sería alimentar a sus invitados con una comida tan duradera e inspiradora como el amor que ellos comparten.</desc>
+  </programme>
+  <programme start="20230523090000 -0400" stop="20230523092500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Todd lleva a su familia a la campiña inglesa, insiste en convertir a los Chrisley en una verdadera familia inglesa, pero cuando la familia se resiste Todd hace todo lo posible para demostrar que es un miembro de la realeza.</desc>
+  </programme>
+  <programme start="20230523092500 -0400" stop="20230523095000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Todd y Julie se preparan para hacer un video de \"un día en la vida\" por su aniversario, las grietas en su matrimonio comienzan a hacerse notar y luchan por reinventarse como la pareja \"perfecta\".</desc>
+  </programme>
+  <programme start="20230523095000 -0400" stop="20230523101500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cada verano, los Chrisley asisten a la barbacoa anual de día del deportivo de un amigo de la familia y todos los años son puestos en vergüenza.</desc>
+  </programme>
+  <programme start="20230523101500 -0400" stop="20230523104000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Los Chrisley se dirigen a su casa del lago en Carolina del Sur, la cual también resulta que se encuentra en la ciudad donde creció Todd.</desc>
+  </programme>
+  <programme start="20230523104000 -0400" stop="20230523113000 -0400" channel="0825">
+    <title lang="es">Nuestro propio castillo</title>
+    <sub-title lang="es">Nuestro propio castillo</sub-title>
+    <desc lang="es">Es la temporada de bodas. Dick y Angel están más ocupados que nunca mientras también se enredan con una carpa de circo, dos pajareras gigantes y un estanque de nenúfares tal como el de las pinturas de Monet.</desc>
+  </programme>
+  <programme start="20230523113000 -0400" stop="20230523122000 -0400" channel="0825">
+    <title lang="es">Nuestro propio castillo</title>
+    <sub-title lang="es">Nuestro propio castillo</sub-title>
+    <desc lang="es">Es el apogeo del verano. Dick y Angel están planeando uno de los eventos más importantes del año, el 50 aniversario de bodas de los padres de Angel, una fiesta única en la vida, con 100 invitados.</desc>
+  </programme>
+  <programme start="20230523122000 -0400" stop="20230523130500 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">Top Chef Masters está de vuelta para la cuarta temporada... y se dirige a Viva Las Vegas. Al más puro estilo de la ciudad del pecado, los Chefs jugarán un juego de cartas culinarias para obtener sus ingredientes, juzgados por los crupieres de Las Vegas.</desc>
+  </programme>
+  <programme start="20230523130500 -0400" stop="20230523135000 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">¿Qué mejor manera de casarse que con una boda a cargo de Top Chef Masters? Nuestros Chefs conocerán a la pareja, cuya idea de una boda perfecta sería alimentar a sus invitados con una comida tan duradera e inspiradora como el amor que ellos comparten.</desc>
+  </programme>
+  <programme start="20230523135000 -0400" stop="20230523143500 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">Los Chefs se dividirán en equipos de tres y sus habilidades serán puestas a la vista mientras cocinan una comida de tres platos para servir a invitados VIP en la más desafiante de las mesas de chef, un Teppanyaki.</desc>
+  </programme>
+  <programme start="20230523143500 -0400" stop="20230523152000 -0400" channel="0825">
+    <title lang="es">Top Chef Masters</title>
+    <sub-title lang="es">Top Chef Masters</sub-title>
+    <desc lang="es">Los chefs tienen la tarea de tomar los ingredientes comunes de la barra de ensaladas y hacer que hagan \"pop\" para la legendaria banda musical, B-52.</desc>
+  </programme>
+  <programme start="20230523152000 -0400" stop="20230523154500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Chase y Savannah se acaban de graduar de la escuela secundaria y ya se está preparando la celebración.</desc>
+  </programme>
+  <programme start="20230523154500 -0400" stop="20230523160500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Una Navidad muy Chrisley, los espectadores disfrutarán de otra delicia navideña cuando la familia Chrisley les da la bienvenida a su hogar de fantasía invernal, impecablemente decorado, y se preparan para la deliciosa cena de Navidad de Julie.</desc>
+  </programme>
+  <programme start="20230523160500 -0400" stop="20230523163000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Todd deja a Savannah en la universidad en Nashville, pero al típico estilo de Todd, encuentra una manera de vigilarla.</desc>
+  </programme>
+  <programme start="20230523163000 -0400" stop="20230523165000 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Decepcionado por haberse perdido la coronación de Savannah como Miss Tennessee Teen USA, Todd planea una fiesta para celebrar. La tensión aumenta cuando queda claro que la fiesta es más para Todd que para Savannah.</desc>
+  </programme>
+  <programme start="20230523165000 -0400" stop="20230523171500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Cuando Chase afirma su independencia al hacerse un tatuaje de un versículo de la Biblia, Todd intenta todo lo que está en su poder para convencer a Chase de que se lo remueva. Mientras tanto, Savannah está reprobando su clase de Biblia en la universidad.</desc>
+  </programme>
+  <programme start="20230523171500 -0400" stop="20230523173500 -0400" channel="0825">
+    <title lang="es">La familia Chrisley</title>
+    <sub-title lang="es">La familia Chrisley</sub-title>
+    <desc lang="es">Todd descubre que Faye se ha lesionado el pie en otra aventura de apuestas e insiste en que se quede en su casa hasta que se recupere.</desc>
+  </programme>
+  <programme start="20230523173500 -0400" stop="20230523182000 -0400" channel="0825">
+    <title lang="es">Million Dollar Listing: New York</title>
+    <sub-title lang="es">Million Dollar Listing: New York</sub-title>
+    <desc lang="es">Ryan tiene el desafío de vender la casa adosada más grande del vecindario con un precio que igual de grande. Mientras tanto, Steve intenta vender un apartamento impecablemente diseñado con un gran defecto de ubicación.</desc>
+  </programme>
+  <programme start="20230523182000 -0400" stop="20230523193000 -0400" channel="0825">
+    <title lang="es">Million Dollar Listing: New York</title>
+    <sub-title lang="es">Million Dollar Listing: New York</sub-title>
+    <desc lang="es">Con un mercado de valores cada vez más volátil y los precios de las casas en caída libre, vender casas nunca ha sido tan difícil para estos agentes importantes en la ciudad de Nueva York.</desc>
+  </programme>
+  <programme start="20230523193000 -0400" stop="20230523201500 -0400" channel="0825">
+    <title lang="es">Million Dollar Listing: New York</title>
+    <sub-title lang="es">Million Dollar Listing: New York</sub-title>
+    <desc lang="es">Ryan ve una casa adosada de siete pisos con una increíble piscina cubierta, pero ser honesto con el vendedor acerca del precio puede evitar que cause sensación en Chelsea.</desc>
+  </programme>
+  <programme start="20230523201500 -0400" stop="20230523210000 -0400" channel="0825">
+    <title lang="es">Bajo cubierta Mediterráneo</title>
+    <sub-title lang="es">Bajo cubierta Mediterráneo</sub-title>
+    <desc lang="es">Mientras la tripulación se apresura a prepararse para una boda que podría o no darse a cabo, la Capitana Sandy se prepara para oficiar por primera vez. Mientras tanto, Mat espera redimirse después de su desastroso primer día y Katie sacrifica cualquier descanso para ayudar a su equipo.</desc>
+  </programme>
+  <programme start="20230523210000 -0400" stop="20230523214500 -0400" channel="0825">
+    <title lang="es">Bajo cubierta Mediterráneo</title>
+    <sub-title lang="es">Bajo cubierta Mediterráneo</sub-title>
+    <desc lang="es">El amor está en el aire durante la primera noche de fiesta de la tripulación cuando Courtney celebra el cumpleaños de Mzi y David se enamora de Malia, su supervisora en cubierta. Cuando comienza el segundo alquiler y regresa un huésped conocido, Katie implementa una nueva rotación de sobrecargos que coloca a Courtney en un rol desconocido.</desc>
+  </programme>
+  <programme start="20230523214500 -0400" stop="20230523221000 -0400" channel="0825">
+    <title lang="es">Creciendo con los Chrisley</title>
+    <sub-title lang="es">Creciendo con los Chrisley</sub-title>
+    <desc lang="es">Chase y Elliott se desconectan. Las tendencias controladoras de Savannah alejan a Nic.</desc>
+  </programme>
+  <programme start="20230523221000 -0400" stop="20230523223000 -0400" channel="0825">
+    <title lang="es">Creciendo con los Chrisley</title>
+    <sub-title lang="es">Creciendo con los Chrisley</sub-title>
+    <desc lang="es">La relación de Nic y Savannah se agrieta. Chase lucha con la fiesta de compromiso de Savannah.</desc>
+  </programme>
+  <programme start="20230523223000 -0400" stop="20230524000000 -0400" channel="0825">
+    <title lang="es">The Voice</title>
+    <sub-title lang="es">The Voice</sub-title>
+    <desc lang="es">Los 5 mejores artistas actúan frente a los coaches Kelly Clarkson, Blake Shelton, Niall Horan y Chance the Rapper para ganar el título de The Voice.</desc>
   </programme>
   <programme start="20230522004500 -0400" stop="20230522025700 -0400" channel="0829">
     <title lang="es">Jack Reacher: Sin regreso</title>
@@ -33845,26 +34112,21 @@
     <title lang="es">Rampage: devastación</title>
     <desc lang="es">El primatólogo Davis Okoye, tiene un sólido vínculo con George, el inteligente gorila de espalda plateada al que ha estado cuidando desde que nació. Pero cuando un experimento genético sale mal, este apacible simio se convierte en una embravecida criatura. Pronto se descubre que existen otros animales con la misma alteración, y estos depredadores alfa recién creados comienzan a arrasar Norteamérica.</desc>
   </programme>
-  <programme start="20230522004500 -0400" stop="20230522031000 -0400" channel="0839">
-    <title lang="es">El Hombre Araña 2</title>
-    <title lang="en">Spider-Man 2</title>
-    <sub-title lang="es">El Hombre Araña 2</sub-title>
-    <desc lang="es">Peter sigue afrontando el don y la maldición de sus poderes, balanceando sus dilemas personales y sus deberes como superhéroe. Pero su vida secreta y sus seres queridos se verán amenazados por el Dr. Octopus, un nuevo villano.</desc>
+  <programme start="20230522005500 -0400" stop="20230522033000 -0400" channel="0839">
+    <title lang="es">El sorprendente Hombre Araña</title>
+    <title lang="en">The Amazing Spider-Man</title>
+    <sub-title lang="es">El sorprendente Hombre Araña</sub-title>
+    <desc lang="es">Como la mayoría de los adolescentes, Peter intenta descubrir quién es y cómo ha logrado ser lo que es. Mientras ata los cabos sueltos de su pasado, descubre un misterioso secreto de su padre, que le dará forma a su destino como Spiderman.</desc>
   </programme>
-  <programme start="20230522031000 -0400" stop="20230522033500 -0400" channel="0839">
-    <title lang="es">Black-ish</title>
-    <sub-title lang="es">Black-ish</sub-title>
-    <desc lang="es">Un hombre de familia lucha para ganar un cierto sentido de identidad cultural mientras cria a sus hijos en un barrio predominantemente blanco de clase media alta.</desc>
-  </programme>
-  <programme start="20230522033500 -0400" stop="20230522040000 -0400" channel="0839">
+  <programme start="20230522033000 -0400" stop="20230522040000 -0400" channel="0839">
     <title lang="es">Black-ish</title>
     <sub-title lang="es">Black-ish</sub-title>
     <desc lang="es">Un hombre de familia lucha para ganar un cierto sentido de identidad cultural mientras cria a sus hijos en un barrio predominantemente blanco de clase media alta.</desc>
   </programme>
   <programme start="20230522040000 -0400" stop="20230522043000 -0400" channel="0839">
-    <title lang="es">Grown-ish</title>
-    <sub-title lang="es">Grown-ish</sub-title>
-    <desc lang="es">Zoey Johnson se va a la universidad y debe vivir fuera del nido, lidiando con drogas, sexo y relaciones en el camino.</desc>
+    <title lang="es">Black-ish</title>
+    <sub-title lang="es">Black-ish</sub-title>
+    <desc lang="es">Un hombre de familia lucha para ganar un cierto sentido de identidad cultural mientras cria a sus hijos en un barrio predominantemente blanco de clase media alta.</desc>
   </programme>
   <programme start="20230522043000 -0400" stop="20230522050000 -0400" channel="0839">
     <title lang="es">Grown-ish</title>
@@ -33872,16 +34134,16 @@
     <desc lang="es">Zoey Johnson se va a la universidad y debe vivir fuera del nido, lidiando con drogas, sexo y relaciones en el camino.</desc>
   </programme>
   <programme start="20230522050000 -0400" stop="20230522060000 -0400" channel="0839">
-    <title lang="es">Una diva en otro cuerpo</title>
-    <title lang="en">Drop Dead Diva</title>
-    <sub-title lang="es">Una diva en otro cuerpo</sub-title>
-    <desc lang="es">Deb Dobson, una aspirante a modelo, elegante y vanidosa al extremo, murió en un accidente. Su alma llega al cielo y le es concedido el deseo: vuelve a vivir, pero en el cuerpo de una inteligente abogada con sobrepeso.</desc>
+    <title lang="es">Médico a domicilio</title>
+    <title lang="en">Royal Pains</title>
+    <sub-title lang="es">Médico a domicilio</sub-title>
+    <desc lang="es">Esta serie sigue a un joven médico que tras perderlo todo, se recicla por casualidad en el doctor personal de algunos de los habitantes de los Hamptons, una de las zonas de veraneo más exclusivas de Estados Unidos.</desc>
   </programme>
   <programme start="20230522060000 -0400" stop="20230522070000 -0400" channel="0839">
-    <title lang="es">Una diva en otro cuerpo</title>
-    <title lang="en">Drop Dead Diva</title>
-    <sub-title lang="es">Una diva en otro cuerpo</sub-title>
-    <desc lang="es">Deb Dobson, una aspirante a modelo, elegante y vanidosa al extremo, murió en un accidente. Su alma llega al cielo y le es concedido el deseo: vuelve a vivir, pero en el cuerpo de una inteligente abogada con sobrepeso.</desc>
+    <title lang="es">Médico a domicilio</title>
+    <title lang="en">Royal Pains</title>
+    <sub-title lang="es">Médico a domicilio</sub-title>
+    <desc lang="es">Esta serie sigue a un joven médico que tras perderlo todo, se recicla por casualidad en el doctor personal de algunos de los habitantes de los Hamptons, una de las zonas de veraneo más exclusivas de Estados Unidos.</desc>
   </programme>
   <programme start="20230522070000 -0400" stop="20230522073000 -0400" channel="0839">
     <title lang="es">TeveCompras</title>
@@ -33903,58 +34165,70 @@
     <sub-title lang="es">TeveCompras</sub-title>
     <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
   </programme>
-  <programme start="20230522090000 -0400" stop="20230522100000 -0400" channel="0839">
+  <programme start="20230522090000 -0400" stop="20230522095500 -0400" channel="0839">
     <title lang="es">Médico a domicilio</title>
     <title lang="en">Royal Pains</title>
     <sub-title lang="es">Médico a domicilio</sub-title>
     <desc lang="es">Esta serie sigue a un joven médico que tras perderlo todo, se recicla por casualidad en el doctor personal de algunos de los habitantes de los Hamptons, una de las zonas de veraneo más exclusivas de Estados Unidos.</desc>
   </programme>
-  <programme start="20230522100000 -0400" stop="20230522110000 -0400" channel="0839">
-    <title lang="es">Médico a domicilio</title>
-    <title lang="en">Royal Pains</title>
-    <sub-title lang="es">Médico a domicilio</sub-title>
-    <desc lang="es">Esta serie sigue a un joven médico que tras perderlo todo, se recicla por casualidad en el doctor personal de algunos de los habitantes de los Hamptons, una de las zonas de veraneo más exclusivas de Estados Unidos.</desc>
+  <programme start="20230522095500 -0400" stop="20230522105000 -0400" channel="0839">
+    <title lang="es">Bettys Diagnose</title>
+    <sub-title lang="es">Bettys Diagnose</sub-title>
+    <desc lang="es">Bettina Ewald es una joven, respetuosa, competente y firme enfermera alemana que trabaja en un ajetreado hospital, donde junto a sus compañeros y doctores intenta hacer lo posible por mantener su buen humor ante las típicas situaciones.</desc>
   </programme>
-  <programme start="20230522110000 -0400" stop="20230522113000 -0400" channel="0839">
-    <title lang="es">Grown-ish</title>
-    <sub-title lang="es">Grown-ish</sub-title>
-    <desc lang="es">Zoey Johnson se va a la universidad y debe vivir fuera del nido, lidiando con drogas, sexo y relaciones en el camino.</desc>
+  <programme start="20230522105000 -0400" stop="20230522114500 -0400" channel="0839">
+    <title lang="es">Bettys Diagnose</title>
+    <sub-title lang="es">Bettys Diagnose</sub-title>
+    <desc lang="es">Bettina Ewald es una joven, respetuosa, competente y firme enfermera alemana que trabaja en un ajetreado hospital, donde junto a sus compañeros y doctores intenta hacer lo posible por mantener su buen humor ante las típicas situaciones.</desc>
   </programme>
-  <programme start="20230522113000 -0400" stop="20230522131500 -0400" channel="0839">
-    <title lang="es">La torre oscura</title>
-    <title lang="en">The Dark Tower</title>
-    <sub-title lang="es">La torre oscura</sub-title>
-    <desc lang="es">En un mundo extrañamente parecido al nuestro, un cowboy de nombre Roland Deschain de Gilead persigue a su eterno enemigo, ’el hombre de negro’. Roland, solitario y quizá maldito, anda sin descanso a través de un paisaje triste y abandonado.</desc>
+  <programme start="20230522114500 -0400" stop="20230522123500 -0400" channel="0839">
+    <title lang="es">Estación 19</title>
+    <title lang="en">Station 19</title>
+    <sub-title lang="es">Estación 19</sub-title>
+    <desc lang="es">Un equipo de bomberos debe salvar de las llamas a un famoso hospital en Seattle. La serie sigue la actitud heroica de estos hombres y mujeres ante situaciones en las que deben arriesgar sus vidas. Un spin-off de la serie Grey’s Anatomy.</desc>
   </programme>
-  <programme start="20230522131500 -0400" stop="20230522150000 -0400" channel="0839">
-    <title lang="es">Inframundo 3: La rebelión de los Lycans</title>
-    <title lang="en">Underworld: Rise of the Lycans</title>
-    <sub-title lang="es">Inframundo 3: La rebelión de los Lycans</sub-title>
-    <desc lang="es">Narra la historia del origen del centenario conflicto entre la raza de aristocráticos vampiros, conocidos como los "Death Dealers", y quienes fueran sus esclavos: los salvajes licántropos, una línea de feroces hombres lobos.</desc>
+  <programme start="20230522123500 -0400" stop="20230522133000 -0400" channel="0839">
+    <title lang="es">The Good Doctor</title>
+    <sub-title lang="es">The Good Doctor</sub-title>
+    <desc lang="es">Shaun, un joven cirujano con autismo y síndrome de Savant, es reclutado en la unidad quirúrgica pediátrica de un prestigioso hospital. ¿Puede una persona que no tiene la capacidad de relacionarse con la gente realmente salvar sus vidas?</desc>
   </programme>
-  <programme start="20230522150000 -0400" stop="20230522174000 -0400" channel="0839">
-    <title lang="es">El Hombre Araña 3</title>
-    <title lang="en">Spider-Man 3</title>
-    <sub-title lang="es">El Hombre Araña 3</sub-title>
-    <desc lang="es">Peter parece haber conseguido un equilibrio entre su relación con Mary Jane y sus responsabilidades como súperhéroe. Pero una tormenta amenaza en el horizonte: su traje cambia de repente, volviéndose negro y mejorando sus poderes.</desc>
+  <programme start="20230522133000 -0400" stop="20230522142500 -0400" channel="0839">
+    <title lang="es">Saving Hope</title>
+    <sub-title lang="es">Saving Hope</sub-title>
+    <desc lang="es">El carismático Charlie Harris, jefe de cirugía del Hospital Hope-Zion de Toronto cae en un coma profundo, dejando al hospital sumido en el caos, y a su novia y colega, la cirujana Alex Reid, en estado de shock.</desc>
   </programme>
-  <programme start="20230522174000 -0400" stop="20230522201500 -0400" channel="0839">
-    <title lang="es">El sorprendente Hombre Araña</title>
-    <title lang="en">The Amazing Spider-Man</title>
-    <sub-title lang="es">El sorprendente Hombre Araña</sub-title>
-    <desc lang="es">Como la mayoría de los adolescentes, Peter intenta descubrir quién es y cómo ha logrado ser lo que es. Mientras ata los cabos sueltos de su pasado, descubre un misterioso secreto de su padre, que le dará forma a su destino como Spiderman.</desc>
+  <programme start="20230522142500 -0400" stop="20230522152000 -0400" channel="0839">
+    <title lang="es">Saving Hope</title>
+    <sub-title lang="es">Saving Hope</sub-title>
+    <desc lang="es">El carismático Charlie Harris, jefe de cirugía del Hospital Hope-Zion de Toronto cae en un coma profundo, dejando al hospital sumido en el caos, y a su novia y colega, la cirujana Alex Reid, en estado de shock.</desc>
   </programme>
-  <programme start="20230522201500 -0400" stop="20230522224500 -0400" channel="0839">
-    <title lang="es">Spider-Man: de regreso a casa</title>
-    <title lang="en">Spider-Man: Homecoming</title>
-    <sub-title lang="es">Spider-Man: de regreso a casa</sub-title>
-    <desc lang="es">Bajo la atenta mirada de su mentor Tony Stark, Peter Parker intenta mantener una vida normal, pero el nuevo villano Vulture interrumpe en su rutina diaria y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.</desc>
+  <programme start="20230522152000 -0400" stop="20230522161500 -0400" channel="0839">
+    <title lang="es">Una diva en otro cuerpo</title>
+    <title lang="en">Drop Dead Diva</title>
+    <sub-title lang="es">Una diva en otro cuerpo</sub-title>
+    <desc lang="es">Deb Dobson, una aspirante a modelo, elegante y vanidosa al extremo, murió en un accidente. Su alma llega al cielo y le es concedido el deseo: vuelve a vivir, pero en el cuerpo de una inteligente abogada con sobrepeso.</desc>
   </programme>
-  <programme start="20230522224500 -0400" stop="20230523005500 -0400" channel="0839">
-    <title lang="es">Spider-Man: Un nuevo universo</title>
-    <title lang="en">Spider-Man: Into the Spider-Verse</title>
-    <sub-title lang="es">Spider-Man: Un nuevo universo</sub-title>
-    <desc lang="es">El adolescente Miles Morales se convierte en el Hombre Araña de su realidad, cruzándose en su camino con cinco contrapartes de otras dimensiones para detener una amenaza de todas las realidades.</desc>
+  <programme start="20230522161500 -0400" stop="20230522181500 -0400" channel="0839">
+    <title lang="es">Terror en la niebla</title>
+    <title lang="en">The Fog</title>
+    <sub-title lang="es">Terror en la niebla</sub-title>
+    <desc lang="es">En 1871, durante una densa neblina en la costa de California, un naufragio hace que mueran cuatro delincuentes. Un siglo más tarde, los espíritus de estos marineros resurgen en busca de venganza.</desc>
+  </programme>
+  <programme start="20230522181500 -0400" stop="20230522210000 -0400" channel="0839">
+    <title lang="es">El código Da Vinci</title>
+    <title lang="en">The Da Vinci Code</title>
+    <sub-title lang="es">El código Da Vinci</sub-title>
+    <desc lang="es">El afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el crimen de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas que podrían conectarse con una misteriosa sociedad.</desc>
+  </programme>
+  <programme start="20230522210000 -0400" stop="20230522215500 -0400" channel="0839">
+    <title lang="es">New Amsterdam</title>
+    <sub-title lang="es">New Amsterdam</sub-title>
+    <desc lang="es">El New Amsterdam se encuentra en una mala situación tanto económica como de reputación. Esto cambiará con la llegada del Dr. Max Goodwin, el nuevo director médico que se propone romper con la burocracia y brindar una atención excepcional.</desc>
+  </programme>
+  <programme start="20230522215500 -0400" stop="20230522230000 -0400" channel="0839">
+    <title lang="es">Nelle tue mani</title>
+    <sub-title lang="es">Nelle tue mani</sub-title>
+    <desc lang="es">Andrea Fanti pierde el recuerdo de sus últimos doce años de vida debido a un traumatismo cerebral y, por primera vez, ya no es el médico brillante y autoritario, sino un simple paciente.</desc>
   </programme>
   <programme start="20230523005500 -0400" stop="20230523033000 -0400" channel="0839">
     <title lang="es">El sorprendente Hombre Araña</title>
@@ -34074,10 +34348,136 @@
     <sub-title lang="es">Nelle tue mani</sub-title>
     <desc lang="es">Andrea Fanti pierde el recuerdo de sus últimos doce años de vida debido a un traumatismo cerebral y, por primera vez, ya no es el médico brillante y autoritario, sino un simple paciente.</desc>
   </programme>
-  <programme start="20230524215500 -0400" stop="20230524230000 -0400" channel="0839">
-    <title lang="es">Nelle tue mani</title>
-    <sub-title lang="es">Nelle tue mani</sub-title>
-    <desc lang="es">Andrea Fanti pierde el recuerdo de sus últimos doce años de vida debido a un traumatismo cerebral y, por primera vez, ya no es el médico brillante y autoritario, sino un simple paciente.</desc>
+  <programme start="20230523230000 -0400" stop="20230524005000 -0400" channel="0839">
+    <title lang="es">Ouija: El origen del mal</title>
+    <title lang="en">Ouija: Origin of Evil</title>
+    <sub-title lang="es">Ouija: El origen del mal</sub-title>
+    <desc lang="es">Una joven usará la ouija imprudentemente para intentar contactarse con su padre recientemente fallecido. Ella y su grupo de amigos deberán enfrentarse a sus peores temores cuando despierten a un ser maléfico procedente del otro lado.</desc>
+  </programme>
+  <programme start="20230524005000 -0400" stop="20230524030000 -0400" channel="0839">
+    <title lang="es">El libro de los secretos</title>
+    <title lang="en">The Book of Eli</title>
+    <sub-title lang="es">El libro de los secretos</sub-title>
+    <desc lang="es">Treinta años después del "resplandor" que aniquiló casi toda la sociedad civilizada, unos pocos humanos sobreviven en un ambiente hostil y árido. Un guerrero solitario puede tener la clave para salvar a la humanidad en un extraño libro.</desc>
+  </programme>
+  <programme start="20230524030000 -0400" stop="20230524032500 -0400" channel="0839">
+    <title lang="es">Grown-ish</title>
+    <sub-title lang="es">Grown-ish</sub-title>
+    <desc lang="es">Zoey Johnson se va a la universidad y debe vivir fuera del nido, lidiando con drogas, sexo y relaciones en el camino.</desc>
+  </programme>
+  <programme start="20230524032500 -0400" stop="20230524040000 -0400" channel="0839">
+    <title lang="es">Casual</title>
+    <sub-title lang="es">Casual</sub-title>
+    <desc lang="es">Sigue la historia de una familia disfuncional formada por un hermano soltero y su hermana recién divorciada y madre de una adolescente, que se ayudan el uno al otro a mejorar su técnicas de seducción.</desc>
+  </programme>
+  <programme start="20230524040000 -0400" stop="20230524050000 -0400" channel="0839">
+    <title lang="es">Estación 19</title>
+    <title lang="en">Station 19</title>
+    <sub-title lang="es">Estación 19</sub-title>
+    <desc lang="es">Un equipo de bomberos debe salvar de las llamas a un famoso hospital en Seattle. La serie sigue la actitud heroica de estos hombres y mujeres ante situaciones en las que deben arriesgar sus vidas. Un spin-off de la serie Grey’s Anatomy.</desc>
+  </programme>
+  <programme start="20230524050000 -0400" stop="20230524060000 -0400" channel="0839">
+    <title lang="es">Saving Hope</title>
+    <sub-title lang="es">Saving Hope</sub-title>
+    <desc lang="es">El carismático Charlie Harris, jefe de cirugía del Hospital Hope-Zion de Toronto cae en un coma profundo, dejando al hospital sumido en el caos, y a su novia y colega, la cirujana Alex Reid, en estado de shock.</desc>
+  </programme>
+  <programme start="20230524060000 -0400" stop="20230524070000 -0400" channel="0839">
+    <title lang="es">Saving Hope</title>
+    <sub-title lang="es">Saving Hope</sub-title>
+    <desc lang="es">El carismático Charlie Harris, jefe de cirugía del Hospital Hope-Zion de Toronto cae en un coma profundo, dejando al hospital sumido en el caos, y a su novia y colega, la cirujana Alex Reid, en estado de shock.</desc>
+  </programme>
+  <programme start="20230524070000 -0400" stop="20230524073000 -0400" channel="0839">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">TeveCompras</sub-title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+  </programme>
+  <programme start="20230524073000 -0400" stop="20230524080000 -0400" channel="0839">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">TeveCompras</sub-title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+  </programme>
+  <programme start="20230524080000 -0400" stop="20230524083000 -0400" channel="0839">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">TeveCompras</sub-title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+  </programme>
+  <programme start="20230524083000 -0400" stop="20230524090000 -0400" channel="0839">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">TeveCompras</sub-title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+  </programme>
+  <programme start="20230524090000 -0400" stop="20230524095500 -0400" channel="0839">
+    <title lang="es">Médico a domicilio</title>
+    <title lang="en">Royal Pains</title>
+    <sub-title lang="es">Médico a domicilio</sub-title>
+    <desc lang="es">Esta serie sigue a un joven médico que tras perderlo todo, se recicla por casualidad en el doctor personal de algunos de los habitantes de los Hamptons, una de las zonas de veraneo más exclusivas de Estados Unidos.</desc>
+  </programme>
+  <programme start="20230524095500 -0400" stop="20230524105000 -0400" channel="0839">
+    <title lang="es">Bettys Diagnose</title>
+    <sub-title lang="es">Bettys Diagnose</sub-title>
+    <desc lang="es">Bettina Ewald es una joven, respetuosa, competente y firme enfermera alemana que trabaja en un ajetreado hospital, donde junto a sus compañeros y doctores intenta hacer lo posible por mantener su buen humor ante las típicas situaciones.</desc>
+  </programme>
+  <programme start="20230524105000 -0400" stop="20230524114500 -0400" channel="0839">
+    <title lang="es">Bettys Diagnose</title>
+    <sub-title lang="es">Bettys Diagnose</sub-title>
+    <desc lang="es">Bettina Ewald es una joven, respetuosa, competente y firme enfermera alemana que trabaja en un ajetreado hospital, donde junto a sus compañeros y doctores intenta hacer lo posible por mantener su buen humor ante las típicas situaciones.</desc>
+  </programme>
+  <programme start="20230524114500 -0400" stop="20230524123500 -0400" channel="0839">
+    <title lang="es">Estación 19</title>
+    <title lang="en">Station 19</title>
+    <sub-title lang="es">Estación 19</sub-title>
+    <desc lang="es">Un equipo de bomberos debe salvar de las llamas a un famoso hospital en Seattle. La serie sigue la actitud heroica de estos hombres y mujeres ante situaciones en las que deben arriesgar sus vidas. Un spin-off de la serie Grey’s Anatomy.</desc>
+  </programme>
+  <programme start="20230524123500 -0400" stop="20230524133000 -0400" channel="0839">
+    <title lang="es">The Good Doctor</title>
+    <sub-title lang="es">The Good Doctor</sub-title>
+    <desc lang="es">Shaun, un joven cirujano con autismo y síndrome de Savant, es reclutado en la unidad quirúrgica pediátrica de un prestigioso hospital. ¿Puede una persona que no tiene la capacidad de relacionarse con la gente realmente salvar sus vidas?</desc>
+  </programme>
+  <programme start="20230524133000 -0400" stop="20230524142500 -0400" channel="0839">
+    <title lang="es">Saving Hope</title>
+    <sub-title lang="es">Saving Hope</sub-title>
+    <desc lang="es">El carismático Charlie Harris, jefe de cirugía del Hospital Hope-Zion de Toronto cae en un coma profundo, dejando al hospital sumido en el caos, y a su novia y colega, la cirujana Alex Reid, en estado de shock.</desc>
+  </programme>
+  <programme start="20230524142500 -0400" stop="20230524152000 -0400" channel="0839">
+    <title lang="es">Saving Hope</title>
+    <sub-title lang="es">Saving Hope</sub-title>
+    <desc lang="es">El carismático Charlie Harris, jefe de cirugía del Hospital Hope-Zion de Toronto cae en un coma profundo, dejando al hospital sumido en el caos, y a su novia y colega, la cirujana Alex Reid, en estado de shock.</desc>
+  </programme>
+  <programme start="20230524152000 -0400" stop="20230524161000 -0400" channel="0839">
+    <title lang="es">Una diva en otro cuerpo</title>
+    <title lang="en">Drop Dead Diva</title>
+    <sub-title lang="es">Una diva en otro cuerpo</sub-title>
+    <desc lang="es">Deb Dobson, una aspirante a modelo, elegante y vanidosa al extremo, murió en un accidente. Su alma llega al cielo y le es concedido el deseo: vuelve a vivir, pero en el cuerpo de una inteligente abogada con sobrepeso.</desc>
+  </programme>
+  <programme start="20230524161000 -0400" stop="20230524183500 -0400" channel="0839">
+    <title lang="es">Ghost, la sombra del amor</title>
+    <title lang="en">Ghost</title>
+    <sub-title lang="es">Ghost, la sombra del amor</sub-title>
+    <desc lang="es">Ella queda desconsolada tras la muerte repentina de su esposo, él permanece a su lado como fantasma y sabe quién lo mató, pero no tiene forma de comunicarse con ella. Es allí cuando aparece una pintoresca medium.</desc>
+  </programme>
+  <programme start="20230524183500 -0400" stop="20230524210000 -0400" channel="0839">
+    <title lang="es">Luna nueva</title>
+    <title lang="en">The Twilight Saga: New Moon</title>
+    <sub-title lang="es">Luna nueva</sub-title>
+    <desc lang="es">Bella se encuentra desolada por la inesperada marcha de su amado vampiro, Edward Cullen. Pero su espíritu comienza a restablecerse gracias a la creciente amistad con el irresistible Jacob Black.</desc>
+  </programme>
+  <programme start="20230524210000 -0400" stop="20230524215500 -0400" channel="0839">
+    <title lang="es">Anatomía según Grey</title>
+    <title lang="en">Grey’s Anatomy</title>
+    <sub-title lang="es">Anatomía según Grey</sub-title>
+    <desc lang="es">Meredith Grey, hija de una cirujana general de renombre, integra un grupo de jóvenes doctores en el Hospital Seattle Grace. Allí, al igual que sus colegas, Meredith lucha por equilibrar su vida personal con su agitado trabajo.</desc>
+  </programme>
+  <programme start="20230524215500 -0400" stop="20230524225000 -0400" channel="0839">
+    <title lang="es">Estación 19</title>
+    <title lang="en">Station 19</title>
+    <sub-title lang="es">Estación 19</sub-title>
+    <desc lang="es">Un equipo de bomberos debe salvar de las llamas a un famoso hospital en Seattle. La serie sigue la actitud heroica de estos hombres y mujeres ante situaciones en las que deben arriesgar sus vidas. Un spin-off de la serie Grey’s Anatomy.</desc>
+  </programme>
+  <programme start="20230524225000 -0400" stop="20230525003500 -0400" channel="0839">
+    <title lang="es">Guerra de novias</title>
+    <title lang="en">Bride Wars</title>
+    <sub-title lang="es">Guerra de novias</sub-title>
+    <desc lang="es">Liv y Emma son dos amigas de la infancia, que planifican sus respectivas bodas al mismo tiempo. Pero, debido a un malentendido, lo que parecía que iba a ser una buena idea se convertirá en una feroz competencia.</desc>
   </programme>
   <programme start="20230521211000 -0400" stop="20230521230000 -0400" channel="0840">
     <title lang="es">Cómo Aprender a Besar y no Morir en el Intento</title>
@@ -34553,9 +34953,9 @@
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
   </programme>
-  <programme start="20230522134500 -0400" stop="20230522143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
+  <programme start="20230522130000 -0400" stop="20230522141500 -0400" channel="0153">
+    <title lang="es">Efemérides</title>
+    <desc lang="es">Cada día una nueva historia en Bío Bío TV.</desc>
   </programme>
   <programme start="20230522143000 -0400" stop="20230522153000 -0400" channel="0153">
     <title lang="es">El Tablón</title>
