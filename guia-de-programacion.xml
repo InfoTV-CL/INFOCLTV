@@ -2052,18 +2052,19 @@
     <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
   </programme>
   <programme start="20230527083000 -0400" stop="20230527150000 -0400" channel="0102">
-    <title lang="es">Antena 3D</title>
+    <title lang="es">A3D</title>
     <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud, ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
   </programme>
   <programme start="20230527150000 -0400" stop="20230528020000 -0400" channel="0102">
     <title lang="es">Swiss Nature Labs</title>
     <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
   </programme>
-  <programme start="20230528020000 -0400" stop="20230528024500 -0400" channel="0102">
+  <programme start="20230528020000 -0400" stop="20230528023000 -0400" channel="0102">
     <title lang="es">Sex and the City</title>
-    <desc lang="es">Las aventuras amorosas y sexuales de cuatro solteras independientes de la ciudad de Nueva York. Se trata de mujeres que se confían unas a otras sus siempre cambiantes vidas sexuales, tan diferentes como sus personalidades. Carrie Bradshaw es una columnista, Miranda Hobbes es una abogada pelirroja, decidida a ser ruda tanto en lo profesional como en el amor. Aun así, su único amante confiable es un nerd. Charlotte York es una moralista poco moderna, que a pesar de todo, aun no encuentra a su amante ideal. Finalmente conocemos a Samantha Jones, una feminista que se convierte además en la voz de la lujuria para sus compañeras.</desc>
+    <sub-title lang="es">13 Escape from New York</sub-title>
+    <desc lang="es">Las aventuras amorosas y sexuales de cuatro solteras independientes de la ciudad de Nueva York. Se trata de mujeres que se confían unas a otras sus siempre cambiantes vidas sexuales, tan diferentes como sus personalidades. Carrie Bradshaw es una columnista, Miranda Hobbes es una abogada pelirroja, decidida a ser ruda tanto en lo profesional como en el amor. Aun así, su único amante confiable es un nerd. Charlotte York es una moralista poco moderna, que a pesar de todo, aun no encuentra a su amante ideal. Finalmente conocemos a Samantha Jones, una feminista que se convierte además en la voz de la lujuria para sus compañeras. Carrie, Miranda y Samantha se sienten fuera de lugar en Los Ángeles. En tanto, en Nueva York, los problemas de alcoba empeoran entre Charlotte y Trey.</desc>
   </programme>
-  <programme start="20230528024500 -0400" stop="20230528050000 -0400" channel="0102">
+  <programme start="20230528023000 -0400" stop="20230528050000 -0400" channel="0102">
     <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20230528050000 -0400" stop="20230528083000 -0400" channel="0102">
@@ -2078,7 +2079,11 @@
     <title lang="es">Raffi</title>
     <desc lang="es">Producción infantil que narra las aventuras de un perro curioso y súper hiperquinético, y de Ema, una niña que vive en una granja ubicada en medio de la ciudad.</desc>
   </programme>
-  <programme start="20230528153000 -0400" stop="20230528160000 -0400" channel="0102">
+  <programme start="20230528153000 -0400" stop="20230528154500 -0400" channel="0102">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.</desc>
+  </programme>
+  <programme start="20230528154500 -0400" stop="20230528160000 -0400" channel="0102">
     <title lang="es">Plaza Sésamo</title>
     <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.</desc>
   </programme>
@@ -2094,13 +2099,20 @@
     <title lang="es">La picá de mi compadre</title>
     <desc lang="es">Programa que nos invita a recorrer diferentes barrios relacionados con la historia, el arte y la culinaria; y a través de grandes invitados conocer y disfrutar de diferentes picadas.</desc>
   </programme>
-  <programme start="20230528220000 -0400" stop="20230528231500 -0400" channel="0102">
-    <title lang="es">La rebelión de los bárbaros - Fin</title>
-    <desc lang="es">Esta no es una historia sobre la gloria de Roma, es la de los millones de personas que se levantan y luchan por la libertad en la sombra del poder absoluto, y los pocos que encabezaron el ataque. El imperio los llama bárbaros, tribus más allá de la periferia de la civilización que viven una existencia primitiva, brutal y violenta; estos pueblos son también algunos de los guerreros más feroces de la historia. Los hombres y las mujeres que se niegan a someterse a la opresión despiadada, el lanzamiento de una saga épica de la resistencia que marca el comienzo de la caída de Roma y da forma al mundo por venir.</desc>
+  <programme start="20230528220000 -0400" stop="20230528230000 -0400" channel="0102">
+    <title lang="es">La rebelión de los bárbaros</title>
+    <sub-title lang="es">8 Ruina</sub-title>
+    <desc lang="es">Esta no es una historia sobre la gloria de Roma, es la de los millones de personas que se levantan y luchan por la libertad en la sombra del poder absoluto, y los pocos que encabezaron el ataque. El imperio los llama bárbaros, tribus más allá de la periferia de la civilización que viven una existencia primitiva, brutal y violenta; estos pueblos son también algunos de los guerreros más feroces de la historia. Los hombres y las mujeres que se niegan a someterse a la opresión despiadada, el lanzamiento de una saga épica de la resistencia que marca el comienzo de la caída de Roma y da forma al mundo por venir. Los hunos emergen en el este y tiran al mundo antiguo en el caos; Attila toma el poder y comienza un reino de destrucción con una oleada tras otra, luchando en demasiados frentes. En medio del caos, el último gran líder bárbaro Genserico, el rey de cálculo y la astucia de los vándalos, se convierte en el artífice de la destrucción de Roma.</desc>
   </programme>
-  <programme start="20230528231500 -0400" stop="20230529000000 -0400" channel="0102">
+  <programme start="20230528230000 -0400" stop="20230528233000 -0400" channel="0102">
     <title lang="es">Hispania, la leyenda</title>
-    <desc lang="es">En un mundo en el que el poder de unos pocos rige la vida de muchos, un grupo de rebeldes hispanos liderados por Viriato se forja su propio destino. Lucharán contra Roma para defender su territorio: Hispania.</desc>
+    <sub-title lang="es">1 El nacimiento de la leyenda</sub-title>
+    <desc lang="es">En un mundo en el que el poder de unos pocos rige la vida de muchos, un grupo de rebeldes hispanos liderados por Viriato se forja su propio destino. Lucharán contra Roma para defender su territorio: Hispania. El comportamiento de los legionarios con los hispanos nada ha tenido de cordial. Muchos pueblos han sufrido el acoso del sanguinario Galba. En este clima, llega una oferta romana para los hispanos.</desc>
+  </programme>
+  <programme start="20230528233000 -0400" stop="20230529000000 -0400" channel="0102">
+    <title lang="es">Hispania, la leyenda</title>
+    <sub-title lang="es">2 La liberación de los esclavos</sub-title>
+    <desc lang="es">En un mundo en el que el poder de unos pocos rige la vida de muchos, un grupo de rebeldes hispanos liderados por Viriato se forja su propio destino. Lucharán contra Roma para defender su territorio: Hispania. Los esclavos hispanos en poder de los romanos van a ser vendidos al mejor postor. La situación es desesperada y el líder rebelde toma una decisión arriesgada y casi suicida.</desc>
   </programme>
   <programme start="20230527000000 -0400" stop="20230527011500 -0400" channel="0103">
     <title lang="es">Toc Show</title>
@@ -5212,20 +5224,70 @@
     <title lang="es">Resumen informativo en lengua de señas</title>
     <desc lang="es">Se presentan las informaciones más recientes referidas a los principales ámbitos de la sociedad, realizando un recorrido por aquellos hechos que mayor impacto han generado. Todo articulado en el lenguaje universal de señas.</desc>
   </programme>
-  <programme start="20230527091500 -0400" stop="20230527180000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230527091500 -0400" stop="20230527093000 -0400" channel="0125">
+    <title lang="es">La cámara en la radio</title>
+    <sub-title lang="es">Diputada Joanna Pérez</sub-title>
+  </programme>
+  <programme start="20230527093000 -0400" stop="20230527110000 -0400" channel="0125">
+    <title lang="es">Concierto de la Serena</title>
+    <sub-title lang="es">Francia</sub-title>
+    <desc lang="es">El elenco estudiantil perteneciente al Departamento de Música de la Universidad de La Serena presenta un repertorio acompañado de jóvenes solistas regionales.</desc>
+  </programme>
+  <programme start="20230527110000 -0400" stop="20230527134500 -0400" channel="0125">
+    <title lang="es">Sesión especial de sala</title>
+    <sub-title lang="es">Sesión Nº 32</sub-title>
+    <desc lang="es">Sesión especial de la cámara de diputados para tratar las diversas problemáticas que aquejan a los ciudadanos chilenos, así como discutir y gestionar las posibles soluciones.</desc>
+  </programme>
+  <programme start="20230527134500 -0400" stop="20230527140000 -0400" channel="0125">
+    <title lang="es">De frente</title>
+  </programme>
+  <programme start="20230527140000 -0400" stop="20230527160000 -0400" channel="0125">
+    <title lang="es">Comisión de constitución</title>
+    <sub-title lang="es">Emisión del día 15/05/23</sub-title>
+    <desc lang="es">Edición institucional que presenta la discusión particular del proyecto constitucional que involucra a parlamentarios, alcaldes, concejales y ciudadanos con la finalidad de establecer estrategias de desarrollo para la nación.</desc>
+  </programme>
+  <programme start="20230527160000 -0400" stop="20230527174500 -0400" channel="0125">
+    <title lang="es">Comisión de defensa</title>
+    <sub-title lang="es">Emisión del día 16/05/23</sub-title>
+    <desc lang="es">Sea testigo de las sesiones de la Cámara de Diputados de Chile, en la cual, se formulan proyectos de ley referentes al tema de la legislación militar, las políticas nacionales en defensa, armamento, servicio militar y otras funciones de las Fuerzas Armadas.</desc>
+  </programme>
+  <programme start="20230527174500 -0400" stop="20230527180000 -0400" channel="0125">
+    <title lang="es">La cámara en la radio</title>
+    <sub-title lang="es">Diputado Héctor Ulloa</sub-title>
   </programme>
   <programme start="20230527180000 -0400" stop="20230527183000 -0400" channel="0125">
     <title lang="es">Soy representante</title>
   </programme>
-  <programme start="20230527183000 -0400" stop="20230528063000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230527183000 -0400" stop="20230527190000 -0400" channel="0125">
+    <title lang="es">Puntos de vista</title>
+    <desc lang="es">Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.</desc>
   </programme>
-  <programme start="20230528063000 -0400" stop="20230528070000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230527190000 -0400" stop="20230527200000 -0400" channel="0125">
+    <title lang="es">Comisión inv. Combate incendios</title>
+    <sub-title lang="es">Emisión del día 16/05/23</sub-title>
+  </programme>
+  <programme start="20230527200000 -0400" stop="20230527205000 -0400" channel="0125">
+    <title lang="es">UESTV</title>
+    <desc lang="es">Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.</desc>
+  </programme>
+  <programme start="20230527205000 -0400" stop="20230527223000 -0400" channel="0125">
+    <title lang="es">Comisión de futuro, ciencias y tecnologías</title>
+    <sub-title lang="es">Emisión del día 17/05/23</sub-title>
+  </programme>
+  <programme start="20230527223000 -0400" stop="20230527234000 -0400" channel="0125">
+    <title lang="es">Semanas musicales de Frutillar</title>
+    <sub-title lang="es">Concierto inaugural: Banda Sinfónica de la Fach</sub-title>
+    <desc lang="es">Disfrute del festival de música docta que se realiza desde 1968 en la ciudad balneario chilena de Frutillar, en la Región de Los Lagos.</desc>
+  </programme>
+  <programme start="20230527234000 -0400" stop="20230528000000 -0400" channel="0125">
+    <title lang="es">Temas</title>
+  </programme>
+  <programme start="20230528000000 -0400" stop="20230528010000 -0400" channel="0125">
+    <title lang="es">Condimentos para el alma</title>
+    <desc lang="es">Programa que analiza la actualidad cultural y los mejores panoramas de la semana.</desc>
+  </programme>
+  <programme start="20230528010000 -0400" stop="20230528070000 -0400" channel="0125">
+    <title lang="es">Cierre de transmisión</title>
   </programme>
   <programme start="20230528070000 -0400" stop="20230528090000 -0400" channel="0125">
     <title lang="es">CNTV Infantil: Televisión educativa</title>
@@ -5235,20 +5297,54 @@
     <title lang="es">Resumen informativo en lengua de señas</title>
     <desc lang="es">Se presentan las informaciones más recientes referidas a los principales ámbitos de la sociedad, realizando un recorrido por aquellos hechos que mayor impacto han generado. Todo articulado en el lenguaje universal de señas.</desc>
   </programme>
-  <programme start="20230528091500 -0400" stop="20230528103000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230528091500 -0400" stop="20230528093000 -0400" channel="0125">
+    <title lang="es">La cámara en la radio</title>
+    <sub-title lang="es">Diputada Andrés Celis</sub-title>
+  </programme>
+  <programme start="20230528093000 -0400" stop="20230528103000 -0400" channel="0125">
+    <title lang="es">Semanas musicales de Frutillar</title>
+    <sub-title lang="es">Recital de vientos Recital de piano</sub-title>
+    <desc lang="es">Disfrute del festival de música docta que se realiza desde 1968 en la ciudad balneario chilena de Frutillar, en la Región de Los Lagos.</desc>
   </programme>
   <programme start="20230528103000 -0400" stop="20230528110000 -0400" channel="0125">
     <title lang="es">Soy representante</title>
   </programme>
-  <programme start="20230528110000 -0400" stop="20230528230000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230528110000 -0400" stop="20230528144000 -0400" channel="0125">
+    <title lang="es">Sesión de sala</title>
+    <sub-title lang="es">Sesión Nº 33</sub-title>
+    <desc lang="es">Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.</desc>
   </programme>
-  <programme start="20230528230000 -0400" stop="20230529070000 -0400" channel="0125">
-    <title lang="es">CDTV</title>
-    <desc lang="es">Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.</desc>
+  <programme start="20230528144000 -0400" stop="20230528180000 -0400" channel="0125">
+    <title lang="es">Comisión de minería</title>
+    <sub-title lang="es">Emisión del día 16/05/23</sub-title>
+    <desc lang="es">Espacio en el que podrá seguir el trabajo que realiza la Comisión de Minería, el debate de las principales políticas en el sector y los acuerdos establecidos para beneficio de la nación chilena.</desc>
+  </programme>
+  <programme start="20230528180000 -0400" stop="20230528191500 -0400" channel="0125">
+    <title lang="es">Semanas musicales de Frutillar</title>
+    <sub-title lang="es">Concierto inaugural: Banda Sinfónica de la Fach</sub-title>
+    <desc lang="es">Disfrute del festival de música docta que se realiza desde 1968 en la ciudad balneario chilena de Frutillar, en la Región de Los Lagos.</desc>
+  </programme>
+  <programme start="20230528191500 -0400" stop="20230528193000 -0400" channel="0125">
+    <title lang="es">De frente</title>
+  </programme>
+  <programme start="20230528193000 -0400" stop="20230528200000 -0400" channel="0125">
+    <title lang="es">Mentes brillantes</title>
+    <sub-title lang="es">Ramón Latorre</sub-title>
+    <desc lang="es">Serie documental, de carácter humano-histórico científico, que nos cuenta de manera entretenida la historia de la ciencia chilena de los últimos 50 años, a través de sus protagonistas principales: los Premios Nacionales de Ciencias.</desc>
+  </programme>
+  <programme start="20230528200000 -0400" stop="20230528210000 -0400" channel="0125">
+    <title lang="es">UESTV</title>
+    <desc lang="es">Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.</desc>
+  </programme>
+  <programme start="20230528210000 -0400" stop="20230528230000 -0400" channel="0125">
+    <title lang="es">Comisión de seguridad ciudadana</title>
+    <sub-title lang="es">Emisión del día 15/05/23</sub-title>
+    <desc lang="es">Debates y conversaciones sobre el sistema de seguridad de la nación. Es una reunión que tiene como prioridad discutir los proyectos en marcha y la planificación en función del bienestar de los ciudadanos.</desc>
+  </programme>
+  <programme start="20230528230000 -0400" stop="20230529003000 -0400" channel="0125">
+    <title lang="es">Semanas musicales de Frutillar</title>
+    <sub-title lang="es">Banda Sinfónica de la Fuerza Aérea</sub-title>
+    <desc lang="es">Disfrute del festival de música docta que se realiza desde 1968 en la ciudad balneario chilena de Frutillar, en la Región de Los Lagos.</desc>
   </programme>
   <programme start="20230526205000 -0400" stop="20230526213500 -0400" channel="0126">
     <title lang="en">Encuentros del futuro</title>
@@ -9145,12 +9241,12 @@
     <desc lang="es">Pickle y Maní es una serie de comedia animada que sigue las excéntricas aventuras de los adolescentes pueblerinos Pickle y Maní, mientras se embarcan en su último año de la escuela secundaria. Decididos a divertirse todo lo que puedan antes de asumir las responsabilidades de la adultez, los estrafalarios amigos inventan planes para intentar hacer extraordinarias sus vidas en su ligeramente bizarro suburbio de Reno, Nevada. Pickle pierde su último diente de leche e instantáneamente comienza a actuar como un adulto.</desc>
   </programme>
   <programme start="20230528135200 -0400" stop="20230528141900 -0400" channel="0304">
-    <title lang="es">Guardianes de la galaxia - Misión: ¡Fuga!</title>
+    <title lang="es">Guardianes de la galaxia</title>
     <sub-title lang="es">19 El verdadero yo</sub-title>
     <desc lang="es">Sigue las aventuras de un grupo de guerreros espaciales que trabajan para proteger al universo del malvado Thanos. Los Guardianes no saben en quién confiar, ya que los Darkhawks parecen haber duplicado a todos, incluido Quill.</desc>
   </programme>
   <programme start="20230528141900 -0400" stop="20230528144600 -0400" channel="0304">
-    <title lang="es">Guardianes de la galaxia - Misión: ¡Fuga!</title>
+    <title lang="es">Guardianes de la galaxia</title>
     <sub-title lang="es">20 Paranoia</sub-title>
     <desc lang="es">Sigue las aventuras de un grupo de guerreros espaciales que trabajan para proteger al universo del malvado Thanos. Ahora en Asgard, los Guardianes y Valkyrie se encuentran con Thor, quien acaba de regresar del Consejo Galáctico donde planean detener la invasión de Darkhawk. Después de una pelea con el Destructor, los Guardianes de la Galaxia son encarcelados junto con Thor y Loki por desobedecer las leyes de Odín, mientras que Heimdall y Valkyrie son reasignados para proteger las cámaras de Odín. Durante este tiempo, se revela que los Darkhawks fueron creados por el hermano de Odin, Serpiente, en un complot anterior para conquistar Asgard. Los Guardianes comienzan a acusarse unos a otros de ser Darkhawks, sin saber que trajeron un robot duplicado de Rocket.</desc>
   </programme>
@@ -12651,155 +12747,161 @@
     <sub-title lang="es">4 Baby Dragon / Gloommates</sub-title>
     <desc lang="es">Cuenta la historia de una joven vampira que enfrenta las alegrías y las pruebas de ser la nueva chica en la ciudad cuando su familia se traslada de Transilvania a Pensilvania. Un bebé dragón visita la casa de los Hauntley y siente un cariño especial por Gregoria. Por otro lado, cuando la casa Hauntley se infesta de insectos Charmer, Edna insiste en que toda la familia se quede con ella mientras fumigan la casa.</desc>
   </programme>
-  <programme start="20230528050000 -0400" stop="20230528053000 -0400" channel="0311">
+  <programme start="20230528050000 -0400" stop="20230528052500 -0400" channel="0311">
     <title lang="es">La casa de Mickey Mouse</title>
     <sub-title lang="es">9 El loco problema de Mickey</sub-title>
     <desc lang="es">Mickey, Minnie, el Pato Donald, Daisy, Goofy y Pluto ayudarán a los más pequeños a resolver distintos acertijos utilizando habilidades básicas como identificar las formas o contar hasta diez. El 'interruptor tonto' de la casa club se atasca y hace que todos se comporten de manera exageradamente cómica, incluido Mickey que sólo habla en rima y Pluto, quien muge como una vaca en lugar de ladrar.</desc>
   </programme>
-  <programme start="20230528053000 -0400" stop="20230528055000 -0400" channel="0311">
+  <programme start="20230528052500 -0400" stop="20230528055000 -0400" channel="0311">
     <title lang="es">TOTS: Servicio de entrega de animalitos</title>
     <desc lang="es">Presenta las divertidas aventuras de los mejores amigos, Pip y Freddy, un pingüino tenaz y un flamenco de buen corazón, que son las únicas aves de entregas sin cigüeña en entrenamiento en Tiny Ones Transport Service (TOTS). Como nuevos miembros del estimado equipo, estos volantes juveniles deben cuidarse al transferir animales bebés desde la guardería hasta sus familias para siempre en todo el mundo. Juntos, aprenderán cómo cuidar a los bebés y usar el pensamiento creativo y la resolución de problemas para demostrar a los jóvenes espectadores que no hay una sola manera de lograr un objetivo.</desc>
   </programme>
-  <programme start="20230528055000 -0400" stop="20230528060000 -0400" channel="0311">
+  <programme start="20230528055000 -0400" stop="20230528060300 -0400" channel="0311">
     <title lang="es">Muppet Babies</title>
     <sub-title lang="es">49 Tagalong Polliwog</sub-title>
     <desc lang="es">Más de 30 años después de que los Muppet Babies se ganaron los corazones de los niños y las familias de todo el mundo, la serie de televisión reinventada de Disney Junior narra las divertidas payasadas de un joven Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal y Summer Penguin. Bajo la atenta mirada de Miss Nanny, los Muppet Babies usan su imaginación para embarcarse en innumerables aventuras que los llevan a los rincones más lejanos del universo y demuestran a los jóvenes espectadores el poder y el potencial del juego imaginativo.</desc>
   </programme>
-  <programme start="20230528060000 -0400" stop="20230528063000 -0400" channel="0311">
+  <programme start="20230528060300 -0400" stop="20230528062800 -0400" channel="0311">
     <title lang="es">Muppet Babies</title>
     <sub-title lang="es">8 Frogs of a Feather / Kermit Levels Up</sub-title>
     <desc lang="es">Más de 30 años después de que los Muppet Babies se ganaron los corazones de los niños y las familias de todo el mundo, la serie de televisión reinventada de Disney Junior narra las divertidas payasadas de un joven Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal y Summer Penguin. Bajo la atenta mirada de Miss Nanny, los Muppet Babies usan su imaginación para embarcarse en innumerables aventuras que los llevan a los rincones más lejanos del universo y demuestran a los jóvenes espectadores el poder y el potencial del juego imaginativo.</desc>
   </programme>
-  <programme start="20230528063000 -0400" stop="20230528063500 -0400" channel="0311">
-    <title lang="es">Molang</title>
-    <sub-title lang="es">193 A Great Heart</sub-title>
-    <desc lang="es">Molang es un conejo curioso que hace de cada momento de su vida diaria algo único y maravilloso, prestando una atención especial a cada detalle, lo que le da un sabor inesperado a las cosas. Junto a su amigo Piu Piu, un pollito tímido, exploran su mundo para descurbir nuevas formas de ser felices y divertirse. A pesar de sus diferencias, los dos vivirán buenos momentos juntos, ya sea volando a la luna o simplemente regando las plantas. Un amigo inventor construye un robot. Compra un pequeño reloj de Molang y Piu Piu para hacer el corazón de su robot. Cuando el robot cobra vida, solo le gusta Piu Piu.</desc>
-  </programme>
-  <programme start="20230528063500 -0400" stop="20230528064500 -0400" channel="0311">
+  <programme start="20230528062800 -0400" stop="20230528063300 -0400" channel="0311">
     <title lang="es">Molang</title>
     <sub-title lang="es">194 The Songbird</sub-title>
     <desc lang="es">Molang es un conejo curioso que hace de cada momento de su vida diaria algo único y maravilloso, prestando una atención especial a cada detalle, lo que le da un sabor inesperado a las cosas. Junto a su amigo Piu Piu, un pollito tímido, exploran su mundo para descurbir nuevas formas de ser felices y divertirse. A pesar de sus diferencias, los dos vivirán buenos momentos juntos, ya sea volando a la luna o simplemente regando las plantas. Molang y Piu Piu se detienen frente a un puesto de cazadores de pájaros mientras un loro intercambia una melodía con Mozart. ¿Y si la flauta mágica se escribiera con la intervención de Molang y Piu Piu?</desc>
   </programme>
-  <programme start="20230528064500 -0400" stop="20230528065000 -0400" channel="0311">
+  <programme start="20230528063300 -0400" stop="20230528063900 -0400" channel="0311">
+    <title lang="es">Molang</title>
+    <desc lang="es">Molang es un conejo curioso que hace de cada momento de su vida diaria algo único y maravilloso, prestando una atención especial a cada detalle, lo que le da un sabor inesperado a las cosas. Junto a su amigo Piu Piu, un pollito tímido, exploran su mundo para descurbir nuevas formas de ser felices y divertirse. A pesar de sus diferencias, los dos vivirán buenos momentos juntos, ya sea volando a la luna o simplemente regando las plantas.</desc>
+  </programme>
+  <programme start="20230528063900 -0400" stop="20230528064500 -0400" channel="0311">
+    <title lang="es">Molang</title>
+    <desc lang="es">Molang es un conejo curioso que hace de cada momento de su vida diaria algo único y maravilloso, prestando una atención especial a cada detalle, lo que le da un sabor inesperado a las cosas. Junto a su amigo Piu Piu, un pollito tímido, exploran su mundo para descurbir nuevas formas de ser felices y divertirse. A pesar de sus diferencias, los dos vivirán buenos momentos juntos, ya sea volando a la luna o simplemente regando las plantas.</desc>
+  </programme>
+  <programme start="20230528064500 -0400" stop="20230528065300 -0400" channel="0311">
     <title lang="es">Bluey</title>
     <sub-title lang="es">15 Calypso</sub-title>
     <desc lang="es">Sigue las aventuras de un cachorro de Blue Heeler de seis años que vive con su papá, su madre y su hermanita de cuatro años, Bingo. En cada episodio, Bluey usa su energía ilimitada de Blue Heeler para llevar a cabo juegos elaborados que se desarrollan de formas impredecibles y divertidas que llevan a su familia y al vecindario a su mundo de diversión. En la escuela, Bluey y sus amigos se lanzan a varios juegos. Su maestra Calypso los mantiene entretenidos con una sabia palabra y una canción.</desc>
   </programme>
-  <programme start="20230528065000 -0400" stop="20230528065500 -0400" channel="0311">
+  <programme start="20230528065300 -0400" stop="20230528070200 -0400" channel="0311">
     <title lang="es">Bluey</title>
     <sub-title lang="es">16 The Doctor</sub-title>
     <desc lang="es">Sigue las aventuras de un cachorro de Blue Heeler de seis años que vive con su papá, su madre y su hermanita de cuatro años, Bingo. En cada episodio, Bluey usa su energía ilimitada de Blue Heeler para llevar a cabo juegos elaborados que se desarrollan de formas impredecibles y divertidas que llevan a su familia y al vecindario a su mundo de diversión. Honey está atrapada esperando la cita del Dr. Bingo, ya que todas las otras lesiones más emocionantes se ven antes que la de ella. La recepcionista Bluey le dice que sea paciente, ya que algunos de estos casos son un verdadero problema.</desc>
   </programme>
-  <programme start="20230528065500 -0400" stop="20230528070000 -0400" channel="0311">
-    <title lang="es">Vampirina</title>
-    <sub-title lang="es">57 Ghost Hosts</sub-title>
-    <desc lang="es">Cuenta la historia de una joven vampira que enfrenta las alegrías y las pruebas de ser la nueva chica en la ciudad cuando su familia se traslada de Transilvania a Pensilvania. El chef Remy Bones compite en un programa de televisión de cocina para humanos.</desc>
-  </programme>
-  <programme start="20230528070000 -0400" stop="20230528073000 -0400" channel="0311">
+  <programme start="20230528070200 -0400" stop="20230528072800 -0400" channel="0311">
     <title lang="es">La guardia del león</title>
     <sub-title lang="es">4 Bunga, el sabio</sub-title>
     <desc lang="es">Sigue las divertidas aventuras de Kion, el segundo hijo de Simba y Nala, junto a sus amigos a través de la sabana africana. Después de que las aguas de la inundación amenacen las Tierras del Orgullo y Bunga llega a una solución rápida, Kion y los demás miembros de la Guardia del León descubren que la solución rápida y fácil a un problema no siempre es la mejor.</desc>
   </programme>
-  <programme start="20230528073000 -0400" stop="20230528080000 -0400" channel="0311">
+  <programme start="20230528072800 -0400" stop="20230528074900 -0400" channel="0311">
     <title lang="es">Opa Popa Dupa</title>
     <sub-title lang="es">8 La Luna</sub-title>
     <desc lang="es">Un show de títeres para que los más chicos aprendan a través del humor y la música de la mano de quince divertidos personajes. Leonordo está tan fascinado con la luna que quiere cantarle una serenata sobre cuánto la admira. Entonces, Flower Power le enseña a cantar.</desc>
   </programme>
-  <programme start="20230528080000 -0400" stop="20230528083000 -0400" channel="0311">
+  <programme start="20230528074900 -0400" stop="20230528080100 -0400" channel="0311">
+    <title lang="es">Mickey: aventuras sobre ruedas</title>
+    <sub-title lang="es">57 ¡Detengan a Lazlo!</sub-title>
+    <desc lang="es">Mickey y su pandilla, subidos a sus vehículos personalizados, se embarcan en un sinfín de aventuras y travesuras mientras participan de emocionantes carreras tanto en su ciudad, Hot Dog Hills, como alrededor del mundo. El gato de Atracos usa por error el casco 'listo' del Profesor y roba el plan del villano para eliminar todas las salchichas de Colinas Hot Dog. La pandilla de Mickey intentará detenerlo.</desc>
+  </programme>
+  <programme start="20230528080100 -0400" stop="20230528083000 -0400" channel="0311">
     <title lang="es">Art Attack</title>
     <desc lang="es">Esta serie estimula a los chicos a descubrir y expresar su potencial artístico. Sin duda, es el programa ideal para que los chicos y sus familias pasen un momento divertido haciendo manualidades.</desc>
   </programme>
-  <programme start="20230528083000 -0400" stop="20230528090000 -0400" channel="0311">
+  <programme start="20230528083000 -0400" stop="20230528085500 -0400" channel="0311">
     <title lang="es">Equipo de rescate</title>
     <sub-title lang="es">9 The Not-So-Haunted House</sub-title>
     <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
   </programme>
-  <programme start="20230528090000 -0400" stop="20230528093000 -0400" channel="0311">
+  <programme start="20230528085500 -0400" stop="20230528092100 -0400" channel="0311">
     <title lang="es">Equipo de rescate</title>
     <sub-title lang="es">1 Car in a Tree / Dalmatian Day</sub-title>
     <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad. Los Firebuds deben salvar a Piston después de que se quede atrapado en un árbol. Además, los Firebuds tienen que reunir a cuatro cachorros dálmatas sueltos, aprovechando que la estación de bomberos tiene las puertas abiertas durante la jornada.</desc>
   </programme>
-  <programme start="20230528093000 -0400" stop="20230528100000 -0400" channel="0311">
+  <programme start="20230528092100 -0400" stop="20230528094600 -0400" channel="0311">
     <title lang="es">Equipo de rescate</title>
-    <sub-title lang="es">3 Hubcap Heist</sub-title>
+    <sub-title lang="es">2 Hubcap Heist / Food Truck Fiasco</sub-title>
     <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
   </programme>
-  <programme start="20230528100000 -0400" stop="20230528103000 -0400" channel="0311">
+  <programme start="20230528094600 -0400" stop="20230528101500 -0400" channel="0311">
     <title lang="es">Equipo de rescate</title>
-    <sub-title lang="es">3 Hubcap Heist</sub-title>
     <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
   </programme>
-  <programme start="20230528103000 -0400" stop="20230528110000 -0400" channel="0311">
+  <programme start="20230528101500 -0400" stop="20230528104400 -0400" channel="0311">
     <title lang="es">Equipo de rescate</title>
-    <sub-title lang="es">4 Picnic Pile-Up / Duo Dash</sub-title>
-    <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad. Violet va de picnic con su familia, pero el viaje se cancela cuando sus padres, que son paramédicos, son llamados a una emergencia. Axl es tímido como para participar en una carrera, por temor al fracaso y de perder el interés de Violet.</desc>
+    <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
   </programme>
-  <programme start="20230528110000 -0400" stop="20230528113000 -0400" channel="0311">
+  <programme start="20230528104400 -0400" stop="20230528111300 -0400" channel="0311">
     <title lang="es">Equipo de rescate</title>
     <sub-title lang="es">5 Vigilancia nocturna / El club de rescate</sub-title>
     <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
   </programme>
-  <programme start="20230528113000 -0400" stop="20230528120000 -0400" channel="0311">
+  <programme start="20230528111300 -0400" stop="20230528114000 -0400" channel="0311">
     <title lang="es">Equipo de rescate</title>
-    <sub-title lang="es">3 The Getaway Car That Got Away</sub-title>
-    <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad. Los Firebuds quieren construir una casa club en un árbol, pero las diferentes ideas generan una gran discordia. Luego, Piston libera accidentalmente a un auto ladrón arrestado.</desc>
-  </programme>
-  <programme start="20230528120000 -0400" stop="20230528123000 -0400" channel="0311">
-    <title lang="es">Equipo de rescate</title>
-    <sub-title lang="es">7 Picnic Pile-Up</sub-title>
     <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
   </programme>
-  <programme start="20230528123000 -0400" stop="20230528130000 -0400" channel="0311">
+  <programme start="20230528114000 -0400" stop="20230528120900 -0400" channel="0311">
     <title lang="es">Equipo de rescate</title>
-    <sub-title lang="es">8 Duo Dash</sub-title>
     <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
   </programme>
-  <programme start="20230528130000 -0400" stop="20230528133000 -0400" channel="0311">
+  <programme start="20230528120900 -0400" stop="20230528123600 -0400" channel="0311">
+    <title lang="es">Equipo de rescate</title>
+    <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
+  </programme>
+  <programme start="20230528123600 -0400" stop="20230528130000 -0400" channel="0311">
+    <title lang="es">Equipo de rescate</title>
+    <sub-title lang="es">9 The Not-So-Haunted House</sub-title>
+    <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
+  </programme>
+  <programme start="20230528130000 -0400" stop="20230528132700 -0400" channel="0311">
     <title lang="es">TOTS: Servicio de entrega de animalitos</title>
     <sub-title lang="es">3 Cheetah Chase / Training Daze</sub-title>
     <desc lang="es">Presenta las divertidas aventuras de los mejores amigos, Pip y Freddy, un pingüino tenaz y un flamenco de buen corazón, que son las únicas aves de entregas sin cigüeña en entrenamiento en Tiny Ones Transport Service (TOTS). Como nuevos miembros del estimado equipo, estos volantes juveniles deben cuidarse al transferir animales bebés desde la guardería hasta sus familias para siempre en todo el mundo. Juntos, aprenderán cómo cuidar a los bebés y usar el pensamiento creativo y la resolución de problemas para demostrar a los jóvenes espectadores que no hay una sola manera de lograr un objetivo. Pip y Freddy tienen problemas para atrapar a Chase, el bebé chita que es muy travieso y que solo quiere correr en lugar de dormir la siesta.</desc>
   </programme>
-  <programme start="20230528133000 -0400" stop="20230528140000 -0400" channel="0311">
+  <programme start="20230528132700 -0400" stop="20230528135300 -0400" channel="0311">
     <title lang="es">TOTS: Servicio de entrega de animalitos</title>
     <sub-title lang="es">4 Nursery Schooling / Bunny Bunanza</sub-title>
     <desc lang="es">Presenta las divertidas aventuras de los mejores amigos, Pip y Freddy, un pingüino tenaz y un flamenco de buen corazón, que son las únicas aves de entregas sin cigüeña en entrenamiento en Tiny Ones Transport Service (TOTS). Como nuevos miembros del estimado equipo, estos volantes juveniles deben cuidarse al transferir animales bebés desde la guardería hasta sus familias para siempre en todo el mundo. Juntos, aprenderán cómo cuidar a los bebés y usar el pensamiento creativo y la resolución de problemas para demostrar a los jóvenes espectadores que no hay una sola manera de lograr un objetivo. El pinguino Pip y el flamenco Freddy son dos deliveries de animales en T.O.T.S. Tiny Ones Transport Service Juntos ayudan a cuidar a los más pequeños, mientras viajan alrededor del mundo con el objetivo de encontrarles un hogar.</desc>
   </programme>
-  <programme start="20230528140000 -0400" stop="20230528143000 -0400" channel="0311">
-    <title lang="es">Escuadrón de pollitos</title>
-    <sub-title lang="es">23 Little Boo's Caper / Out Of Sight</sub-title>
-    <desc lang="es">Un trío de hermanos pollos jóvenes y el Capitán Tully, un perro guardián experimentado, que usan el trabajo en equipo y las habilidades de pensamiento crítico para resolver problemas en el vecindario y mantener la paz en su patio trasero. Snick y Wheeze se burlan de Boo por ponerse una capa, lo que reduce la autoestima del joven pollo. / De repente, a Coop le desaparecen las gafas y tiene que lidiar con problemas de visión para encontrarlas.</desc>
+  <programme start="20230528135300 -0400" stop="20230528141900 -0400" channel="0311">
+    <title lang="es">TOTS: Servicio de entrega de animalitos</title>
+    <sub-title lang="es">1 You've Gotta Be Kitten Me / Whale, Hello There</sub-title>
+    <desc lang="es">Presenta las divertidas aventuras de los mejores amigos, Pip y Freddy, un pingüino tenaz y un flamenco de buen corazón, que son las únicas aves de entregas sin cigüeña en entrenamiento en Tiny Ones Transport Service (TOTS). Como nuevos miembros del estimado equipo, estos volantes juveniles deben cuidarse al transferir animales bebés desde la guardería hasta sus familias para siempre en todo el mundo. Juntos, aprenderán cómo cuidar a los bebés y usar el pensamiento creativo y la resolución de problemas para demostrar a los jóvenes espectadores que no hay una sola manera de lograr un objetivo. En su primer día de trabajo, Pip y Freddy reciben la ayuda de KC para entregar una gatita amorosa que los confunde con sus padres.</desc>
   </programme>
-  <programme start="20230528143000 -0400" stop="20230528150000 -0400" channel="0311">
-    <title lang="es">Escuadrón de pollitos</title>
-    <sub-title lang="es">24 Scout Out / A Royal Adventure</sub-title>
-    <desc lang="es">Un trío de hermanos pollos jóvenes y el Capitán Tully, un perro guardián experimentado, que usan el trabajo en equipo y las habilidades de pensamiento crítico para resolver problemas en el vecindario y mantener la paz en su patio trasero. Scout se ensucia y sus amigos pollos intentan bañarlo, pero es hidrofóbico. / Chicken Squad se divide para ayudar a Frazz y Queen Bae.</desc>
+  <programme start="20230528141900 -0400" stop="20230528144600 -0400" channel="0311">
+    <title lang="es">Muppet Babies</title>
+    <sub-title lang="es">1 Sir Kermit the Brave / Animal Fly Airplane</sub-title>
+    <desc lang="es">Más de 30 años después de que los Muppet Babies se ganaron los corazones de los niños y las familias de todo el mundo, la serie de televisión reinventada de Disney Junior narra las divertidas payasadas de un joven Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal y Summer Penguin. Bajo la atenta mirada de Miss Nanny, los Muppet Babies usan su imaginación para embarcarse en innumerables aventuras que los llevan a los rincones más lejanos del universo y demuestran a los jóvenes espectadores el poder y el potencial del juego imaginativo. Mientras sufre de un miedo secreto a la oscuridad, Kermit se imagina a sí mismo como un caballero donde tiene un encuentro con un dragón llamado Dot. Por otro lado, Animal expresa interés en querer volar un avión después de que el resto de los Muppet Babies se imaginan volando a París, Francia, pero no lo dejan debido a su personalidad salvaje.</desc>
   </programme>
-  <programme start="20230528150000 -0400" stop="20230528153000 -0400" channel="0311">
+  <programme start="20230528144600 -0400" stop="20230528151300 -0400" channel="0311">
     <title lang="es">Muppet Babies</title>
     <sub-title lang="es">16 Rozzie and the Big Bad Sound / Muppets of the Carribbean</sub-title>
     <desc lang="es">Más de 30 años después de que los Muppet Babies se ganaron los corazones de los niños y las familias de todo el mundo, la serie de televisión reinventada de Disney Junior narra las divertidas payasadas de un joven Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal y Summer Penguin. Bajo la atenta mirada de Miss Nanny, los Muppet Babies usan su imaginación para embarcarse en innumerables aventuras que los llevan a los rincones más lejanos del universo y demuestran a los jóvenes espectadores el poder y el potencial del juego imaginativo.</desc>
   </programme>
-  <programme start="20230528153000 -0400" stop="20230528160000 -0400" channel="0311">
+  <programme start="20230528151300 -0400" stop="20230528154100 -0400" channel="0311">
     <title lang="es">Muppet Babies</title>
     <sub-title lang="es">17 Sam and the Skyscraper / Animal Too Loud</sub-title>
     <desc lang="es">Más de 30 años después de que los Muppet Babies se ganaron los corazones de los niños y las familias de todo el mundo, la serie de televisión reinventada de Disney Junior narra las divertidas payasadas de un joven Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal y Summer Penguin. Bajo la atenta mirada de Miss Nanny, los Muppet Babies usan su imaginación para embarcarse en innumerables aventuras que los llevan a los rincones más lejanos del universo y demuestran a los jóvenes espectadores el poder y el potencial del juego imaginativo.</desc>
   </programme>
-  <programme start="20230528160000 -0400" stop="20230528163000 -0400" channel="0311">
-    <title lang="es">Mickey Mouse Funhouse</title>
-    <sub-title lang="es">2 Spaced Out! / Treasure, Ahoy!</sub-title>
-    <desc lang="es">Mickey Mouse regresa con sus amigos Minnie Mouse, Donald Duck, Daisy Duck, Goofy y Pluto. Los amigos conocen a Funny, una casa de juegos encantada que habla. Funny transporta mágicamente al grupo de amigos a una variedad de destinos que les permite embarcarse en aventuras únicas en esa tierra. Funny se convierte en una nave espacial para llevar a todos al espacio. Luego, cuando la impaciencia de Donald hace que pierda el flotador de su piscina, Funny lleva al equipo a buscar el cofre del tesoro perdido y encontrado.</desc>
+  <programme start="20230528154100 -0400" stop="20230528160400 -0400" channel="0311">
+    <title lang="es">La guardia del león</title>
+    <sub-title lang="es">2 Nunca juzgues a una hiena por sus manchas</sub-title>
+    <desc lang="es">Sigue las divertidas aventuras de Kion, el segundo hijo de Simba y Nala, junto a sus amigos a través de la sabana africana. Cuando Kion se pierde en las Lejanías, necesita la ayuda de una hiena, Jasiri, para salir de allí. Por otro lado, los miembros de la Guardia del León se dan cuenta de que necesitan a Kion para encontrar a la Roca Plana Alta, su lugar de encuentro. Al final, Kion aprende que una hiena no siempre es mala y que, en verdad, tienen similitudes en el ciclo de la vida. Kion se torna amigo de Jasiri y la defiende contra la banda de Janja y ruge contra ellos.</desc>
   </programme>
-  <programme start="20230528163000 -0400" stop="20230528170000 -0400" channel="0311">
+  <programme start="20230528160400 -0400" stop="20230528163300 -0400" channel="0311">
+    <title lang="es">Mickey Mouse Funhouse</title>
+    <desc lang="es">Mickey Mouse regresa con sus amigos Minnie Mouse, Donald Duck, Daisy Duck, Goofy y Pluto. Los amigos conocen a Funny, una casa de juegos encantada que habla. Funny transporta mágicamente al grupo de amigos a una variedad de destinos que les permite embarcarse en aventuras únicas en esa tierra.</desc>
+  </programme>
+  <programme start="20230528163300 -0400" stop="20230528170400 -0400" channel="0311">
     <title lang="es">Puppy Dog Pals</title>
     <sub-title lang="es">7 Cachorros y cerditos / Bob ama a Mona</sub-title>
     <desc lang="es">Los divertidos hermanos pugs Bingo y Rolly tienen un apetito por la emoción que los lleva a vivir aventuras emocionantes en sus vecindarios y el mundo entero. Ya sea ayudando a su dueño, Bob, o a algún amigo que lo necesite, el lema de los pugs es que la vida es más emocionante con tu mejor amigo a tu lado. En cada episodio se desarollan dos historias de 11 minutos que presentan las similitudes y diferencias entre Bingo y Rolly, mientras demuestran lecciones positivas acerca de la amistad, la resolución de problemas, la colaboración y aventura. Cuando la Mona Lisa desaparece, los cachorros van a buscarla a La Gran Muralla China. / Bob se confunde a un cerdo cubierto de barro con Rolly, y accidentalmente lo deja en una granja.</desc>
   </programme>
-  <programme start="20230528170000 -0400" stop="20230528173000 -0400" channel="0311">
+  <programme start="20230528170400 -0400" stop="20230528173300 -0400" channel="0311">
     <title lang="es">Spidey y sus sorprendentes amigos</title>
-    <sub-title lang="es">7 Dilema en el campamento / La gran oleada de crímenes verdes</sub-title>
-    <desc lang="es">Sigue a Peter Parker, Gwen Stacy y Miles Morales y sus aventuras mientras los jóvenes héroes se unen a Hulk, Ms. Marvel y Black Panther para derrotar a enemigos como Rhino, Doc Ock y Green Goblin y descubre que el trabajo en equipo es la mejor manera de salvar el día. El equipo de Spidey se va de campamento, pero Old Dam se está resquebrajando y está a punto de inundar el parque. Green Goblin incrimina a Hulk, y Spidey y Ghosty están decididos a demostrar que es inocente.</desc>
+    <desc lang="es">Sigue a Peter Parker, Gwen Stacy y Miles Morales y sus aventuras mientras los jóvenes héroes se unen a Hulk, Ms. Marvel y Black Panther para derrotar a enemigos como Rhino, Doc Ock y Green Goblin y descubre que el trabajo en equipo es la mejor manera de salvar el día.</desc>
   </programme>
-  <programme start="20230528173000 -0400" stop="20230528180000 -0400" channel="0311">
+  <programme start="20230528173300 -0400" stop="20230528180000 -0400" channel="0311">
     <title lang="es">Doctora Juguetes</title>
     <sub-title lang="es">7 Ronda Rescate, lista para despegar / Pasado por agua</sub-title>
     <desc lang="es">Una niña de seis años puede hablar con sus animalitos y otros muñecos, a quienes cuida en su clínica para juguetes. Cuando la pequeña doctora se coloca el estetoscopio, sus pacientes cobran vida. La doctora extrae una ramita de la hélice de un jueguete helicóptero.</desc>
@@ -12819,48 +12921,53 @@
     <sub-title lang="es">6 La doctora / La máquina / El mercado</sub-title>
     <desc lang="es">Sigue las aventuras de un cachorro de Blue Heeler de seis años que vive con su papá, su madre y su hermanita de cuatro años, Bingo. En cada episodio, Bluey usa su energía ilimitada de Blue Heeler para llevar a cabo juegos elaborados que se desarrollan de formas impredecibles y divertidas que llevan a su familia y al vecindario a su mundo de diversión. Honey está atrapada esperando la cita del Dr. Bingo mientras todas las demás lesiones más emocionantes se ven antes que las de ella./ Cuando Bluey y Bingo no pueden agarrar algunos adornos de chocolate en una máquina Magic Claw, ambos regresan a su casa./ Cuando Bluey visita los mercados con cinco dólares del hada de los dientes, las opciones para ella son infinitas.</desc>
   </programme>
-  <programme start="20230528193000 -0400" stop="20230528200000 -0400" channel="0311">
+  <programme start="20230528193000 -0400" stop="20230528200100 -0400" channel="0311">
     <title lang="es">Equipo de rescate</title>
     <sub-title lang="es">9 The Not-So-Haunted House</sub-title>
     <desc lang="es">Sigue a un niño y su camión de bomberos en un mundo de fantasía donde los vehículos parlantes viven, trabajan y juegan con los humanos que los conducen mientras se unen a sus amigos y trabajan en equipo para ayudar a su comunidad.</desc>
   </programme>
-  <programme start="20230528200000 -0400" stop="20230528203000 -0400" channel="0311">
+  <programme start="20230528200100 -0400" stop="20230528203700 -0400" channel="0311">
     <title lang="es">Mickey Mouse Funhouse</title>
     <desc lang="es">Mickey Mouse regresa con sus amigos Minnie Mouse, Donald Duck, Daisy Duck, Goofy y Pluto. Los amigos conocen a Funny, una casa de juegos encantada que habla. Funny transporta mágicamente al grupo de amigos a una variedad de destinos que les permite embarcarse en aventuras únicas en esa tierra.</desc>
   </programme>
-  <programme start="20230528203000 -0400" stop="20230528210000 -0400" channel="0311">
+  <programme start="20230528203700 -0400" stop="20230528210500 -0400" channel="0311">
     <title lang="es">PJ Masks: Power Heroes</title>
     <sub-title lang="es">3 El olorcito de la maldad / El cumpleaños de An Yu</sub-title>
     <desc lang="es">Los poderosos Catboy, Owlette y Gekko se unen a nuevos héroes, creando un equipo más grande e incluso mejor ya que hay nuevos villanos en la ciudad. Tres niños viven vidas normales durante el día mientras que de noche se convierten en héroes que luchan contra villanos. En este episodio, al jugar un truco de cumpleaños, Night Ninja intenta que An Yu destruya el museo. Por otro lado, Ice Cub quiere demostrar lo asombroso que es su poder de olfato polar.</desc>
   </programme>
-  <programme start="20230528210000 -0400" stop="20230528213000 -0400" channel="0311">
+  <programme start="20230528210500 -0400" stop="20230528213500 -0400" channel="0311">
     <title lang="es">El ristorantino de Arnoldo</title>
     <sub-title lang="es">9 El pirata bostezo</sub-title>
     <desc lang="es">La historia se desarrolla en un pueblo de fantasía llamado Bahía Bonita, donde el cocinero abre su ristorantino junto a Francis. Los problemas llegan con la aparición de los hermanos Malú y Keno Malvatti, quienes buscan boicotear al gran chef al abrir un tecnológico food truck de comida rápida frente a su local.</desc>
   </programme>
-  <programme start="20230528213000 -0400" stop="20230528220000 -0400" channel="0311">
+  <programme start="20230528213500 -0400" stop="20230528220000 -0400" channel="0311">
     <title lang="es">TOTS: Servicio de entrega de animalitos</title>
     <sub-title lang="es">9 Back to Cool / Baby Breakdown</sub-title>
     <desc lang="es">Presenta las divertidas aventuras de los mejores amigos, Pip y Freddy, un pingüino tenaz y un flamenco de buen corazón, que son las únicas aves de entregas sin cigüeña en entrenamiento en Tiny Ones Transport Service (TOTS). Como nuevos miembros del estimado equipo, estos volantes juveniles deben cuidarse al transferir animales bebés desde la guardería hasta sus familias para siempre en todo el mundo. Juntos, aprenderán cómo cuidar a los bebés y usar el pensamiento creativo y la resolución de problemas para demostrar a los jóvenes espectadores que no hay una sola manera de lograr un objetivo.</desc>
   </programme>
-  <programme start="20230528220000 -0400" stop="20230528223000 -0400" channel="0311">
+  <programme start="20230528220000 -0400" stop="20230528222600 -0400" channel="0311">
     <title lang="es">TOTS: Servicio de entrega de animalitos</title>
     <sub-title lang="es">10 Lost Lovey / Diggity Dog</sub-title>
     <desc lang="es">Presenta las divertidas aventuras de los mejores amigos, Pip y Freddy, un pingüino tenaz y un flamenco de buen corazón, que son las únicas aves de entregas sin cigüeña en entrenamiento en Tiny Ones Transport Service (TOTS). Como nuevos miembros del estimado equipo, estos volantes juveniles deben cuidarse al transferir animales bebés desde la guardería hasta sus familias para siempre en todo el mundo. Juntos, aprenderán cómo cuidar a los bebés y usar el pensamiento creativo y la resolución de problemas para demostrar a los jóvenes espectadores que no hay una sola manera de lograr un objetivo.</desc>
   </programme>
-  <programme start="20230528223000 -0400" stop="20230528230000 -0400" channel="0311">
-    <title lang="es">Escuadrón de pollitos</title>
-    <sub-title lang="es">21 Sheep on the Lam / The Chic Chick</sub-title>
-    <desc lang="es">Un trío de hermanos pollos jóvenes y el Capitán Tully, un perro guardián experimentado, que usan el trabajo en equipo y las habilidades de pensamiento crítico para resolver problemas en el vecindario y mantener la paz en su patio trasero. El Chicken Squad le enseña a Maisie el valor de la honestidad. Después de trabajar en el cabello de los parientes de Maggie, Dinah instala un salón.</desc>
+  <programme start="20230528222600 -0400" stop="20230528225100 -0400" channel="0311">
+    <title lang="es">TOTS: Servicio de entrega de animalitos</title>
+    <sub-title lang="es">11 Temple of the Tiger / The Gift-Mazing Birthday</sub-title>
+    <desc lang="es">Presenta las divertidas aventuras de los mejores amigos, Pip y Freddy, un pingüino tenaz y un flamenco de buen corazón, que son las únicas aves de entregas sin cigüeña en entrenamiento en Tiny Ones Transport Service (TOTS). Como nuevos miembros del estimado equipo, estos volantes juveniles deben cuidarse al transferir animales bebés desde la guardería hasta sus familias para siempre en todo el mundo. Juntos, aprenderán cómo cuidar a los bebés y usar el pensamiento creativo y la resolución de problemas para demostrar a los jóvenes espectadores que no hay una sola manera de lograr un objetivo.</desc>
   </programme>
-  <programme start="20230528230000 -0400" stop="20230528233000 -0400" channel="0311">
-    <title lang="es">Escuadrón de pollitos</title>
-    <sub-title lang="es">22 The Lemonade Letdown / The Prankster Returns</sub-title>
-    <desc lang="es">Un trío de hermanos pollos jóvenes y el Capitán Tully, un perro guardián experimentado, que usan el trabajo en equipo y las habilidades de pensamiento crítico para resolver problemas en el vecindario y mantener la paz en su patio trasero. Alguien robó los limones de Snick y Wheeze y los reemplazó con cebollas, lo que resultó en una limonada con mal sabor. / El Blue-booted Baddie ha vuelto para hacer más bromas en el vecindario.</desc>
+  <programme start="20230528225100 -0400" stop="20230528231700 -0400" channel="0311">
+    <title lang="es">Muppet Babies</title>
+    <sub-title lang="es">1 Sir Kermit the Brave / Animal Fly Airplane</sub-title>
+    <desc lang="es">Más de 30 años después de que los Muppet Babies se ganaron los corazones de los niños y las familias de todo el mundo, la serie de televisión reinventada de Disney Junior narra las divertidas payasadas de un joven Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal y Summer Penguin. Bajo la atenta mirada de Miss Nanny, los Muppet Babies usan su imaginación para embarcarse en innumerables aventuras que los llevan a los rincones más lejanos del universo y demuestran a los jóvenes espectadores el poder y el potencial del juego imaginativo. Mientras sufre de un miedo secreto a la oscuridad, Kermit se imagina a sí mismo como un caballero donde tiene un encuentro con un dragón llamado Dot. Por otro lado, Animal expresa interés en querer volar un avión después de que el resto de los Muppet Babies se imaginan volando a París, Francia, pero no lo dejan debido a su personalidad salvaje.</desc>
   </programme>
-  <programme start="20230528233000 -0400" stop="20230529000000 -0400" channel="0311">
+  <programme start="20230528231700 -0400" stop="20230528234200 -0400" channel="0311">
     <title lang="es">Muppet Babies</title>
     <sub-title lang="es">6 Mystery on the Muppet Express / Mister Manny</sub-title>
+    <desc lang="es">Más de 30 años después de que los Muppet Babies se ganaron los corazones de los niños y las familias de todo el mundo, la serie de televisión reinventada de Disney Junior narra las divertidas payasadas de un joven Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal y Summer Penguin. Bajo la atenta mirada de Miss Nanny, los Muppet Babies usan su imaginación para embarcarse en innumerables aventuras que los llevan a los rincones más lejanos del universo y demuestran a los jóvenes espectadores el poder y el potencial del juego imaginativo.</desc>
+  </programme>
+  <programme start="20230528234200 -0400" stop="20230529000600 -0400" channel="0311">
+    <title lang="es">Muppet Babies</title>
+    <sub-title lang="es">27 The Karate Club / Don't Over Duet</sub-title>
     <desc lang="es">Más de 30 años después de que los Muppet Babies se ganaron los corazones de los niños y las familias de todo el mundo, la serie de televisión reinventada de Disney Junior narra las divertidas payasadas de un joven Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal y Summer Penguin. Bajo la atenta mirada de Miss Nanny, los Muppet Babies usan su imaginación para embarcarse en innumerables aventuras que los llevan a los rincones más lejanos del universo y demuestran a los jóvenes espectadores el poder y el potencial del juego imaginativo.</desc>
   </programme>
   <programme start="20230526230000 -0400" stop="20230526231500 -0400" channel="0312">
@@ -14268,6 +14375,9 @@
   <programme start="20230528091500 -0400" stop="20230528113000 -0400" channel="0318">
     <title lang="es">Sincronía</title>
   </programme>
+  <programme start="20230528113000 -0400" stop="20230528131000 -0400" channel="0318">
+    <title lang="es">Universo marcial</title>
+  </programme>
   <programme start="20230528131000 -0400" stop="20230528144000 -0400" channel="0318">
     <title lang="es">Nicky y el hechizo del dragón</title>
   </programme>
@@ -14692,16 +14802,26 @@
     <title lang="es">Pelota parada</title>
     <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
-  <programme start="20230527060000 -0400" stop="20230527070000 -0400" channel="0401">
+  <programme start="20230527060000 -0400" stop="20230527073000 -0400" channel="0401">
     <title lang="es">TNT Data Sports</title>
     <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
-  <programme start="20230527070000 -0400" stop="20230527090000 -0400" channel="0401">
+  <programme start="20230527073000 -0400" stop="20230527093000 -0400" channel="0401">
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230527090000 -0400" stop="20230527114000 -0400" channel="0401">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230527093000 -0400" stop="20230527100000 -0400" channel="0401">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230527100000 -0400" stop="20230527104000 -0400" channel="0401">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230527104000 -0400" stop="20230527114000 -0400" channel="0401">
+    <title lang="es">Goles ascenso</title>
   </programme>
   <programme start="20230527114000 -0400" stop="20230527142000 -0400" channel="0401">
     <title lang="es">Campeonato Ascenso Betsson 2023</title>
@@ -14723,19 +14843,59 @@
     <sub-title lang="es">San Luis de Quillota vs. Cobreloa, Fecha 14, Estadio Municipal L. Fariña Fernández</sub-title>
     <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
-  <programme start="20230527221000 -0400" stop="20230528090000 -0400" channel="0401">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230527221000 -0400" stop="20230527225000 -0400" channel="0401">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230528090000 -0400" stop="20230528121000 -0400" channel="0401">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230527225000 -0400" stop="20230528004500 -0400" channel="0401">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Colo Colo, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528004500 -0400" stop="20230528031500 -0400" channel="0401">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Barnechea vs. Deportes Puerto Montt, Fecha 14, Estadio Municipal de Lo Barnechea</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528031500 -0400" stop="20230528054000 -0400" channel="0401">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Rangers vs. Deportes Recoleta, Fecha 14, Estadio Fiscal de Talca</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528054000 -0400" stop="20230528060000 -0400" channel="0401">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528060000 -0400" stop="20230528073000 -0400" channel="0401">
+    <title lang="es">Goles - El estelar de la fecha</title>
+    <desc lang="es">Un repaso de las mejores jugadas y tantos de la fecha.</desc>
+  </programme>
+  <programme start="20230528073000 -0400" stop="20230528095000 -0400" channel="0401">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Deportes Temuco vs. Santiago Wanderers, Fecha 14, Estadio Germán Becker</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528095000 -0400" stop="20230528121000 -0400" channel="0401">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">San Luis de Quillota vs. Cobreloa, Fecha 14, Estadio Municipal L. Fariña Fernández</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
   <programme start="20230528121000 -0400" stop="20230528144000 -0400" channel="0401">
     <title lang="es">Campeonato Ascenso Betsson 2023</title>
     <sub-title lang="es">Deportes Iquique vs. Deportes Santa Cruz, Fecha 14, Estadio Tierra de Campeones Ramón Saavedra</sub-title>
     <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
-  <programme start="20230528144000 -0400" stop="20230528171000 -0400" channel="0401">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230528144000 -0400" stop="20230528152000 -0400" channel="0401">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230528152000 -0400" stop="20230528171000 -0400" channel="0401">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad de Chile, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
   <programme start="20230528171000 -0400" stop="20230528194000 -0400" channel="0401">
     <title lang="es">Campeonato Ascenso Betsson 2023</title>
@@ -14747,12 +14907,15 @@
     <sub-title lang="es">U. San Felipe vs. U. de Concepción, Fecha 14, Estadio Municipal Javier Muñoz Delgado</sub-title>
     <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
-  <programme start="20230528221000 -0400" stop="20230528225500 -0400" channel="0401">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230528221000 -0400" stop="20230528235500 -0400" channel="0401">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad Católica, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
-  <programme start="20230528225500 -0400" stop="20230529001000 -0400" channel="0401">
-    <title lang="es">Goles - El estelar de la fecha</title>
-    <desc lang="es">Un repaso de las mejores jugadas y tantos de la fecha.</desc>
+  <programme start="20230528235500 -0400" stop="20230529021500 -0400" channel="0401">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Deportes Iquique vs. Deportes Santa Cruz, Fecha 14, Estadio Tierra de Campeones Ramón Saavedra</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
   <programme start="20230527003000 -0400" stop="20230527013000 -0400" channel="0402">
     <title lang="es">Pulso</title>
@@ -14770,17 +14933,26 @@
     <title lang="es">Pelota parada</title>
     <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
-  <programme start="20230527060000 -0400" stop="20230527070000 -0400" channel="0402">
+  <programme start="20230527060000 -0400" stop="20230527073000 -0400" channel="0402">
     <title lang="es">TNT Data Sports</title>
     <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
-  <programme start="20230527070000 -0400" stop="20230527090000 -0400" channel="0402">
+  <programme start="20230527073000 -0400" stop="20230527093000 -0400" channel="0402">
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230527090000 -0400" stop="20230527114000 -0400" channel="0402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+  <programme start="20230527093000 -0400" stop="20230527100000 -0400" channel="0402">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230527100000 -0400" stop="20230527104000 -0400" channel="0402">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230527104000 -0400" stop="20230527114000 -0400" channel="0402">
+    <title lang="es">Goles ascenso</title>
   </programme>
   <programme start="20230527114000 -0400" stop="20230527142000 -0400" channel="0402">
     <title lang="es">Campeonato Ascenso Betsson 2023</title>
@@ -14802,22 +14974,59 @@
     <sub-title lang="es">San Luis de Quillota vs. Cobreloa, Fecha 14, Estadio Municipal L. Fariña Fernández</sub-title>
     <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
-  <programme start="20230527221000 -0400" stop="20230528090000 -0400" channel="0402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+  <programme start="20230527221000 -0400" stop="20230527225000 -0400" channel="0402">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230528090000 -0400" stop="20230528121000 -0400" channel="0402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+  <programme start="20230527225000 -0400" stop="20230528004500 -0400" channel="0402">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Colo Colo, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528004500 -0400" stop="20230528031500 -0400" channel="0402">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Barnechea vs. Deportes Puerto Montt, Fecha 14, Estadio Municipal de Lo Barnechea</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528031500 -0400" stop="20230528054000 -0400" channel="0402">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Rangers vs. Deportes Recoleta, Fecha 14, Estadio Fiscal de Talca</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528054000 -0400" stop="20230528060000 -0400" channel="0402">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528060000 -0400" stop="20230528073000 -0400" channel="0402">
+    <title lang="es">Goles - El estelar de la fecha</title>
+    <desc lang="es">Un repaso de las mejores jugadas y tantos de la fecha.</desc>
+  </programme>
+  <programme start="20230528073000 -0400" stop="20230528095000 -0400" channel="0402">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Deportes Temuco vs. Santiago Wanderers, Fecha 14, Estadio Germán Becker</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528095000 -0400" stop="20230528121000 -0400" channel="0402">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">San Luis de Quillota vs. Cobreloa, Fecha 14, Estadio Municipal L. Fariña Fernández</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
   <programme start="20230528121000 -0400" stop="20230528144000 -0400" channel="0402">
     <title lang="es">Campeonato Ascenso Betsson 2023</title>
     <sub-title lang="es">Deportes Iquique vs. Deportes Santa Cruz, Fecha 14, Estadio Tierra de Campeones Ramón Saavedra</sub-title>
     <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
-  <programme start="20230528144000 -0400" stop="20230528171000 -0400" channel="0402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+  <programme start="20230528144000 -0400" stop="20230528152000 -0400" channel="0402">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230528152000 -0400" stop="20230528171000 -0400" channel="0402">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad de Chile, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
   <programme start="20230528171000 -0400" stop="20230528194000 -0400" channel="0402">
     <title lang="es">Campeonato Ascenso Betsson 2023</title>
@@ -14829,13 +15038,15 @@
     <sub-title lang="es">U. San Felipe vs. U. de Concepción, Fecha 14, Estadio Municipal Javier Muñoz Delgado</sub-title>
     <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
-  <programme start="20230528221000 -0400" stop="20230528225500 -0400" channel="0402">
-    <title lang="es">TNT Sports 2</title>
-    <desc lang="es">Encuentra toda la información del fútbol, y otros deportes, de Chile e internacional en un solo lugar. Noticias, videos y estadísticas y mucho más.</desc>
+  <programme start="20230528221000 -0400" stop="20230528235500 -0400" channel="0402">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad Católica, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
-  <programme start="20230528225500 -0400" stop="20230529001000 -0400" channel="0402">
-    <title lang="es">Goles - El estelar de la fecha</title>
-    <desc lang="es">Un repaso de las mejores jugadas y tantos de la fecha.</desc>
+  <programme start="20230528235500 -0400" stop="20230529021500 -0400" channel="0402">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Deportes Iquique vs. Deportes Santa Cruz, Fecha 14, Estadio Tierra de Campeones Ramón Saavedra</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
   <programme start="20230527003000 -0400" stop="20230527013000 -0400" channel="0403">
     <title lang="es">Pulso</title>
@@ -14853,29 +15064,118 @@
     <title lang="es">Pelota parada</title>
     <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
-  <programme start="20230527060000 -0400" stop="20230527070000 -0400" channel="0403">
+  <programme start="20230527060000 -0400" stop="20230527073000 -0400" channel="0403">
     <title lang="es">TNT Data Sports</title>
     <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
-  <programme start="20230527070000 -0400" stop="20230527190000 -0400" channel="0403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230527073000 -0400" stop="20230527083000 -0400" channel="0403">
+    <title lang="es">Pulso</title>
   </programme>
-  <programme start="20230527190000 -0400" stop="20230528070000 -0400" channel="0403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230527083000 -0400" stop="20230527103000 -0400" channel="0403">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230528070000 -0400" stop="20230528190000 -0400" channel="0403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230527103000 -0400" stop="20230527111000 -0400" channel="0403">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230528190000 -0400" stop="20230528225500 -0400" channel="0403">
-    <title lang="es">TNT Sports 3</title>
-    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+  <programme start="20230527111000 -0400" stop="20230527121000 -0400" channel="0403">
+    <title lang="es">Goles ascenso</title>
   </programme>
-  <programme start="20230528225500 -0400" stop="20230529001000 -0400" channel="0403">
+  <programme start="20230527121000 -0400" stop="20230527135500 -0400" channel="0403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad Católica, Fecha 1 Fecha 14</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230527135500 -0400" stop="20230527163000 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">U. Católica vs. Unión La Calera, Fecha 15, Estadio San Carlos de Apoquindo</sub-title>
+    <desc lang="es">Retransmisión de los partidos de la edición número 107 de la primera categoría del fútbol chileno. Los 16 equipos juegan 30 partidos cada uno a lo largo de 30 fechas bajo el sistema de todos contra todos. Los amantes del deporte podrán disfrutar de los encuentros más emocionantes entre los mejores equipos de Chile.</desc>
+  </programme>
+  <programme start="20230527163000 -0400" stop="20230527182000 -0400" channel="0403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad de Chile, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230527182000 -0400" stop="20230527204500 -0400" channel="0403">
+    <title lang="es">Campeonato Betsson 2023</title>
+    <sub-title lang="es">Ñublense vs. U. de Chile, Fecha 15, Estadio Bicentenario Nelson Oyarzún</sub-title>
+    <desc lang="es">Retransmisión de los partidos de la edición número 107 de la primera categoría del fútbol chileno. Los 16 equipos juegan 30 partidos cada uno a lo largo de 30 fechas bajo el sistema de todos contra todos. Los amantes del deporte podrán disfrutar de los encuentros más emocionantes entre los mejores equipos de Chile.</desc>
+  </programme>
+  <programme start="20230527204500 -0400" stop="20230527231500 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Barnechea vs. Deportes Puerto Montt, Fecha 14, Estadio Municipal de Lo Barnechea</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230527231500 -0400" stop="20230528014000 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Rangers vs. Deportes Recoleta, Fecha 14, Estadio Fiscal de Talca</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528014000 -0400" stop="20230528033000 -0400" channel="0403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad Católica, Fecha 1 Fecha 14</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528033000 -0400" stop="20230528052000 -0400" channel="0403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad de Chile, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528052000 -0400" stop="20230528060000 -0400" channel="0403">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230528060000 -0400" stop="20230528072500 -0400" channel="0403">
     <title lang="es">Goles - El estelar de la fecha</title>
     <desc lang="es">Un repaso de las mejores jugadas y tantos de la fecha.</desc>
+  </programme>
+  <programme start="20230528072500 -0400" stop="20230528095500 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Barnechea vs. Deportes Puerto Montt, Fecha 14, Estadio Municipal de Lo Barnechea</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528095500 -0400" stop="20230528122000 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Rangers vs. Deportes Recoleta, Fecha 14, Estadio Fiscal de Talca</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528122000 -0400" stop="20230528130000 -0400" channel="0403">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230528130000 -0400" stop="20230528145500 -0400" channel="0403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad de Chile, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528145500 -0400" stop="20230528165000 -0400" channel="0403">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Colo Colo, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528165000 -0400" stop="20230528191000 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Deportes Temuco vs. Santiago Wanderers, Fecha 14, Estadio Germán Becker</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528191000 -0400" stop="20230528213000 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">San Luis de Quillota vs. Cobreloa, Fecha 14, Estadio Municipal L. Fariña Fernández</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528213000 -0400" stop="20230528235000 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Deportes Iquique vs. Deportes Santa Cruz, Fecha 14, Estadio Tierra de Campeones Ramón Saavedra</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528235000 -0400" stop="20230529021000 -0400" channel="0403">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Deportes Antofagasta vs. San Marcos de Arica, Fecha 14, Estadio Regional Calvo y Bascuñán</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
   <programme start="20230527003000 -0400" stop="20230527013000 -0400" channel="0404">
     <title lang="es">Pulso</title>
@@ -14893,16 +15193,26 @@
     <title lang="es">Pelota parada</title>
     <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
   </programme>
-  <programme start="20230527060000 -0400" stop="20230527070000 -0400" channel="0404">
+  <programme start="20230527060000 -0400" stop="20230527073000 -0400" channel="0404">
     <title lang="es">TNT Data Sports</title>
     <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
   </programme>
-  <programme start="20230527070000 -0400" stop="20230527090000 -0400" channel="0404">
+  <programme start="20230527073000 -0400" stop="20230527093000 -0400" channel="0404">
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230527090000 -0400" stop="20230527114000 -0400" channel="0404">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230527093000 -0400" stop="20230527100000 -0400" channel="0404">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230527100000 -0400" stop="20230527104000 -0400" channel="0404">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230527104000 -0400" stop="20230527114000 -0400" channel="0404">
+    <title lang="es">Goles ascenso</title>
   </programme>
   <programme start="20230527114000 -0400" stop="20230527142000 -0400" channel="0404">
     <title lang="es">Campeonato Ascenso Betsson 2023</title>
@@ -14924,19 +15234,59 @@
     <sub-title lang="es">San Luis de Quillota vs. Cobreloa, Fecha 14, Estadio Municipal L. Fariña Fernández</sub-title>
     <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
-  <programme start="20230527221000 -0400" stop="20230528090000 -0400" channel="0404">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230527221000 -0400" stop="20230527225000 -0400" channel="0404">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
   </programme>
-  <programme start="20230528090000 -0400" stop="20230528121000 -0400" channel="0404">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230527225000 -0400" stop="20230528004500 -0400" channel="0404">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Colo Colo, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528004500 -0400" stop="20230528031500 -0400" channel="0404">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Barnechea vs. Deportes Puerto Montt, Fecha 14, Estadio Municipal de Lo Barnechea</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528031500 -0400" stop="20230528054000 -0400" channel="0404">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Rangers vs. Deportes Recoleta, Fecha 14, Estadio Fiscal de Talca</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528054000 -0400" stop="20230528060000 -0400" channel="0404">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+  </programme>
+  <programme start="20230528060000 -0400" stop="20230528073000 -0400" channel="0404">
+    <title lang="es">Goles - El estelar de la fecha</title>
+    <desc lang="es">Un repaso de las mejores jugadas y tantos de la fecha.</desc>
+  </programme>
+  <programme start="20230528073000 -0400" stop="20230528095000 -0400" channel="0404">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Deportes Temuco vs. Santiago Wanderers, Fecha 14, Estadio Germán Becker</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
+  </programme>
+  <programme start="20230528095000 -0400" stop="20230528121000 -0400" channel="0404">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">San Luis de Quillota vs. Cobreloa, Fecha 14, Estadio Municipal L. Fariña Fernández</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
   <programme start="20230528121000 -0400" stop="20230528144000 -0400" channel="0404">
     <title lang="es">Campeonato Ascenso Betsson 2023</title>
     <sub-title lang="es">Deportes Iquique vs. Deportes Santa Cruz, Fecha 14, Estadio Tierra de Campeones Ramón Saavedra</sub-title>
     <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
-  <programme start="20230528144000 -0400" stop="20230528171000 -0400" channel="0404">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230528144000 -0400" stop="20230528152000 -0400" channel="0404">
+    <title lang="es">Podcast - Todos técnicos</title>
+    <sub-title lang="es">Emisión del día 25/05/23</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+  </programme>
+  <programme start="20230528152000 -0400" stop="20230528171000 -0400" channel="0404">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad de Chile, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
   <programme start="20230528171000 -0400" stop="20230528194000 -0400" channel="0404">
     <title lang="es">Campeonato Ascenso Betsson 2023</title>
@@ -14948,12 +15298,15 @@
     <sub-title lang="es">U. San Felipe vs. U. de Concepción, Fecha 14, Estadio Municipal Javier Muñoz Delgado</sub-title>
     <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
-  <programme start="20230528221000 -0400" stop="20230528225500 -0400" channel="0404">
-    <title lang="es">TNT Sports HD</title>
+  <programme start="20230528221000 -0400" stop="20230528235500 -0400" channel="0404">
+    <title lang="es">Replay</title>
+    <sub-title lang="es">Universidad Católica, Fecha 1 Fecha 15</sub-title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
   </programme>
-  <programme start="20230528225500 -0400" stop="20230529001000 -0400" channel="0404">
-    <title lang="es">Goles - El estelar de la fecha</title>
-    <desc lang="es">Un repaso de las mejores jugadas y tantos de la fecha.</desc>
+  <programme start="20230528235500 -0400" stop="20230529021500 -0400" channel="0404">
+    <title lang="es">Campeonato Ascenso Betsson 2023</title>
+    <sub-title lang="es">Deportes Iquique vs. Deportes Santa Cruz, Fecha 14, Estadio Tierra de Campeones Ramón Saavedra</sub-title>
+    <desc lang="es">Vive los partidos de la 74º edición de la segunda categoría del fútbol chileno, campeonato organizado por la Asociación Nacional de Fútbol Profesional.</desc>
   </programme>
   <programme start="20230527000000 -0400" stop="20230527020000 -0400" channel="0405">
     <title lang="es">The Strongest vs. Fluminense</title>
@@ -15421,27 +15774,26 @@
     <title lang="es">DSports noticias</title>
     <desc lang="es">Todas las novedades y la información de la actualidad deportiva.</desc>
   </programme>
-  <programme start="20230527200000 -0400" stop="20230527220000 -0400" channel="0408">
-    <title lang="es">Saudi Pro League</title>
-    <sub-title lang="es">Al Etifaq vs. Al Nassr</sub-title>
-    <desc lang="es">Vive los partidos de la máxima categoría del fútbol profesional de Arabia Saudita. Su primera edición data de la temporada 1975-1976 y es organizada por la Federación de Fútbol de Arabia Saudita.</desc>
+  <programme start="20230527200000 -0400" stop="20230527210000 -0400" channel="0408">
+    <title lang="es">La Sub-20 DSports</title>
   </programme>
-  <programme start="20230527220000 -0400" stop="20230528003000 -0400" channel="0408">
-    <title lang="es">Copa de la Reina</title>
-    <sub-title lang="es">Final</sub-title>
-    <desc lang="es">Cobertura de la competición nacional de fútbol femenino.</desc>
-  </programme>
-  <programme start="20230528003000 -0400" stop="20230528010000 -0400" channel="0408">
+  <programme start="20230527210000 -0400" stop="20230527213000 -0400" channel="0408">
     <title lang="es">DSports historias</title>
     <sub-title lang="es">8 Argentina campeón Mundial Sub-20 2005</sub-title>
   </programme>
-  <programme start="20230528010000 -0400" stop="20230528020000 -0400" channel="0408">
-    <title lang="es">El show de la CONMEBOL Sudamericana</title>
-    <desc lang="es">Los goles, las mejores jugadas, el mejor resumen y la mejor afición de este torneo histórico se presentan en el show de la Copa CONMEBOL Sudamericana. Edición que te trae los mejores momentos de cada encuentro.</desc>
+  <programme start="20230527213000 -0400" stop="20230528000000 -0400" channel="0408">
+    <title lang="es">Copa de la Reina</title>
+    <sub-title lang="es">Real Madrid vs. Atl. Madrid, Final</sub-title>
+    <desc lang="es">Cobertura de la competición nacional de fútbol femenino.</desc>
   </programme>
-  <programme start="20230528020000 -0400" stop="20230528030000 -0400" channel="0408">
+  <programme start="20230528000000 -0400" stop="20230528010000 -0400" channel="0408">
     <title lang="es">DSports noticias</title>
     <desc lang="es">Todas las novedades y la información de la actualidad deportiva.</desc>
+  </programme>
+  <programme start="20230528010000 -0400" stop="20230528030000 -0400" channel="0408">
+    <title lang="es">FIFA U-20 World Cup Argentina 2023</title>
+    <sub-title lang="es">Colombia vs. Senegal, Fecha 3 Grupo C, Estadio de La Plata</sub-title>
+    <desc lang="es">Vive los partidos de la edición XXIV de la Copa Mundial Sub-20 organizada por la FIFA, donde compiten 24 naciones por el título de campeón juvenil.</desc>
   </programme>
   <programme start="20230528030000 -0400" stop="20230528050000 -0400" channel="0408">
     <title lang="es">Saudi Pro League</title>
@@ -15519,9 +15871,9 @@
     <desc lang="es">Todas las novedades y la información de la actualidad deportiva.</desc>
   </programme>
   <programme start="20230528200000 -0400" stop="20230528220000 -0400" channel="0408">
-    <title lang="es">LaLiga</title>
-    <sub-title lang="es">Barcelona vs. Mallorca, Fecha 37, Estadio Camp Nou</sub-title>
-    <desc lang="es">Viví los partidos de la nonagésima segunda edición de la Primera División de España de fútbol, organizado por la Liga de Fútbol Profesional.</desc>
+    <title lang="es">FIFA U-20 World Cup Argentina 2023</title>
+    <sub-title lang="es">Honduras vs. Francia, Fecha 3 Grupo F, Estadio de La Plata</sub-title>
+    <desc lang="es">Vive los partidos de la edición XXIV de la Copa Mundial Sub-20 organizada por la FIFA, donde compiten 24 naciones por el título de campeón juvenil.</desc>
   </programme>
   <programme start="20230528220000 -0400" stop="20230529000000 -0400" channel="0408">
     <title lang="es">FIFA U-20 World Cup Argentina 2023</title>
@@ -15650,44 +16002,40 @@
     <title lang="es">Superbike británico</title>
     <sub-title lang="es">R3 Donington Park</sub-title>
   </programme>
-  <programme start="20230528143000 -0400" stop="20230528145500 -0400" channel="0409">
+  <programme start="20230528143000 -0400" stop="20230528150000 -0400" channel="0409">
     <title lang="es">ERC</title>
     <sub-title lang="es">R3 Rally de Polonia</sub-title>
   </programme>
-  <programme start="20230528145500 -0400" stop="20230528150000 -0400" channel="0409">
+  <programme start="20230528150000 -0400" stop="20230528151500 -0400" channel="0409">
     <title lang="es">Previa - Rugby de Italia</title>
     <sub-title lang="es">Rovigo vs. Petrarca, Final</sub-title>
   </programme>
-  <programme start="20230528150000 -0400" stop="20230528170000 -0400" channel="0409">
+  <programme start="20230528151500 -0400" stop="20230528173000 -0400" channel="0409">
     <title lang="es">Rugby de Italia</title>
     <sub-title lang="es">Rovigo vs. Petrarca, Final</sub-title>
   </programme>
-  <programme start="20230528170000 -0400" stop="20230528190000 -0400" channel="0409">
+  <programme start="20230528173000 -0400" stop="20230528193000 -0400" channel="0409">
     <title lang="es">MLR</title>
     <sub-title lang="es">San Diego Legion vs. New York Ironworkers</sub-title>
     <desc lang="es">Cobertura de la acción de rugby profesional estadounidense.</desc>
   </programme>
-  <programme start="20230528190000 -0400" stop="20230528210000 -0400" channel="0409">
-    <title lang="es">Rugby de Italia</title>
-    <sub-title lang="es">Rovigo vs. Petrarca, Final</sub-title>
+  <programme start="20230528193000 -0400" stop="20230528203000 -0400" channel="0409">
+    <title lang="es">Ferrari Challenge Europe</title>
+    <sub-title lang="es">R3 Spielberg</sub-title>
+    <desc lang="es">Categoría de automovilismo de una sola marca que se creó en 1993, inicialmente atendiendo a los propietarios del 348 Berlinetta que querían competir con sus autos.</desc>
+  </programme>
+  <programme start="20230528203000 -0400" stop="20230528210000 -0400" channel="0409">
+    <title lang="es">Fórmula América News</title>
+    <desc lang="es">Noticiero de deporte motor para hispanoamérica. Coberturas especiales, entrenamientos y competencias de pilotos de la región.</desc>
   </programme>
   <programme start="20230528210000 -0400" stop="20230528213000 -0400" channel="0409">
     <title lang="es">Giro d'Italia Highlights</title>
     <sub-title lang="es">Etapa 21</sub-title>
     <desc lang="es">Resumen de la competición ciclista por etapas de tres semanas de duración, disputada en Italia con un recorrido diferente cada año.</desc>
   </programme>
-  <programme start="20230528213000 -0400" stop="20230528220000 -0400" channel="0409">
-    <title lang="es">Superbike británico</title>
-    <sub-title lang="es">R3 Donington Park</sub-title>
-  </programme>
-  <programme start="20230528220000 -0400" stop="20230528230000 -0400" channel="0409">
-    <title lang="es">Ferrari Challenge Europe</title>
-    <sub-title lang="es">R3 Spielberg</sub-title>
-    <desc lang="es">Categoría de automovilismo de una sola marca que se creó en 1993, inicialmente atendiendo a los propietarios del 348 Berlinetta que querían competir con sus autos.</desc>
-  </programme>
-  <programme start="20230528230000 -0400" stop="20230528233000 -0400" channel="0409">
-    <title lang="es">Fórmula América News</title>
-    <desc lang="es">Noticiero de deporte motor para hispanoamérica. Coberturas especiales, entrenamientos y competencias de pilotos de la región.</desc>
+  <programme start="20230528213000 -0400" stop="20230528233000 -0400" channel="0409">
+    <title lang="es">Rugby de Italia</title>
+    <sub-title lang="es">Rovigo vs. Petrarca, Final</sub-title>
   </programme>
   <programme start="20230528233000 -0400" stop="20230529013000 -0400" channel="0409">
     <title lang="es">El chiringuito de Jugones</title>
@@ -18795,6 +19143,9 @@
   <programme start="20230528030000 -0400" stop="20230528070000 -0400" channel="0507">
     <title lang="es">Biggest Euro Hits Of The 80s</title>
   </programme>
+  <programme start="20230528110000 -0400" stop="20230528130000 -0400" channel="0507">
+    <title lang="es">Forever 80s</title>
+  </programme>
   <programme start="20230528130000 -0400" stop="20230528160000 -0400" channel="0507">
     <title lang="es">80s Power Ballad Heaven</title>
   </programme>
@@ -19292,6 +19643,9 @@
   </programme>
   <programme start="20230528110000 -0400" stop="20230528123000 -0400" channel="0522">
     <title lang="es">Euro Chart Of The 10s! Top 20</title>
+  </programme>
+  <programme start="20230528130000 -0400" stop="20230528140000 -0400" channel="0522">
+    <title lang="es">Global Beats</title>
   </programme>
   <programme start="20230528140000 -0400" stop="20230528150000 -0400" channel="0522">
     <title lang="es">The Rock Zone</title>
@@ -27149,8 +27503,8 @@
     <desc lang="es">Tres familias diferentes y diversas a través de la lente de un documentalista y su equipo de trabajo. Una de ellas es una familia tradicional con un padre que trabaja, una madre ama de casa y sus tres hijos; la otra es una pareja homosexual que acaba de adoptar un bebé asiático; y la tercera está formada por un hombre mayor casado con una mujer latina mucho más joven. En un último viaje familiar a París, Jay está por aceptar un premio cuando su antiguo enemigo regresa. Además, Claire tiene una cita secreta en una de las ciudades más románticas del mundo, y el sueño de Cam está a punto de hacerse realidad.</desc>
   </programme>
   <programme start="20230527064600 -0400" stop="20230527070000 -0400" channel="0801">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
   </programme>
   <programme start="20230527070000 -0400" stop="20230527073000 -0400" channel="0801">
     <title lang="es">Infomercial</title>
@@ -27238,16 +27592,16 @@
     <desc lang="es">Jim Bennett es un profesor de literatura de la universidad con un grave problema: le gusta demasiado apostar. Debido a su ludopatía, el profesor ahora tiene muchas deudas que saldar, deudas que le conducen hacia una nuevas amistades para nada recomendables. Bennet no sabe cómo pagar el dinero que debe y ya no tiene a quién acudir, por lo que se encamina a los bajos fondos de la ciudad en busca de una salida, pero allí no encontrará más que nuevos problemas.</desc>
   </programme>
   <programme start="20230528063600 -0400" stop="20230528070000 -0400" channel="0801">
-    <title lang="es">Programación especial</title>
-    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230528070000 -0400" stop="20230528083600 -0400" channel="0801">
     <title lang="es">Ojalá estuviera aquí</title>
     <desc lang="es">Aidan Bloom, un joven padre de familia, se encuentra al borde de una crisis existencial provocada por la desaprobación de su padre y por las responsabilidades de la edad adulta. Cuando su situación financiera empeora, toma la decisión de hacer algunos cambios para mejorar su vida.</desc>
   </programme>
   <programme start="20230528083600 -0400" stop="20230528090700 -0400" channel="0801">
-    <title lang="es">Programación especial</title>
-    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20230528090700 -0400" stop="20230528111900 -0400" channel="0801">
     <title lang="es">Moulin Rouge, amor en rojo</title>
@@ -27963,35 +28317,43 @@
     <title lang="es">Hollywood One on One</title>
     <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
   </programme>
-  <programme start="20230528060000 -0400" stop="20230528075700 -0400" channel="0805">
-    <title lang="es">El caza recompensas</title>
-    <desc lang="es">A Milo Boyd, un cazarrecompensas que está viviendo una mala racha, le asignan el caso de sus sueños: capturar a su ex-mujer, la periodista Nicole Hurley, que ha violado su libertad condicional. Milo cree que será un trabajo divertido; pero Nicole se ha escapado para investigar un asesinato, de modo que las cosas no serán tan sencillas. De repente, sus vidas empiezan a correr peligro y tienen que salir huyendo. Si pensaban que la promesa de amarse y respetarse era difícil, mantenerse con vida será aún mucho más complicado.</desc>
+  <programme start="20230528060000 -0400" stop="20230528064100 -0400" channel="0805">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
   </programme>
-  <programme start="20230528075700 -0400" stop="20230528093500 -0400" channel="0805">
+  <programme start="20230528064100 -0400" stop="20230528072100 -0400" channel="0805">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+  </programme>
+  <programme start="20230528072100 -0400" stop="20230528073100 -0400" channel="0805">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+  </programme>
+  <programme start="20230528073100 -0400" stop="20230528091100 -0400" channel="0805">
     <title lang="es">Ace Ventura, un detective diferente</title>
     <desc lang="es">Un detective especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar la mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final.</desc>
   </programme>
-  <programme start="20230528093500 -0400" stop="20230528115100 -0400" channel="0805">
+  <programme start="20230528091100 -0400" stop="20230528112900 -0400" channel="0805">
     <title lang="es">Desconocido</title>
     <desc lang="es">Mientras se encuentra con su mujer de visita en Berlín, el doctor Martin Harris sufre un accidente de tráfico y entra en un prolongado estado de coma. Cuando se despierta, comprueba alarmado que alguien ha usurpado su personalidad. Entonces emprenderá, con la ayuda de una mujer, una frenética investigación para averiguar la verdad de lo que le está sucediendo.</desc>
   </programme>
-  <programme start="20230528115100 -0400" stop="20230528140600 -0400" channel="0805">
+  <programme start="20230528112900 -0400" stop="20230528135100 -0400" channel="0805">
     <title lang="es">El infiltrado</title>
     <desc lang="es">Un joven es acusado de traficar drogas, y enfrenta una condena de 10 años. Su padre, John Mathews, pacta con la DEA, y entra como infiltrado en el mundo del narcotráfico para conseguir información de las cabezas del cartel, y así salvar a su hijo. ¿Qué tan lejos llegarías por salvar a tu hijo?</desc>
   </programme>
-  <programme start="20230528140600 -0400" stop="20230528165600 -0400" channel="0805">
+  <programme start="20230528135100 -0400" stop="20230528163700 -0400" channel="0805">
     <title lang="es">Jack Reacher: Bajo la mira</title>
     <desc lang="es">Jack Reacher, un antiguo policía militar que vive como un vagabundo y trabaja por su cuenta, decide investigar el caso de un francotirador que ha sido acusado de matar a cinco personas en un tiroteo. Al ser interrogado, el apresado se declara inocente y, además, exige la presencia de Jack.</desc>
   </programme>
-  <programme start="20230528165600 -0400" stop="20230528192800 -0400" channel="0805">
+  <programme start="20230528163700 -0400" stop="20230528190700 -0400" channel="0805">
     <title lang="es">Jack Reacher: Sin regreso</title>
     <desc lang="es">La Mayor Susan Turner, líder de la antigua unidad militar de Reacher, es falsamente acusada de traición. Jack Reacher tendrá que sacarla de prisión y descubrir la verdad detrás de una conspiración gubernamental para limpiar sus nombres y salvar sus vidas. Durante el escape, Reacher descubrirá un secreto de su pasado que podría cambiar su vida para siempre.</desc>
   </programme>
-  <programme start="20230528192800 -0400" stop="20230528220000 -0400" channel="0805">
+  <programme start="20230528190700 -0400" stop="20230528220000 -0400" channel="0805">
     <title lang="es">Guerra de los mundos</title>
     <desc lang="es">Ray Ferrier es un trabajador portuario divorciado y un padre lejos de ser perfecto. Cuando su ex mujer y su nuevo esposo le llevan a su hijo adolescente Robbie y su hija mejor Rachel para que pasen el fin de semana con él, Ray y sus hijos son testigos de una extraña tormenta eléctrica, que anticipa la llegada de inmensos seres que acaban con todo a su paso: el primer ataque alienígena contra la Tierra.</desc>
   </programme>
-  <programme start="20230528220000 -0400" stop="20230529004100 -0400" channel="0805">
+  <programme start="20230528220000 -0400" stop="20230529005800 -0400" channel="0805">
     <title lang="es">El rey Arturo: la leyenda de la espada</title>
     <desc lang="es">Arturo es un joven intrépido que dirige a su pandilla por los callejones de Londonium. Tras sacar la espada de Excalibur, se verá obligado a tomar algunas duras decisiones. Junto a una misteriosa mujer llamada Guinevere, deberá aprender a manejar la espada, vencer a sus demonios y unir al pueblo para derrotar al tirano Vortigern, quien robó su corona y asesinó a sus padres antes de convertirse en rey.</desc>
   </programme>
