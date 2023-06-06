@@ -1446,18 +1446,15 @@
     <title lang="es">Eventos en vivo</title>
     <desc lang="es">Disfruta de los eventos más importantes a través de esta señal.</desc>
   </programme>
-  <programme start="20230606180000 -0400" stop="20230606200000 -0400" channel="0001">
+  <programme start="20230606180000 -0400" stop="20230606195500 -0400" channel="0001">
     <title lang="es">Eventos En Vivo</title>
   </programme>
-  <programme start="20230606200000 -0400" stop="20230606220000 -0400" channel="0001">
-    <title lang="es">Eventos en vivo</title>
-    <desc lang="es">Disfruta de los eventos más importantes a través de esta señal.</desc>
+  <programme start="20230606195500 -0400" stop="20230606215500 -0400" channel="0001">
+    <title lang="es">EN VIVO: Boca Jrs. (Arg) vs Colo Colo (Chi) - CONMEBOL Libertadores</title>
+    <sub-title lang="es">Fecha 5 Grupo F, Estadio Alberto J. Armando</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
-  <programme start="20230606220000 -0400" stop="20230606230000 -0400" channel="0001">
-    <title lang="es">Eventos en vivo</title>
-    <desc lang="es">Disfruta de los eventos más importantes a través de esta señal.</desc>
-  </programme>
-  <programme start="20230606230000 -0400" stop="20230607000000 -0400" channel="0001">
+  <programme start="20230606215500 -0400" stop="20230607000000 -0400" channel="0001">
     <title lang="es">Eventos en vivo</title>
     <desc lang="es">Disfruta de los eventos más importantes a través de esta señal.</desc>
   </programme>
@@ -1584,16 +1581,18 @@
   <programme start="20230606163000 -0400" stop="20230606173000 -0400" channel="0002">
     <title lang="es">Pulso</title>
   </programme>
-  <programme start="20230606173000 -0400" stop="20230606190000 -0400" channel="0002">
+  <programme start="20230606173000 -0400" stop="20230606180000 -0400" channel="0002">
     <title lang="es">TNT Data Sports</title>
   </programme>
-  <programme start="20230606190000 -0400" stop="20230606210000 -0400" channel="0002">
-    <title lang="es">Todos Somos Técnicos</title>
+  <programme start="20230606180000 -0400" stop="20230606195500 -0400" channel="0002">
+    <title lang="es">Eventos En Vivo</title>
   </programme>
-  <programme start="20230606210000 -0400" stop="20230606222500 -0400" channel="0002">
-    <title lang="es">TNT Data Sports</title>
+  <programme start="20230606195500 -0400" stop="20230606215500 -0400" channel="0002">
+    <title lang="es">EN VIVO: Boca Jrs. (Arg) vs Colo Colo (Chi) - CONMEBOL Libertadores</title>
+    <sub-title lang="es">Fecha 5 Grupo F, Estadio Alberto J. Armando</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
-  <programme start="20230606222500 -0400" stop="20230607002500 -0400" channel="0002">
+  <programme start="20230606215500 -0400" stop="20230607000000 -0400" channel="0002">
     <title lang="es">Todos Somos Técnicos</title>
   </programme>
   <programme start="20230607002500 -0400" stop="20230607012500 -0400" channel="0002">
@@ -1677,19 +1676,15 @@
   <programme start="20230606170000 -0400" stop="20230606180000 -0400" channel="0003">
     <title lang="es">Eventos 3</title>
   </programme>
-  <programme start="20230606180000 -0400" stop="20230606190000 -0400" channel="0003">
-    <title lang="es">Eventos 3</title>
+  <programme start="20230606180000 -0400" stop="20230606195500 -0400" channel="0003">
+    <title lang="es">Eventos En Vivo</title>
   </programme>
-  <programme start="20230606190000 -0400" stop="20230606200000 -0400" channel="0003">
-    <title lang="es">Eventos 3</title>
+  <programme start="20230606195500 -0400" stop="20230606215500 -0400" channel="0003">
+    <title lang="es">EN VIVO: Boca Jrs. (Arg) vs Colo Colo (Chi) - CONMEBOL Libertadores</title>
+    <sub-title lang="es">Fecha 5 Grupo F, Estadio Alberto J. Armando</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
   </programme>
-  <programme start="20230606200000 -0400" stop="20230606210000 -0400" channel="0003">
-    <title lang="es">Eventos 3</title>
-  </programme>
-  <programme start="20230606210000 -0400" stop="20230606220000 -0400" channel="0003">
-    <title lang="es">Eventos 3</title>
-  </programme>
-  <programme start="20230606220000 -0400" stop="20230606230000 -0400" channel="0003">
+  <programme start="20230606215500 -0400" stop="20230606230000 -0400" channel="0003">
     <title lang="es">Eventos 3</title>
   </programme>
   <programme start="20230606230000 -0400" stop="20230607000000 -0400" channel="0003">
@@ -1771,15 +1766,23 @@
     <title lang="es">Eventos 4</title>
     <desc lang="es">Programación por confirmar.</desc>
   </programme>
-  <programme start="20230606120000 -0400" stop="20230607000000 -0400" channel="0004">
+  <programme start="20230606120000 -0400" stop="20230606180000 -0400" channel="0004">
     <title lang="es">Eventos 4</title>
     <desc lang="es">Programación por confirmar.</desc>
   </programme>
-  <programme start="20230607000000 -0400" stop="20230607120000 -0400" channel="0004">
+  <programme start="20230606180000 -0400" stop="20230606195500 -0400" channel="0004">
+    <title lang="es">Eventos En Vivo</title>
+  </programme>
+  <programme start="20230606195500 -0400" stop="20230606215500 -0400" channel="0004">
+    <title lang="es">EN VIVO: Boca Jrs. (Arg) vs Colo Colo (Chi) - CONMEBOL Libertadores</title>
+    <sub-title lang="es">Fecha 5 Grupo F, Estadio Alberto J. Armando</sub-title>
+    <desc lang="es">Vive los partidos de la sexagésima cuarta edición del torneo de clubes más importante de América del Sur, organizada por la CONMEBOL.</desc>
+  </programme>
+  <programme start="20230606215500 -0400" stop="20230607000000 -0400" channel="0004">
     <title lang="es">Eventos 4</title>
     <desc lang="es">Programación por confirmar.</desc>
   </programme>
-  <programme start="20230607120000 -0400" stop="20230608000000 -0400" channel="0004">
+  <programme start="20230607000000 -0400" stop="20230608000000 -0400" channel="0004">
     <title lang="es">Eventos 4</title>
     <desc lang="es">Programación por confirmar.</desc>
   </programme>
