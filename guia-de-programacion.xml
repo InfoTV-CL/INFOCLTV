@@ -960,9 +960,24 @@
     <icon src="" />
     <url>http://www.theuselessweb.com</url>
   </channel>
+  <channel id="0151">
+    <display-name lang="en">Iquique TV</display-name>
+    <icon src="" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
+  <channel id="0152">
+    <display-name lang="en">Antofagasta TV</display-name>
+    <icon src="" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
   <channel id="0153">
     <display-name lang="es">Canal 9 Bío-Bío Televisión - Biobío</display-name>
     <icon src="https://i.ibb.co/mJCsdDV/0909.png" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
+  <channel id="0154">
+    <display-name lang="es">Sexta Visión</display-name>
+    <icon src="" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0155">
@@ -18905,6 +18920,9 @@
   <programme start="20230612030000 -0400" stop="20230612070000 -0400" channel="0507">
     <title lang="es">Gold! Greatest Hits Of The 80s</title>
   </programme>
+  <programme start="20230612110000 -0400" stop="20230612130000 -0400" channel="0507">
+    <title lang="es">Forever 80s</title>
+  </programme>
   <programme start="20230612130000 -0400" stop="20230612150000 -0400" channel="0507">
     <title lang="es">Who's That 80s Girl</title>
   </programme>
@@ -33588,6 +33606,292 @@
     <title lang="es">Europa Europa</title>
     <desc lang="es">No hay información disponible.</desc>
   </programme>
+  <programme start="20230611080000 -0400" stop="20230611090000 -0400" channel="0151">
+    <title lang="en">Circo en la cuerda</title>
+    <desc lang="en">Presentación de espectáculos circenses que ponen en valor el patrimonio cultural de Tarapacá.</desc>
+  </programme>
+  <programme start="20230611090000 -0400" stop="20230611093000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230611093000 -0400" stop="20230611100000 -0400" channel="0151">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
+  </programme>
+  <programme start="20230611100000 -0400" stop="20230611110000 -0400" channel="0151">
+    <title lang="en">Doctor en casa</title>
+    <desc lang="en">Un espacio donde todas las medicinas trabajan juntas para mejorar tu calidad de vida.</desc>
+  </programme>
+  <programme start="20230611110000 -0400" stop="20230611113000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230611113000 -0400" stop="20230611123000 -0400" channel="0151">
+    <title lang="en">Cultura / Patrimonio / História</title>
+  </programme>
+  <programme start="20230611123000 -0400" stop="20230611130000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230611130000 -0400" stop="20230611133000 -0400" channel="0151">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
+  </programme>
+  <programme start="20230611133000 -0400" stop="20230611140000 -0400" channel="0151">
+    <title lang="en">Destino Chile</title>
+  </programme>
+  <programme start="20230611140000 -0400" stop="20230611160000 -0400" channel="0151">
+    <title lang="en">Iquique al día</title>
+    <desc lang="en">Programa de entrevisas con personalidades de la comunidad.</desc>
+  </programme>
+  <programme start="20230611160000 -0400" stop="20230611170000 -0400" channel="0151">
+    <title lang="en">Cultura / Patrimonio / História</title>
+  </programme>
+  <programme start="20230611170000 -0400" stop="20230611173000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230611173000 -0400" stop="20230611180000 -0400" channel="0151">
+    <title lang="en">En palco</title>
+  </programme>
+  <programme start="20230611180000 -0400" stop="20230611183000 -0400" channel="0151">
+    <title lang="en">Destino Chile</title>
+  </programme>
+  <programme start="20230611183000 -0400" stop="20230611193000 -0400" channel="0151">
+    <title lang="en">Kidsabada</title>
+    <desc lang="en">Yuma Tsukumo aspira a ser el mejor duelista del mundo aunque él no es muy bueno en esto. Su historia inicia cuando él participa como duelista y cosas extrañas comienzan a suceder. ¿Tendrá algo que ver en esto Shark, un estudiante conocido por sus habilidades de nivel profesional?</desc>
+  </programme>
+  <programme start="20230611193000 -0400" stop="20230611203000 -0400" channel="0151">
+    <title lang="en">Circo en la cuerda</title>
+    <desc lang="en">Presentación de espectáculos circenses que ponen en valor el patrimonio cultural de Tarapacá.</desc>
+  </programme>
+  <programme start="20230611203000 -0400" stop="20230611213000 -0400" channel="0151">
+    <title lang="en">Zona D Juegos</title>
+    <desc lang="en">Lo mejor de la tecnología, los videojuegos y el ocio electónico.</desc>
+  </programme>
+  <programme start="20230611213000 -0400" stop="20230611220000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230611220000 -0400" stop="20230611230000 -0400" channel="0151">
+    <title lang="en">Cultura / Patrimonio / História</title>
+  </programme>
+  <programme start="20230611230000 -0400" stop="20230612020000 -0400" channel="0151">
+    <title lang="en">Anime</title>
+    <desc lang="en">Serie animada.</desc>
+  </programme>
+  <programme start="20230612020000 -0400" stop="20230612023000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230612023000 -0400" stop="20230612030000 -0400" channel="0151">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
+  </programme>
+  <programme start="20230612030000 -0400" stop="20230612033000 -0400" channel="0151">
+    <title lang="en">En palco</title>
+  </programme>
+  <programme start="20230612033000 -0400" stop="20230612040000 -0400" channel="0151">
+    <title lang="en">Latidos tonos trazos</title>
+  </programme>
+  <programme start="20230612040000 -0400" stop="20230612043000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230612043000 -0400" stop="20230612050000 -0400" channel="0151">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
+  </programme>
+  <programme start="20230612050000 -0400" stop="20230612060000 -0400" channel="0151">
+    <title lang="en">Ochenteando</title>
+  </programme>
+  <programme start="20230612060000 -0400" stop="20230612063000 -0400" channel="0151">
+    <title lang="en">Tonos</title>
+  </programme>
+  <programme start="20230612063000 -0400" stop="20230612073000 -0400" channel="0151">
+    <title lang="en">Zona D Juegos</title>
+    <desc lang="en">Lo mejor de la tecnología, los videojuegos y el ocio electónico.</desc>
+  </programme>
+  <programme start="20230612073000 -0400" stop="20230612080000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230612080000 -0400" stop="20230612090000 -0400" channel="0151">
+    <title lang="en">Forever TV</title>
+  </programme>
+  <programme start="20230612090000 -0400" stop="20230612093000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230612093000 -0400" stop="20230612100000 -0400" channel="0151">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
+  </programme>
+  <programme start="20230612100000 -0400" stop="20230612110000 -0400" channel="0151">
+    <title lang="en">Doctor en casa</title>
+    <desc lang="en">Un espacio donde todas las medicinas trabajan juntas para mejorar tu calidad de vida.</desc>
+  </programme>
+  <programme start="20230612110000 -0400" stop="20230612113000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230612113000 -0400" stop="20230612123000 -0400" channel="0151">
+    <title lang="en">Cultura / Patrimonio / História</title>
+  </programme>
+  <programme start="20230612123000 -0400" stop="20230612130000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230612130000 -0400" stop="20230612133000 -0400" channel="0151">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
+  </programme>
+  <programme start="20230612133000 -0400" stop="20230612143000 -0400" channel="0151">
+    <title lang="en">Iquique al día</title>
+    <desc lang="en">Programa de entrevisas con personalidades de la comunidad.</desc>
+  </programme>
+  <programme start="20230612143000 -0400" stop="20230612153000 -0400" channel="0151">
+    <title lang="en">Doctor en casa</title>
+    <desc lang="en">Un espacio donde todas las medicinas trabajan juntas para mejorar tu calidad de vida.</desc>
+  </programme>
+  <programme start="20230612153000 -0400" stop="20230612160000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230612160000 -0400" stop="20230612170000 -0400" channel="0151">
+    <title lang="en">Circo en la cuerda</title>
+    <desc lang="en">Presentación de espectáculos circenses que ponen en valor el patrimonio cultural de Tarapacá.</desc>
+  </programme>
+  <programme start="20230612170000 -0400" stop="20230612173000 -0400" channel="0151">
+    <title lang="en">ITV Noticias</title>
+    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
+  </programme>
+  <programme start="20230612173000 -0400" stop="20230612183000 -0400" channel="0151">
+    <title lang="en">Zona D Juegos</title>
+    <desc lang="en">Lo mejor de la tecnología, los videojuegos y el ocio electónico.</desc>
+  </programme>
+  <programme start="20230612183000 -0400" stop="20230612193000 -0400" channel="0151">
+    <title lang="en">Iquique al día</title>
+    <desc lang="en">Programa de entrevisas con personalidades de la comunidad.</desc>
+  </programme>
+  <programme start="20230612193000 -0400" stop="20230612203000 -0400" channel="0151">
+    <title lang="en">Producto nacional</title>
+  </programme>
+  <programme start="20230611080000 -0400" stop="20230611120000 -0400" channel="0152">
+    <title lang="en">El matinal</title>
+    <desc lang="en">Revista matutina con segmentos de moda y farándula, entre otros.</desc>
+  </programme>
+  <programme start="20230611120000 -0400" stop="20230611123000 -0400" channel="0152">
+    <title lang="en">Entrevista</title>
+  </programme>
+  <programme start="20230611123000 -0400" stop="20230611130000 -0400" channel="0152">
+    <title lang="en">Propyme</title>
+  </programme>
+  <programme start="20230611130000 -0400" stop="20230611140000 -0400" channel="0152">
+    <title lang="en">Más noticias noche</title>
+  </programme>
+  <programme start="20230611140000 -0400" stop="20230611143000 -0400" channel="0152">
+    <title lang="en">CMDS TV Escolar</title>
+  </programme>
+  <programme start="20230611143000 -0400" stop="20230611150000 -0400" channel="0152">
+    <title lang="en">Entrevista</title>
+  </programme>
+  <programme start="20230611150000 -0400" stop="20230611153000 -0400" channel="0152">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
+  </programme>
+  <programme start="20230611153000 -0400" stop="20230611160000 -0400" channel="0152">
+    <title lang="en">Propyme</title>
+  </programme>
+  <programme start="20230611160000 -0400" stop="20230611170000 -0400" channel="0152">
+    <title lang="en">Más noticias noche</title>
+  </programme>
+  <programme start="20230611170000 -0400" stop="20230611180000 -0400" channel="0152">
+    <title lang="en">Dr. En Casa</title>
+    <desc lang="en">Doctor en casa es un programa de salud orientado a mejorar la calidad de vida de las personas.</desc>
+  </programme>
+  <programme start="20230611180000 -0400" stop="20230611190000 -0400" channel="0152">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Programación pagada.</desc>
+  </programme>
+  <programme start="20230611190000 -0400" stop="20230611200000 -0400" channel="0152">
+    <title lang="en">Voz ciudadana</title>
+  </programme>
+  <programme start="20230611200000 -0400" stop="20230611210000 -0400" channel="0152">
+    <title lang="en">Más noticias noche</title>
+  </programme>
+  <programme start="20230611210000 -0400" stop="20230611213000 -0400" channel="0152">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
+  </programme>
+  <programme start="20230611213000 -0400" stop="20230611220000 -0400" channel="0152">
+    <title lang="en">Entrevista</title>
+  </programme>
+  <programme start="20230611220000 -0400" stop="20230611230000 -0400" channel="0152">
+    <title lang="en">Voz ciudadana</title>
+  </programme>
+  <programme start="20230611230000 -0400" stop="20230612000000 -0400" channel="0152">
+    <title lang="en">Más noticias noche</title>
+  </programme>
+  <programme start="20230612000000 -0400" stop="20230612040000 -0400" channel="0152">
+    <title lang="en">El matinal</title>
+    <desc lang="en">Revista matutina con segmentos de moda y farándula, entre otros.</desc>
+  </programme>
+  <programme start="20230612040000 -0400" stop="20230612050000 -0400" channel="0152">
+    <title lang="en">Más noticias noche</title>
+  </programme>
+  <programme start="20230612050000 -0400" stop="20230612060000 -0400" channel="0152">
+    <title lang="en">Voz ciudadana</title>
+  </programme>
+  <programme start="20230612060000 -0400" stop="20230612070000 -0400" channel="0152">
+    <title lang="en">Dr. En Casa</title>
+    <desc lang="en">Doctor en casa es un programa de salud orientado a mejorar la calidad de vida de las personas.</desc>
+  </programme>
+  <programme start="20230612070000 -0400" stop="20230612080000 -0400" channel="0152">
+    <title lang="en">Más noticias noche</title>
+  </programme>
+  <programme start="20230612080000 -0400" stop="20230612120000 -0400" channel="0152">
+    <title lang="en">El matinal</title>
+    <desc lang="en">Revista matutina con segmentos de moda y farándula, entre otros.</desc>
+  </programme>
+  <programme start="20230612120000 -0400" stop="20230612130000 -0400" channel="0152">
+    <title lang="en">Dr. En Casa</title>
+    <desc lang="en">Doctor en casa es un programa de salud orientado a mejorar la calidad de vida de las personas.</desc>
+  </programme>
+  <programme start="20230612130000 -0400" stop="20230612140000 -0400" channel="0152">
+    <title lang="en">Más noticias tarde</title>
+  </programme>
+  <programme start="20230612140000 -0400" stop="20230612143000 -0400" channel="0152">
+    <title lang="en">Hora clínica</title>
+    <desc lang="en">Programa de orientación en Salud Natural.</desc>
+  </programme>
+  <programme start="20230612143000 -0400" stop="20230612150000 -0400" channel="0152">
+    <title lang="en">Entrevista</title>
+  </programme>
+  <programme start="20230612150000 -0400" stop="20230612153000 -0400" channel="0152">
+    <title lang="en">Panorama 15</title>
+    <desc lang="en">Programa de actualidad informativa regional que incluye entrevistas y reportajes.</desc>
+  </programme>
+  <programme start="20230612153000 -0400" stop="20230612160000 -0400" channel="0152">
+    <title lang="en">Propyme</title>
+  </programme>
+  <programme start="20230612160000 -0400" stop="20230612170000 -0400" channel="0152">
+    <title lang="en">Más noticias tarde</title>
+  </programme>
+  <programme start="20230612170000 -0400" stop="20230612180000 -0400" channel="0152">
+    <title lang="en">Dr. En Casa</title>
+    <desc lang="en">Doctor en casa es un programa de salud orientado a mejorar la calidad de vida de las personas.</desc>
+  </programme>
+  <programme start="20230612180000 -0400" stop="20230612183000 -0400" channel="0152">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
+  </programme>
+  <programme start="20230612183000 -0400" stop="20230612190000 -0400" channel="0152">
+    <title lang="en">CMDS TV Escolar</title>
+  </programme>
+  <programme start="20230612190000 -0400" stop="20230612200000 -0400" channel="0152">
+    <title lang="en">Voz ciudadana</title>
+  </programme>
   <programme start="20230611003000 -0400" stop="20230611010000 -0400" channel="0153">
     <title lang="es">Unidad Evangélica</title>
     <desc lang="es">Espacio dedicado a entregar la Palabra de Dios a los televidentes.</desc>
@@ -33717,10 +34021,6 @@
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
   </programme>
-  <programme start="20230612134500 -0400" stop="20230612143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
-  </programme>
   <programme start="20230612130000 -0400" stop="20230612141500 -0400" channel="0153">
     <title lang="es">Efemérides</title>
     <desc lang="es">Cada día una nueva historia en Bío Bío TV.</desc>
@@ -33793,6 +34093,138 @@
   <programme start="20230613003000 -0400" stop="20230613010000 -0400" channel="0153">
     <title lang="es">Unidad Evangélica</title>
     <desc lang="es">Espacio dedicado a entregar la Palabra de Dios a los televidentes.</desc>
+  </programme>
+  <programme start="20230611060000 -0400" stop="20230611063000 -0400" channel="0154">
+    <title lang="es">SEXTAVISIÓN ESPECIALES</title>
+  </programme>
+  <programme start="20230611063000 -0400" stop="20230611073000 -0400" channel="0154">
+    <title lang="es">DOCUMENTALES</title>
+  </programme>
+  <programme start="20230611073000 -0400" stop="20230611080000 -0400" channel="0154">
+    <title lang="es">DEPORTES CORMUN</title>
+  </programme>
+  <programme start="20230611080000 -0400" stop="20230611090000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIAS</title>
+  </programme>
+  <programme start="20230611090000 -0400" stop="20230611103000 -0400" channel="0154">
+    <title lang="es">ESTACIÓN AM</title>
+  </programme>
+  <programme start="20230611103000 -0400" stop="20230611110000 -0400" channel="0154">
+    <title lang="es">CARTOONS</title>
+  </programme>
+  <programme start="20230611110000 -0400" stop="20230611120000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIAS</title>
+  </programme>
+  <programme start="20230611120000 -0400" stop="20230611130000 -0400" channel="0154">
+    <title lang="es">PAUTA CIUDADANA</title>
+  </programme>
+  <programme start="20230611130000 -0400" stop="20230611140000 -0400" channel="0154">
+    <title lang="es">CONVERSANDO CON MARIO BARRIENTOS</title>
+  </programme>
+  <programme start="20230611140000 -0400" stop="20230611150000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIAS</title>
+  </programme>
+  <programme start="20230611150000 -0400" stop="20230611160000 -0400" channel="0154">
+    <title lang="es">NKP</title>
+  </programme>
+  <programme start="20230611160000 -0400" stop="20230611170000 -0400" channel="0154">
+    <title lang="es">MEMORIES</title>
+  </programme>
+  <programme start="20230611170000 -0400" stop="20230611173000 -0400" channel="0154">
+    <title lang="es">CREADORES</title>
+  </programme>
+  <programme start="20230611173000 -0400" stop="20230611180000 -0400" channel="0154">
+    <title lang="es">PANORAMA 15-2</title>
+  </programme>
+  <programme start="20230611180000 -0400" stop="20230611190000 -0400" channel="0154">
+    <title lang="es">CONTINGENCIA</title>
+  </programme>
+  <programme start="20230611190000 -0400" stop="20230611200000 -0400" channel="0154">
+    <title lang="es">ESTRELLAS DEL COBRE</title>
+  </programme>
+  <programme start="20230611200000 -0400" stop="20230611210000 -0400" channel="0154">
+    <title lang="es">DOCUMENTALES</title>
+  </programme>
+  <programme start="20230611210000 -0400" stop="20230611220000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIAS</title>
+  </programme>
+  <programme start="20230611220000 -0400" stop="20230612003000 -0400" channel="0154">
+    <title lang="es">CINEVISIÓN 7</title>
+  </programme>
+  <programme start="20230612003000 -0400" stop="20230612013000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIAS</title>
+  </programme>
+  <programme start="20230612013000 -0400" stop="20230612023000 -0400" channel="0154">
+    <title lang="es">MEMORIES</title>
+  </programme>
+  <programme start="20230612023000 -0400" stop="20230612033000 -0400" channel="0154">
+    <title lang="es">ESTRELLAS DEL COBRE EN VIVO</title>
+  </programme>
+  <programme start="20230612033000 -0400" stop="20230612043000 -0400" channel="0154">
+    <title lang="es">MEMORIES</title>
+  </programme>
+  <programme start="20230612043000 -0400" stop="20230612053000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIASNOTICIAS</title>
+  </programme>
+  <programme start="20230612053000 -0400" stop="20230612060000 -0400" channel="0154">
+    <title lang="es">SIN PELOS EN LA LENGUA</title>
+  </programme>
+  <programme start="20230612060000 -0400" stop="20230612063000 -0400" channel="0154">
+    <title lang="es">SEXTAVISIÓN ESPECIALES</title>
+  </programme>
+  <programme start="20230612063000 -0400" stop="20230612073000 -0400" channel="0154">
+    <title lang="es">DOCUMENTALES</title>
+  </programme>
+  <programme start="20230612073000 -0400" stop="20230612080000 -0400" channel="0154">
+    <title lang="es">DEPORTES CORMUN</title>
+  </programme>
+  <programme start="20230612080000 -0400" stop="20230612090000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIAS</title>
+  </programme>
+  <programme start="20230612090000 -0400" stop="20230612103000 -0400" channel="0154">
+    <title lang="es">ESTACIÓN AM</title>
+  </programme>
+  <programme start="20230612103000 -0400" stop="20230612110000 -0400" channel="0154">
+    <title lang="es">CARTOONS</title>
+  </programme>
+  <programme start="20230612110000 -0400" stop="20230612120000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIAS</title>
+  </programme>
+  <programme start="20230612120000 -0400" stop="20230612130000 -0400" channel="0154">
+    <title lang="es">PAUTA CIUDADANA</title>
+  </programme>
+  <programme start="20230612130000 -0400" stop="20230612140000 -0400" channel="0154">
+    <title lang="es">CONVERSANDO CON MARIO BARRIENTOS</title>
+  </programme>
+  <programme start="20230612140000 -0400" stop="20230612150000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIAS</title>
+  </programme>
+  <programme start="20230612150000 -0400" stop="20230612160000 -0400" channel="0154">
+    <title lang="es">NKP</title>
+  </programme>
+  <programme start="20230612160000 -0400" stop="20230612170000 -0400" channel="0154">
+    <title lang="es">MEMORIES</title>
+  </programme>
+  <programme start="20230612170000 -0400" stop="20230612173000 -0400" channel="0154">
+    <title lang="es">CREADORES</title>
+  </programme>
+  <programme start="20230612173000 -0400" stop="20230612180000 -0400" channel="0154">
+    <title lang="es">PANORAMA 15-2</title>
+  </programme>
+  <programme start="20230612180000 -0400" stop="20230612190000 -0400" channel="0154">
+    <title lang="es">CONTINGENCIA</title>
+  </programme>
+  <programme start="20230612190000 -0400" stop="20230612200000 -0400" channel="0154">
+    <title lang="es">ESTRELLAS DEL COBRE</title>
+  </programme>
+  <programme start="20230612200000 -0400" stop="20230612210000 -0400" channel="0154">
+    <title lang="es">DOCUMENTALES</title>
+  </programme>
+  <programme start="20230612210000 -0400" stop="20230612220000 -0400" channel="0154">
+    <title lang="es">RESUMEN SEMANAL DE NOTICIAS</title>
+  </programme>
+  <programme start="20230612220000 -0400" stop="20230613003000 -0400" channel="0154">
+    <title lang="es">CINEVISIÓN 7</title>
   </programme>
   <programme start="20230610200000 -0400" stop="20230610203000 -0400" channel="0155">
     <title lang="en">Edición central TVU noticias</title>
