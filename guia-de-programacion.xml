@@ -10857,6 +10857,9 @@
   <programme start="20230614042500 -0400" stop="20230614045000 -0400" channel="0306">
     <title lang="es">Game shakers</title>
   </programme>
+  <programme start="20230614115000 -0400" stop="20230614121500 -0400" channel="0306">
+    <title lang="es">The Thundermans</title>
+  </programme>
   <programme start="20230611230000 -0400" stop="20230611233000 -0400" channel="0307">
     <title lang="es">The Tiny Chef Show</title>
     <desc lang="es">Desde el tocón de un árbol de su humilde jardín, un vegano llamado Tiny Chef crea los platos más pequeños del mundo para el programa de cocina más pequeño del mundo.</desc>
@@ -19807,6 +19810,9 @@
   </programme>
   <programme start="20230613100000 -0400" stop="20230613113000 -0400" channel="0522">
     <title lang="es">Top 20 Pop-Rock Hits</title>
+  </programme>
+  <programme start="20230613120000 -0400" stop="20230613130000 -0400" channel="0522">
+    <title lang="es">Global Beats</title>
   </programme>
   <programme start="20230613130000 -0400" stop="20230613134500 -0400" channel="0522">
     <title lang="es">Gonzo with Jack Saunders</title>
@@ -34542,9 +34548,9 @@
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
   </programme>
-  <programme start="20230612134500 -0400" stop="20230612143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
+  <programme start="20230612130000 -0400" stop="20230612141500 -0400" channel="0153">
+    <title lang="es">Efemérides</title>
+    <desc lang="es">Cada día una nueva historia en Bío Bío TV.</desc>
   </programme>
   <programme start="20230612143000 -0400" stop="20230612153000 -0400" channel="0153">
     <title lang="es">El Tablón</title>
