@@ -286,7 +286,7 @@
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0518">
-    <display-name lang="es">Quiero Música</display-name>
+    <display-name lang="en">Quiero Música</display-name>
     <icon src="https://i.ibb.co/930SFkj/0518.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
@@ -10375,580 +10375,560 @@
     <sub-title lang="es">9 Daisy &amp; Goofy Clean Up! / Crayon World!</sub-title>
     <desc lang="es">Mickey Mouse regresa con sus amigos Minnie Mouse, Donald Duck, Daisy Duck, Goofy y Pluto. Los amigos conocen a Funny, una casa de juegos encantada que habla. Funny transporta mágicamente al grupo de amigos a una variedad de destinos que les permite embarcarse en aventuras únicas en esa tierra. La improvisada caída de Daisy y Goofy hace que Funny se resbale y cree un lío terrible. A Daisy le falta el crayón magenta mágico que necesita para terminar el dibujo de su jardín.</desc>
   </programme>
-  <programme start="20230617220000 -0400" stop="20230617221500 -0400" channel="0312">
+  <programme start="20230617230000 -0400" stop="20230617231500 -0400" channel="0312">
     <title lang="es">Tina y Tony</title>
     <sub-title lang="es">Tina y Tony</sub-title>
     <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
   </programme>
-  <programme start="20230617221500 -0400" stop="20230617223000 -0400" channel="0312">
+  <programme start="20230617231500 -0400" stop="20230617233000 -0400" channel="0312">
     <title lang="es">Pompón</title>
     <sub-title lang="es">Pompón</sub-title>
   </programme>
-  <programme start="20230617223000 -0400" stop="20230617224500 -0400" channel="0312">
+  <programme start="20230617233000 -0400" stop="20230617234500 -0400" channel="0312">
     <title lang="es">Oom Moo - Yoga para niños</title>
     <sub-title lang="es">Oom Moo</sub-title>
     <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
-  <programme start="20230617224500 -0400" stop="20230617230000 -0400" channel="0312">
+  <programme start="20230617234500 -0400" stop="20230618000000 -0400" channel="0312">
     <title lang="es">Pasaba por acá... Chikuchis</title>
     <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
     <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
   </programme>
-  <programme start="20230617230000 -0400" stop="20230617231500 -0400" channel="0312">
+  <programme start="20230618000000 -0400" stop="20230618001500 -0400" channel="0312">
     <title lang="es">Horacio y los plasticines</title>
     <sub-title lang="es">Horacio y los plasticines</sub-title>
     <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
   </programme>
-  <programme start="20230617231500 -0400" stop="20230617233000 -0400" channel="0312">
+  <programme start="20230618001500 -0400" stop="20230618003000 -0400" channel="0312">
     <title lang="es">Ernest y Celestine</title>
     <title lang="en">Ernest et Célestine - La collection</title>
     <sub-title lang="es">Ernest y Celestine</sub-title>
     <desc lang="es">No está bien visto que un oso se haga amigo de una laucha. Y sin embargo, Ernest, payaso y músico, aloja en su casa a Célestine, pequeña huerfanita, apasionada por el dibujo y la escritura.</desc>
   </programme>
-  <programme start="20230617233000 -0400" stop="20230617234500 -0400" channel="0312">
+  <programme start="20230618003000 -0400" stop="20230618004500 -0400" channel="0312">
     <title lang="es">Pichintún</title>
     <sub-title lang="es">Pichintún</sub-title>
     <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
   </programme>
-  <programme start="20230617234500 -0400" stop="20230618000000 -0400" channel="0312">
+  <programme start="20230618004500 -0400" stop="20230618010000 -0400" channel="0312">
     <title lang="es">Monstruos rodantes</title>
     <sub-title lang="es">Monstruos rodantes</sub-title>
     <desc lang="es">Cuatro monstruos forman parte de un circo ambulante. Llevan su espectáculo por distintos pueblos y montan una función con trucos de magia, pruebas y desafíos de altura, malabares y trucos típicos del circo.</desc>
   </programme>
-  <programme start="20230618000000 -0400" stop="20230618001500 -0400" channel="0312">
+  <programme start="20230618010000 -0400" stop="20230618011500 -0400" channel="0312">
     <title lang="es">Medialuna</title>
     <sub-title lang="es">Medialuna</sub-title>
     <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
   </programme>
-  <programme start="20230618001500 -0400" stop="20230618003000 -0400" channel="0312">
+  <programme start="20230618011500 -0400" stop="20230618013000 -0400" channel="0312">
     <title lang="es">Tainá y los guardianes del Amazonas</title>
     <title lang="en">Tainá, e os guardiões da Amazônia</title>
     <sub-title lang="es">Tainá y los guardianes del Amazonas</sub-title>
     <desc lang="es">Esta animación en 3D es una adaptación de la trilogía de éxito del cine brasileño que tiene como protagonista a la indiecita Tainá que, junto a sus amigos, protege la Selva Amazónica, su fauna y flora.</desc>
   </programme>
-  <programme start="20230618003000 -0400" stop="20230618004500 -0400" channel="0312">
+  <programme start="20230618013000 -0400" stop="20230618014500 -0400" channel="0312">
     <title lang="es">Misho y Robin</title>
     <title lang="en">Misho and Robin</title>
     <sub-title lang="es">Misho y Robin</sub-title>
     <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
   </programme>
-  <programme start="20230618004500 -0400" stop="20230618010000 -0400" channel="0312">
+  <programme start="20230618014500 -0400" stop="20230618020000 -0400" channel="0312">
     <title lang="es">Kiwi y Strit</title>
     <title lang="en">Kiwi &amp; Strit</title>
     <sub-title lang="es">Kiwi y Strit</sub-title>
     <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
   </programme>
-  <programme start="20230618010000 -0400" stop="20230618011500 -0400" channel="0312">
+  <programme start="20230618020000 -0400" stop="20230618021500 -0400" channel="0312">
     <title lang="es">Rita y Cocodrilo</title>
     <sub-title lang="es">Rita y Cocodrilo</sub-title>
     <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
   </programme>
-  <programme start="20230618011500 -0400" stop="20230618013000 -0400" channel="0312">
+  <programme start="20230618021500 -0400" stop="20230618023000 -0400" channel="0312">
     <title lang="es">Lyn y Babas</title>
     <sub-title lang="es">Lyn y Babas</sub-title>
   </programme>
-  <programme start="20230618013000 -0400" stop="20230618014500 -0400" channel="0312">
+  <programme start="20230618023000 -0400" stop="20230618024500 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230618014500 -0400" stop="20230618020000 -0400" channel="0312">
+  <programme start="20230618024500 -0400" stop="20230618030000 -0400" channel="0312">
     <title lang="es">Paprika</title>
     <sub-title lang="es">Paprika</sub-title>
     <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
   </programme>
-  <programme start="20230618020000 -0400" stop="20230618021500 -0400" channel="0312">
+  <programme start="20230618030000 -0400" stop="20230618031500 -0400" channel="0312">
     <title lang="es">¡No exageres, Enzo!</title>
     <sub-title lang="es">¡No exageres, Enzo!</sub-title>
     <desc lang="es">Sigue las aventuras de Enzo, un niño de seis años travieso e imaginativo que empieza a descubrir el mundo y a sí mismo.</desc>
   </programme>
-  <programme start="20230618021500 -0400" stop="20230618023000 -0400" channel="0312">
+  <programme start="20230618031500 -0400" stop="20230618033000 -0400" channel="0312">
     <title lang="es">Chambi y Max refugio</title>
     <sub-title lang="es">Chambi y Max refugio</sub-title>
     <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
   </programme>
-  <programme start="20230618023000 -0400" stop="20230618024500 -0400" channel="0312">
+  <programme start="20230618033000 -0400" stop="20230618034500 -0400" channel="0312">
     <title lang="es">¡Listo el pollo!</title>
     <sub-title lang="es">¡Listo el pollo!</sub-title>
     <desc lang="es">Byron, de ocho años y Celeste, de diez, enseñan, aprenden y se divierten cocinando ricos platos para ellos y sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces para celíacos.</desc>
   </programme>
-  <programme start="20230618024500 -0400" stop="20230618030000 -0400" channel="0312">
+  <programme start="20230618034500 -0400" stop="20230618040000 -0400" channel="0312">
     <title lang="es">Muchas manos en el plato</title>
     <sub-title lang="es">Muchas manos en el plato</sub-title>
     <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
   </programme>
-  <programme start="20230618030000 -0400" stop="20230618033000 -0400" channel="0312">
+  <programme start="20230618040000 -0400" stop="20230618043000 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230618033000 -0400" stop="20230618034500 -0400" channel="0312">
+  <programme start="20230618043000 -0400" stop="20230618044500 -0400" channel="0312">
     <title lang="es">Shaun, el cordero</title>
     <title lang="en">Shaun the Sheep</title>
     <sub-title lang="es">Shaun, el cordero</sub-title>
     <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
   </programme>
-  <programme start="20230618034500 -0400" stop="20230618040000 -0400" channel="0312">
+  <programme start="20230618044500 -0400" stop="20230618050000 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230618040000 -0400" stop="20230618050000 -0400" channel="0312">
+  <programme start="20230618050000 -0400" stop="20230618060000 -0400" channel="0312">
     <title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</title>
     <sub-title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</sub-title>
     <desc lang="es">Mauricio Vila y Mar Mediavilla junto a Zamba y Nina, recorren diferentes lugares del país y viven increíbles aventuras.</desc>
   </programme>
-  <programme start="20230618050000 -0400" stop="20230618051500 -0400" channel="0312">
+  <programme start="20230618060000 -0400" stop="20230618061500 -0400" channel="0312">
     <title lang="es">Chikuchis</title>
     <sub-title lang="es">Chikuchis</sub-title>
     <desc lang="es">Los chikuchis son un grupo muy singular de títeres. Como los chicos, cada uno tiene su personalidad, gustos, maneras de divertirse, forma de hablar y de ser. Aunque son todos distintos, ellos se parecen en algo: son muy buenos amigos.</desc>
   </programme>
-  <programme start="20230618051500 -0400" stop="20230618053000 -0400" channel="0312">
+  <programme start="20230618061500 -0400" stop="20230618063000 -0400" channel="0312">
     <title lang="es">Oom Moo - Yoga para niños</title>
     <sub-title lang="es">Oom Moo</sub-title>
     <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
-  <programme start="20230618053000 -0400" stop="20230618054500 -0400" channel="0312">
-    <title lang="es">Minimalitos</title>
-    <sub-title lang="es">Minimalitos</sub-title>
-    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
-  </programme>
-  <programme start="20230618054500 -0400" stop="20230618060000 -0400" channel="0312">
-    <title lang="es">Minimalitos</title>
-    <sub-title lang="es">Minimalitos</sub-title>
-    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
-  </programme>
-  <programme start="20230618060000 -0400" stop="20230618061500 -0400" channel="0312">
-    <title lang="es">Misho y Robin</title>
-    <title lang="en">Misho and Robin</title>
-    <sub-title lang="es">Misho y Robin</sub-title>
-    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
-  </programme>
-  <programme start="20230618061500 -0400" stop="20230618063000 -0400" channel="0312">
-    <title lang="es">Misho y Robin</title>
-    <title lang="en">Misho and Robin</title>
-    <sub-title lang="es">Misho y Robin</sub-title>
-    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
-  </programme>
   <programme start="20230618063000 -0400" stop="20230618064500 -0400" channel="0312">
-    <title lang="es">Tina y Tony</title>
-    <sub-title lang="es">Tina y Tony</sub-title>
-    <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
+    <title lang="es">Minimalitos</title>
+    <sub-title lang="es">Minimalitos</sub-title>
+    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
   </programme>
   <programme start="20230618064500 -0400" stop="20230618070000 -0400" channel="0312">
+    <title lang="es">Minimalitos</title>
+    <sub-title lang="es">Minimalitos</sub-title>
+    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
+  </programme>
+  <programme start="20230618070000 -0400" stop="20230618071500 -0400" channel="0312">
+    <title lang="es">Misho y Robin</title>
+    <title lang="en">Misho and Robin</title>
+    <sub-title lang="es">Misho y Robin</sub-title>
+    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
+  </programme>
+  <programme start="20230618071500 -0400" stop="20230618073000 -0400" channel="0312">
+    <title lang="es">Misho y Robin</title>
+    <title lang="en">Misho and Robin</title>
+    <sub-title lang="es">Misho y Robin</sub-title>
+    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
+  </programme>
+  <programme start="20230618073000 -0400" stop="20230618074500 -0400" channel="0312">
     <title lang="es">Tina y Tony</title>
     <sub-title lang="es">Tina y Tony</sub-title>
     <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
   </programme>
-  <programme start="20230618070000 -0400" stop="20230618071500 -0400" channel="0312">
-    <title lang="es">Motorjon</title>
-    <sub-title lang="es">Motorjon</sub-title>
-    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
-  </programme>
-  <programme start="20230618071500 -0400" stop="20230618073000 -0400" channel="0312">
-    <title lang="es">Motorjon</title>
-    <sub-title lang="es">Motorjon</sub-title>
-    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
-  </programme>
-  <programme start="20230618073000 -0400" stop="20230618074500 -0400" channel="0312">
-    <title lang="es">Pichintún</title>
-    <sub-title lang="es">Pichintún</sub-title>
-    <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
-  </programme>
   <programme start="20230618074500 -0400" stop="20230618080000 -0400" channel="0312">
-    <title lang="es">Pichintún</title>
-    <sub-title lang="es">Pichintún</sub-title>
-    <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
+    <title lang="es">Tina y Tony</title>
+    <sub-title lang="es">Tina y Tony</sub-title>
+    <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
   </programme>
   <programme start="20230618080000 -0400" stop="20230618081500 -0400" channel="0312">
-    <title lang="es">Kiwi y Strit</title>
-    <title lang="en">Kiwi &amp; Strit</title>
-    <sub-title lang="es">Kiwi y Strit</sub-title>
-    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+    <title lang="es">Motorjon</title>
+    <sub-title lang="es">Motorjon</sub-title>
+    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
   </programme>
   <programme start="20230618081500 -0400" stop="20230618083000 -0400" channel="0312">
+    <title lang="es">Motorjon</title>
+    <sub-title lang="es">Motorjon</sub-title>
+    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
+  </programme>
+  <programme start="20230618083000 -0400" stop="20230618084500 -0400" channel="0312">
+    <title lang="es">Pichintún</title>
+    <sub-title lang="es">Pichintún</sub-title>
+    <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
+  </programme>
+  <programme start="20230618084500 -0400" stop="20230618090000 -0400" channel="0312">
+    <title lang="es">Pichintún</title>
+    <sub-title lang="es">Pichintún</sub-title>
+    <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
+  </programme>
+  <programme start="20230618090000 -0400" stop="20230618091500 -0400" channel="0312">
     <title lang="es">Kiwi y Strit</title>
     <title lang="en">Kiwi &amp; Strit</title>
     <sub-title lang="es">Kiwi y Strit</sub-title>
     <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
   </programme>
-  <programme start="20230618083000 -0400" stop="20230618084500 -0400" channel="0312">
+  <programme start="20230618091500 -0400" stop="20230618093000 -0400" channel="0312">
+    <title lang="es">Kiwi y Strit</title>
+    <title lang="en">Kiwi &amp; Strit</title>
+    <sub-title lang="es">Kiwi y Strit</sub-title>
+    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+  </programme>
+  <programme start="20230618093000 -0400" stop="20230618094500 -0400" channel="0312">
     <title lang="es">Pasaba por acá... Chikuchis</title>
     <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
     <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
   </programme>
-  <programme start="20230618084500 -0400" stop="20230618090000 -0400" channel="0312">
-    <title lang="es">Rita y Cocodrilo</title>
-    <sub-title lang="es">Rita y Cocodrilo</sub-title>
-    <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
-  </programme>
-  <programme start="20230618090000 -0400" stop="20230618091500 -0400" channel="0312">
-    <title lang="es">Rita y Cocodrilo</title>
-    <sub-title lang="es">Rita y Cocodrilo</sub-title>
-    <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
-  </programme>
-  <programme start="20230618091500 -0400" stop="20230618093000 -0400" channel="0312">
-    <title lang="es">Lyn y Babas</title>
-    <sub-title lang="es">Lyn y Babas</sub-title>
-  </programme>
-  <programme start="20230618093000 -0400" stop="20230618094500 -0400" channel="0312">
-    <title lang="es">Lyn y Babas</title>
-    <sub-title lang="es">Lyn y Babas</sub-title>
-  </programme>
   <programme start="20230618094500 -0400" stop="20230618100000 -0400" channel="0312">
+    <title lang="es">Rita y Cocodrilo</title>
+    <sub-title lang="es">Rita y Cocodrilo</sub-title>
+    <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
+  </programme>
+  <programme start="20230618100000 -0400" stop="20230618101500 -0400" channel="0312">
+    <title lang="es">Rita y Cocodrilo</title>
+    <sub-title lang="es">Rita y Cocodrilo</sub-title>
+    <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
+  </programme>
+  <programme start="20230618101500 -0400" stop="20230618103000 -0400" channel="0312">
+    <title lang="es">Lyn y Babas</title>
+    <sub-title lang="es">Lyn y Babas</sub-title>
+  </programme>
+  <programme start="20230618103000 -0400" stop="20230618104500 -0400" channel="0312">
+    <title lang="es">Lyn y Babas</title>
+    <sub-title lang="es">Lyn y Babas</sub-title>
+  </programme>
+  <programme start="20230618104500 -0400" stop="20230618110000 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230618100000 -0400" stop="20230618101500 -0400" channel="0312">
+  <programme start="20230618110000 -0400" stop="20230618111500 -0400" channel="0312">
     <title lang="es">Oom Moo - Yoga para niños</title>
     <sub-title lang="es">Oom Moo</sub-title>
     <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
-  <programme start="20230618101500 -0400" stop="20230618103000 -0400" channel="0312">
+  <programme start="20230618111500 -0400" stop="20230618113000 -0400" channel="0312">
     <title lang="es">Muchas manos en el plato</title>
     <sub-title lang="es">Muchas manos en el plato</sub-title>
     <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
   </programme>
-  <programme start="20230618103000 -0400" stop="20230618104500 -0400" channel="0312">
+  <programme start="20230618113000 -0400" stop="20230618114500 -0400" channel="0312">
     <title lang="es">¡Listo el pollo!</title>
     <sub-title lang="es">¡Listo el pollo!</sub-title>
     <desc lang="es">Byron, de ocho años y Celeste, de diez, enseñan, aprenden y se divierten cocinando ricos platos para ellos y sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces para celíacos.</desc>
   </programme>
-  <programme start="20230618104500 -0400" stop="20230618110000 -0400" channel="0312">
+  <programme start="20230618114500 -0400" stop="20230618120000 -0400" channel="0312">
     <title lang="es">¡No exageres, Enzo!</title>
     <sub-title lang="es">¡No exageres, Enzo!</sub-title>
     <desc lang="es">Sigue las aventuras de Enzo, un niño de seis años travieso e imaginativo que empieza a descubrir el mundo y a sí mismo.</desc>
   </programme>
-  <programme start="20230618110000 -0400" stop="20230618111500 -0400" channel="0312">
+  <programme start="20230618120000 -0400" stop="20230618121500 -0400" channel="0312">
     <title lang="es">Inteligencia animal</title>
     <sub-title lang="es">Inteligencia animal</sub-title>
     <desc lang="es">Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.</desc>
   </programme>
-  <programme start="20230618111500 -0400" stop="20230618114500 -0400" channel="0312">
+  <programme start="20230618121500 -0400" stop="20230618124500 -0400" channel="0312">
     <title lang="es">Annedroids</title>
     <sub-title lang="es">Annedroids</sub-title>
     <desc lang="es">Anne es una niña de once años que inventa y construye sus propios androides increíbles. Ella y Nick ayudan a resolver problemas científicos a través de soluciones de la vida real.</desc>
   </programme>
-  <programme start="20230618114500 -0400" stop="20230618121500 -0400" channel="0312">
+  <programme start="20230618124500 -0400" stop="20230618131500 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230618121500 -0400" stop="20230618123000 -0400" channel="0312">
-    <title lang="es">Siesta</title>
-    <sub-title lang="es">Siesta</sub-title>
-    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
-  </programme>
-  <programme start="20230618123000 -0400" stop="20230618124500 -0400" channel="0312">
-    <title lang="es">Siesta</title>
-    <sub-title lang="es">Siesta</sub-title>
-    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
-  </programme>
-  <programme start="20230618124500 -0400" stop="20230618130000 -0400" channel="0312">
-    <title lang="es">Shaun, el cordero</title>
-    <title lang="en">Shaun the Sheep</title>
-    <sub-title lang="es">Shaun, el cordero</sub-title>
-    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
-  </programme>
-  <programme start="20230618130000 -0400" stop="20230618131500 -0400" channel="0312">
-    <title lang="es">Shaun, el cordero</title>
-    <title lang="en">Shaun the Sheep</title>
-    <sub-title lang="es">Shaun, el cordero</sub-title>
-    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
-  </programme>
   <programme start="20230618131500 -0400" stop="20230618133000 -0400" channel="0312">
-    <title lang="es">Paprika</title>
-    <sub-title lang="es">Paprika</sub-title>
-    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
   </programme>
   <programme start="20230618133000 -0400" stop="20230618134500 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230618134500 -0400" stop="20230618140000 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230618140000 -0400" stop="20230618141500 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230618141500 -0400" stop="20230618143000 -0400" channel="0312">
     <title lang="es">Paprika</title>
     <sub-title lang="es">Paprika</sub-title>
     <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
   </programme>
-  <programme start="20230618134500 -0400" stop="20230618140000 -0400" channel="0312">
+  <programme start="20230618143000 -0400" stop="20230618144500 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230618144500 -0400" stop="20230618150000 -0400" channel="0312">
     <title lang="es">Oom Moo - Yoga para niños</title>
     <sub-title lang="es">Oom Moo</sub-title>
     <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
-  <programme start="20230618140000 -0400" stop="20230618141500 -0400" channel="0312">
+  <programme start="20230618150000 -0400" stop="20230618151500 -0400" channel="0312">
     <title lang="es">Chambi y Max refugio</title>
     <sub-title lang="es">Chambi y Max refugio</sub-title>
     <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
   </programme>
-  <programme start="20230618141500 -0400" stop="20230618143000 -0400" channel="0312">
-    <title lang="es">La orquestita</title>
-    <sub-title lang="es">La orquestita</sub-title>
-    <desc lang="es">Juan, Vale y Toto quieren saber cómo se hace una canción. Juntos parten a bordo del camión del abuelo Juan Barbas para visitar extraños mundos y encontrar respuestas a sus preguntas musicales.</desc>
-  </programme>
-  <programme start="20230618143000 -0400" stop="20230618144500 -0400" channel="0312">
-    <title lang="es">La orquestita</title>
-    <sub-title lang="es">La orquestita</sub-title>
-    <desc lang="es">Juan, Vale y Toto quieren saber cómo se hace una canción. Juntos parten a bordo del camión del abuelo Juan Barbas para visitar extraños mundos y encontrar respuestas a sus preguntas musicales.</desc>
-  </programme>
-  <programme start="20230618144500 -0400" stop="20230618150000 -0400" channel="0312">
-    <title lang="es">Polinópolis</title>
-    <sub-title lang="es">Polinópolis</sub-title>
-  </programme>
-  <programme start="20230618150000 -0400" stop="20230618151500 -0400" channel="0312">
-    <title lang="es">Polinópolis</title>
-    <sub-title lang="es">Polinópolis</sub-title>
-  </programme>
   <programme start="20230618151500 -0400" stop="20230618153000 -0400" channel="0312">
+    <title lang="es">La orquestita</title>
+    <sub-title lang="es">La orquestita</sub-title>
+    <desc lang="es">Juan, Vale y Toto quieren saber cómo se hace una canción. Juntos parten a bordo del camión del abuelo Juan Barbas para visitar extraños mundos y encontrar respuestas a sus preguntas musicales.</desc>
+  </programme>
+  <programme start="20230618153000 -0400" stop="20230618154500 -0400" channel="0312">
+    <title lang="es">La orquestita</title>
+    <sub-title lang="es">La orquestita</sub-title>
+    <desc lang="es">Juan, Vale y Toto quieren saber cómo se hace una canción. Juntos parten a bordo del camión del abuelo Juan Barbas para visitar extraños mundos y encontrar respuestas a sus preguntas musicales.</desc>
+  </programme>
+  <programme start="20230618154500 -0400" stop="20230618160000 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230618160000 -0400" stop="20230618161500 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230618161500 -0400" stop="20230618163000 -0400" channel="0312">
     <title lang="es">Las palabras de la magia</title>
     <sub-title lang="es">Las palabras de la magia</sub-title>
     <desc lang="es">Las aventuras de Úrsula, una niña pequeña que es entrenada por sus tres tías brujas y la gran maestra Orunelia para descubrir su don, su verdadera vocación.</desc>
   </programme>
-  <programme start="20230618153000 -0400" stop="20230618154500 -0400" channel="0312">
+  <programme start="20230618163000 -0400" stop="20230618164500 -0400" channel="0312">
     <title lang="es">Oom Moo - Yoga para niños</title>
     <sub-title lang="es">Oom Moo</sub-title>
     <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
-  <programme start="20230618154500 -0400" stop="20230618160000 -0400" channel="0312">
+  <programme start="20230618164500 -0400" stop="20230618170000 -0400" channel="0312">
     <title lang="es">Inteligencia animal</title>
     <sub-title lang="es">Inteligencia animal</sub-title>
     <desc lang="es">Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.</desc>
   </programme>
-  <programme start="20230618160000 -0400" stop="20230618163000 -0400" channel="0312">
+  <programme start="20230618170000 -0400" stop="20230618173000 -0400" channel="0312">
     <title lang="es">Queremos decir</title>
     <sub-title lang="es">Queremos decir</sub-title>
     <desc lang="es">Un ciclo que invita a chicos y chicas a compartir sus intereses, inquietudes e historias a través del rap.</desc>
   </programme>
-  <programme start="20230618163000 -0400" stop="20230618170000 -0400" channel="0312">
+  <programme start="20230618173000 -0400" stop="20230618180000 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230618170000 -0400" stop="20230618173000 -0400" channel="0312">
+  <programme start="20230618180000 -0400" stop="20230618183000 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230618173000 -0400" stop="20230618174500 -0400" channel="0312">
+  <programme start="20230618183000 -0400" stop="20230618184500 -0400" channel="0312">
     <title lang="es">Experimentores</title>
     <sub-title lang="es">Experimentores</sub-title>
     <desc lang="es">A partir de sorprendentes experimentos de física y química, e insólitas reacciones en cámara superlenta, esta serie revela cómo funciona el universo que nos rodea y demuestra que la ciencia puede ser una actividad lúdica y divertida.</desc>
   </programme>
-  <programme start="20230618174500 -0400" stop="20230618180000 -0400" channel="0312">
+  <programme start="20230618184500 -0400" stop="20230618190000 -0400" channel="0312">
     <title lang="es">Experimentores</title>
     <sub-title lang="es">Experimentores</sub-title>
     <desc lang="es">A partir de sorprendentes experimentos de física y química, e insólitas reacciones en cámara superlenta, esta serie revela cómo funciona el universo que nos rodea y demuestra que la ciencia puede ser una actividad lúdica y divertida.</desc>
   </programme>
-  <programme start="20230618180000 -0400" stop="20230618181500 -0400" channel="0312">
+  <programme start="20230618190000 -0400" stop="20230618191500 -0400" channel="0312">
     <title lang="es">¡Listo el pollo!</title>
     <sub-title lang="es">¡Listo el pollo!</sub-title>
     <desc lang="es">Byron, de ocho años y Celeste, de diez, enseñan, aprenden y se divierten cocinando ricos platos para ellos y sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces para celíacos.</desc>
   </programme>
-  <programme start="20230618181500 -0400" stop="20230618183000 -0400" channel="0312">
+  <programme start="20230618191500 -0400" stop="20230618193000 -0400" channel="0312">
     <title lang="es">Muchas manos en el plato</title>
     <sub-title lang="es">Muchas manos en el plato</sub-title>
     <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
   </programme>
-  <programme start="20230618183000 -0400" stop="20230618184500 -0400" channel="0312">
+  <programme start="20230618193000 -0400" stop="20230618194500 -0400" channel="0312">
     <title lang="es">Inventar - PakaPaka pregunta</title>
     <sub-title lang="es">Inventar</sub-title>
   </programme>
-  <programme start="20230618184500 -0400" stop="20230618191500 -0400" channel="0312">
+  <programme start="20230618194500 -0400" stop="20230618201500 -0400" channel="0312">
     <title lang="es">Annedroids</title>
     <sub-title lang="es">Annedroids</sub-title>
     <desc lang="es">Anne es una niña de once años que inventa y construye sus propios androides increíbles. Ella y Nick ayudan a resolver problemas científicos a través de soluciones de la vida real.</desc>
   </programme>
-  <programme start="20230618191500 -0400" stop="20230618193000 -0400" channel="0312">
-    <title lang="es">Siesta</title>
-    <sub-title lang="es">Siesta</sub-title>
-    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
-  </programme>
-  <programme start="20230618193000 -0400" stop="20230618194500 -0400" channel="0312">
-    <title lang="es">Siesta</title>
-    <sub-title lang="es">Siesta</sub-title>
-    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
-  </programme>
-  <programme start="20230618194500 -0400" stop="20230618200000 -0400" channel="0312">
-    <title lang="es">Hostal Morrison</title>
-    <sub-title lang="es">Hostal Morrison</sub-title>
-    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
-  </programme>
-  <programme start="20230618200000 -0400" stop="20230618201500 -0400" channel="0312">
-    <title lang="es">Hostal Morrison</title>
-    <sub-title lang="es">Hostal Morrison</sub-title>
-    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
-  </programme>
   <programme start="20230618201500 -0400" stop="20230618203000 -0400" channel="0312">
-    <title lang="es">Polinópolis</title>
-    <sub-title lang="es">Polinópolis</sub-title>
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
   </programme>
   <programme start="20230618203000 -0400" stop="20230618204500 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230618204500 -0400" stop="20230618210000 -0400" channel="0312">
+    <title lang="es">Hostal Morrison</title>
+    <sub-title lang="es">Hostal Morrison</sub-title>
+    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
+  </programme>
+  <programme start="20230618210000 -0400" stop="20230618211500 -0400" channel="0312">
+    <title lang="es">Hostal Morrison</title>
+    <sub-title lang="es">Hostal Morrison</sub-title>
+    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
+  </programme>
+  <programme start="20230618211500 -0400" stop="20230618213000 -0400" channel="0312">
     <title lang="es">Polinópolis</title>
     <sub-title lang="es">Polinópolis</sub-title>
   </programme>
-  <programme start="20230618204500 -0400" stop="20230618210000 -0400" channel="0312">
+  <programme start="20230618213000 -0400" stop="20230618214500 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230618214500 -0400" stop="20230618220000 -0400" channel="0312">
     <title lang="es">Ciro Todorov</title>
     <sub-title lang="es">Ciro Todorov</sub-title>
     <desc lang="es">Ciro Todorov es un niño huraño y lúgubre que vive rodeado de fantasmas y criaturas en aquella gran casa de la colina, al lado del cementerio. Los niños del pueblo le temen, aunque a él eso no le molesta demasiado.</desc>
   </programme>
-  <programme start="20230618210000 -0400" stop="20230618211500 -0400" channel="0312">
+  <programme start="20230618220000 -0400" stop="20230618221500 -0400" channel="0312">
     <title lang="es">Ciro Todorov</title>
     <sub-title lang="es">Ciro Todorov</sub-title>
     <desc lang="es">Ciro Todorov es un niño huraño y lúgubre que vive rodeado de fantasmas y criaturas en aquella gran casa de la colina, al lado del cementerio. Los niños del pueblo le temen, aunque a él eso no le molesta demasiado.</desc>
   </programme>
-  <programme start="20230618211500 -0400" stop="20230618214500 -0400" channel="0312">
+  <programme start="20230618221500 -0400" stop="20230618224500 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230618214500 -0400" stop="20230618220000 -0400" channel="0312">
+  <programme start="20230618224500 -0400" stop="20230618230000 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230618220000 -0400" stop="20230618221500 -0400" channel="0312">
+  <programme start="20230618230000 -0400" stop="20230618231500 -0400" channel="0312">
     <title lang="es">Tina y Tony</title>
     <sub-title lang="es">Tina y Tony</sub-title>
     <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
   </programme>
-  <programme start="20230618221500 -0400" stop="20230618223000 -0400" channel="0312">
+  <programme start="20230618231500 -0400" stop="20230618233000 -0400" channel="0312">
     <title lang="es">Pompón</title>
     <sub-title lang="es">Pompón</sub-title>
   </programme>
-  <programme start="20230618223000 -0400" stop="20230618224500 -0400" channel="0312">
+  <programme start="20230618233000 -0400" stop="20230618234500 -0400" channel="0312">
     <title lang="es">Oom Moo - Yoga para niños</title>
     <sub-title lang="es">Oom Moo</sub-title>
     <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
-  <programme start="20230618224500 -0400" stop="20230618230000 -0400" channel="0312">
+  <programme start="20230618234500 -0400" stop="20230619000000 -0400" channel="0312">
     <title lang="es">Pasaba por acá... Chikuchis</title>
     <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
     <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
   </programme>
-  <programme start="20230618230000 -0400" stop="20230618231500 -0400" channel="0312">
+  <programme start="20230619000000 -0400" stop="20230619001500 -0400" channel="0312">
     <title lang="es">Horacio y los plasticines</title>
     <sub-title lang="es">Horacio y los plasticines</sub-title>
     <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
   </programme>
-  <programme start="20230618231500 -0400" stop="20230618233000 -0400" channel="0312">
+  <programme start="20230619001500 -0400" stop="20230619003000 -0400" channel="0312">
     <title lang="es">Ernest y Celestine</title>
     <title lang="en">Ernest et Célestine - La collection</title>
     <sub-title lang="es">Ernest y Celestine</sub-title>
     <desc lang="es">No está bien visto que un oso se haga amigo de una laucha. Y sin embargo, Ernest, payaso y músico, aloja en su casa a Célestine, pequeña huerfanita, apasionada por el dibujo y la escritura.</desc>
   </programme>
-  <programme start="20230618233000 -0400" stop="20230618234500 -0400" channel="0312">
+  <programme start="20230619003000 -0400" stop="20230619004500 -0400" channel="0312">
     <title lang="es">Pichintún</title>
     <sub-title lang="es">Pichintún</sub-title>
     <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
   </programme>
-  <programme start="20230618234500 -0400" stop="20230619000000 -0400" channel="0312">
+  <programme start="20230619004500 -0400" stop="20230619010000 -0400" channel="0312">
     <title lang="es">Monstruos rodantes</title>
     <sub-title lang="es">Monstruos rodantes</sub-title>
     <desc lang="es">Cuatro monstruos forman parte de un circo ambulante. Llevan su espectáculo por distintos pueblos y montan una función con trucos de magia, pruebas y desafíos de altura, malabares y trucos típicos del circo.</desc>
   </programme>
-  <programme start="20230619000000 -0400" stop="20230619001500 -0400" channel="0312">
+  <programme start="20230619010000 -0400" stop="20230619011500 -0400" channel="0312">
     <title lang="es">Medialuna</title>
     <sub-title lang="es">Medialuna</sub-title>
     <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
   </programme>
-  <programme start="20230619001500 -0400" stop="20230619003000 -0400" channel="0312">
+  <programme start="20230619011500 -0400" stop="20230619013000 -0400" channel="0312">
     <title lang="es">Tainá y los guardianes del Amazonas</title>
     <title lang="en">Tainá, e os guardiões da Amazônia</title>
     <sub-title lang="es">Tainá y los guardianes del Amazonas</sub-title>
     <desc lang="es">Esta animación en 3D es una adaptación de la trilogía de éxito del cine brasileño que tiene como protagonista a la indiecita Tainá que, junto a sus amigos, protege la Selva Amazónica, su fauna y flora.</desc>
   </programme>
-  <programme start="20230619003000 -0400" stop="20230619004500 -0400" channel="0312">
+  <programme start="20230619013000 -0400" stop="20230619014500 -0400" channel="0312">
     <title lang="es">Misho y Robin</title>
     <title lang="en">Misho and Robin</title>
     <sub-title lang="es">Misho y Robin</sub-title>
     <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
   </programme>
-  <programme start="20230619004500 -0400" stop="20230619010000 -0400" channel="0312">
+  <programme start="20230619014500 -0400" stop="20230619020000 -0400" channel="0312">
     <title lang="es">Kiwi y Strit</title>
     <title lang="en">Kiwi &amp; Strit</title>
     <sub-title lang="es">Kiwi y Strit</sub-title>
     <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
   </programme>
-  <programme start="20230619010000 -0400" stop="20230619011500 -0400" channel="0312">
+  <programme start="20230619020000 -0400" stop="20230619021500 -0400" channel="0312">
     <title lang="es">Rita y Cocodrilo</title>
     <sub-title lang="es">Rita y Cocodrilo</sub-title>
     <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
   </programme>
-  <programme start="20230619011500 -0400" stop="20230619013000 -0400" channel="0312">
+  <programme start="20230619021500 -0400" stop="20230619023000 -0400" channel="0312">
     <title lang="es">Lyn y Babas</title>
     <sub-title lang="es">Lyn y Babas</sub-title>
   </programme>
-  <programme start="20230619013000 -0400" stop="20230619014500 -0400" channel="0312">
+  <programme start="20230619023000 -0400" stop="20230619024500 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230619014500 -0400" stop="20230619020000 -0400" channel="0312">
+  <programme start="20230619024500 -0400" stop="20230619030000 -0400" channel="0312">
     <title lang="es">Paprika</title>
     <sub-title lang="es">Paprika</sub-title>
     <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
   </programme>
-  <programme start="20230619020000 -0400" stop="20230619021500 -0400" channel="0312">
+  <programme start="20230619030000 -0400" stop="20230619031500 -0400" channel="0312">
     <title lang="es">¡No exageres, Enzo!</title>
     <sub-title lang="es">¡No exageres, Enzo!</sub-title>
     <desc lang="es">Sigue las aventuras de Enzo, un niño de seis años travieso e imaginativo que empieza a descubrir el mundo y a sí mismo.</desc>
   </programme>
-  <programme start="20230619021500 -0400" stop="20230619023000 -0400" channel="0312">
+  <programme start="20230619031500 -0400" stop="20230619033000 -0400" channel="0312">
     <title lang="es">Chambi y Max refugio</title>
     <sub-title lang="es">Chambi y Max refugio</sub-title>
     <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
   </programme>
-  <programme start="20230619023000 -0400" stop="20230619024500 -0400" channel="0312">
+  <programme start="20230619033000 -0400" stop="20230619034500 -0400" channel="0312">
     <title lang="es">¡Listo el pollo!</title>
     <sub-title lang="es">¡Listo el pollo!</sub-title>
     <desc lang="es">Byron, de ocho años y Celeste, de diez, enseñan, aprenden y se divierten cocinando ricos platos para ellos y sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces para celíacos.</desc>
   </programme>
-  <programme start="20230619024500 -0400" stop="20230619030000 -0400" channel="0312">
+  <programme start="20230619034500 -0400" stop="20230619040000 -0400" channel="0312">
     <title lang="es">Muchas manos en el plato</title>
     <sub-title lang="es">Muchas manos en el plato</sub-title>
     <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
   </programme>
-  <programme start="20230619030000 -0400" stop="20230619033000 -0400" channel="0312">
+  <programme start="20230619040000 -0400" stop="20230619043000 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230619033000 -0400" stop="20230619034500 -0400" channel="0312">
+  <programme start="20230619043000 -0400" stop="20230619044500 -0400" channel="0312">
     <title lang="es">Shaun, el cordero</title>
     <title lang="en">Shaun the Sheep</title>
     <sub-title lang="es">Shaun, el cordero</sub-title>
     <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
   </programme>
-  <programme start="20230619034500 -0400" stop="20230619040000 -0400" channel="0312">
+  <programme start="20230619044500 -0400" stop="20230619050000 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230619040000 -0400" stop="20230619050000 -0400" channel="0312">
+  <programme start="20230619050000 -0400" stop="20230619060000 -0400" channel="0312">
     <title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</title>
     <sub-title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</sub-title>
     <desc lang="es">Mauricio Vila y Mar Mediavilla junto a Zamba y Nina, recorren diferentes lugares del país y viven increíbles aventuras.</desc>
   </programme>
-  <programme start="20230619050000 -0400" stop="20230619051500 -0400" channel="0312">
+  <programme start="20230619060000 -0400" stop="20230619061500 -0400" channel="0312">
     <title lang="es">Chikuchis</title>
     <sub-title lang="es">Chikuchis</sub-title>
     <desc lang="es">Los chikuchis son un grupo muy singular de títeres. Como los chicos, cada uno tiene su personalidad, gustos, maneras de divertirse, forma de hablar y de ser. Aunque son todos distintos, ellos se parecen en algo: son muy buenos amigos.</desc>
-  </programme>
-  <programme start="20230619051500 -0400" stop="20230619053000 -0400" channel="0312">
-    <title lang="es">Oom Moo - Yoga para niños</title>
-    <sub-title lang="es">Oom Moo</sub-title>
-    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
-  </programme>
-  <programme start="20230619053000 -0400" stop="20230619054500 -0400" channel="0312">
-    <title lang="es">Minimalitos</title>
-    <sub-title lang="es">Minimalitos</sub-title>
-    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
-  </programme>
-  <programme start="20230619054500 -0400" stop="20230619060000 -0400" channel="0312">
-    <title lang="es">Minimalitos</title>
-    <sub-title lang="es">Minimalitos</sub-title>
-    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
-  </programme>
-  <programme start="20230619060000 -0400" stop="20230619061500 -0400" channel="0312">
-    <title lang="es">Oom Moo - Yoga para niños</title>
-    <sub-title lang="es">Oom Moo</sub-title>
-    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
   <programme start="20230619061500 -0400" stop="20230619063000 -0400" channel="0312">
     <title lang="es">Oom Moo - Yoga para niños</title>
@@ -10956,292 +10936,312 @@
     <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
   <programme start="20230619063000 -0400" stop="20230619064500 -0400" channel="0312">
-    <title lang="es">Kiwi y Strit</title>
-    <title lang="en">Kiwi &amp; Strit</title>
-    <sub-title lang="es">Kiwi y Strit</sub-title>
-    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+    <title lang="es">Minimalitos</title>
+    <sub-title lang="es">Minimalitos</sub-title>
+    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
   </programme>
   <programme start="20230619064500 -0400" stop="20230619070000 -0400" channel="0312">
-    <title lang="es">Kiwi y Strit</title>
-    <title lang="en">Kiwi &amp; Strit</title>
-    <sub-title lang="es">Kiwi y Strit</sub-title>
-    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+    <title lang="es">Minimalitos</title>
+    <sub-title lang="es">Minimalitos</sub-title>
+    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
   </programme>
   <programme start="20230619070000 -0400" stop="20230619071500 -0400" channel="0312">
-    <title lang="es">Misho y Robin</title>
-    <title lang="en">Misho and Robin</title>
-    <sub-title lang="es">Misho y Robin</sub-title>
-    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
-  </programme>
-  <programme start="20230619071500 -0400" stop="20230619073000 -0400" channel="0312">
-    <title lang="es">Misho y Robin</title>
-    <title lang="en">Misho and Robin</title>
-    <sub-title lang="es">Misho y Robin</sub-title>
-    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
-  </programme>
-  <programme start="20230619073000 -0400" stop="20230619074500 -0400" channel="0312">
-    <title lang="es">Medialuna</title>
-    <sub-title lang="es">Medialuna</sub-title>
-    <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
-  </programme>
-  <programme start="20230619074500 -0400" stop="20230619080000 -0400" channel="0312">
-    <title lang="es">Medialuna</title>
-    <sub-title lang="es">Medialuna</sub-title>
-    <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
-  </programme>
-  <programme start="20230619080000 -0400" stop="20230619081500 -0400" channel="0312">
-    <title lang="es">Motorjon</title>
-    <sub-title lang="es">Motorjon</sub-title>
-    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
-  </programme>
-  <programme start="20230619081500 -0400" stop="20230619083000 -0400" channel="0312">
-    <title lang="es">Motorjon</title>
-    <sub-title lang="es">Motorjon</sub-title>
-    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
-  </programme>
-  <programme start="20230619083000 -0400" stop="20230619084500 -0400" channel="0312">
-    <title lang="es">Pasaba por acá... Chikuchis</title>
-    <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
-    <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
-  </programme>
-  <programme start="20230619084500 -0400" stop="20230619090000 -0400" channel="0312">
-    <title lang="es">Pasaba por acá... Chikuchis</title>
-    <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
-    <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
-  </programme>
-  <programme start="20230619090000 -0400" stop="20230619091500 -0400" channel="0312">
-    <title lang="es">Horacio y los plasticines</title>
-    <sub-title lang="es">Horacio y los plasticines</sub-title>
-    <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
-  </programme>
-  <programme start="20230619091500 -0400" stop="20230619093000 -0400" channel="0312">
-    <title lang="es">Horacio y los plasticines</title>
-    <sub-title lang="es">Horacio y los plasticines</sub-title>
-    <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
-  </programme>
-  <programme start="20230619093000 -0400" stop="20230619094500 -0400" channel="0312">
     <title lang="es">Oom Moo - Yoga para niños</title>
     <sub-title lang="es">Oom Moo</sub-title>
     <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
+  <programme start="20230619071500 -0400" stop="20230619073000 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230619073000 -0400" stop="20230619074500 -0400" channel="0312">
+    <title lang="es">Kiwi y Strit</title>
+    <title lang="en">Kiwi &amp; Strit</title>
+    <sub-title lang="es">Kiwi y Strit</sub-title>
+    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+  </programme>
+  <programme start="20230619074500 -0400" stop="20230619080000 -0400" channel="0312">
+    <title lang="es">Kiwi y Strit</title>
+    <title lang="en">Kiwi &amp; Strit</title>
+    <sub-title lang="es">Kiwi y Strit</sub-title>
+    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+  </programme>
+  <programme start="20230619080000 -0400" stop="20230619081500 -0400" channel="0312">
+    <title lang="es">Misho y Robin</title>
+    <title lang="en">Misho and Robin</title>
+    <sub-title lang="es">Misho y Robin</sub-title>
+    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
+  </programme>
+  <programme start="20230619081500 -0400" stop="20230619083000 -0400" channel="0312">
+    <title lang="es">Misho y Robin</title>
+    <title lang="en">Misho and Robin</title>
+    <sub-title lang="es">Misho y Robin</sub-title>
+    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
+  </programme>
+  <programme start="20230619083000 -0400" stop="20230619084500 -0400" channel="0312">
+    <title lang="es">Medialuna</title>
+    <sub-title lang="es">Medialuna</sub-title>
+    <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
+  </programme>
+  <programme start="20230619084500 -0400" stop="20230619090000 -0400" channel="0312">
+    <title lang="es">Medialuna</title>
+    <sub-title lang="es">Medialuna</sub-title>
+    <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
+  </programme>
+  <programme start="20230619090000 -0400" stop="20230619091500 -0400" channel="0312">
+    <title lang="es">Motorjon</title>
+    <sub-title lang="es">Motorjon</sub-title>
+    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
+  </programme>
+  <programme start="20230619091500 -0400" stop="20230619093000 -0400" channel="0312">
+    <title lang="es">Motorjon</title>
+    <sub-title lang="es">Motorjon</sub-title>
+    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
+  </programme>
+  <programme start="20230619093000 -0400" stop="20230619094500 -0400" channel="0312">
+    <title lang="es">Pasaba por acá... Chikuchis</title>
+    <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
+    <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
+  </programme>
   <programme start="20230619094500 -0400" stop="20230619100000 -0400" channel="0312">
+    <title lang="es">Pasaba por acá... Chikuchis</title>
+    <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
+    <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
+  </programme>
+  <programme start="20230619100000 -0400" stop="20230619101500 -0400" channel="0312">
+    <title lang="es">Horacio y los plasticines</title>
+    <sub-title lang="es">Horacio y los plasticines</sub-title>
+    <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
+  </programme>
+  <programme start="20230619101500 -0400" stop="20230619103000 -0400" channel="0312">
+    <title lang="es">Horacio y los plasticines</title>
+    <sub-title lang="es">Horacio y los plasticines</sub-title>
+    <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
+  </programme>
+  <programme start="20230619103000 -0400" stop="20230619104500 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230619104500 -0400" stop="20230619110000 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230619100000 -0400" stop="20230619101500 -0400" channel="0312">
+  <programme start="20230619110000 -0400" stop="20230619111500 -0400" channel="0312">
     <title lang="es">Chambi y Max refugio</title>
     <sub-title lang="es">Chambi y Max refugio</sub-title>
     <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
   </programme>
-  <programme start="20230619101500 -0400" stop="20230619103000 -0400" channel="0312">
+  <programme start="20230619111500 -0400" stop="20230619113000 -0400" channel="0312">
     <title lang="es">Muchas manos en el plato</title>
     <sub-title lang="es">Muchas manos en el plato</sub-title>
     <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
   </programme>
-  <programme start="20230619103000 -0400" stop="20230619104500 -0400" channel="0312">
+  <programme start="20230619113000 -0400" stop="20230619114500 -0400" channel="0312">
     <title lang="es">¡Listo el pollo!</title>
     <sub-title lang="es">¡Listo el pollo!</sub-title>
     <desc lang="es">Byron, de ocho años y Celeste, de diez, enseñan, aprenden y se divierten cocinando ricos platos para ellos y sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces para celíacos.</desc>
   </programme>
-  <programme start="20230619104500 -0400" stop="20230619110000 -0400" channel="0312">
+  <programme start="20230619114500 -0400" stop="20230619120000 -0400" channel="0312">
     <title lang="es">¡No exageres, Enzo!</title>
     <sub-title lang="es">¡No exageres, Enzo!</sub-title>
     <desc lang="es">Sigue las aventuras de Enzo, un niño de seis años travieso e imaginativo que empieza a descubrir el mundo y a sí mismo.</desc>
   </programme>
-  <programme start="20230619110000 -0400" stop="20230619111500 -0400" channel="0312">
+  <programme start="20230619120000 -0400" stop="20230619121500 -0400" channel="0312">
     <title lang="es">Inteligencia animal</title>
     <sub-title lang="es">Inteligencia animal</sub-title>
     <desc lang="es">Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.</desc>
   </programme>
-  <programme start="20230619111500 -0400" stop="20230619114500 -0400" channel="0312">
+  <programme start="20230619121500 -0400" stop="20230619124500 -0400" channel="0312">
     <title lang="es">Annedroids</title>
     <sub-title lang="es">Annedroids</sub-title>
     <desc lang="es">Anne es una niña de once años que inventa y construye sus propios androides increíbles. Ella y Nick ayudan a resolver problemas científicos a través de soluciones de la vida real.</desc>
   </programme>
-  <programme start="20230619114500 -0400" stop="20230619120000 -0400" channel="0312">
+  <programme start="20230619124500 -0400" stop="20230619130000 -0400" channel="0312">
     <title lang="es">Siesta</title>
     <sub-title lang="es">Siesta</sub-title>
     <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
   </programme>
-  <programme start="20230619120000 -0400" stop="20230619121500 -0400" channel="0312">
+  <programme start="20230619130000 -0400" stop="20230619131500 -0400" channel="0312">
     <title lang="es">Siesta</title>
     <sub-title lang="es">Siesta</sub-title>
     <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
   </programme>
-  <programme start="20230619121500 -0400" stop="20230619124500 -0400" channel="0312">
+  <programme start="20230619131500 -0400" stop="20230619134500 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230619124500 -0400" stop="20230619130000 -0400" channel="0312">
+  <programme start="20230619134500 -0400" stop="20230619140000 -0400" channel="0312">
     <title lang="es">Shaun, el cordero</title>
     <title lang="en">Shaun the Sheep</title>
     <sub-title lang="es">Shaun, el cordero</sub-title>
     <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
   </programme>
-  <programme start="20230619130000 -0400" stop="20230619131500 -0400" channel="0312">
+  <programme start="20230619140000 -0400" stop="20230619141500 -0400" channel="0312">
     <title lang="es">Shaun, el cordero</title>
     <title lang="en">Shaun the Sheep</title>
     <sub-title lang="es">Shaun, el cordero</sub-title>
     <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
   </programme>
-  <programme start="20230619131500 -0400" stop="20230619133000 -0400" channel="0312">
+  <programme start="20230619141500 -0400" stop="20230619143000 -0400" channel="0312">
     <title lang="es">Las palabras de la magia</title>
     <sub-title lang="es">Las palabras de la magia</sub-title>
     <desc lang="es">Las aventuras de Úrsula, una niña pequeña que es entrenada por sus tres tías brujas y la gran maestra Orunelia para descubrir su don, su verdadera vocación.</desc>
   </programme>
-  <programme start="20230619133000 -0400" stop="20230619134500 -0400" channel="0312">
+  <programme start="20230619143000 -0400" stop="20230619144500 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230619134500 -0400" stop="20230619140000 -0400" channel="0312">
+  <programme start="20230619144500 -0400" stop="20230619150000 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230619140000 -0400" stop="20230619141500 -0400" channel="0312">
+  <programme start="20230619150000 -0400" stop="20230619151500 -0400" channel="0312">
     <title lang="es">Oom Moo - Yoga para niños</title>
     <sub-title lang="es">Oom Moo</sub-title>
     <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
   </programme>
-  <programme start="20230619141500 -0400" stop="20230619143000 -0400" channel="0312">
-    <title lang="es">Paprika</title>
-    <sub-title lang="es">Paprika</sub-title>
-    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
-  </programme>
-  <programme start="20230619143000 -0400" stop="20230619144500 -0400" channel="0312">
-    <title lang="es">Paprika</title>
-    <sub-title lang="es">Paprika</sub-title>
-    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
-  </programme>
-  <programme start="20230619144500 -0400" stop="20230619150000 -0400" channel="0312">
-    <title lang="es">Siesta</title>
-    <sub-title lang="es">Siesta</sub-title>
-    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
-  </programme>
-  <programme start="20230619150000 -0400" stop="20230619151500 -0400" channel="0312">
-    <title lang="es">Siesta</title>
-    <sub-title lang="es">Siesta</sub-title>
-    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
-  </programme>
   <programme start="20230619151500 -0400" stop="20230619153000 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230619153000 -0400" stop="20230619154500 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230619154500 -0400" stop="20230619160000 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230619160000 -0400" stop="20230619161500 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230619161500 -0400" stop="20230619163000 -0400" channel="0312">
     <title lang="es">La orquestita</title>
     <sub-title lang="es">La orquestita</sub-title>
     <desc lang="es">Juan, Vale y Toto quieren saber cómo se hace una canción. Juntos parten a bordo del camión del abuelo Juan Barbas para visitar extraños mundos y encontrar respuestas a sus preguntas musicales.</desc>
   </programme>
-  <programme start="20230619153000 -0400" stop="20230619154500 -0400" channel="0312">
+  <programme start="20230619163000 -0400" stop="20230619164500 -0400" channel="0312">
     <title lang="es">Experimentores</title>
     <sub-title lang="es">Experimentores</sub-title>
     <desc lang="es">A partir de sorprendentes experimentos de física y química, e insólitas reacciones en cámara superlenta, esta serie revela cómo funciona el universo que nos rodea y demuestra que la ciencia puede ser una actividad lúdica y divertida.</desc>
   </programme>
-  <programme start="20230619154500 -0400" stop="20230619160000 -0400" channel="0312">
+  <programme start="20230619164500 -0400" stop="20230619170000 -0400" channel="0312">
     <title lang="es">Inteligencia animal</title>
     <sub-title lang="es">Inteligencia animal</sub-title>
     <desc lang="es">Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.</desc>
   </programme>
-  <programme start="20230619160000 -0400" stop="20230619163000 -0400" channel="0312">
+  <programme start="20230619170000 -0400" stop="20230619173000 -0400" channel="0312">
     <title lang="es">Queremos decir</title>
     <sub-title lang="es">Queremos decir</sub-title>
     <desc lang="es">Un ciclo que invita a chicos y chicas a compartir sus intereses, inquietudes e historias a través del rap.</desc>
   </programme>
-  <programme start="20230619163000 -0400" stop="20230619170000 -0400" channel="0312">
+  <programme start="20230619173000 -0400" stop="20230619180000 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230619170000 -0400" stop="20230619173000 -0400" channel="0312">
+  <programme start="20230619180000 -0400" stop="20230619183000 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230619173000 -0400" stop="20230619174500 -0400" channel="0312">
+  <programme start="20230619183000 -0400" stop="20230619184500 -0400" channel="0312">
     <title lang="es">Polinópolis</title>
     <sub-title lang="es">Polinópolis</sub-title>
   </programme>
-  <programme start="20230619174500 -0400" stop="20230619180000 -0400" channel="0312">
+  <programme start="20230619184500 -0400" stop="20230619190000 -0400" channel="0312">
     <title lang="es">Polinópolis</title>
     <sub-title lang="es">Polinópolis</sub-title>
   </programme>
-  <programme start="20230619180000 -0400" stop="20230619181500 -0400" channel="0312">
+  <programme start="20230619190000 -0400" stop="20230619191500 -0400" channel="0312">
     <title lang="es">Muchas manos en el plato</title>
     <sub-title lang="es">Muchas manos en el plato</sub-title>
     <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
   </programme>
-  <programme start="20230619181500 -0400" stop="20230619183000 -0400" channel="0312">
+  <programme start="20230619191500 -0400" stop="20230619193000 -0400" channel="0312">
     <title lang="es">¡Listo el pollo!</title>
     <sub-title lang="es">¡Listo el pollo!</sub-title>
     <desc lang="es">Byron, de ocho años y Celeste, de diez, enseñan, aprenden y se divierten cocinando ricos platos para ellos y sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces para celíacos.</desc>
   </programme>
-  <programme start="20230619183000 -0400" stop="20230619184500 -0400" channel="0312">
+  <programme start="20230619193000 -0400" stop="20230619194500 -0400" channel="0312">
     <title lang="es">Chambi y Max refugio</title>
     <sub-title lang="es">Chambi y Max refugio</sub-title>
     <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
   </programme>
-  <programme start="20230619184500 -0400" stop="20230619190000 -0400" channel="0312">
-    <title lang="es">Shaun, el cordero</title>
-    <title lang="en">Shaun the Sheep</title>
-    <sub-title lang="es">Shaun, el cordero</sub-title>
-    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
-  </programme>
-  <programme start="20230619190000 -0400" stop="20230619191500 -0400" channel="0312">
-    <title lang="es">Shaun, el cordero</title>
-    <title lang="en">Shaun the Sheep</title>
-    <sub-title lang="es">Shaun, el cordero</sub-title>
-    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
-  </programme>
-  <programme start="20230619191500 -0400" stop="20230619193000 -0400" channel="0312">
-    <title lang="es">Ciro Todorov</title>
-    <sub-title lang="es">Ciro Todorov</sub-title>
-    <desc lang="es">Ciro Todorov es un niño huraño y lúgubre que vive rodeado de fantasmas y criaturas en aquella gran casa de la colina, al lado del cementerio. Los niños del pueblo le temen, aunque a él eso no le molesta demasiado.</desc>
-  </programme>
-  <programme start="20230619193000 -0400" stop="20230619194500 -0400" channel="0312">
-    <title lang="es">Ciro Todorov</title>
-    <sub-title lang="es">Ciro Todorov</sub-title>
-    <desc lang="es">Ciro Todorov es un niño huraño y lúgubre que vive rodeado de fantasmas y criaturas en aquella gran casa de la colina, al lado del cementerio. Los niños del pueblo le temen, aunque a él eso no le molesta demasiado.</desc>
-  </programme>
   <programme start="20230619194500 -0400" stop="20230619200000 -0400" channel="0312">
-    <title lang="es">Hostal Morrison</title>
-    <sub-title lang="es">Hostal Morrison</sub-title>
-    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
   </programme>
   <programme start="20230619200000 -0400" stop="20230619201500 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230619201500 -0400" stop="20230619203000 -0400" channel="0312">
+    <title lang="es">Ciro Todorov</title>
+    <sub-title lang="es">Ciro Todorov</sub-title>
+    <desc lang="es">Ciro Todorov es un niño huraño y lúgubre que vive rodeado de fantasmas y criaturas en aquella gran casa de la colina, al lado del cementerio. Los niños del pueblo le temen, aunque a él eso no le molesta demasiado.</desc>
+  </programme>
+  <programme start="20230619203000 -0400" stop="20230619204500 -0400" channel="0312">
+    <title lang="es">Ciro Todorov</title>
+    <sub-title lang="es">Ciro Todorov</sub-title>
+    <desc lang="es">Ciro Todorov es un niño huraño y lúgubre que vive rodeado de fantasmas y criaturas en aquella gran casa de la colina, al lado del cementerio. Los niños del pueblo le temen, aunque a él eso no le molesta demasiado.</desc>
+  </programme>
+  <programme start="20230619204500 -0400" stop="20230619210000 -0400" channel="0312">
     <title lang="es">Hostal Morrison</title>
     <sub-title lang="es">Hostal Morrison</sub-title>
     <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
   </programme>
-  <programme start="20230619201500 -0400" stop="20230619203000 -0400" channel="0312">
-    <title lang="es">Siesta</title>
-    <sub-title lang="es">Siesta</sub-title>
-    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
-  </programme>
-  <programme start="20230619203000 -0400" stop="20230619204500 -0400" channel="0312">
-    <title lang="es">Siesta</title>
-    <sub-title lang="es">Siesta</sub-title>
-    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
-  </programme>
-  <programme start="20230619204500 -0400" stop="20230619210000 -0400" channel="0312">
-    <title lang="es">Paprika</title>
-    <sub-title lang="es">Paprika</sub-title>
-    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
-  </programme>
   <programme start="20230619210000 -0400" stop="20230619211500 -0400" channel="0312">
+    <title lang="es">Hostal Morrison</title>
+    <sub-title lang="es">Hostal Morrison</sub-title>
+    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
+  </programme>
+  <programme start="20230619211500 -0400" stop="20230619213000 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230619213000 -0400" stop="20230619214500 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230619214500 -0400" stop="20230619220000 -0400" channel="0312">
     <title lang="es">Paprika</title>
     <sub-title lang="es">Paprika</sub-title>
     <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
   </programme>
-  <programme start="20230619211500 -0400" stop="20230619214500 -0400" channel="0312">
+  <programme start="20230619220000 -0400" stop="20230619221500 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230619221500 -0400" stop="20230619224500 -0400" channel="0312">
     <title lang="es">La asombrosa excursión de Zamba</title>
     <sub-title lang="es">La asombrosa excursión de Zamba</sub-title>
     <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!</desc>
   </programme>
-  <programme start="20230619214500 -0400" stop="20230619220000 -0400" channel="0312">
+  <programme start="20230619224500 -0400" stop="20230619230000 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
   </programme>
-  <programme start="20230620214500 -0400" stop="20230620220000 -0400" channel="0312">
+  <programme start="20230620224500 -0400" stop="20230620230000 -0400" channel="0312">
     <title lang="es">Petit</title>
     <sub-title lang="es">Petit</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
@@ -13624,242 +13624,224 @@
   <programme start="20230620003000 -0400" stop="20230620010000 -0400" channel="0503">
     <title lang="es">London Live</title>
   </programme>
-  <programme start="20230617210000 -0400" stop="20230617220000 -0400" channel="0504">
+  <programme start="20230617200000 -0400" stop="20230617210000 -0400" channel="0504">
     <title lang="en">Formula HTV</title>
     <desc lang="en">Un espacio que presenta los artistas que inician una carrera con gran proyección.</desc>
   </programme>
-  <programme start="20230617220000 -0400" stop="20230618010000 -0400" channel="0504">
+  <programme start="20230617210000 -0400" stop="20230618000000 -0400" channel="0504">
     <title lang="en">HTV fiesta</title>
     <desc lang="en">El programa que reúne los videos más alegres, divertidos y contagiosos para acompañarte en todo momento y hacer de tu vida una fiesta.</desc>
   </programme>
-  <programme start="20230618010000 -0400" stop="20230618030000 -0400" channel="0504">
+  <programme start="20230618000000 -0400" stop="20230618020000 -0400" channel="0504">
     <title lang="en">Hot Ranking</title>
     <desc lang="en">Conteo de las 21 canciones más populares.</desc>
   </programme>
-  <programme start="20230618030000 -0400" stop="20230618040000 -0400" channel="0504">
+  <programme start="20230618020000 -0400" stop="20230618030000 -0400" channel="0504">
     <title lang="en">Formula HTV</title>
     <desc lang="en">Un espacio que presenta los artistas que inician una carrera con gran proyección.</desc>
   </programme>
-  <programme start="20230618040000 -0400" stop="20230618070000 -0400" channel="0504">
+  <programme start="20230618030000 -0400" stop="20230618060000 -0400" channel="0504">
     <title lang="en">HTV fiesta</title>
     <desc lang="en">El programa que reúne los videos más alegres, divertidos y contagiosos para acompañarte en todo momento y hacer de tu vida una fiesta.</desc>
   </programme>
-  <programme start="20230618070000 -0400" stop="20230618110000 -0400" channel="0504">
+  <programme start="20230618060000 -0400" stop="20230618100000 -0400" channel="0504">
     <title lang="en">HTV Raíces</title>
     <desc lang="en">Un espacio para los ritmos latinos.</desc>
   </programme>
-  <programme start="20230618110000 -0400" stop="20230618130000 -0400" channel="0504">
+  <programme start="20230618100000 -0400" stop="20230618120000 -0400" channel="0504">
     <title lang="en">Hot Ranking</title>
     <desc lang="en">Conteo de las 21 canciones más populares.</desc>
   </programme>
-  <programme start="20230618130000 -0400" stop="20230618140000 -0400" channel="0504">
+  <programme start="20230618120000 -0400" stop="20230618130000 -0400" channel="0504">
     <title lang="en">Formula HTV</title>
     <desc lang="en">Un espacio que presenta los artistas que inician una carrera con gran proyección.</desc>
   </programme>
-  <programme start="20230618140000 -0400" stop="20230618190000 -0400" channel="0504">
+  <programme start="20230618130000 -0400" stop="20230618180000 -0400" channel="0504">
     <title lang="en">HTV pasión</title>
     <desc lang="en">Una exclusiva selección musical donde conviven los videos más intensos y románticos de la música latina.</desc>
   </programme>
-  <programme start="20230618190000 -0400" stop="20230618210000 -0400" channel="0504">
+  <programme start="20230618180000 -0400" stop="20230618200000 -0400" channel="0504">
     <title lang="en">Hot Ranking</title>
     <desc lang="en">Conteo de las 21 canciones más populares.</desc>
   </programme>
-  <programme start="20230618210000 -0400" stop="20230618220000 -0400" channel="0504">
+  <programme start="20230618200000 -0400" stop="20230618210000 -0400" channel="0504">
     <title lang="en">Formula HTV</title>
     <desc lang="en">Un espacio que presenta los artistas que inician una carrera con gran proyección.</desc>
   </programme>
-  <programme start="20230618220000 -0400" stop="20230619010000 -0400" channel="0504">
+  <programme start="20230618210000 -0400" stop="20230619000000 -0400" channel="0504">
     <title lang="en">HTV fiesta</title>
     <desc lang="en">El programa que reúne los videos más alegres, divertidos y contagiosos para acompañarte en todo momento y hacer de tu vida una fiesta.</desc>
   </programme>
-  <programme start="20230619010000 -0400" stop="20230619030000 -0400" channel="0504">
+  <programme start="20230619000000 -0400" stop="20230619020000 -0400" channel="0504">
     <title lang="en">Hot Ranking</title>
     <desc lang="en">Conteo de las 21 canciones más populares.</desc>
   </programme>
-  <programme start="20230619030000 -0400" stop="20230619040000 -0400" channel="0504">
+  <programme start="20230619020000 -0400" stop="20230619030000 -0400" channel="0504">
     <title lang="en">Formula HTV</title>
     <desc lang="en">Un espacio que presenta los artistas que inician una carrera con gran proyección.</desc>
   </programme>
-  <programme start="20230619040000 -0400" stop="20230619070000 -0400" channel="0504">
+  <programme start="20230619030000 -0400" stop="20230619060000 -0400" channel="0504">
     <title lang="en">HTV fiesta</title>
     <desc lang="en">El programa que reúne los videos más alegres, divertidos y contagiosos para acompañarte en todo momento y hacer de tu vida una fiesta.</desc>
   </programme>
-  <programme start="20230619070000 -0400" stop="20230619110000 -0400" channel="0504">
+  <programme start="20230619060000 -0400" stop="20230619100000 -0400" channel="0504">
     <title lang="en">HTV Raíces</title>
     <desc lang="en">Un espacio para los ritmos latinos.</desc>
   </programme>
-  <programme start="20230619110000 -0400" stop="20230619130000 -0400" channel="0504">
+  <programme start="20230619100000 -0400" stop="20230619120000 -0400" channel="0504">
     <title lang="en">Hot Ranking</title>
     <desc lang="en">Conteo de las 21 canciones más populares.</desc>
   </programme>
-  <programme start="20230619130000 -0400" stop="20230619140000 -0400" channel="0504">
+  <programme start="20230619120000 -0400" stop="20230619130000 -0400" channel="0504">
     <title lang="en">Formula HTV</title>
     <desc lang="en">Un espacio que presenta los artistas que inician una carrera con gran proyección.</desc>
   </programme>
-  <programme start="20230619140000 -0400" stop="20230619190000 -0400" channel="0504">
+  <programme start="20230619130000 -0400" stop="20230619180000 -0400" channel="0504">
     <title lang="en">HTV pasión</title>
     <desc lang="en">Una exclusiva selección musical donde conviven los videos más intensos y románticos de la música latina.</desc>
   </programme>
-  <programme start="20230619190000 -0400" stop="20230619210000 -0400" channel="0504">
+  <programme start="20230619180000 -0400" stop="20230619200000 -0400" channel="0504">
     <title lang="en">Hot Ranking</title>
     <desc lang="en">Conteo de las 21 canciones más populares.</desc>
   </programme>
-  <programme start="20230617210000 -0400" stop="20230617230000 -0400" channel="0518">
-    <title lang="es">Quiero fiesta</title>
-    <desc lang="es">Quiero musicaliza tus noches más esperadas con los videos de los artistas que te hacen bailar, para disfrutar la previa con tus amigos y mucha música.</desc>
-  </programme>
-  <programme start="20230617230000 -0400" stop="20230618030000 -0400" channel="0518">
+  <programme start="20230617210000 -0400" stop="20230618010000 -0400" channel="0518">
     <title lang="es">Los 60 +</title>
     <desc lang="es">Un recorrido por los músicos más escuchados de todos los géneros musicales, en los 60 videos más pedidos del momento, con los últimos cortes de las bandas y artistas más reconocidos, quienes te harán deleitar con su talento.</desc>
   </programme>
-  <programme start="20230618030000 -0400" stop="20230618050000 -0400" channel="0518">
+  <programme start="20230618010000 -0400" stop="20230618030000 -0400" channel="0518">
     <title lang="es">Quiero clásicos</title>
     <sub-title lang="es">Quiero clásicos</sub-title>
     <desc lang="es">Disfrutarás de todos aquellos videos que vale la pena volver a ver. Las canciones que nunca pasan de moda serán las protagonistas de este espacio, un repaso por los temas musicales más exitosos de los últimos quince años.</desc>
   </programme>
-  <programme start="20230618050000 -0400" stop="20230618073000 -0400" channel="0518">
+  <programme start="20230618030000 -0400" stop="20230618053000 -0400" channel="0518">
     <title lang="es">Dulce despertar</title>
     <desc lang="es">La información del estado del tránsito, los principales accesos, el transporte público, la temperatura, todo acompañado con la mejor selección de videos clips, ideales para convertir la mañana en un momento cálido y ameno.</desc>
   </programme>
-  <programme start="20230618073000 -0400" stop="20230618080000 -0400" channel="0518">
+  <programme start="20230618053000 -0400" stop="20230618060000 -0400" channel="0518">
     <title lang="es">Dieron la nota</title>
     <sub-title lang="es">La semana musical en Quiero</sub-title>
     <desc lang="es">Acompaña a Rocko y Melody en un recorrido musical donde cada semana te presentan lo mejor de la industria. Disfruta de grandes éxitos que se mantienen en la palestra.</desc>
   </programme>
-  <programme start="20230618080000 -0400" stop="20230618083000 -0400" channel="0518">
-    <title lang="es">Encuentros extraordinarios</title>
-    <desc lang="es">Tus artistas musicales favoritos, los de ayer y de hoy, los que tú quieres ver, se juntan para mostrarte lo mejor de sus repertorios en los más increíbles duetos y llevar hasta tu pantalla un encuentro extraordinario.</desc>
+  <programme start="20230618060000 -0400" stop="20230618083000 -0400" channel="0518">
+    <title lang="en">Dulce Despertar</title>
+    <desc lang="en">Espacio informativo que incluye videos musicales.</desc>
   </programme>
   <programme start="20230618083000 -0400" stop="20230618090000 -0400" channel="0518">
-    <title lang="es">Media hora con..</title>
-    <desc lang="es">Te invita a disfrutar de los mejores videos de tus artistas favoritos del momento.</desc>
+    <title lang="en">Dieron la nota</title>
+    <desc lang="en">Programa que muestra los mejores momentos musicales.</desc>
   </programme>
-  <programme start="20230618090000 -0400" stop="20230618110000 -0400" channel="0518">
-    <title lang="es">Los 30 para el amor</title>
-    <desc lang="es">Una lista de las treinta canciones más románticas para enamorar. Podrás disfrutar de los más interesantes videos que evocan al amor, para que tengas la oportunidad de dedicar cada una de estas piezas musicales.</desc>
+  <programme start="20230618090000 -0400" stop="20230618093000 -0400" channel="0518">
+    <title lang="en">Encuentros Extraordinarios</title>
+    <desc lang="en">Qué mejor que, aparte de que puedas escuchar la música en tu idioma, también puedas deleitarte con recitales en vivo de dos artistas compartiendo un mismo escenario.</desc>
   </programme>
-  <programme start="20230618110000 -0400" stop="20230618120000 -0400" channel="0518">
-    <title lang="es">Quince mejores</title>
-    <desc lang="es">Esta emisión televisiva muestra un ranking diferente en vivo cada día de la semana, surgido de los videos elegidos por los espectadores, a través de mensajes y el sitio oficial del canal.</desc>
+  <programme start="20230618093000 -0400" stop="20230618100000 -0400" channel="0518">
+    <title lang="en">Media hora con...</title>
+    <desc lang="en">Te invita a disfrutar de los mejores videos de tus artistas favoritos del momento.</desc>
   </programme>
-  <programme start="20230618120000 -0400" stop="20230618140000 -0400" channel="0518">
-    <title lang="es">En alta</title>
-    <desc lang="es">Los videos más exitosos del momento de las bandas más sonadas, un espacio donde la actualidad musical es el epicentro.</desc>
+  <programme start="20230618100000 -0400" stop="20230618120000 -0400" channel="0518">
+    <title lang="en">Los 30 para el amor</title>
   </programme>
-  <programme start="20230618140000 -0400" stop="20230618143000 -0400" channel="0518">
-    <title lang="es">Diverlistas</title>
-    <desc lang="es">Videos musicales escogidos por los televidentes de acuerdo a una temática diaria.</desc>
+  <programme start="20230618120000 -0400" stop="20230618130000 -0400" channel="0518">
+    <title lang="en">Quince mejores de la semana</title>
   </programme>
-  <programme start="20230618143000 -0400" stop="20230618183000 -0400" channel="0518">
-    <title lang="es">Los 60 +</title>
-    <desc lang="es">Un recorrido por los músicos más escuchados de todos los géneros musicales, en los 60 videos más pedidos del momento, con los últimos cortes de las bandas y artistas más reconocidos, quienes te harán deleitar con su talento.</desc>
+  <programme start="20230618130000 -0400" stop="20230618150000 -0400" channel="0518">
+    <title lang="en">En Alta</title>
+    <desc lang="en">Videos musicales de las bandas más importantes del momento.</desc>
   </programme>
-  <programme start="20230618183000 -0400" stop="20230618190000 -0400" channel="0518">
-    <title lang="es">Q Gym</title>
-    <desc lang="es">\n.</desc>
+  <programme start="20230618150000 -0400" stop="20230618153000 -0400" channel="0518">
+    <title lang="en">Diverlistas</title>
   </programme>
-  <programme start="20230618190000 -0400" stop="20230618200000 -0400" channel="0518">
-    <title lang="es">En alta</title>
-    <desc lang="es">Los videos más exitosos del momento de las bandas más sonadas, un espacio donde la actualidad musical es el epicentro.</desc>
+  <programme start="20230618153000 -0400" stop="20230618193000 -0400" channel="0518">
+    <title lang="en">Los 60</title>
+    <desc lang="en">Los grandes eventos e hitos de la década de 1960 se exploran en esta serie documental.</desc>
   </programme>
-  <programme start="20230618200000 -0400" stop="20230618203000 -0400" channel="0518">
-    <title lang="es">Q noticias</title>
-    <desc lang="es">La más completa y actualizada información de la escena musical hispana, así como también entrevistas exclusivas a los principales artistas de la música en español, coberturas de los festivales, y eventos más destacados del país.</desc>
+  <programme start="20230618193000 -0400" stop="20230618200000 -0400" channel="0518">
+    <title lang="en">Q Gym</title>
   </programme>
-  <programme start="20230618203000 -0400" stop="20230618210000 -0400" channel="0518">
-    <title lang="es">Quince mejores</title>
-    <desc lang="es">Esta emisión televisiva muestra un ranking diferente en vivo cada día de la semana, surgido de los videos elegidos por los espectadores, a través de mensajes y el sitio oficial del canal.</desc>
+  <programme start="20230618200000 -0400" stop="20230618210000 -0400" channel="0518">
+    <title lang="en">En Alta</title>
+    <desc lang="en">Videos musicales de las bandas más importantes del momento.</desc>
   </programme>
   <programme start="20230618210000 -0400" stop="20230618213000 -0400" channel="0518">
-    <title lang="es">Código urbano</title>
-    <sub-title lang="es">Código urbano</sub-title>
-    <desc lang="es">Conoceremos los orígenes y posteriores manifestaciones del reggae, hip hop y todas las fusiones de la música urbana. Además, podrás disfrutar de videos, entrevistas y más.</desc>
+    <title lang="en">Q noticias</title>
   </programme>
   <programme start="20230618213000 -0400" stop="20230618220000 -0400" channel="0518">
-    <title lang="es">Frecuencia Q</title>
-    <desc lang="es">Segmento de videos para disfrutar de todos esos artistas que sintonizan tu misma onda. Un espacio juvenil destinado a los músicos que te identifican, donde está la música que vos querés escuchar todo el tiempo.</desc>
+    <title lang="en">Quince Mejores de la Semana</title>
+    <sub-title lang="en">Bonus Track - Macaco</sub-title>
   </programme>
   <programme start="20230618220000 -0400" stop="20230618223000 -0400" channel="0518">
-    <title lang="es">Banda soporte</title>
-    <desc lang="es">Segmento para los que no solo quieren saber qué ocurre detrás del escenario, sino también tras bambalinas. Acompaña a los grupos más importantes del país a lo largo de sus giras y presentaciones para ofrecerle al público momentos inéditos.</desc>
+    <title lang="en">Código Urbano</title>
+    <desc lang="en">Una mirada al pasado y presente de la música y expresión urbana.</desc>
   </programme>
   <programme start="20230618223000 -0400" stop="20230618230000 -0400" channel="0518">
-    <title lang="es">Aerial</title>
-    <desc lang="es">La cobertura más completa de los campeonatos de deportes extremos y los entrenamientos, y el estilo de vida de los principales deportistas de las diferentes disciplinas.</desc>
+    <title lang="en">Frecuencia Q</title>
   </programme>
-  <programme start="20230618230000 -0400" stop="20230619030000 -0400" channel="0518">
-    <title lang="es">Los 60 +</title>
-    <desc lang="es">Un recorrido por los músicos más escuchados de todos los géneros musicales, en los 60 videos más pedidos del momento, con los últimos cortes de las bandas y artistas más reconocidos, quienes te harán deleitar con su talento.</desc>
+  <programme start="20230618230000 -0400" stop="20230618233000 -0400" channel="0518">
+    <title lang="en">Banda Soporte</title>
+    <desc lang="en">Un seguimiento a las bandas durante sus giras.</desc>
   </programme>
-  <programme start="20230619030000 -0400" stop="20230619050000 -0400" channel="0518">
-    <title lang="es">Quiero clásicos</title>
-    <sub-title lang="es">Quiero clásicos</sub-title>
-    <desc lang="es">Disfrutarás de todos aquellos videos que vale la pena volver a ver. Las canciones que nunca pasan de moda serán las protagonistas de este espacio, un repaso por los temas musicales más exitosos de los últimos quince años.</desc>
+  <programme start="20230618233000 -0400" stop="20230619000000 -0400" channel="0518">
+    <title lang="en">Aerial</title>
+    <desc lang="en">La cobertura más completa de los campeonatos de deportes extremos y los entrenamientos, y el estilo de vida de los principales deportistas de las diferentes disciplinas.</desc>
   </programme>
-  <programme start="20230619050000 -0400" stop="20230619063000 -0400" channel="0518">
-    <title lang="es">Dulce despertar</title>
-    <desc lang="es">La información del estado del tránsito, los principales accesos, el transporte público, la temperatura, todo acompañado con la mejor selección de videos clips, ideales para convertir la mañana en un momento cálido y ameno.</desc>
+  <programme start="20230619000000 -0400" stop="20230619040000 -0400" channel="0518">
+    <title lang="en">Los 60</title>
+    <desc lang="en">Los grandes eventos e hitos de la década de 1960 se exploran en esta serie documental.</desc>
   </programme>
-  <programme start="20230619063000 -0400" stop="20230619070000 -0400" channel="0518">
-    <title lang="es">Diverlistas</title>
-    <desc lang="es">Videos musicales escogidos por los televidentes de acuerdo a una temática diaria.</desc>
+  <programme start="20230619040000 -0400" stop="20230619060000 -0400" channel="0518">
+    <title lang="en">Q clásicos</title>
+    <desc lang="en">Disfrutarás de todos aquellos videos que vale la pena volver a ver.</desc>
   </programme>
-  <programme start="20230619070000 -0400" stop="20230619090000 -0400" channel="0518">
-    <title lang="es">Los 30 para el amor</title>
-    <desc lang="es">Una lista de las treinta canciones más románticas para enamorar. Podrás disfrutar de los más interesantes videos que evocan al amor, para que tengas la oportunidad de dedicar cada una de estas piezas musicales.</desc>
+  <programme start="20230619060000 -0400" stop="20230619073000 -0400" channel="0518">
+    <title lang="en">Quince Mejores de la Semana</title>
+    <desc lang="en">Esta emisión televisiva muestra un ranking diferente en vivo cada día de la semana, surgido de los videos elegidos por los espectadores, a través de mensajes y el sitio oficial del canal.</desc>
   </programme>
-  <programme start="20230619090000 -0400" stop="20230619110000 -0400" channel="0518">
-    <title lang="es">En alta</title>
-    <desc lang="es">Los videos más exitosos del momento de las bandas más sonadas, un espacio donde la actualidad musical es el epicentro.</desc>
+  <programme start="20230619073000 -0400" stop="20230619080000 -0400" channel="0518">
+    <title lang="en">Diverlistas</title>
+    <desc lang="en">Se presentan videos propuestos por los televidentes relacionados al tema indicado cada semana.</desc>
   </programme>
-  <programme start="20230619110000 -0400" stop="20230619113000 -0400" channel="0518">
-    <title lang="es">Q noticias</title>
-    <desc lang="es">La más completa y actualizada información de la escena musical hispana, así como también entrevistas exclusivas a los principales artistas de la música en español, coberturas de los festivales, y eventos más destacados del país.</desc>
+  <programme start="20230619080000 -0400" stop="20230619100000 -0400" channel="0518">
+    <title lang="en">Los 30 para el amor</title>
   </programme>
-  <programme start="20230619113000 -0400" stop="20230619120000 -0400" channel="0518">
-    <title lang="es">Diverlistas</title>
-    <desc lang="es">Videos musicales escogidos por los televidentes de acuerdo a una temática diaria.</desc>
+  <programme start="20230619100000 -0400" stop="20230619120000 -0400" channel="0518">
+    <title lang="en">En Alta</title>
+    <desc lang="en">Videos musicales de las bandas más importantes del momento.</desc>
   </programme>
-  <programme start="20230619120000 -0400" stop="20230619160000 -0400" channel="0518">
-    <title lang="es">Los 60 +</title>
-    <desc lang="es">Un recorrido por los músicos más escuchados de todos los géneros musicales, en los 60 videos más pedidos del momento, con los últimos cortes de las bandas y artistas más reconocidos, quienes te harán deleitar con su talento.</desc>
+  <programme start="20230619120000 -0400" stop="20230619123000 -0400" channel="0518">
+    <title lang="en">Q Noticias</title>
+    <desc lang="en">Actualidad de la música hispana.</desc>
   </programme>
-  <programme start="20230619160000 -0400" stop="20230619163000 -0400" channel="0518">
-    <title lang="es">Aerial</title>
-    <desc lang="es">La cobertura más completa de los campeonatos de deportes extremos y los entrenamientos, y el estilo de vida de los principales deportistas de las diferentes disciplinas.</desc>
+  <programme start="20230619123000 -0400" stop="20230619130000 -0400" channel="0518">
+    <title lang="en">Diverlistas</title>
+    <desc lang="en">Se presentan videos propuestos por los televidentes relacionados al tema indicado cada semana.</desc>
   </programme>
-  <programme start="20230619163000 -0400" stop="20230619170000 -0400" channel="0518">
-    <title lang="es">Mundo trap</title>
-    <desc lang="es">Un espacio para descubrir y disfrutar los videos del género que conquista el universo musical.</desc>
+  <programme start="20230619130000 -0400" stop="20230619143000 -0400" channel="0518">
+    <title lang="en">Quince Mejores: Pop</title>
+    <desc lang="en">Conteo de la música pop.</desc>
+  </programme>
+  <programme start="20230619143000 -0400" stop="20230619150000 -0400" channel="0518">
+    <title lang="en">En Alta</title>
+    <desc lang="en">Videos musicales de las bandas más importantes del momento.</desc>
+  </programme>
+  <programme start="20230619150000 -0400" stop="20230619170000 -0400" channel="0518">
+    <title lang="en">Lo que Quiero</title>
+    <desc lang="en">Espacio dedicado a la música y los grupos más destacados del momento.</desc>
   </programme>
   <programme start="20230619170000 -0400" stop="20230619173000 -0400" channel="0518">
-    <title lang="es">Q noticias</title>
-    <desc lang="es">La más completa y actualizada información de la escena musical hispana, así como también entrevistas exclusivas a los principales artistas de la música en español, coberturas de los festivales, y eventos más destacados del país.</desc>
+    <title lang="en">Aerial</title>
+    <desc lang="en">La cobertura más completa de los campeonatos de deportes extremos y los entrenamientos, y el estilo de vida de los principales deportistas de las diferentes disciplinas.</desc>
   </programme>
-  <programme start="20230619173000 -0400" stop="20230619190000 -0400" channel="0518">
-    <title lang="es">Lo que quiero</title>
-    <desc lang="es">Los últimos videos de las bandas más reconocidas, los éxitos musicales de los artistas del momento y los temas más escuchados se dan cita en este espacio.</desc>
+  <programme start="20230619173000 -0400" stop="20230619180000 -0400" channel="0518">
+    <title lang="en">Mundo Trap</title>
+    <desc lang="en">Programa de entretenimiento.</desc>
   </programme>
-  <programme start="20230619190000 -0400" stop="20230619200000 -0400" channel="0518">
-    <title lang="es">En alta</title>
-    <desc lang="es">Los videos más exitosos del momento de las bandas más sonadas, un espacio donde la actualidad musical es el epicentro.</desc>
+  <programme start="20230619180000 -0400" stop="20230619183000 -0400" channel="0518">
+    <title lang="en">Q Noticias</title>
+    <desc lang="en">Actualidad de la música hispana.</desc>
   </programme>
-  <programme start="20230619200000 -0400" stop="20230619203000 -0400" channel="0518">
-    <title lang="es">Banda soporte</title>
-    <desc lang="es">Segmento para los que no solo quieren saber qué ocurre detrás del escenario, sino también tras bambalinas. Acompaña a los grupos más importantes del país a lo largo de sus giras y presentaciones para ofrecerle al público momentos inéditos.</desc>
-  </programme>
-  <programme start="20230619203000 -0400" stop="20230619210000 -0400" channel="0518">
-    <title lang="es">Lo que quiero</title>
-    <desc lang="es">Los últimos videos de las bandas más reconocidas, los éxitos musicales de los artistas del momento y los temas más escuchados se dan cita en este espacio.</desc>
-  </programme>
-  <programme start="20230619210000 -0400" stop="20230619213000 -0400" channel="0518">
-    <title lang="es">Q Gym</title>
-    <desc lang="es">\n.</desc>
-  </programme>
-  <programme start="20230619213000 -0400" stop="20230619223000 -0400" channel="0518">
-    <title lang="es">Quiero clásicos</title>
-    <sub-title lang="es">Quiero clásicos</sub-title>
-    <desc lang="es">Disfrutarás de todos aquellos videos que vale la pena volver a ver. Las canciones que nunca pasan de moda serán las protagonistas de este espacio, un repaso por los temas musicales más exitosos de los últimos quince años.</desc>
+  <programme start="20230619183000 -0400" stop="20230619200000 -0400" channel="0518">
+    <title lang="en">Quince Mejores: Pop</title>
+    <desc lang="en">Conteo de la música pop.</desc>
   </programme>
   <programme start="20230618040000 -0400" stop="20230618040200 -0400" channel="0536">
     <title lang="es">Himno nacional</title>
@@ -19130,21 +19112,37 @@
     <title lang="es">Vehículo 19</title>
     <desc lang="es">A un viajero con algunos problemas legales le alquilan un coche por error. Pronto descubrirá que un arma y una mujer amordazada en el portaequipajes no era parte de su plan vacacional, poniendo a toda la policía de Johanesburgo detrás de él.</desc>
   </programme>
-  <programme start="20230618030000 -0400" stop="20230618045500 -0400" channel="0836">
+  <programme start="20230618010000 -0400" stop="20230618025500 -0400" channel="0836">
     <title lang="es">Asalto en Wall Street</title>
     <desc lang="es">Un empleado de seguridad en Nueva York pierde los ahorros de su vida tras un mal consejo de inversión, justo cuando el seguro de salud rechaza a su mujer enferma. Ahora, desesperado, él busca a los representantes del sistema financiero: la venganza tiene gran poder de fuego.</desc>
   </programme>
-  <programme start="20230618045500 -0400" stop="20230618070000 -0400" channel="0836">
+  <programme start="20230618025500 -0400" stop="20230618050000 -0400" channel="0836">
     <title lang="es">Culpable o inocente</title>
     <desc lang="es">Mick Haller es un abogado criminalista acostumbrado a defender a todo tipo de personajes. En esta oportunidad, tiene que trabajar para un playboy adinerado acusado de violar a una prostituta. Pero lo que parecía un caso sencillo se convierte en un infierno, en donde Haller necesita descubrir la verdad.</desc>
   </programme>
-  <programme start="20230618070000 -0400" stop="20230618073000 -0400" channel="0836">
+  <programme start="20230618050000 -0400" stop="20230618053000 -0400" channel="0836">
     <title lang="es">Making the Movies</title>
     <desc lang="es">Making the Movies te cuenta todo lo que hay que saber sobre cómo cobran vida las películas. Con todas las cosas emocionantes... técnicas geniales, temas atractivos y todas las tendencias de producción de Hollywood.</desc>
   </programme>
-  <programme start="20230618073000 -0400" stop="20230618080000 -0400" channel="0836">
+  <programme start="20230618053000 -0400" stop="20230618060000 -0400" channel="0836">
     <title lang="es">Making the Movies</title>
     <desc lang="es">Making the Movies te cuenta todo lo que hay que saber sobre cómo cobran vida las películas. Con todas las cosas emocionantes... técnicas geniales, temas atractivos y todas las tendencias de producción de Hollywood.</desc>
+  </programme>
+  <programme start="20230618060000 -0400" stop="20230618063000 -0400" channel="0836">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20230618063000 -0400" stop="20230618070000 -0400" channel="0836">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20230618070000 -0400" stop="20230618073000 -0400" channel="0836">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20230618073000 -0400" stop="20230618080000 -0400" channel="0836">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
   </programme>
   <programme start="20230618080000 -0400" stop="20230618083000 -0400" channel="0836">
     <title lang="es">Infomerciales</title>
@@ -19154,69 +19152,69 @@
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
   </programme>
-  <programme start="20230618090000 -0400" stop="20230618093000 -0400" channel="0836">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-  </programme>
-  <programme start="20230618093000 -0400" stop="20230618100000 -0400" channel="0836">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-  </programme>
-  <programme start="20230618100000 -0400" stop="20230618103000 -0400" channel="0836">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-  </programme>
-  <programme start="20230618103000 -0400" stop="20230618110000 -0400" channel="0836">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-  </programme>
-  <programme start="20230618110000 -0400" stop="20230618130000 -0400" channel="0836">
+  <programme start="20230618090000 -0400" stop="20230618110000 -0400" channel="0836">
     <title lang="es">La colonia</title>
     <desc lang="es">En un futuro alrededor del año 2045, un grupo de supervivientes vive bajo tierra después de que una nueva era de hielo invadiera el planeta, en lo que se podría considerar la última época glacial en la Tierra. Los pocos humanos que han sobrevivido se han adaptado a las bajas temperaturas y a vivir bajo la helada superficie. En el nuevo orden de la Colonia, éstas luchan por mantener un nivel mínimo de suministros que garantice la convivencia, pero la situación es desesperante y a la disminución de alimentos, así como de bajas de temperaturas se suma el corte de comunicaciones con la denominada 'V'. Así que se establece una misión de comprobación y rescate con Briggs y el temperamental mecánico Sam, que encabeza el equipo. Lo que irán descubriendo por el camino les involucrará a contracorriente en una lucha por salvar la humanidad.</desc>
   </programme>
-  <programme start="20230618130000 -0400" stop="20230618153500 -0400" channel="0836">
+  <programme start="20230618110000 -0400" stop="20230618133500 -0400" channel="0836">
     <title lang="es">El valiente</title>
     <desc lang="es">Newton Knight es un granjero sureño durante la Guerra de Secesión americana. Cansado de defender los intereses de los grandes propietarios sureños, decide desertar y volver a Mississippi. En su regreso, se alía con otros pequeños granjeros y se convierte en la cabeza de una milicia de compañeros desertores, esclavos fugitivos y mujeres en un levantamiento contra el corrupto gobierno local confederado.</desc>
   </programme>
-  <programme start="20230618153500 -0400" stop="20230618173000 -0400" channel="0836">
+  <programme start="20230618133500 -0400" stop="20230618153000 -0400" channel="0836">
     <title lang="es">El reino prohibido</title>
     <desc lang="es">En un lugar donde el cielo se une con la tierra, hay un imperio dividido por la guerra, dos guerreros legendarios, una huérfana y un viajero extraviado deben unir fuerzas para salvar el reino. Un adolescente obsesionado con el cine de Hong Kong y los clásicos de Kung-fu, hace un extraordinario descubrimiento en una pequeña casa de empeños del barrio chino. Descubre por casualidad el legendario báculo de un sabio guerrero chino, más conocido como el Rey Mono.</desc>
   </programme>
-  <programme start="20230618173000 -0400" stop="20230618191000 -0400" channel="0836">
+  <programme start="20230618153000 -0400" stop="20230618171000 -0400" channel="0836">
     <title lang="es">Inframundo: La rebelión de los Lycans</title>
     <desc lang="es">Una enemistad a muerte de siglos estalla entre dos tribus inmortales, dando lugar al centenario conflicto entre la raza de aristocráticos vampiros, conocidos como los 'Death Dealers', y quienes fueran sus esclavos: los salvajes licántropos, una línea de feroces hombres lobos.</desc>
   </programme>
-  <programme start="20230618191000 -0400" stop="20230618211000 -0400" channel="0836">
+  <programme start="20230618171000 -0400" stop="20230618191000 -0400" channel="0836">
     <title lang="es">Colossal</title>
     <desc lang="es">Gloria decide dejar Nueva York y regresar a su ciudad natal tras haber perdido su trabajo y su novio. Pero cuando en las noticias informan que un monstruo gigantesco está destruyendo gran parte de Seúl, ella se va dando cuenta de que, a través de su mente, está conectada de forma extraña con estos acontecimientos. Para evitar que la destrucción vaya a más, tendrá que averiguar el papel de su insignificante existencia en un evento colosal que podría cambiar el destino del mundo.</desc>
   </programme>
-  <programme start="20230618211000 -0400" stop="20230618230000 -0400" channel="0836">
+  <programme start="20230618191000 -0400" stop="20230618210000 -0400" channel="0836">
     <title lang="es">1911</title>
     <desc lang="es">La caída del último Imperio. Jackie Chan interpreta a Huang Xing, uno de los fundadores de la República China, en 1911. Una megaproducción sobre el fin de la Dinastía Quing. Corrupción, lucha de poderes y batallas descomunales. Acción oriental y lo mejor del cine bélico, dirigido y protagonizado por el maestro en artes marciales, Jackie Chan.</desc>
   </programme>
-  <programme start="20230618230000 -0400" stop="20230619014500 -0400" channel="0836">
+  <programme start="20230618210000 -0400" stop="20230618234500 -0400" channel="0836">
     <title lang="es">La cura siniestra</title>
     <desc lang="es">Un ejecutivo joven y ambicioso es enviado para recuperar a su CEO de la compañía de un idílico pero misterioso 'centro de bienestar' en un lugar remoto en los Alpes suizos, pero pronto sospecha que los tratamientos del spa no son lo que parecen.</desc>
   </programme>
-  <programme start="20230619014500 -0400" stop="20230619035000 -0400" channel="0836">
+  <programme start="20230618234500 -0400" stop="20230619015000 -0400" channel="0836">
     <title lang="es">Venganza</title>
     <desc lang="es">En plenas montañas, un apacible quitanieves vive tranquilamente en la naturaleza. Pero un día toda su paz se desmorona con la terrible noticia de que su hijo ha muerto por una sobredosis. Ahora busca venganza.</desc>
   </programme>
-  <programme start="20230619035000 -0400" stop="20230619054500 -0400" channel="0836">
+  <programme start="20230619015000 -0400" stop="20230619034500 -0400" channel="0836">
     <title lang="es">Las crónicas del miedo 2</title>
     <desc lang="es">Secuela de V/H/S (2012). Buscando a un estudiante desaparecido, dos investigadores privados irrumpen en su casa y encuentran una colección de cintas VHS. Cuando ven los horribles contenidos cada casete, se dan cuenta que puede haber motivos oscuros detrás de la desaparición del estudiante.</desc>
   </programme>
-  <programme start="20230619054500 -0400" stop="20230619070000 -0400" channel="0836">
+  <programme start="20230619034500 -0400" stop="20230619050000 -0400" channel="0836">
     <title lang="es">Lo inevitable</title>
     <desc lang="es">Mientras la radio anuncia profecías apocalípticas y afirma que sólo los elegidos serán salvados, una familia se refugia en una vieja casa de campo. La aparición de un intruso que dice ser un 'salvador' pone en riesgo la fe y el destino de todos.</desc>
   </programme>
-  <programme start="20230619070000 -0400" stop="20230619073000 -0400" channel="0836">
+  <programme start="20230619050000 -0400" stop="20230619053000 -0400" channel="0836">
     <title lang="es">Planet Action</title>
     <desc lang="es">Vive el detrás de escena de las mejores películas de acción. Desde tiroteos de vaqueros hasta coches en explosión, acrobacias. peleas en el espacio y monstruos rugientes. Todos los secretos de tus héroes de acción favoritos, entrevistas y mucho más.</desc>
   </programme>
-  <programme start="20230619073000 -0400" stop="20230619080000 -0400" channel="0836">
+  <programme start="20230619053000 -0400" stop="20230619060000 -0400" channel="0836">
     <title lang="es">Planet Action</title>
     <desc lang="es">Vive el detrás de escena de las mejores películas de acción. Desde tiroteos de vaqueros hasta coches en explosión, acrobacias. peleas en el espacio y monstruos rugientes. Todos los secretos de tus héroes de acción favoritos, entrevistas y mucho más.</desc>
+  </programme>
+  <programme start="20230619060000 -0400" stop="20230619063000 -0400" channel="0836">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20230619063000 -0400" stop="20230619070000 -0400" channel="0836">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20230619070000 -0400" stop="20230619073000 -0400" channel="0836">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20230619073000 -0400" stop="20230619080000 -0400" channel="0836">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
   </programme>
   <programme start="20230619080000 -0400" stop="20230619083000 -0400" channel="0836">
     <title lang="es">Infomerciales</title>
@@ -19235,54 +19233,38 @@
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
   </programme>
   <programme start="20230619100000 -0400" stop="20230619103000 -0400" channel="0836">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-  </programme>
-  <programme start="20230619103000 -0400" stop="20230619110000 -0400" channel="0836">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-  </programme>
-  <programme start="20230619110000 -0400" stop="20230619113000 -0400" channel="0836">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-  </programme>
-  <programme start="20230619113000 -0400" stop="20230619120000 -0400" channel="0836">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-  </programme>
-  <programme start="20230619120000 -0400" stop="20230619123000 -0400" channel="0836">
     <title lang="es">Planet Action</title>
     <desc lang="es">Vive el detrás de escena de las mejores películas de acción. Desde tiroteos de vaqueros hasta coches en explosión, acrobacias. peleas en el espacio y monstruos rugientes. Todos los secretos de tus héroes de acción favoritos, entrevistas y mucho más.</desc>
   </programme>
-  <programme start="20230619123000 -0400" stop="20230619130500 -0400" channel="0836">
+  <programme start="20230619103000 -0400" stop="20230619110500 -0400" channel="0836">
     <title lang="es">Planet Action</title>
     <desc lang="es">Vive el detrás de escena de las mejores películas de acción. Desde tiroteos de vaqueros hasta coches en explosión, acrobacias. peleas en el espacio y monstruos rugientes. Todos los secretos de tus héroes de acción favoritos, entrevistas y mucho más.</desc>
   </programme>
-  <programme start="20230619130500 -0400" stop="20230619151500 -0400" channel="0836">
+  <programme start="20230619110500 -0400" stop="20230619131500 -0400" channel="0836">
     <title lang="es">Atrapada en Guantánamo</title>
     <desc lang="es">Drama político donde una joven huye de su pequeño pueblo para unirse al ejército. Su intención es ser destinada a combatir en Iraq, pero finalmente es enviada a Guantánamo como guardia, donde entablará una inesperada y transformadora amistad con un prisionero que lleva ocho años encarcelado.</desc>
   </programme>
-  <programme start="20230619151500 -0400" stop="20230619175000 -0400" channel="0836">
+  <programme start="20230619131500 -0400" stop="20230619155000 -0400" channel="0836">
     <title lang="es">El valiente</title>
     <desc lang="es">Newton Knight es un granjero sureño durante la Guerra de Secesión americana. Cansado de defender los intereses de los grandes propietarios sureños, decide desertar y volver a Mississippi. En su regreso, se alía con otros pequeños granjeros y se convierte en la cabeza de una milicia de compañeros desertores, esclavos fugitivos y mujeres en un levantamiento contra el corrupto gobierno local confederado.</desc>
   </programme>
-  <programme start="20230619175000 -0400" stop="20230619193000 -0400" channel="0836">
+  <programme start="20230619155000 -0400" stop="20230619173000 -0400" channel="0836">
     <title lang="es">El arte del robo</title>
     <desc lang="es">Crunch Calhoun, un acróbata motociclista de tercera categoría y ladrón de arte de medio tiempo, se junta con su escurridizo hermano para robar uno de los libros mejor valuados del mundo. Pero no se trata solo del texto para Crunch, dado que, al mismo tiempo, él quiere la posibilidad de reescribir algunos capítulos de su propio pasado.</desc>
   </programme>
-  <programme start="20230619193000 -0400" stop="20230619213500 -0400" channel="0836">
+  <programme start="20230619173000 -0400" stop="20230619193500 -0400" channel="0836">
     <title lang="es">Operación Zodiaco</title>
     <desc lang="es">Asian Hawk lidera un equipo de mercenarios cuyo objetivo es recuperar un grupo de artefactos perdidos del Antiguo Palacio de Verano, las cabezas de bronce de los 12 animales del Zodíaco Chino, las cuales fueron robadas por extranjeros durante el 1800. Con la ayuda de una estudiante china y una joven parisina, Hawk no se detiene ante nada para cumplir su misión.</desc>
   </programme>
-  <programme start="20230619213500 -0400" stop="20230620000000 -0400" channel="0836">
+  <programme start="20230619193500 -0400" stop="20230619220000 -0400" channel="0836">
     <title lang="es">Los siete magníficos</title>
     <desc lang="es">Siete forajidos son contratados por los habitantes de Rose Creek para defenderse de la constante amenaza del industrial Bartholomew Bogue. Sin embargo, pronto descubrirán que estos hombres luchan por algo más que el dinero.</desc>
   </programme>
-  <programme start="20230620000000 -0400" stop="20230620004500 -0400" channel="0836">
+  <programme start="20230619220000 -0400" stop="20230619224500 -0400" channel="0836">
     <title lang="es">Fear the Walking Dead</title>
     <desc lang="es">En la ciudad de Los Ángeles, California, el brote de un misterioso virus y la aparición de personas infectadas, con un comportamiento similar al de los zombies, obligará a una familia disfuncional a adaptarse y unirse para sobrevivir al inevitable colapso de la civilización.</desc>
   </programme>
-  <programme start="20230620004500 -0400" stop="20230620022500 -0400" channel="0836">
+  <programme start="20230619224500 -0400" stop="20230620002500 -0400" channel="0836">
     <title lang="es">Distrito 13</title>
     <desc lang="es">París 2013. Un muro de aislamiento rodea los ghettos de las ciudades. No hay reglas, ni derechos, ni leyes. Las bandas lo dominan todo. Damien pertenece a un cuerpo de élite de la policía. Es oficial de la unidad especial de intervenciones, experto en artes marciales y domina el arte de la infiltración. Ahora deberá hacer frente a la misión más arriesgada de su carrera: una potente arma de destrucción masiva ha sido robada por la banda más poderosa del Distrito 13. Damien será el encargado de infiltrarse en el sector más peligroso de París, para destruir la bomba.</desc>
   </programme>
@@ -20057,10 +20039,6 @@
   <programme start="20230619123000 -0400" stop="20230619130000 -0400" channel="0153">
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
-  </programme>
-  <programme start="20230619134500 -0400" stop="20230619143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
   </programme>
   <programme start="20230619130000 -0400" stop="20230619141500 -0400" channel="0153">
     <title lang="es">Efemérides</title>
