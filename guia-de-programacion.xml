@@ -466,7 +466,7 @@
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0835">
-    <display-name lang="es">TNT Novelas</display-name>
+    <display-name lang="en">TNT Novelas</display-name>
     <icon src="https://i.ibb.co/SwgFvNd/0835.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
@@ -5910,6 +5910,9 @@
   </programme>
   <programme start="20230627113000 -0400" stop="20230627120000 -0400" channel="0205">
     <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20230627120000 -0400" stop="20230627120300 -0400" channel="0205">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20230627120300 -0400" stop="20230627123000 -0400" channel="0205">
     <title lang="es">Visión futuro</title>
@@ -13911,6 +13914,9 @@
   </programme>
   <programme start="20230627110000 -0400" stop="20230627113000 -0400" channel="0310">
     <title lang="es">Billy Bam-Bam</title>
+  </programme>
+  <programme start="20230627120000 -0400" stop="20230627123000 -0400" channel="0310">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
   </programme>
   <programme start="20230627133000 -0400" stop="20230627140000 -0400" channel="0310">
     <title lang="es">La clase de Teeny &amp; Tiny</title>
@@ -23233,265 +23239,189 @@
     <sub-title lang="es">3 Hatchlings</sub-title>
     <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. Tom tiene que tomar una difícil decisión que pondrá en peligro a uno de los suyos y tendrá repercusiones para todos.</desc>
   </programme>
-  <programme start="20230626113600 -0400" stop="20230626122100 -0400" channel="0835">
-    <title lang="es">Falling Skies</title>
-    <sub-title lang="es">4 Pope Breaks Bad</sub-title>
-    <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. Una misión encargada de conseguir vehículos y combustible se encuentra con problemas. Cochise comparte malas noticias con Anne, cuyo liderazgo y habilidades médicas deberán pasar una difícil prueba. La estabilidad mental y las lealtades de Anthony serán cuestionadas en tanto que Pope, desesperado, intenta tomar el control de la situación.</desc>
+  <programme start="20230626120000 -0400" stop="20230626125000 -0400" channel="0835">
+    <title lang="en">Te la dedico</title>
+    <desc lang="en">Wilson y Adriana son una pareja de cantantes que se conocen desde muy pequeños.</desc>
   </programme>
-  <programme start="20230626122100 -0400" stop="20230626124500 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">18 La competencia</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. La situación apremia para los cazadores, mientras algunos ganan dinero otros pierden. Desert Dan está de vuelta para calentar el programa mientras que T-Money baila a su propio ritmo. En un intento de proteger su territorio, Brandon y Lori se enfrentan por una unidad que puede ser la más ganadora hasta el momento.</desc>
+  <programme start="20230626125000 -0400" stop="20230626134000 -0400" channel="0835">
+    <title lang="en">Doctor Milagro</title>
+    <sub-title lang="en">1. Bolum</sub-title>
+    <desc lang="en">Cuando Ali deja su pueblo natal, recuerdos dolorosos salen a despedirlo. Un accidente en el aeropuerto le impide llegar a tiempo a la reunión más importante de su vida mientras el Comité somete a voto su contratación.</desc>
   </programme>
-  <programme start="20230626124500 -0400" stop="20230626130900 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">17 Verdad o consecuencia</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. Jesse encuentra un contenedor perdido que puede convertirla en ganadora. Brandon y Lori creen ver un tesoro en un lugar muy extraño. Los chicos nuevos están determinados a dejar fuera de juego al resto.</desc>
+  <programme start="20230626134000 -0400" stop="20230626143000 -0400" channel="0835">
+    <title lang="en">¿Será que es amor?</title>
+    <desc lang="en">Eda Yildiz, una exitosa estudiante, es expulsada de la universidad cuando pierde su beca.</desc>
   </programme>
-  <programme start="20230626130900 -0400" stop="20230626133300 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">19 Leña al fuego</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. En un día repleto de sorpresas explosivas, el equipo de Brandon y Lori tiene grandes esperanzas así como los hermanos Alvarado que apuestan fuerte pero acaban perdiendo.</desc>
+  <programme start="20230626143000 -0400" stop="20230626152000 -0400" channel="0835">
+    <title lang="en">Traicionada</title>
+    <desc lang="en">Asya es una doctora exitosa y felizmente casada que tiene un hijo y un marido cariñoso.</desc>
   </programme>
-  <programme start="20230626133300 -0400" stop="20230626135600 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <sub-title lang="es">25 La elección de Christie</sub-title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento. Robbie y Pérez luchan por el control de Tremont, con su destino en manos de Christie.</desc>
+  <programme start="20230626152000 -0400" stop="20230626161000 -0400" channel="0835">
+    <title lang="en">Mi casa, mi destino</title>
+    <desc lang="en">Zeynep nació en una familia humilde y fue adoptada por la rica patrona de su madre.</desc>
   </programme>
-  <programme start="20230626135600 -0400" stop="20230626141600 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <sub-title lang="es">26 Casamiento en Tremont</sub-title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento. Los planes de boda de Jerome son saboteados, poniendo su relación en peligro.</desc>
+  <programme start="20230626161000 -0400" stop="20230626170000 -0400" channel="0835">
+    <title lang="en">Amor eterno</title>
+    <desc lang="en">Una zona costera de Estambul es el escenario del romance entre Nihan y Kemal. Nihan, una artista de una opulenta familia, Kemal, un humilde estudiante de Ingeniería. El suyo es un amor imposible, en el que la diferencia de clases que les separa juega en su contra.</desc>
   </programme>
-  <programme start="20230626141600 -0400" stop="20230626144100 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <sub-title lang="es">1 Negocio de familia</sub-title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento. Cuando Christie descubre un perro encerrado ella convoca Rescate Animal. La cesión temporal de coche de un rapero lleva a una persecución a alta velocidad.</desc>
+  <programme start="20230626170000 -0400" stop="20230626175000 -0400" channel="0835">
+    <title lang="en">Doctor Milagro</title>
+    <sub-title lang="en">1. Bolum</sub-title>
+    <desc lang="en">Cuando Ali deja su pueblo natal, recuerdos dolorosos salen a despedirlo. Un accidente en el aeropuerto le impide llegar a tiempo a la reunión más importante de su vida mientras el Comité somete a voto su contratación.</desc>
   </programme>
-  <programme start="20230626144100 -0400" stop="20230626152700 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">6 Competidores 5</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. En este episodio, distintas personas compiten en concursos muy tontos: lucha libre en salsa espesa de carne, carreras de ataúdes y otros desafíos absurdos que te harán doblarte de risa.</desc>
+  <programme start="20230626175000 -0400" stop="20230626184000 -0400" channel="0835">
+    <title lang="en">¿Será que es amor?</title>
+    <desc lang="en">Eda Yildiz, una exitosa estudiante, es expulsada de la universidad cuando pierde su beca.</desc>
   </programme>
-  <programme start="20230626152700 -0400" stop="20230626161200 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">1 Criminales 16</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. Danny Bonaduce, Leif Garrett y Tonya Harding están de regreso y hacen lo que mejor saben hacer: avergonzar a los tontos criminales para que limpien sus actos.</desc>
+  <programme start="20230626184000 -0400" stop="20230626193000 -0400" channel="0835">
+    <title lang="en">Traicionada</title>
+    <desc lang="en">Asya es una doctora exitosa y felizmente casada que tiene un hijo y un marido cariñoso.</desc>
   </programme>
-  <programme start="20230626161200 -0400" stop="20230626165900 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">2 Inventos inteligentes 12</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. Oye, ¡Ojalá hubiéramos pensado en eso! Trutv trae los 20... Inventos más inteligentes que alguna vez salieron al mercado. Hay un frasco para tu trasero, una forma de remodelar tu carne y el último sistema de seguridad para donas que necesitarás.</desc>
+  <programme start="20230626193000 -0400" stop="20230626202000 -0400" channel="0835">
+    <title lang="en">Mi casa, mi destino</title>
+    <desc lang="en">Zeynep nació en una familia humilde y fue adoptada por la rica patrona de su madre.</desc>
   </programme>
-  <programme start="20230626165900 -0400" stop="20230626174400 -0400" channel="0835">
-    <title lang="es">Falling Skies</title>
-    <sub-title lang="es">3 Hatchlings</sub-title>
-    <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. Tom tiene que tomar una difícil decisión que pondrá en peligro a uno de los suyos y tendrá repercusiones para todos.</desc>
+  <programme start="20230626202000 -0400" stop="20230626211000 -0400" channel="0835">
+    <title lang="en">Amor eterno</title>
+    <desc lang="en">Una zona costera de Estambul es el escenario del romance entre Nihan y Kemal. Nihan, una artista de una opulenta familia, Kemal, un humilde estudiante de Ingeniería. El suyo es un amor imposible, en el que la diferencia de clases que les separa juega en su contra.</desc>
   </programme>
-  <programme start="20230626174400 -0400" stop="20230626182800 -0400" channel="0835">
-    <title lang="es">Falling Skies</title>
-    <sub-title lang="es">4 Pope Breaks Bad</sub-title>
-    <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. Una misión encargada de conseguir vehículos y combustible se encuentra con problemas. Cochise comparte malas noticias con Anne, cuyo liderazgo y habilidades médicas deberán pasar una difícil prueba. La estabilidad mental y las lealtades de Anthony serán cuestionadas en tanto que Pope, desesperado, intenta tomar el control de la situación.</desc>
+  <programme start="20230626211000 -0400" stop="20230626220000 -0400" channel="0835">
+    <title lang="en">Te la dedico</title>
+    <desc lang="en">Wilson y Adriana son una pareja de cantantes que se conocen desde muy pequeños.</desc>
   </programme>
-  <programme start="20230626182800 -0400" stop="20230626185200 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">18 La competencia</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. La situación apremia para los cazadores, mientras algunos ganan dinero otros pierden. Desert Dan está de vuelta para calentar el programa mientras que T-Money baila a su propio ritmo. En un intento de proteger su territorio, Brandon y Lori se enfrentan por una unidad que puede ser la más ganadora hasta el momento.</desc>
+  <programme start="20230626220000 -0400" stop="20230626225000 -0400" channel="0835">
+    <title lang="en">Doctor Milagro</title>
+    <sub-title lang="en">1. Bolum</sub-title>
+    <desc lang="en">Cuando Ali deja su pueblo natal, recuerdos dolorosos salen a despedirlo. Un accidente en el aeropuerto le impide llegar a tiempo a la reunión más importante de su vida mientras el Comité somete a voto su contratación.</desc>
   </programme>
-  <programme start="20230626185200 -0400" stop="20230626191500 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">17 Verdad o consecuencia</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. Jesse encuentra un contenedor perdido que puede convertirla en ganadora. Brandon y Lori creen ver un tesoro en un lugar muy extraño. Los chicos nuevos están determinados a dejar fuera de juego al resto.</desc>
+  <programme start="20230626225000 -0400" stop="20230626234000 -0400" channel="0835">
+    <title lang="en">¿Será que es amor?</title>
+    <desc lang="en">Eda Yildiz, una exitosa estudiante, es expulsada de la universidad cuando pierde su beca.</desc>
   </programme>
-  <programme start="20230626191500 -0400" stop="20230626193900 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">19 Leña al fuego</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. En un día repleto de sorpresas explosivas, el equipo de Brandon y Lori tiene grandes esperanzas así como los hermanos Alvarado que apuestan fuerte pero acaban perdiendo.</desc>
+  <programme start="20230626234000 -0400" stop="20230627003000 -0400" channel="0835">
+    <title lang="en">Traicionada</title>
+    <desc lang="en">Asya es una doctora exitosa y felizmente casada que tiene un hijo y un marido cariñoso.</desc>
   </programme>
-  <programme start="20230626193900 -0400" stop="20230626200200 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <sub-title lang="es">25 La elección de Christie</sub-title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento. Robbie y Pérez luchan por el control de Tremont, con su destino en manos de Christie.</desc>
+  <programme start="20230627003000 -0400" stop="20230627012000 -0400" channel="0835">
+    <title lang="en">Mi casa, mi destino</title>
+    <desc lang="en">Zeynep nació en una familia humilde y fue adoptada por la rica patrona de su madre.</desc>
   </programme>
-  <programme start="20230626200200 -0400" stop="20230626202400 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <sub-title lang="es">26 Casamiento en Tremont</sub-title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento. Los planes de boda de Jerome son saboteados, poniendo su relación en peligro.</desc>
+  <programme start="20230627012000 -0400" stop="20230627021000 -0400" channel="0835">
+    <title lang="en">Amor eterno</title>
+    <desc lang="en">Una zona costera de Estambul es el escenario del romance entre Nihan y Kemal. Nihan, una artista de una opulenta familia, Kemal, un humilde estudiante de Ingeniería. El suyo es un amor imposible, en el que la diferencia de clases que les separa juega en su contra.</desc>
   </programme>
-  <programme start="20230626202400 -0400" stop="20230626204800 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <sub-title lang="es">1 Negocio de familia</sub-title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento. Cuando Christie descubre un perro encerrado ella convoca Rescate Animal. La cesión temporal de coche de un rapero lleva a una persecución a alta velocidad.</desc>
+  <programme start="20230627021000 -0400" stop="20230627030000 -0400" channel="0835">
+    <title lang="en">Te la dedico</title>
+    <desc lang="en">Wilson y Adriana son una pareja de cantantes que se conocen desde muy pequeños.</desc>
   </programme>
-  <programme start="20230626204800 -0400" stop="20230626223100 -0400" channel="0835">
-    <title lang="es">Érase una vez en México</title>
-    <desc lang="es">Víctima de una tragedia, El Mariachi lleva una vida solitaria. Un corrupto agente de la CIA acude a él para impedir el asesinato del presidente de México, pero el héroe tendrá sus propios motivos para recuperar su guitarra y volver a la acción. Tras El Mariachi y Desperado, Once Upon a Time in Mexico cierra la trilogía de filmes de Robert Rodríguez sobre el legendario personaje interpretado por Antonio Banderas.</desc>
+  <programme start="20230627030000 -0400" stop="20230627035000 -0400" channel="0835">
+    <title lang="en">Doctor Milagro</title>
+    <sub-title lang="en">1. Bolum</sub-title>
+    <desc lang="en">Cuando Ali deja su pueblo natal, recuerdos dolorosos salen a despedirlo. Un accidente en el aeropuerto le impide llegar a tiempo a la reunión más importante de su vida mientras el Comité somete a voto su contratación.</desc>
   </programme>
-  <programme start="20230626223100 -0400" stop="20230627000000 -0400" channel="0835">
-    <title lang="es">La leyenda de la tumba del dragón</title>
-    <desc lang="es">Travis y su equipo viajan a China en busca de lo que se supone que no debe existir. La misión consiste en capturar un Cryptid que está causando estragos en un pequeño pueblo, y tienen que lograrlo antes de que Harker, el legendario cazador, lo mate.</desc>
+  <programme start="20230627035000 -0400" stop="20230627044000 -0400" channel="0835">
+    <title lang="en">¿Será que es amor?</title>
+    <desc lang="en">Eda Yildiz, una exitosa estudiante, es expulsada de la universidad cuando pierde su beca.</desc>
   </programme>
-  <programme start="20230627000000 -0400" stop="20230627022000 -0400" channel="0835">
-    <title lang="es">El complot</title>
-    <desc lang="es">Un paranoico taxista imagina acerca de las conspiraciones que creé que puede perpetrar. Un día se decide a publicarlo en un volante y es detenido para ser investigación. Pero nunca imaginó que su complot llegaría hasta la CIA.</desc>
+  <programme start="20230627044000 -0400" stop="20230627053000 -0400" channel="0835">
+    <title lang="en">Traicionada</title>
+    <desc lang="en">Asya es una doctora exitosa y felizmente casada que tiene un hijo y un marido cariñoso.</desc>
   </programme>
-  <programme start="20230627022000 -0400" stop="20230627035200 -0400" channel="0835">
-    <title lang="es">El ejecutor</title>
-    <desc lang="es">En una Nueva Orleans devastada por el huracán Katrina, un asesino a sueldo y un detective de Washington forman una inesperada alianza para enfrentar a los asesinos de sus respectivos compañeros.</desc>
+  <programme start="20230627053000 -0400" stop="20230627062000 -0400" channel="0835">
+    <title lang="en">Mi casa, mi destino</title>
+    <desc lang="en">Zeynep nació en una familia humilde y fue adoptada por la rica patrona de su madre.</desc>
   </programme>
-  <programme start="20230627035200 -0400" stop="20230627043600 -0400" channel="0835">
-    <title lang="es">Falling Skies</title>
-    <sub-title lang="es">3 Hatchlings</sub-title>
-    <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. Tom tiene que tomar una difícil decisión que pondrá en peligro a uno de los suyos y tendrá repercusiones para todos.</desc>
+  <programme start="20230627062000 -0400" stop="20230627071000 -0400" channel="0835">
+    <title lang="en">Amor eterno</title>
+    <desc lang="en">Una zona costera de Estambul es el escenario del romance entre Nihan y Kemal. Nihan, una artista de una opulenta familia, Kemal, un humilde estudiante de Ingeniería. El suyo es un amor imposible, en el que la diferencia de clases que les separa juega en su contra.</desc>
   </programme>
-  <programme start="20230627043600 -0400" stop="20230627052200 -0400" channel="0835">
-    <title lang="es">Falling Skies</title>
-    <sub-title lang="es">4 Pope Breaks Bad</sub-title>
-    <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. Una misión encargada de conseguir vehículos y combustible se encuentra con problemas. Cochise comparte malas noticias con Anne, cuyo liderazgo y habilidades médicas deberán pasar una difícil prueba. La estabilidad mental y las lealtades de Anthony serán cuestionadas en tanto que Pope, desesperado, intenta tomar el control de la situación.</desc>
+  <programme start="20230627071000 -0400" stop="20230627080000 -0400" channel="0835">
+    <title lang="en">Te la dedico</title>
+    <desc lang="en">Wilson y Adriana son una pareja de cantantes que se conocen desde muy pequeños.</desc>
   </programme>
-  <programme start="20230627052200 -0400" stop="20230627054600 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">18 La competencia</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. La situación apremia para los cazadores, mientras algunos ganan dinero otros pierden. Desert Dan está de vuelta para calentar el programa mientras que T-Money baila a su propio ritmo. En un intento de proteger su territorio, Brandon y Lori se enfrentan por una unidad que puede ser la más ganadora hasta el momento.</desc>
+  <programme start="20230627080000 -0400" stop="20230627084800 -0400" channel="0835">
+    <title lang="en">Doctor Milagro</title>
+    <sub-title lang="en">1. Bolum</sub-title>
+    <desc lang="en">Cuando Ali deja su pueblo natal, recuerdos dolorosos salen a despedirlo. Un accidente en el aeropuerto le impide llegar a tiempo a la reunión más importante de su vida mientras el Comité somete a voto su contratación.</desc>
   </programme>
-  <programme start="20230627054600 -0400" stop="20230627060900 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">17 Verdad o consecuencia</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. Jesse encuentra un contenedor perdido que puede convertirla en ganadora. Brandon y Lori creen ver un tesoro en un lugar muy extraño. Los chicos nuevos están determinados a dejar fuera de juego al resto.</desc>
+  <programme start="20230627084800 -0400" stop="20230627093600 -0400" channel="0835">
+    <title lang="en">¿Será que es amor?</title>
+    <desc lang="en">Eda Yildiz, una exitosa estudiante, es expulsada de la universidad cuando pierde su beca.</desc>
   </programme>
-  <programme start="20230627060900 -0400" stop="20230627063300 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">19 Leña al fuego</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. En un día repleto de sorpresas explosivas, el equipo de Brandon y Lori tiene grandes esperanzas así como los hermanos Alvarado que apuestan fuerte pero acaban perdiendo.</desc>
+  <programme start="20230627093600 -0400" stop="20230627102400 -0400" channel="0835">
+    <title lang="en">Traicionada</title>
+    <desc lang="en">Asya es una doctora exitosa y felizmente casada que tiene un hijo y un marido cariñoso.</desc>
   </programme>
-  <programme start="20230627063300 -0400" stop="20230627071900 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">6 Competidores 5</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. En este episodio, distintas personas compiten en concursos muy tontos: lucha libre en salsa espesa de carne, carreras de ataúdes y otros desafíos absurdos que te harán doblarte de risa.</desc>
+  <programme start="20230627102400 -0400" stop="20230627111200 -0400" channel="0835">
+    <title lang="en">Mi casa, mi destino</title>
+    <desc lang="en">Zeynep nació en una familia humilde y fue adoptada por la rica patrona de su madre.</desc>
   </programme>
-  <programme start="20230627071900 -0400" stop="20230627075500 -0400" channel="0835">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+  <programme start="20230627111200 -0400" stop="20230627120000 -0400" channel="0835">
+    <title lang="en">Amor eterno</title>
+    <desc lang="en">Una zona costera de Estambul es el escenario del romance entre Nihan y Kemal. Nihan, una artista de una opulenta familia, Kemal, un humilde estudiante de Ingeniería. El suyo es un amor imposible, en el que la diferencia de clases que les separa juega en su contra.</desc>
   </programme>
-  <programme start="20230627075500 -0400" stop="20230627075800 -0400" channel="0835">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual.</desc>
+  <programme start="20230627120000 -0400" stop="20230627125000 -0400" channel="0835">
+    <title lang="en">Te la dedico</title>
+    <desc lang="en">Wilson y Adriana son una pareja de cantantes que se conocen desde muy pequeños.</desc>
   </programme>
-  <programme start="20230627075800 -0400" stop="20230627080000 -0400" channel="0835">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual.</desc>
+  <programme start="20230627125000 -0400" stop="20230627134000 -0400" channel="0835">
+    <title lang="en">Doctor Milagro</title>
+    <sub-title lang="en">1. Bolum</sub-title>
+    <desc lang="en">Cuando Ali deja su pueblo natal, recuerdos dolorosos salen a despedirlo. Un accidente en el aeropuerto le impide llegar a tiempo a la reunión más importante de su vida mientras el Comité somete a voto su contratación.</desc>
   </programme>
-  <programme start="20230627080000 -0400" stop="20230627091400 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">2 Los pendencieros más idiotas del mundo</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. Veinte idiotas entran al ring, ¡pero solo uno triunfará! TruTV muestra las peleas más tontas jamás grabadas en video, desde multimillonarios rusos haciendo ejercicio físico en un programa de entrevistas, peleas en el subterráneo, hasta uno de nuestros miembros del elenco que adora pelear sucio. Y, por supuesto, tenemos comentarios de personajes famosos como Tonya Harding, Danny Bonaduce, Todd Bridges y Frank Stallone.</desc>
+  <programme start="20230627134000 -0400" stop="20230627143000 -0400" channel="0835">
+    <title lang="en">¿Será que es amor?</title>
+    <desc lang="en">Eda Yildiz, una exitosa estudiante, es expulsada de la universidad cuando pierde su beca.</desc>
   </programme>
-  <programme start="20230627091400 -0400" stop="20230627095800 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">13 Los inventos más inteligentes del mundo 6</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. El equipo de 'Los videos más tontos del mundo' cambia esta semana: mostraremos 20 inventos brillantemente innovadores. Si crees que estos productos son tontos, oye, cada uno con lo suyo. Echa un vistazo a nuevas e increíbles ideas para esconder tu bebida, ponerte en forma, desodorizar tus gases y cubrir tu trasero. Cada invención es evaluada exhaustivamente por nuestro elenco de celebridades, con todd bridges, danny bonaduce, tonya harding y daniel baldwin.</desc>
+  <programme start="20230627143000 -0400" stop="20230627152000 -0400" channel="0835">
+    <title lang="en">Traicionada</title>
+    <desc lang="en">Asya es una doctora exitosa y felizmente casada que tiene un hijo y un marido cariñoso.</desc>
   </programme>
-  <programme start="20230627095800 -0400" stop="20230627104200 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">4 Temerarios 8</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. World's Dumbest se esfuerza por hacer que el planeta sea más seguro al exponer las travesurasd idiotas de los temerarios más tontos del mundo.</desc>
+  <programme start="20230627152000 -0400" stop="20230627161000 -0400" channel="0835">
+    <title lang="en">Mi casa, mi destino</title>
+    <desc lang="en">Zeynep nació en una familia humilde y fue adoptada por la rica patrona de su madre.</desc>
   </programme>
-  <programme start="20230627104200 -0400" stop="20230627112600 -0400" channel="0835">
-    <title lang="es">Falling Skies</title>
-    <sub-title lang="es">5 Non-Essential Personnel</sub-title>
-    <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. La 2nd Mass abandonan Chinatown en camino a lo que desean será en final de la batalla Espheni. En el camino se topan con un pistolero desquiciado que toma de rehén a Weaver. Mientras, Tom intenta rescatar a Hal de Pope y su peligroso grupo de sobrevivientes.</desc>
+  <programme start="20230627161000 -0400" stop="20230627170000 -0400" channel="0835">
+    <title lang="en">Amor eterno</title>
+    <desc lang="en">Una zona costera de Estambul es el escenario del romance entre Nihan y Kemal. Nihan, una artista de una opulenta familia, Kemal, un humilde estudiante de Ingeniería. El suyo es un amor imposible, en el que la diferencia de clases que les separa juega en su contra.</desc>
   </programme>
-  <programme start="20230627112600 -0400" stop="20230627120900 -0400" channel="0835">
-    <title lang="es">Falling Skies</title>
-    <sub-title lang="es">6 Respite</sub-title>
-    <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. Cuando Tom, después de resultar herido, se refugia con una familia excepcional que se ha distanciado de la lucha, logra darse una idea de cómo era la vida en tiempos de paz. Mientras Isabella y Hal se dedican a buscar a Tom, el romance entre ambos crece cada vez más. Mientras tanto, la 2nd Mass encuentra un dispositivo Espheni que podría ser la clave para ganar la guerra, siempre y cuando logren averiguar cómo usarlo. Maggie toma una decisión que tendrá consecuencias tanto para ella como para todos los que conforman la 2nd Mass.</desc>
+  <programme start="20230627170000 -0400" stop="20230627175000 -0400" channel="0835">
+    <title lang="en">Doctor Milagro</title>
+    <sub-title lang="en">1. Bolum</sub-title>
+    <desc lang="en">Cuando Ali deja su pueblo natal, recuerdos dolorosos salen a despedirlo. Un accidente en el aeropuerto le impide llegar a tiempo a la reunión más importante de su vida mientras el Comité somete a voto su contratación.</desc>
   </programme>
-  <programme start="20230627120900 -0400" stop="20230627123300 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">20 Métodos peligrosos</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. Brandon y Lori van por el oro, pero encuentran algo aún mejor.</desc>
+  <programme start="20230627175000 -0400" stop="20230627184000 -0400" channel="0835">
+    <title lang="en">¿Será que es amor?</title>
+    <desc lang="en">Eda Yildiz, una exitosa estudiante, es expulsada de la universidad cuando pierde su beca.</desc>
   </programme>
-  <programme start="20230627123300 -0400" stop="20230627125700 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">21 Camioneros</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. Es una de las subastas más caras e inusuales hasta ahora, Sean oferta por el contenido de camiones abandonados.</desc>
+  <programme start="20230627184000 -0400" stop="20230627193000 -0400" channel="0835">
+    <title lang="en">Traicionada</title>
+    <desc lang="en">Asya es una doctora exitosa y felizmente casada que tiene un hijo y un marido cariñoso.</desc>
   </programme>
-  <programme start="20230627125700 -0400" stop="20230627132100 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">22 Cristales</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. Un momento crucial para Papá Oso al hacer una apuesta en un contenido misterioso. Los hermanos Alvarado encuentran una colección de lujo que había pasado desapercibida. Será dinero arrojado a la basura?</desc>
+  <programme start="20230627193000 -0400" stop="20230627202000 -0400" channel="0835">
+    <title lang="en">Mi casa, mi destino</title>
+    <desc lang="en">Zeynep nació en una familia humilde y fue adoptada por la rica patrona de su madre.</desc>
   </programme>
-  <programme start="20230627132100 -0400" stop="20230627134100 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento.</desc>
+  <programme start="20230627202000 -0400" stop="20230627211000 -0400" channel="0835">
+    <title lang="en">Amor eterno</title>
+    <desc lang="en">Una zona costera de Estambul es el escenario del romance entre Nihan y Kemal. Nihan, una artista de una opulenta familia, Kemal, un humilde estudiante de Ingeniería. El suyo es un amor imposible, en el que la diferencia de clases que les separa juega en su contra.</desc>
   </programme>
-  <programme start="20230627134100 -0400" stop="20230627140100 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento.</desc>
+  <programme start="20230627211000 -0400" stop="20230627220000 -0400" channel="0835">
+    <title lang="en">Te la dedico</title>
+    <desc lang="en">Wilson y Adriana son una pareja de cantantes que se conocen desde muy pequeños.</desc>
   </programme>
-  <programme start="20230627140100 -0400" stop="20230627142100 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento.</desc>
+  <programme start="20230627220000 -0400" stop="20230627225000 -0400" channel="0835">
+    <title lang="en">Doctor Milagro</title>
+    <sub-title lang="en">1. Bolum</sub-title>
+    <desc lang="en">Cuando Ali deja su pueblo natal, recuerdos dolorosos salen a despedirlo. Un accidente en el aeropuerto le impide llegar a tiempo a la reunión más importante de su vida mientras el Comité somete a voto su contratación.</desc>
   </programme>
-  <programme start="20230627142100 -0400" stop="20230627150500 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">2 Los pendencieros más idiotas del mundo</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. Veinte idiotas entran al ring, ¡pero solo uno triunfará! TruTV muestra las peleas más tontas jamás grabadas en video, desde multimillonarios rusos haciendo ejercicio físico en un programa de entrevistas, peleas en el subterráneo, hasta uno de nuestros miembros del elenco que adora pelear sucio. Y, por supuesto, tenemos comentarios de personajes famosos como Tonya Harding, Danny Bonaduce, Todd Bridges y Frank Stallone.</desc>
+  <programme start="20230627225000 -0400" stop="20230627234000 -0400" channel="0835">
+    <title lang="en">¿Será que es amor?</title>
+    <desc lang="en">Eda Yildiz, una exitosa estudiante, es expulsada de la universidad cuando pierde su beca.</desc>
   </programme>
-  <programme start="20230627150500 -0400" stop="20230627155200 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">13 Los inventos más inteligentes del mundo 6</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. El equipo de 'Los videos más tontos del mundo' cambia esta semana: mostraremos 20 inventos brillantemente innovadores. Si crees que estos productos son tontos, oye, cada uno con lo suyo. Echa un vistazo a nuevas e increíbles ideas para esconder tu bebida, ponerte en forma, desodorizar tus gases y cubrir tu trasero. Cada invención es evaluada exhaustivamente por nuestro elenco de celebridades, con todd bridges, danny bonaduce, tonya harding y daniel baldwin.</desc>
-  </programme>
-  <programme start="20230627155200 -0400" stop="20230627163700 -0400" channel="0835">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <sub-title lang="es">4 Temerarios 8</sub-title>
-    <desc lang="es">La estupidez es llevada a su punto máximo mientras las carcajadas se suceden unas a otras en un countdown de situaciones tan ridículas como reales protagonizadas por conductores temerarios, criminales torpes, daredevils y ciudadanos alcoholizados entre otros. En Los videos más tontos del mundo los casos reales más absurdos y graciosos son capturados por las cámaras y comentados por un grupo de comediantes y actores: Daniel Baldwin (Homicide: Life on the Street), Todd Bridges (Blanco y Negro) y Danny Bonaduce (La familia Patridge) entre otros, que les agregan aún más humor con sus acotaciones impiadosas y mordaces. Donde haya un riesgo innecesario, una proeza truncada o un conductor fuera de control ahí estarán las cámaras de Los videos más tontos del mundo para hacer de lo estúpido y ridículo algo verdaderamente divertido, siempre que nadie resulte herido de gravedad. World's Dumbest se esfuerza por hacer que el planeta sea más seguro al exponer las travesurasd idiotas de los temerarios más tontos del mundo.</desc>
-  </programme>
-  <programme start="20230627163700 -0400" stop="20230627172300 -0400" channel="0835">
-    <title lang="es">Falling Skies</title>
-    <sub-title lang="es">5 Non-Essential Personnel</sub-title>
-    <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. La 2nd Mass abandonan Chinatown en camino a lo que desean será en final de la batalla Espheni. En el camino se topan con un pistolero desquiciado que toma de rehén a Weaver. Mientras, Tom intenta rescatar a Hal de Pope y su peligroso grupo de sobrevivientes.</desc>
-  </programme>
-  <programme start="20230627172300 -0400" stop="20230627180800 -0400" channel="0835">
-    <title lang="es">Falling Skies</title>
-    <sub-title lang="es">6 Respite</sub-title>
-    <desc lang="es">Narra la historia de la invasión de la tierra por parte de unos agresivos alienígenas que quieren exterminar a los seres humanos. Tom Mason es un antiguo profesor de una universidad de Boston cuya familia ha quedado destrozada por los invasores. Su esposa murió durante el primer ataque, y uno de sus tres hijos fue capturado. Decidido a rescatarlo y a mantener a los otros dos a salvo, Tom tendrá que poner a prueba sus conocimientos de historia militar para convertirse en uno de los líderes del movimiento de resistencia formado por soldados y civiles. Cuando Tom, después de resultar herido, se refugia con una familia excepcional que se ha distanciado de la lucha, logra darse una idea de cómo era la vida en tiempos de paz. Mientras Isabella y Hal se dedican a buscar a Tom, el romance entre ambos crece cada vez más. Mientras tanto, la 2nd Mass encuentra un dispositivo Espheni que podría ser la clave para ganar la guerra, siempre y cuando logren averiguar cómo usarlo. Maggie toma una decisión que tendrá consecuencias tanto para ella como para todos los que conforman la 2nd Mass.</desc>
-  </programme>
-  <programme start="20230627180800 -0400" stop="20230627183200 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">20 Métodos peligrosos</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. Brandon y Lori van por el oro, pero encuentran algo aún mejor.</desc>
-  </programme>
-  <programme start="20230627183200 -0400" stop="20230627185600 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">21 Camioneros</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. Es una de las subastas más caras e inusuales hasta ahora, Sean oferta por el contenido de camiones abandonados.</desc>
-  </programme>
-  <programme start="20230627185600 -0400" stop="20230627192000 -0400" channel="0835">
-    <title lang="es">Tesoros de garaje</title>
-    <sub-title lang="es">22 Cristales</sub-title>
-    <desc lang="es">Con su instinto asesino, los Berniers apuntan a los mejores depósitos del país y hacen un gran esfuerzo por conseguir y develar lo que ocultan. TruTV presenta Tesoros de garaje, el programa que los sigue a través de las subastas más competitivas del país en un viaje en el que arriesgan una fortuna y se enfrentan con ciudadanos locales hostiles. Un momento crucial para Papá Oso al hacer una apuesta en un contenido misterioso. Los hermanos Alvarado encuentran una colección de lujo que había pasado desapercibida. Será dinero arrojado a la basura?</desc>
-  </programme>
-  <programme start="20230627192000 -0400" stop="20230627194000 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento.</desc>
-  </programme>
-  <programme start="20230627194000 -0400" stop="20230627200000 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento.</desc>
-  </programme>
-  <programme start="20230627200000 -0400" stop="20230627202000 -0400" channel="0835">
-    <title lang="es">Remolcadores</title>
-    <desc lang="es">Con producción ejecutiva de Jennifer López, Los remolcadores de South Beach te transporta al agitado mundo de Tremont Towing, una empresa familiar y bien establecida dedicada al negocio de los remolques en la atractiva South Beach, Miami. En esta ciudad, todos los días son una fiesta; y cada año 8 millones de personas llegan para divertirse y vivir la experiencia al máximo. ¿El único problema? No hay suficiente espacio para acomodar tantos autos. Cuando no están trabajando, los miembros del equipo Tremont son una familia como cualquier otra. Pero cuando están de servicio, el dinero manda. Y entre innumerables enfrentamientos y situaciones tan desopilantes como impredecibles, en este show no hay lugar para el aburrimiento.</desc>
-  </programme>
-  <programme start="20230627202000 -0400" stop="20230627220100 -0400" channel="0835">
-    <title lang="es">La leyenda de la tumba del dragón</title>
-    <desc lang="es">Travis y su equipo viajan a China en busca de lo que se supone que no debe existir. La misión consiste en capturar un Cryptid que está causando estragos en un pequeño pueblo, y tienen que lograrlo antes de que Harker, el legendario cazador, lo mate.</desc>
-  </programme>
-  <programme start="20230627220100 -0400" stop="20230628000000 -0400" channel="0835">
-    <title lang="es">Gatúbela</title>
-    <desc lang="es">Patience Phillips, una mujer tímida y sensible, se ve repentinamente dotada con la velocidad, reflejos y sentidos de un gato. Así, comienza a caminar en la fina línea entre criminal y héroe, incluso con el detective Tom Lone siguiéndole el rastro tenazmente, fascinado por sus dos personalidades.</desc>
+  <programme start="20230627234000 -0400" stop="20230628003000 -0400" channel="0835">
+    <title lang="en">Traicionada</title>
+    <desc lang="en">Asya es una doctora exitosa y felizmente casada que tiene un hijo y un marido cariñoso.</desc>
   </programme>
   <programme start="20230626010000 -0400" stop="20230626025500 -0400" channel="0836">
     <title lang="es">Los indestructibles 2</title>
@@ -25359,9 +25289,9 @@
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
   </programme>
-  <programme start="20230626134500 -0400" stop="20230626143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
+  <programme start="20230626130000 -0400" stop="20230626141500 -0400" channel="0153">
+    <title lang="es">Efemérides</title>
+    <desc lang="es">Cada día una nueva historia en Bío Bío TV.</desc>
   </programme>
   <programme start="20230626143000 -0400" stop="20230626153000 -0400" channel="0153">
     <title lang="es">El Tablón</title>
