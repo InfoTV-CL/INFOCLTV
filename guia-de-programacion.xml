@@ -5423,6 +5423,9 @@
   <programme start="20230704113000 -0400" stop="20230704120000 -0400" channel="0205">
     <title lang="es">Todo gol</title>
   </programme>
+  <programme start="20230704120000 -0400" stop="20230704120300 -0400" channel="0205">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20230704120300 -0400" stop="20230704123000 -0400" channel="0205">
     <title lang="es">Visión futuro</title>
   </programme>
@@ -12476,6 +12479,835 @@
     <sub-title lang="es">2 Todos con lava en la pizza / Mascotas escolares prehistóricas</sub-title>
     <desc lang="es">Una joven inventora vive en un mundo prehistórico fantástico. Ella diseña instrumentos y artilugios con la esperanza de hacer de su comunidad un lugar mejor y con la intención de llevar a su gente a una era más moderna. Con la ayuda de su familia, su docente, sus mejores amigos Barry y Pepper y su mascota mamut Murphy, Eureka aprenderá que es una niña extraordinaria.</desc>
   </programme>
+  <programme start="20230702230000 -0400" stop="20230702231500 -0400" channel="0312">
+    <title lang="es">Motorjon</title>
+    <sub-title lang="es">Motorjon</sub-title>
+    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
+  </programme>
+  <programme start="20230702231500 -0400" stop="20230702233000 -0400" channel="0312">
+    <title lang="es">Tina y Tony</title>
+    <sub-title lang="es">Tina y Tony</sub-title>
+    <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
+  </programme>
+  <programme start="20230702233000 -0400" stop="20230702234500 -0400" channel="0312">
+    <title lang="es">Pompón</title>
+    <sub-title lang="es">Pompón</sub-title>
+  </programme>
+  <programme start="20230702234500 -0400" stop="20230703000000 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230703000000 -0400" stop="20230703001500 -0400" channel="0312">
+    <title lang="es">Pasaba por acá... Chikuchis</title>
+    <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
+    <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
+  </programme>
+  <programme start="20230703001500 -0400" stop="20230703003000 -0400" channel="0312">
+    <title lang="es">Horacio y los plasticines</title>
+    <sub-title lang="es">Horacio y los plasticines</sub-title>
+    <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
+  </programme>
+  <programme start="20230703003000 -0400" stop="20230703004500 -0400" channel="0312">
+    <title lang="es">Ernest y Celestine</title>
+    <title lang="en">Ernest et Célestine - La collection</title>
+    <sub-title lang="es">Ernest y Celestine</sub-title>
+    <desc lang="es">No está bien visto que un oso se haga amigo de una laucha. Y sin embargo, Ernest, payaso y músico, aloja en su casa a Célestine, pequeña huerfanita, apasionada por el dibujo y la escritura.</desc>
+  </programme>
+  <programme start="20230703004500 -0400" stop="20230703010000 -0400" channel="0312">
+    <title lang="es">Pichintún</title>
+    <sub-title lang="es">Pichintún</sub-title>
+    <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
+  </programme>
+  <programme start="20230703010000 -0400" stop="20230703011500 -0400" channel="0312">
+    <title lang="es">Monstruos rodantes</title>
+    <sub-title lang="es">Monstruos rodantes</sub-title>
+    <desc lang="es">Cuatro monstruos forman parte de un circo ambulante. Llevan su espectáculo por distintos pueblos y montan una función con trucos de magia, pruebas y desafíos de altura, malabares y trucos típicos del circo.</desc>
+  </programme>
+  <programme start="20230703011500 -0400" stop="20230703013000 -0400" channel="0312">
+    <title lang="es">Medialuna</title>
+    <sub-title lang="es">Medialuna</sub-title>
+    <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
+  </programme>
+  <programme start="20230703013000 -0400" stop="20230703014500 -0400" channel="0312">
+    <title lang="es">Tainá y los guardianes del Amazonas</title>
+    <title lang="en">Tainá, e os guardiões da Amazônia</title>
+    <sub-title lang="es">Tainá y los guardianes del Amazonas</sub-title>
+    <desc lang="es">Esta animación en 3D es una adaptación de la trilogía de éxito del cine brasileño que tiene como protagonista a la indiecita Tainá que, junto a sus amigos, protege la Selva Amazónica, su fauna y flora.</desc>
+  </programme>
+  <programme start="20230703014500 -0400" stop="20230703020000 -0400" channel="0312">
+    <title lang="es">Misho y Robin</title>
+    <title lang="en">Misho and Robin</title>
+    <sub-title lang="es">Misho y Robin</sub-title>
+    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
+  </programme>
+  <programme start="20230703020000 -0400" stop="20230703021500 -0400" channel="0312">
+    <title lang="es">Kiwi y Strit</title>
+    <title lang="en">Kiwi &amp; Strit</title>
+    <sub-title lang="es">Kiwi y Strit</sub-title>
+    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+  </programme>
+  <programme start="20230703021500 -0400" stop="20230703023000 -0400" channel="0312">
+    <title lang="es">Rita y Cocodrilo</title>
+    <sub-title lang="es">Rita y Cocodrilo</sub-title>
+    <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
+  </programme>
+  <programme start="20230703023000 -0400" stop="20230703024500 -0400" channel="0312">
+    <title lang="es">Lyn y Babas</title>
+    <sub-title lang="es">Lyn y Babas</sub-title>
+  </programme>
+  <programme start="20230703024500 -0400" stop="20230703030000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230703030000 -0400" stop="20230703031500 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230703031500 -0400" stop="20230703033000 -0400" channel="0312">
+    <title lang="es">¡No exageres, Enzo!</title>
+    <sub-title lang="es">¡No exageres, Enzo!</sub-title>
+    <desc lang="es">Sigue las aventuras de Enzo, un niño de seis años travieso e imaginativo que empieza a descubrir el mundo y a sí mismo.</desc>
+  </programme>
+  <programme start="20230703033000 -0400" stop="20230703034500 -0400" channel="0312">
+    <title lang="es">Chambi y Max refugio</title>
+    <sub-title lang="es">Chambi y Max refugio</sub-title>
+    <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
+  </programme>
+  <programme start="20230703034500 -0400" stop="20230703040000 -0400" channel="0312">
+    <title lang="es">Muchas manos en el plato</title>
+    <sub-title lang="es">Muchas manos en el plato</sub-title>
+    <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
+  </programme>
+  <programme start="20230703040000 -0400" stop="20230703043000 -0400" channel="0312">
+    <title lang="es">Zamba</title>
+    <sub-title lang="es">Zamba</sub-title>
+  </programme>
+  <programme start="20230703043000 -0400" stop="20230703044500 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230703044500 -0400" stop="20230703050000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230703050000 -0400" stop="20230703060000 -0400" channel="0312">
+    <title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</title>
+    <sub-title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</sub-title>
+    <desc lang="es">Mauricio Vila y Mar Mediavilla junto a Zamba y Nina, recorren diferentes lugares del país y viven increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230703060000 -0400" stop="20230703061500 -0400" channel="0312">
+    <title lang="es">Chikuchis</title>
+    <sub-title lang="es">Chikuchis</sub-title>
+    <desc lang="es">Los chikuchis son un grupo muy singular de títeres. Como los chicos, cada uno tiene su personalidad, gustos, maneras de divertirse, forma de hablar y de ser. Aunque son todos distintos, ellos se parecen en algo: son muy buenos amigos.</desc>
+  </programme>
+  <programme start="20230703061500 -0400" stop="20230703063000 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230703063000 -0400" stop="20230703064500 -0400" channel="0312">
+    <title lang="es">Minimalitos</title>
+    <sub-title lang="es">Minimalitos</sub-title>
+    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
+  </programme>
+  <programme start="20230703064500 -0400" stop="20230703070000 -0400" channel="0312">
+    <title lang="es">Minimalitos</title>
+    <sub-title lang="es">Minimalitos</sub-title>
+    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
+  </programme>
+  <programme start="20230703070000 -0400" stop="20230703071500 -0400" channel="0312">
+    <title lang="es">Motorjon</title>
+    <sub-title lang="es">Motorjon</sub-title>
+    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
+  </programme>
+  <programme start="20230703071500 -0400" stop="20230703073000 -0400" channel="0312">
+    <title lang="es">Tina y Tony</title>
+    <sub-title lang="es">Tina y Tony</sub-title>
+    <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
+  </programme>
+  <programme start="20230703073000 -0400" stop="20230703074500 -0400" channel="0312">
+    <title lang="es">Pompón</title>
+    <sub-title lang="es">Pompón</sub-title>
+  </programme>
+  <programme start="20230703074500 -0400" stop="20230703080000 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230703080000 -0400" stop="20230703081500 -0400" channel="0312">
+    <title lang="es">Pasaba por acá... Chikuchis</title>
+    <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
+    <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
+  </programme>
+  <programme start="20230703081500 -0400" stop="20230703083000 -0400" channel="0312">
+    <title lang="es">Horacio y los plasticines</title>
+    <sub-title lang="es">Horacio y los plasticines</sub-title>
+    <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
+  </programme>
+  <programme start="20230703083000 -0400" stop="20230703084500 -0400" channel="0312">
+    <title lang="es">Ernest y Celestine</title>
+    <title lang="en">Ernest et Célestine - La collection</title>
+    <sub-title lang="es">Ernest y Celestine</sub-title>
+    <desc lang="es">No está bien visto que un oso se haga amigo de una laucha. Y sin embargo, Ernest, payaso y músico, aloja en su casa a Célestine, pequeña huerfanita, apasionada por el dibujo y la escritura.</desc>
+  </programme>
+  <programme start="20230703084500 -0400" stop="20230703090000 -0400" channel="0312">
+    <title lang="es">Pichintún</title>
+    <sub-title lang="es">Pichintún</sub-title>
+    <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
+  </programme>
+  <programme start="20230703090000 -0400" stop="20230703091500 -0400" channel="0312">
+    <title lang="es">Monstruos rodantes</title>
+    <sub-title lang="es">Monstruos rodantes</sub-title>
+    <desc lang="es">Cuatro monstruos forman parte de un circo ambulante. Llevan su espectáculo por distintos pueblos y montan una función con trucos de magia, pruebas y desafíos de altura, malabares y trucos típicos del circo.</desc>
+  </programme>
+  <programme start="20230703091500 -0400" stop="20230703093000 -0400" channel="0312">
+    <title lang="es">Medialuna</title>
+    <sub-title lang="es">Medialuna</sub-title>
+    <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
+  </programme>
+  <programme start="20230703093000 -0400" stop="20230703094500 -0400" channel="0312">
+    <title lang="es">Tainá y los guardianes del Amazonas</title>
+    <title lang="en">Tainá, e os guardiões da Amazônia</title>
+    <sub-title lang="es">Tainá y los guardianes del Amazonas</sub-title>
+    <desc lang="es">Esta animación en 3D es una adaptación de la trilogía de éxito del cine brasileño que tiene como protagonista a la indiecita Tainá que, junto a sus amigos, protege la Selva Amazónica, su fauna y flora.</desc>
+  </programme>
+  <programme start="20230703094500 -0400" stop="20230703100000 -0400" channel="0312">
+    <title lang="es">Misho y Robin</title>
+    <title lang="en">Misho and Robin</title>
+    <sub-title lang="es">Misho y Robin</sub-title>
+    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
+  </programme>
+  <programme start="20230703100000 -0400" stop="20230703101500 -0400" channel="0312">
+    <title lang="es">Kiwi y Strit</title>
+    <title lang="en">Kiwi &amp; Strit</title>
+    <sub-title lang="es">Kiwi y Strit</sub-title>
+    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+  </programme>
+  <programme start="20230703101500 -0400" stop="20230703103000 -0400" channel="0312">
+    <title lang="es">Rita y Cocodrilo</title>
+    <sub-title lang="es">Rita y Cocodrilo</sub-title>
+    <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
+  </programme>
+  <programme start="20230703103000 -0400" stop="20230703104500 -0400" channel="0312">
+    <title lang="es">Lyn y Babas</title>
+    <sub-title lang="es">Lyn y Babas</sub-title>
+  </programme>
+  <programme start="20230703104500 -0400" stop="20230703110000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230703110000 -0400" stop="20230703111500 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230703111500 -0400" stop="20230703113000 -0400" channel="0312">
+    <title lang="es">¡No exageres, Enzo!</title>
+    <sub-title lang="es">¡No exageres, Enzo!</sub-title>
+    <desc lang="es">Sigue las aventuras de Enzo, un niño de seis años travieso e imaginativo que empieza a descubrir el mundo y a sí mismo.</desc>
+  </programme>
+  <programme start="20230703113000 -0400" stop="20230703114500 -0400" channel="0312">
+    <title lang="es">Chambi y Max refugio</title>
+    <sub-title lang="es">Chambi y Max refugio</sub-title>
+    <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
+  </programme>
+  <programme start="20230703114500 -0400" stop="20230703120000 -0400" channel="0312">
+    <title lang="es">Muchas manos en el plato</title>
+    <sub-title lang="es">Muchas manos en el plato</sub-title>
+    <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
+  </programme>
+  <programme start="20230703120000 -0400" stop="20230703123000 -0400" channel="0312">
+    <title lang="es">El asombroso mundo de Zamba</title>
+    <sub-title lang="es">El asombroso mundo de Zamba</sub-title>
+    <desc lang="es">Serie de animación que recrea los principales sucesos de la historia argentina vistos desde la mirada de un niño que viaja en el tiempo: el simpático Zamba, acompañado de su amiga Niña, una mulata muy inteligente.</desc>
+  </programme>
+  <programme start="20230703123000 -0400" stop="20230703124500 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230703124500 -0400" stop="20230703130000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230703130000 -0400" stop="20230703140000 -0400" channel="0312">
+    <title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</title>
+    <sub-title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</sub-title>
+    <desc lang="es">Mauricio Vila y Mar Mediavilla junto a Zamba y Nina, recorren diferentes lugares del país y viven increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230703140000 -0400" stop="20230703141500 -0400" channel="0312">
+    <title lang="es">Chikuchis</title>
+    <sub-title lang="es">Chikuchis</sub-title>
+    <desc lang="es">Los chikuchis son un grupo muy singular de títeres. Como los chicos, cada uno tiene su personalidad, gustos, maneras de divertirse, forma de hablar y de ser. Aunque son todos distintos, ellos se parecen en algo: son muy buenos amigos.</desc>
+  </programme>
+  <programme start="20230703141500 -0400" stop="20230703143000 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230703143000 -0400" stop="20230703144500 -0400" channel="0312">
+    <title lang="es">Tainá y los guardianes del Amazonas</title>
+    <title lang="en">Tainá, e os guardiões da Amazônia</title>
+    <sub-title lang="es">Tainá y los guardianes del Amazonas</sub-title>
+    <desc lang="es">Esta animación en 3D es una adaptación de la trilogía de éxito del cine brasileño que tiene como protagonista a la indiecita Tainá que, junto a sus amigos, protege la Selva Amazónica, su fauna y flora.</desc>
+  </programme>
+  <programme start="20230703144500 -0400" stop="20230703150000 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230703150000 -0400" stop="20230703151500 -0400" channel="0312">
+    <title lang="es">Las palabras de la magia</title>
+    <sub-title lang="es">Las palabras de la magia</sub-title>
+    <desc lang="es">Las aventuras de Úrsula, una niña pequeña que es entrenada por sus tres tías brujas y la gran maestra Orunelia para descubrir su don, su verdadera vocación.</desc>
+  </programme>
+  <programme start="20230703151500 -0400" stop="20230703153000 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230703153000 -0400" stop="20230703154500 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230703154500 -0400" stop="20230703160000 -0400" channel="0312">
+    <title lang="es">Chambi y Max refugio</title>
+    <sub-title lang="es">Chambi y Max refugio</sub-title>
+    <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
+  </programme>
+  <programme start="20230703160000 -0400" stop="20230703163000 -0400" channel="0312">
+    <title lang="es">Annedroids</title>
+    <sub-title lang="es">Annedroids</sub-title>
+    <desc lang="es">Anne es una niña de once años que inventa y construye sus propios androides increíbles. Ella y Nick ayudan a resolver problemas científicos a través de soluciones de la vida real.</desc>
+  </programme>
+  <programme start="20230703163000 -0400" stop="20230703164500 -0400" channel="0312">
+    <title lang="es">Experimentores</title>
+    <sub-title lang="es">Experimentores</sub-title>
+    <desc lang="es">A partir de sorprendentes experimentos de física y química, e insólitas reacciones en cámara superlenta, esta serie revela cómo funciona el universo que nos rodea y demuestra que la ciencia puede ser una actividad lúdica y divertida.</desc>
+  </programme>
+  <programme start="20230703164500 -0400" stop="20230703170000 -0400" channel="0312">
+    <title lang="es">Inteligencia animal</title>
+    <sub-title lang="es">Inteligencia animal</sub-title>
+    <desc lang="es">Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.</desc>
+  </programme>
+  <programme start="20230703170000 -0400" stop="20230703173000 -0400" channel="0312">
+    <title lang="es">Zamba</title>
+    <sub-title lang="es">Zamba</sub-title>
+  </programme>
+  <programme start="20230703173000 -0400" stop="20230703174500 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230703174500 -0400" stop="20230703180000 -0400" channel="0312">
+    <title lang="es">La orquestita</title>
+    <sub-title lang="es">La orquestita</sub-title>
+    <desc lang="es">Juan, Vale y Toto quieren saber cómo se hace una canción. Juntos parten a bordo del camión del abuelo Juan Barbas para visitar extraños mundos y encontrar respuestas a sus preguntas musicales.</desc>
+  </programme>
+  <programme start="20230703180000 -0400" stop="20230703181500 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230703181500 -0400" stop="20230703183000 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230703183000 -0400" stop="20230703184500 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230703184500 -0400" stop="20230703190000 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230703190000 -0400" stop="20230703200000 -0400" channel="0312">
+    <title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</title>
+    <sub-title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</sub-title>
+    <desc lang="es">Mauricio Vila y Mar Mediavilla junto a Zamba y Nina, recorren diferentes lugares del país y viven increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230703200000 -0400" stop="20230703201500 -0400" channel="0312">
+    <title lang="es">Ciro Todorov</title>
+    <sub-title lang="es">Ciro Todorov</sub-title>
+    <desc lang="es">Ciro Todorov es un niño huraño y lúgubre que vive rodeado de fantasmas y criaturas en aquella gran casa de la colina, al lado del cementerio. Los niños del pueblo le temen, aunque a él eso no le molesta demasiado.</desc>
+  </programme>
+  <programme start="20230703201500 -0400" stop="20230703203000 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230703203000 -0400" stop="20230703204500 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230703204500 -0400" stop="20230703210000 -0400" channel="0312">
+    <title lang="es">Hostal Morrison</title>
+    <sub-title lang="es">Hostal Morrison</sub-title>
+    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
+  </programme>
+  <programme start="20230703210000 -0400" stop="20230703211500 -0400" channel="0312">
+    <title lang="es">Hostal Morrison</title>
+    <sub-title lang="es">Hostal Morrison</sub-title>
+    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
+  </programme>
+  <programme start="20230703211500 -0400" stop="20230703214500 -0400" channel="0312">
+    <title lang="es">Zamba</title>
+    <sub-title lang="es">Zamba</sub-title>
+  </programme>
+  <programme start="20230703214500 -0400" stop="20230703220000 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230703220000 -0400" stop="20230703221500 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230703221500 -0400" stop="20230703223000 -0400" channel="0312">
+    <title lang="es">La orquestita</title>
+    <sub-title lang="es">La orquestita</sub-title>
+    <desc lang="es">Juan, Vale y Toto quieren saber cómo se hace una canción. Juntos parten a bordo del camión del abuelo Juan Barbas para visitar extraños mundos y encontrar respuestas a sus preguntas musicales.</desc>
+  </programme>
+  <programme start="20230703223000 -0400" stop="20230703224500 -0400" channel="0312">
+    <title lang="es">Las palabras de la magia</title>
+    <sub-title lang="es">Las palabras de la magia</sub-title>
+    <desc lang="es">Las aventuras de Úrsula, una niña pequeña que es entrenada por sus tres tías brujas y la gran maestra Orunelia para descubrir su don, su verdadera vocación.</desc>
+  </programme>
+  <programme start="20230703224500 -0400" stop="20230703230000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230704224500 -0400" stop="20230704230000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230704230000 -0400" stop="20230704231500 -0400" channel="0312">
+    <title lang="es">Motorjon</title>
+    <sub-title lang="es">Motorjon</sub-title>
+    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
+  </programme>
+  <programme start="20230704231500 -0400" stop="20230704233000 -0400" channel="0312">
+    <title lang="es">Tina y Tony</title>
+    <sub-title lang="es">Tina y Tony</sub-title>
+    <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
+  </programme>
+  <programme start="20230704233000 -0400" stop="20230704234500 -0400" channel="0312">
+    <title lang="es">Pompón</title>
+    <sub-title lang="es">Pompón</sub-title>
+  </programme>
+  <programme start="20230704234500 -0400" stop="20230705000000 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230705000000 -0400" stop="20230705001500 -0400" channel="0312">
+    <title lang="es">Pasaba por acá... Chikuchis</title>
+    <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
+    <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
+  </programme>
+  <programme start="20230705001500 -0400" stop="20230705003000 -0400" channel="0312">
+    <title lang="es">Horacio y los plasticines</title>
+    <sub-title lang="es">Horacio y los plasticines</sub-title>
+    <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
+  </programme>
+  <programme start="20230705003000 -0400" stop="20230705004500 -0400" channel="0312">
+    <title lang="es">Ernest y Celestine</title>
+    <title lang="en">Ernest et Célestine - La collection</title>
+    <sub-title lang="es">Ernest y Celestine</sub-title>
+    <desc lang="es">No está bien visto que un oso se haga amigo de una laucha. Y sin embargo, Ernest, payaso y músico, aloja en su casa a Célestine, pequeña huerfanita, apasionada por el dibujo y la escritura.</desc>
+  </programme>
+  <programme start="20230705004500 -0400" stop="20230705010000 -0400" channel="0312">
+    <title lang="es">Pichintún</title>
+    <sub-title lang="es">Pichintún</sub-title>
+    <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
+  </programme>
+  <programme start="20230705010000 -0400" stop="20230705011500 -0400" channel="0312">
+    <title lang="es">Monstruos rodantes</title>
+    <sub-title lang="es">Monstruos rodantes</sub-title>
+    <desc lang="es">Cuatro monstruos forman parte de un circo ambulante. Llevan su espectáculo por distintos pueblos y montan una función con trucos de magia, pruebas y desafíos de altura, malabares y trucos típicos del circo.</desc>
+  </programme>
+  <programme start="20230705011500 -0400" stop="20230705013000 -0400" channel="0312">
+    <title lang="es">Medialuna</title>
+    <sub-title lang="es">Medialuna</sub-title>
+    <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
+  </programme>
+  <programme start="20230705013000 -0400" stop="20230705014500 -0400" channel="0312">
+    <title lang="es">Tainá y los guardianes del Amazonas</title>
+    <title lang="en">Tainá, e os guardiões da Amazônia</title>
+    <sub-title lang="es">Tainá y los guardianes del Amazonas</sub-title>
+    <desc lang="es">Esta animación en 3D es una adaptación de la trilogía de éxito del cine brasileño que tiene como protagonista a la indiecita Tainá que, junto a sus amigos, protege la Selva Amazónica, su fauna y flora.</desc>
+  </programme>
+  <programme start="20230705014500 -0400" stop="20230705020000 -0400" channel="0312">
+    <title lang="es">Misho y Robin</title>
+    <title lang="en">Misho and Robin</title>
+    <sub-title lang="es">Misho y Robin</sub-title>
+    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
+  </programme>
+  <programme start="20230705020000 -0400" stop="20230705021500 -0400" channel="0312">
+    <title lang="es">Kiwi y Strit</title>
+    <title lang="en">Kiwi &amp; Strit</title>
+    <sub-title lang="es">Kiwi y Strit</sub-title>
+    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+  </programme>
+  <programme start="20230705021500 -0400" stop="20230705023000 -0400" channel="0312">
+    <title lang="es">Rita y Cocodrilo</title>
+    <sub-title lang="es">Rita y Cocodrilo</sub-title>
+    <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
+  </programme>
+  <programme start="20230705023000 -0400" stop="20230705024500 -0400" channel="0312">
+    <title lang="es">Lyn y Babas</title>
+    <sub-title lang="es">Lyn y Babas</sub-title>
+  </programme>
+  <programme start="20230705024500 -0400" stop="20230705030000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230705030000 -0400" stop="20230705031500 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230705031500 -0400" stop="20230705033000 -0400" channel="0312">
+    <title lang="es">¡No exageres, Enzo!</title>
+    <sub-title lang="es">¡No exageres, Enzo!</sub-title>
+    <desc lang="es">Sigue las aventuras de Enzo, un niño de seis años travieso e imaginativo que empieza a descubrir el mundo y a sí mismo.</desc>
+  </programme>
+  <programme start="20230705033000 -0400" stop="20230705034500 -0400" channel="0312">
+    <title lang="es">Chambi y Max refugio</title>
+    <sub-title lang="es">Chambi y Max refugio</sub-title>
+    <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
+  </programme>
+  <programme start="20230705034500 -0400" stop="20230705040000 -0400" channel="0312">
+    <title lang="es">Muchas manos en el plato</title>
+    <sub-title lang="es">Muchas manos en el plato</sub-title>
+    <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
+  </programme>
+  <programme start="20230705040000 -0400" stop="20230705043000 -0400" channel="0312">
+    <title lang="es">Zamba</title>
+    <sub-title lang="es">Zamba</sub-title>
+  </programme>
+  <programme start="20230705043000 -0400" stop="20230705044500 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230705044500 -0400" stop="20230705050000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230705050000 -0400" stop="20230705060000 -0400" channel="0312">
+    <title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</title>
+    <sub-title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</sub-title>
+    <desc lang="es">Mauricio Vila y Mar Mediavilla junto a Zamba y Nina, recorren diferentes lugares del país y viven increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230705060000 -0400" stop="20230705061500 -0400" channel="0312">
+    <title lang="es">Chikuchis</title>
+    <sub-title lang="es">Chikuchis</sub-title>
+    <desc lang="es">Los chikuchis son un grupo muy singular de títeres. Como los chicos, cada uno tiene su personalidad, gustos, maneras de divertirse, forma de hablar y de ser. Aunque son todos distintos, ellos se parecen en algo: son muy buenos amigos.</desc>
+  </programme>
+  <programme start="20230705061500 -0400" stop="20230705063000 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230705063000 -0400" stop="20230705064500 -0400" channel="0312">
+    <title lang="es">Minimalitos</title>
+    <sub-title lang="es">Minimalitos</sub-title>
+    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
+  </programme>
+  <programme start="20230705064500 -0400" stop="20230705070000 -0400" channel="0312">
+    <title lang="es">Minimalitos</title>
+    <sub-title lang="es">Minimalitos</sub-title>
+    <desc lang="es">Aborda con imaginación y humor situaciones cotidianas que viven los niños que empiezan la escuela, como las relaciones entre ellos, con sus padres y los maestros. También conoce como son sus emociones ante distintas circunstancias.</desc>
+  </programme>
+  <programme start="20230705070000 -0400" stop="20230705071500 -0400" channel="0312">
+    <title lang="es">Motorjon</title>
+    <sub-title lang="es">Motorjon</sub-title>
+    <desc lang="es">Las aventuras de una familia de conejos que recorre el mundo en una casa rodante. Desde allí descubren caminos con paisajes, canciones, amigos y sorpresas, siempre atentos al cuidado del medio ambiente.</desc>
+  </programme>
+  <programme start="20230705071500 -0400" stop="20230705073000 -0400" channel="0312">
+    <title lang="es">Tina y Tony</title>
+    <sub-title lang="es">Tina y Tony</sub-title>
+    <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
+  </programme>
+  <programme start="20230705073000 -0400" stop="20230705074500 -0400" channel="0312">
+    <title lang="es">Pompón</title>
+    <sub-title lang="es">Pompón</sub-title>
+  </programme>
+  <programme start="20230705074500 -0400" stop="20230705080000 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230705080000 -0400" stop="20230705081500 -0400" channel="0312">
+    <title lang="es">Pasaba por acá... Chikuchis</title>
+    <sub-title lang="es">Pasaba por acá... Chikuchis</sub-title>
+    <desc lang="es">En cada capítulo los visita una invitada o invitado con quien comparten una charla llena de historias y divertidas ocurrencias.</desc>
+  </programme>
+  <programme start="20230705081500 -0400" stop="20230705083000 -0400" channel="0312">
+    <title lang="es">Horacio y los plasticines</title>
+    <sub-title lang="es">Horacio y los plasticines</sub-title>
+    <desc lang="es">Todos los días al volver del jardín infantil, Horacio entra a su habitación en donde lo esperan sus mágicos amigos Los Plasticines, cuatro barras de plastilina que viven sobre una mesa de manualidades.</desc>
+  </programme>
+  <programme start="20230705083000 -0400" stop="20230705084500 -0400" channel="0312">
+    <title lang="es">Ernest y Celestine</title>
+    <title lang="en">Ernest et Célestine - La collection</title>
+    <sub-title lang="es">Ernest y Celestine</sub-title>
+    <desc lang="es">No está bien visto que un oso se haga amigo de una laucha. Y sin embargo, Ernest, payaso y músico, aloja en su casa a Célestine, pequeña huerfanita, apasionada por el dibujo y la escritura.</desc>
+  </programme>
+  <programme start="20230705084500 -0400" stop="20230705090000 -0400" channel="0312">
+    <title lang="es">Pichintún</title>
+    <sub-title lang="es">Pichintún</sub-title>
+    <desc lang="es">Historias de niñas y niños que pertenecen a distintos pueblos originarios de Chile (aymara, mapuche y rapanui).</desc>
+  </programme>
+  <programme start="20230705090000 -0400" stop="20230705091500 -0400" channel="0312">
+    <title lang="es">Monstruos rodantes</title>
+    <sub-title lang="es">Monstruos rodantes</sub-title>
+    <desc lang="es">Cuatro monstruos forman parte de un circo ambulante. Llevan su espectáculo por distintos pueblos y montan una función con trucos de magia, pruebas y desafíos de altura, malabares y trucos típicos del circo.</desc>
+  </programme>
+  <programme start="20230705091500 -0400" stop="20230705093000 -0400" channel="0312">
+    <title lang="es">Medialuna</title>
+    <sub-title lang="es">Medialuna</sub-title>
+    <desc lang="es">La princesa Medialuna vive en la selva, en un reino donde, por el hechizo de un malvado brujo, todos los habitantes se han convertido en sapos. Ella y su amigo príncipe tendrán que cuidarse del maleficio y vivirán divertidas aventuras.</desc>
+  </programme>
+  <programme start="20230705093000 -0400" stop="20230705094500 -0400" channel="0312">
+    <title lang="es">Tainá y los guardianes del Amazonas</title>
+    <title lang="en">Tainá, e os guardiões da Amazônia</title>
+    <sub-title lang="es">Tainá y los guardianes del Amazonas</sub-title>
+    <desc lang="es">Esta animación en 3D es una adaptación de la trilogía de éxito del cine brasileño que tiene como protagonista a la indiecita Tainá que, junto a sus amigos, protege la Selva Amazónica, su fauna y flora.</desc>
+  </programme>
+  <programme start="20230705094500 -0400" stop="20230705100000 -0400" channel="0312">
+    <title lang="es">Misho y Robin</title>
+    <title lang="en">Misho and Robin</title>
+    <sub-title lang="es">Misho y Robin</sub-title>
+    <desc lang="es">Misho, un gatito curioso, y Robin, un petirrojo sabio, son mejores amigos y un dúo inseparable en sus travesuras y aventuras.</desc>
+  </programme>
+  <programme start="20230705100000 -0400" stop="20230705101500 -0400" channel="0312">
+    <title lang="es">Kiwi y Strit</title>
+    <title lang="en">Kiwi &amp; Strit</title>
+    <sub-title lang="es">Kiwi y Strit</sub-title>
+    <desc lang="es">Dos amigos inseparables, Kiwi y Strit, tendrán las más locas aventuras en su hogar, un precioso bosque.</desc>
+  </programme>
+  <programme start="20230705101500 -0400" stop="20230705103000 -0400" channel="0312">
+    <title lang="es">Rita y Cocodrilo</title>
+    <sub-title lang="es">Rita y Cocodrilo</sub-title>
+    <desc lang="es">Rita, una niña de cuatro años con un carácter fuerte, descubre el mundo en compañía de su fiel amigo, Cocodrile, que vive en una bañera y solo piensa en comer como cualquier buen cocodrilo.</desc>
+  </programme>
+  <programme start="20230705103000 -0400" stop="20230705104500 -0400" channel="0312">
+    <title lang="es">Lyn y Babas</title>
+    <sub-title lang="es">Lyn y Babas</sub-title>
+  </programme>
+  <programme start="20230705104500 -0400" stop="20230705110000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230705110000 -0400" stop="20230705111500 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230705111500 -0400" stop="20230705113000 -0400" channel="0312">
+    <title lang="es">¡No exageres, Enzo!</title>
+    <sub-title lang="es">¡No exageres, Enzo!</sub-title>
+    <desc lang="es">Sigue las aventuras de Enzo, un niño de seis años travieso e imaginativo que empieza a descubrir el mundo y a sí mismo.</desc>
+  </programme>
+  <programme start="20230705113000 -0400" stop="20230705114500 -0400" channel="0312">
+    <title lang="es">Chambi y Max refugio</title>
+    <sub-title lang="es">Chambi y Max refugio</sub-title>
+    <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
+  </programme>
+  <programme start="20230705114500 -0400" stop="20230705120000 -0400" channel="0312">
+    <title lang="es">Muchas manos en el plato</title>
+    <sub-title lang="es">Muchas manos en el plato</sub-title>
+    <desc lang="es">En cada emisión, un adulto mayor comparte los pasos de una receta que tiene peso en su historia personal.</desc>
+  </programme>
+  <programme start="20230705120000 -0400" stop="20230705123000 -0400" channel="0312">
+    <title lang="es">El asombroso mundo de Zamba</title>
+    <sub-title lang="es">El asombroso mundo de Zamba</sub-title>
+    <desc lang="es">Serie de animación que recrea los principales sucesos de la historia argentina vistos desde la mirada de un niño que viaja en el tiempo: el simpático Zamba, acompañado de su amiga Niña, una mulata muy inteligente.</desc>
+  </programme>
+  <programme start="20230705123000 -0400" stop="20230705124500 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230705124500 -0400" stop="20230705130000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230705130000 -0400" stop="20230705140000 -0400" channel="0312">
+    <title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</title>
+    <sub-title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</sub-title>
+    <desc lang="es">Mauricio Vila y Mar Mediavilla junto a Zamba y Nina, recorren diferentes lugares del país y viven increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230705140000 -0400" stop="20230705141500 -0400" channel="0312">
+    <title lang="es">Chikuchis</title>
+    <sub-title lang="es">Chikuchis</sub-title>
+    <desc lang="es">Los chikuchis son un grupo muy singular de títeres. Como los chicos, cada uno tiene su personalidad, gustos, maneras de divertirse, forma de hablar y de ser. Aunque son todos distintos, ellos se parecen en algo: son muy buenos amigos.</desc>
+  </programme>
+  <programme start="20230705141500 -0400" stop="20230705143000 -0400" channel="0312">
+    <title lang="es">Oom Moo - Yoga para niños</title>
+    <sub-title lang="es">Oom Moo</sub-title>
+    <desc lang="es">Ocho vacas nos muestran las posiciones de yoga que los más chiquitos pueden hacer en sus casas. El instructor es un gato gurú que nos explica cómo se realizan las diferentes posturas con los beneficios que brindan al cuerpo y al espíritu.</desc>
+  </programme>
+  <programme start="20230705143000 -0400" stop="20230705144500 -0400" channel="0312">
+    <title lang="es">Tainá y los guardianes del Amazonas</title>
+    <title lang="en">Tainá, e os guardiões da Amazônia</title>
+    <sub-title lang="es">Tainá y los guardianes del Amazonas</sub-title>
+    <desc lang="es">Esta animación en 3D es una adaptación de la trilogía de éxito del cine brasileño que tiene como protagonista a la indiecita Tainá que, junto a sus amigos, protege la Selva Amazónica, su fauna y flora.</desc>
+  </programme>
+  <programme start="20230705144500 -0400" stop="20230705150000 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230705150000 -0400" stop="20230705151500 -0400" channel="0312">
+    <title lang="es">Las palabras de la magia</title>
+    <sub-title lang="es">Las palabras de la magia</sub-title>
+    <desc lang="es">Las aventuras de Úrsula, una niña pequeña que es entrenada por sus tres tías brujas y la gran maestra Orunelia para descubrir su don, su verdadera vocación.</desc>
+  </programme>
+  <programme start="20230705151500 -0400" stop="20230705153000 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230705153000 -0400" stop="20230705154500 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230705154500 -0400" stop="20230705160000 -0400" channel="0312">
+    <title lang="es">Chambi y Max refugio</title>
+    <sub-title lang="es">Chambi y Max refugio</sub-title>
+    <desc lang="es">Max, en compañía de su fiel ayudante y amiga, la iguana Chambimbe, decide emprender un viaje por América Latina, en busca de las especies más salvajes y menos conocidas del continente.</desc>
+  </programme>
+  <programme start="20230705160000 -0400" stop="20230705163000 -0400" channel="0312">
+    <title lang="es">Annedroids</title>
+    <sub-title lang="es">Annedroids</sub-title>
+    <desc lang="es">Anne es una niña de once años que inventa y construye sus propios androides increíbles. Ella y Nick ayudan a resolver problemas científicos a través de soluciones de la vida real.</desc>
+  </programme>
+  <programme start="20230705163000 -0400" stop="20230705164500 -0400" channel="0312">
+    <title lang="es">Experimentores</title>
+    <sub-title lang="es">Experimentores</sub-title>
+    <desc lang="es">A partir de sorprendentes experimentos de física y química, e insólitas reacciones en cámara superlenta, esta serie revela cómo funciona el universo que nos rodea y demuestra que la ciencia puede ser una actividad lúdica y divertida.</desc>
+  </programme>
+  <programme start="20230705164500 -0400" stop="20230705170000 -0400" channel="0312">
+    <title lang="es">Inteligencia animal</title>
+    <sub-title lang="es">Inteligencia animal</sub-title>
+    <desc lang="es">Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.</desc>
+  </programme>
+  <programme start="20230705170000 -0400" stop="20230705173000 -0400" channel="0312">
+    <title lang="es">Zamba</title>
+    <sub-title lang="es">Zamba</sub-title>
+  </programme>
+  <programme start="20230705173000 -0400" stop="20230705174500 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230705174500 -0400" stop="20230705180000 -0400" channel="0312">
+    <title lang="es">La orquestita</title>
+    <sub-title lang="es">La orquestita</sub-title>
+    <desc lang="es">Juan, Vale y Toto quieren saber cómo se hace una canción. Juntos parten a bordo del camión del abuelo Juan Barbas para visitar extraños mundos y encontrar respuestas a sus preguntas musicales.</desc>
+  </programme>
+  <programme start="20230705180000 -0400" stop="20230705181500 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230705181500 -0400" stop="20230705183000 -0400" channel="0312">
+    <title lang="es">Paprika</title>
+    <sub-title lang="es">Paprika</sub-title>
+    <desc lang="es">Olivia y Stan tienen un vínculo único... ¡son gemelos! Cuando estos tigrecitos están juntos, ningún obstáculo puede resistir a los gemelos Paprika y convierten los pequeños eventos de la vida cotidiana en increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230705183000 -0400" stop="20230705184500 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
+  <programme start="20230705184500 -0400" stop="20230705190000 -0400" channel="0312">
+    <title lang="es">Shaun, el cordero</title>
+    <title lang="en">Shaun the Sheep</title>
+    <sub-title lang="es">Shaun, el cordero</sub-title>
+    <desc lang="es">Shaun es la oveja rebelde del rebaño y siempre se las arregla para hacer todo más divertido, aunque se meta en problemas con sus eternos enemigos: el granjero, el perro ovejero y los cerdos.</desc>
+  </programme>
+  <programme start="20230705190000 -0400" stop="20230705200000 -0400" channel="0312">
+    <title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</title>
+    <sub-title lang="es">Los asombrosos viajes de Zamba y Nina por la Argentina</sub-title>
+    <desc lang="es">Mauricio Vila y Mar Mediavilla junto a Zamba y Nina, recorren diferentes lugares del país y viven increíbles aventuras.</desc>
+  </programme>
+  <programme start="20230705200000 -0400" stop="20230705201500 -0400" channel="0312">
+    <title lang="es">Ciro Todorov</title>
+    <sub-title lang="es">Ciro Todorov</sub-title>
+    <desc lang="es">Ciro Todorov es un niño huraño y lúgubre que vive rodeado de fantasmas y criaturas en aquella gran casa de la colina, al lado del cementerio. Los niños del pueblo le temen, aunque a él eso no le molesta demasiado.</desc>
+  </programme>
+  <programme start="20230705201500 -0400" stop="20230705203000 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230705203000 -0400" stop="20230705204500 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230705204500 -0400" stop="20230705210000 -0400" channel="0312">
+    <title lang="es">Hostal Morrison</title>
+    <sub-title lang="es">Hostal Morrison</sub-title>
+    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
+  </programme>
+  <programme start="20230705210000 -0400" stop="20230705211500 -0400" channel="0312">
+    <title lang="es">Hostal Morrison</title>
+    <sub-title lang="es">Hostal Morrison</sub-title>
+    <desc lang="es">Aventuras de un grupo de monstruos que transforman su antigua casona en un hostal para humanos. Además de sacar adelante el alojamiento, tendrán que lidiar con Boris, el regordete vecino que está empecinado en denunciarlos.</desc>
+  </programme>
+  <programme start="20230705211500 -0400" stop="20230705214500 -0400" channel="0312">
+    <title lang="es">Zamba</title>
+    <sub-title lang="es">Zamba</sub-title>
+  </programme>
+  <programme start="20230705214500 -0400" stop="20230705220000 -0400" channel="0312">
+    <title lang="es">Polinópolis</title>
+    <sub-title lang="es">Polinópolis</sub-title>
+  </programme>
+  <programme start="20230705220000 -0400" stop="20230705221500 -0400" channel="0312">
+    <title lang="es">Siesta</title>
+    <sub-title lang="es">Siesta</sub-title>
+    <desc lang="es">A Siesta le gusta mucho leer, pero de pronto, y sin poder evitarlo, se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura.</desc>
+  </programme>
+  <programme start="20230705221500 -0400" stop="20230705223000 -0400" channel="0312">
+    <title lang="es">La orquestita</title>
+    <sub-title lang="es">La orquestita</sub-title>
+    <desc lang="es">Juan, Vale y Toto quieren saber cómo se hace una canción. Juntos parten a bordo del camión del abuelo Juan Barbas para visitar extraños mundos y encontrar respuestas a sus preguntas musicales.</desc>
+  </programme>
+  <programme start="20230705223000 -0400" stop="20230705224500 -0400" channel="0312">
+    <title lang="es">Las palabras de la magia</title>
+    <sub-title lang="es">Las palabras de la magia</sub-title>
+    <desc lang="es">Las aventuras de Úrsula, una niña pequeña que es entrenada por sus tres tías brujas y la gran maestra Orunelia para descubrir su don, su verdadera vocación.</desc>
+  </programme>
+  <programme start="20230705224500 -0400" stop="20230705230000 -0400" channel="0312">
+    <title lang="es">Petit</title>
+    <sub-title lang="es">Petit</sub-title>
+    <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas.</desc>
+  </programme>
   <programme start="20230703003000 -0400" stop="20230703010000 -0400" channel="0310">
     <title lang="es">La luna y las estrellas</title>
   </programme>
@@ -12625,6 +13457,9 @@
   </programme>
   <programme start="20230704110000 -0400" stop="20230704113000 -0400" channel="0310">
     <title lang="es">Dino &amp; la búsqueda de huevos</title>
+  </programme>
+  <programme start="20230704120000 -0400" stop="20230704123000 -0400" channel="0310">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
   </programme>
   <programme start="20230704133000 -0400" stop="20230704140000 -0400" channel="0310">
     <title lang="es">Canciones y rimas y otras historias</title>
@@ -24149,9 +24984,9 @@
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
   </programme>
-  <programme start="20230703134500 -0400" stop="20230703143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
+  <programme start="20230703130000 -0400" stop="20230703141500 -0400" channel="0153">
+    <title lang="es">Efemérides</title>
+    <desc lang="es">Cada día una nueva historia en Bío Bío TV.</desc>
   </programme>
   <programme start="20230703143000 -0400" stop="20230703153000 -0400" channel="0153">
     <title lang="es">El Tablón</title>
