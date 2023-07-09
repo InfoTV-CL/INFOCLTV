@@ -315,6 +315,11 @@
     <icon src="https://i.ibb.co/N2xT3wt/0433.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
+  <channel id="0436">
+    <display-name lang="es">DSports Argentina</display-name>
+    <icon src="https://i.ibb.co/pnYNYhh/0431.png" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
   <channel id="0503">
     <display-name lang="es">Concert Channel</display-name>
     <icon src="https://i.ibb.co/6HtDnK6/0503.png" />
@@ -5332,6 +5337,9 @@
   </programme>
   <programme start="20230710113000 -0400" stop="20230710120000 -0400" channel="0205">
     <title lang="es">DocFilm</title>
+  </programme>
+  <programme start="20230710120000 -0400" stop="20230710120300 -0400" channel="0205">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20230710120300 -0400" stop="20230710121500 -0400" channel="0205">
     <title lang="es">El reportero</title>
@@ -13226,6 +13234,9 @@
   <programme start="20230710103000 -0400" stop="20230710110000 -0400" channel="0310">
     <title lang="es">Canciones y rimas y otras historias</title>
   </programme>
+  <programme start="20230710120000 -0400" stop="20230710123000 -0400" channel="0310">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
+  </programme>
   <programme start="20230710133000 -0400" stop="20230710140000 -0400" channel="0310">
     <title lang="es">Yoyo el mago y otras historias</title>
   </programme>
@@ -16457,6 +16468,182 @@
   <programme start="20230710230000 -0400" stop="20230711000000 -0400" channel="0433">
     <title lang="es">DSports noticias</title>
     <desc lang="es">Todas las novedades y la información de la actualidad deportiva.</desc>
+  </programme>
+  <programme start="20230708200000 -0400" stop="20230708203000 -0400" channel="0436">
+    <title lang="es">FIFA Women's World Cup Preview Series</title>
+    <desc lang="es">Una mirada previa a los 8 grupos de equipos nacionales que compiten en la Copa Mundial FIFA Femenil 2023.</desc>
+  </programme>
+  <programme start="20230708203000 -0400" stop="20230708210000 -0400" channel="0436">
+    <title lang="es">FIFA Women's World Cup Preview Series</title>
+    <desc lang="es">Una mirada previa a los 8 grupos de equipos nacionales que compiten en la Copa Mundial FIFA Femenil 2023.</desc>
+  </programme>
+  <programme start="20230708210000 -0400" stop="20230708213000 -0400" channel="0436">
+    <title lang="es">Todo en 30</title>
+    <desc lang="es">En treinta minutos el resumen de los mejores momentos de la Copa Mundial de la FIFA Rusia 2018.</desc>
+  </programme>
+  <programme start="20230708213000 -0400" stop="20230708230000 -0400" channel="0436">
+    <title lang="es">En Vivo: De fútbol se habla así</title>
+    <desc lang="es">Gustavo Kuffner y un gran equipo debaten y analizan todo lo relacionado a la Copa Mundial de la FIFA Catar 2022.</desc>
+  </programme>
+  <programme start="20230708230000 -0400" stop="20230708233000 -0400" channel="0436">
+    <title lang="es">Hilos</title>
+    <desc lang="es">Diego Maradona - Diego Maradona. Encuentro con una de las figuras más representativas del deporte a nivel mundial. Lo más destacado sobre Diego Maradona en Napolí.</desc>
+  </programme>
+  <programme start="20230708233000 -0400" stop="20230709020000 -0400" channel="0436">
+    <title lang="es">Final: Argentina vs. Brasil</title>
+    <desc lang="es">CONMEBOL Sub17 Futsal 2022 - Final: Argentina vs. Brasil. Encuentro entre Brasil y Argentina por el campeonato del torneo.</desc>
+  </programme>
+  <programme start="20230709020000 -0400" stop="20230709030000 -0400" channel="0436">
+    <title lang="es">DSports noticias</title>
+    <desc lang="es">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+  </programme>
+  <programme start="20230709030000 -0400" stop="20230709050000 -0400" channel="0436">
+    <title lang="es">San Lorenzo vs. Estudiantes de Mérida</title>
+    <desc lang="es">Fútbol CONMEBOL Sudamericana - San Lorenzo vs. Estudiantes de Mérida. Grupo H.</desc>
+  </programme>
+  <programme start="20230709050000 -0400" stop="20230709070000 -0400" channel="0436">
+    <title lang="es">Botafogo vs. Magallanes</title>
+    <desc lang="es">Fútbol CONMEBOL Sudamericana - Botafogo vs. Magallanes. Grupo A.</desc>
+  </programme>
+  <programme start="20230709070000 -0400" stop="20230709080000 -0400" channel="0436">
+    <title lang="es">DSports noticias</title>
+    <desc lang="es">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+  </programme>
+  <programme start="20230709080000 -0400" stop="20230709100000 -0400" channel="0436">
+    <title lang="es">Copa Mundial Sub 20 de la FIFA - Final 2023: Nueva Zelanda vs. Argentina</title>
+    <desc lang="es">Toda la acción y la emoción del campeonato mundial de fútbol categoría sub 20.</desc>
+  </programme>
+  <programme start="20230709100000 -0400" stop="20230709103000 -0400" channel="0436">
+    <title lang="es">Ellas juegan - Daiana Falfán</title>
+    <desc lang="es">Una mirada a la jugadora nacida en Hurlingham que se destaca por su actuación como mediocampista en la selección nacional de Argentina y en el club UAI Urquiza.</desc>
+  </programme>
+  <programme start="20230709103000 -0400" stop="20230709110000 -0400" channel="0436">
+    <title lang="es">Ellas juegan</title>
+    <desc lang="es">Victoria Culasso, secretaria de Gobierno, Eduardo Bulsicco, coordinador de deportes y Vanina Correa dan una plática para promover el fútbol femenino en Argentina.</desc>
+  </programme>
+  <programme start="20230709110000 -0400" stop="20230709123000 -0400" channel="0436">
+    <title lang="es">De fútbol se habla así</title>
+    <desc lang="es">Gustavo Kuffner y un gran equipo debaten y analizan todo lo relacionado a la Copa Mundial de la FIFA Catar 2022.</desc>
+  </programme>
+  <programme start="20230709123000 -0400" stop="20230709133000 -0400" channel="0436">
+    <title lang="es">La Liga Top Goals</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230709133000 -0400" stop="20230709140000 -0400" channel="0436">
+    <title lang="es">Hilos</title>
+    <desc lang="es">Xavi Hernández - Xavi Hernández. Encuentro con una de las figuras más representativas del deporte a nivel mundial. Lo más destacado sobre el futbolista español, ganador de la Copa del Mundo y ahora director técnico de Barcelona: Xavi Hernández.</desc>
+  </programme>
+  <programme start="20230709140000 -0400" stop="20230709142000 -0400" channel="0436">
+    <title lang="es">Atlas, el sueño de todos</title>
+    <desc lang="es">Atlas perdió la afiliación a AFA por haber quedado último en la primera división D. Ahora tiene que comenzar de cero para alcanzar sus sueños.</desc>
+  </programme>
+  <programme start="20230709142000 -0400" stop="20230709163000 -0400" channel="0436">
+    <title lang="es">En Vivo: Fútbol Argentino Federal A</title>
+    <desc lang="es">Gimnasia y Tiro vs. Juventud Antoniana - Gimnasia y Tiro vs. Juventud Antoniana. Jornada 2 del Grupo D. Gimnasia y Tiro recibe a Juventud Antoniana en el El Gigante del Norte.</desc>
+  </programme>
+  <programme start="20230709163000 -0400" stop="20230709170000 -0400" channel="0436">
+    <title lang="es">DSports Historias - Romance Xeneize</title>
+    <desc lang="es">Cobertura especial dedicado al Club Atlético Boca Juniors en sus diferentes disciplinas en Argentina.</desc>
+  </programme>
+  <programme start="20230709170000 -0400" stop="20230709180000 -0400" channel="0436">
+    <title lang="es">En Vivo: DSports noticias</title>
+    <desc lang="es">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+  </programme>
+  <programme start="20230709180000 -0400" stop="20230709200000 -0400" channel="0436">
+    <title lang="es">City TV - UCL: Manchester City vs. Inter</title>
+    <desc lang="es">Partido final de la UEFA Champions League 2022-2023. Manchester City e Inter de Milán se enfrentan. Desde Atatürk Olympic Stadium, en Estambul.</desc>
+  </programme>
+  <programme start="20230709200000 -0400" stop="20230709203000 -0400" channel="0436">
+    <title lang="es">Hilos</title>
+    <desc lang="es">Xavi Hernández - Xavi Hernández. Encuentro con una de las figuras más representativas del deporte a nivel mundial. Lo más destacado sobre el futbolista español, ganador de la Copa del Mundo y ahora director técnico de Barcelona: Xavi Hernández.</desc>
+  </programme>
+  <programme start="20230709203000 -0400" stop="20230709230000 -0400" channel="0436">
+    <title lang="es">Final: Argentina vs. Brasil</title>
+    <desc lang="es">CONMEBOL Sub17 Futsal 2022 - Final: Argentina vs. Brasil. Encuentro entre Brasil y Argentina por el campeonato del torneo.</desc>
+  </programme>
+  <programme start="20230709230000 -0400" stop="20230709233000 -0400" channel="0436">
+    <title lang="es">Hilos</title>
+    <desc lang="es">Diego Maradona - Diego Maradona. Encuentro con una de las figuras más representativas del deporte a nivel mundial. Lo más destacado sobre Diego Maradona en Napolí.</desc>
+  </programme>
+  <programme start="20230709233000 -0400" stop="20230710020000 -0400" channel="0436">
+    <title lang="es">Final: Uruguay vs. Italy</title>
+    <desc lang="es">Copa Mundial Sub 20 de la FIFA 2023 - Final: Uruguay vs. Italy. Final.</desc>
+  </programme>
+  <programme start="20230710020000 -0400" stop="20230710030000 -0400" channel="0436">
+    <title lang="es">DSports noticias</title>
+    <desc lang="es">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+  </programme>
+  <programme start="20230710030000 -0400" stop="20230710050000 -0400" channel="0436">
+    <title lang="es">Independiente Santa Fe vs. Goiás EC</title>
+    <desc lang="es">Fútbol CONMEBOL Sudamericana - Independiente Santa Fe vs. Goiás EC. Grupo G.</desc>
+  </programme>
+  <programme start="20230710050000 -0400" stop="20230710070000 -0400" channel="0436">
+    <title lang="es">San Lorenzo vs. Estudiantes de Mérida</title>
+    <desc lang="es">Fútbol CONMEBOL Sudamericana - San Lorenzo vs. Estudiantes de Mérida. Grupo H.</desc>
+  </programme>
+  <programme start="20230710070000 -0400" stop="20230710080000 -0400" channel="0436">
+    <title lang="es">DSports noticias</title>
+    <desc lang="es">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+  </programme>
+  <programme start="20230710080000 -0400" stop="20230710090000 -0400" channel="0436">
+    <title lang="es">El Show de la CONMEBOL Sudamericana</title>
+    <desc lang="es">Repaso por los mejores momentos que dejó la Copa CONMEBOL Sudamericana durante la última semana.</desc>
+  </programme>
+  <programme start="20230710090000 -0400" stop="20230710093000 -0400" channel="0436">
+    <title lang="es">DSports Historias - Argentina Campeón Mundial FUTSAL 2016</title>
+    <desc lang="es">T01 - E12 Repaso y debate de los mejores momentos de Argentina al colocarse como Campeón Mundial en la Liga FUTSAL de 2016.</desc>
+  </programme>
+  <programme start="20230710093000 -0400" stop="20230710100000 -0400" channel="0436">
+    <title lang="es">Hilos</title>
+    <desc lang="es">Diego Maradona - Diego Maradona. Encuentro con una de las figuras más representativas del deporte a nivel mundial. Lo más destacado sobre Diego Maradona en Napolí.</desc>
+  </programme>
+  <programme start="20230710100000 -0400" stop="20230710103000 -0400" channel="0436">
+    <title lang="es">DSports Historias - Romance Xeneize</title>
+    <desc lang="es">Cobertura especial dedicado al Club Atlético Boca Juniors en sus diferentes disciplinas en Argentina.</desc>
+  </programme>
+  <programme start="20230710103000 -0400" stop="20230710110000 -0400" channel="0436">
+    <title lang="es">FIFA Women's World Cup Preview Series</title>
+    <desc lang="es">Una mirada previa a los 8 grupos de equipos nacionales que compiten en la Copa Mundial FIFA Femenil 2023.</desc>
+  </programme>
+  <programme start="20230710110000 -0400" stop="20230710123000 -0400" channel="0436">
+    <title lang="es">En Vivo: Puede pasar</title>
+    <desc lang="es">Análisis de todas las novedades del fútbol argentino con coberturas especiales y móviles en vivo. La palabra de los protagonistas y las noticias más trascendentales de Primera División.</desc>
+  </programme>
+  <programme start="20230710123000 -0400" stop="20230710140000 -0400" channel="0436">
+    <title lang="es">En Vivo: DSports noticias</title>
+    <desc lang="es">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+  </programme>
+  <programme start="20230710140000 -0400" stop="20230710153000 -0400" channel="0436">
+    <title lang="es">En Vivo: De fútbol se habla así</title>
+    <desc lang="es">Gustavo Kuffner y un gran equipo debaten y analizan todo lo relacionado a la Copa Mundial de la FIFA Catar 2022.</desc>
+  </programme>
+  <programme start="20230710153000 -0400" stop="20230710163000 -0400" channel="0436">
+    <title lang="es">La Liga Promoted Teams</title>
+    <desc lang="es">Un vistazo a los clubes que han sido promovidos en La Liga española de fútbol.</desc>
+  </programme>
+  <programme start="20230710163000 -0400" stop="20230710170000 -0400" channel="0436">
+    <title lang="es">Ellas juegan - Miriam Mayorga</title>
+    <desc lang="es">Miriam Mayorga nació en Bariloche hace 33 años y se mudó a Buenos Aires para cumplir sus dos sueños: estudiar medicina y ser futbolista.</desc>
+  </programme>
+  <programme start="20230710170000 -0400" stop="20230710180000 -0400" channel="0436">
+    <title lang="es">En Vivo: DSports noticias</title>
+    <desc lang="es">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+  </programme>
+  <programme start="20230710180000 -0400" stop="20230710183000 -0400" channel="0436">
+    <title lang="es">FIFA Women's World Cup Preview Series</title>
+    <desc lang="es">Una mirada previa a los 8 grupos de equipos nacionales que compiten en la Copa Mundial FIFA Femenil 2023.</desc>
+  </programme>
+  <programme start="20230710183000 -0400" stop="20230710190000 -0400" channel="0436">
+    <title lang="es">FIFA Women's World Cup Preview Series</title>
+    <desc lang="es">Una mirada previa a los 8 grupos de equipos nacionales que compiten en la Copa Mundial FIFA Femenil 2023.</desc>
+  </programme>
+  <programme start="20230710190000 -0400" stop="20230710193000 -0400" channel="0436">
+    <title lang="es">Hilos</title>
+    <desc lang="es">Xavi Hernández - Xavi Hernández. Encuentro con una de las figuras más representativas del deporte a nivel mundial. Lo más destacado sobre el futbolista español, ganador de la Copa del Mundo y ahora director técnico de Barcelona: Xavi Hernández.</desc>
+  </programme>
+  <programme start="20230710193000 -0400" stop="20230710200000 -0400" channel="0436">
+    <title lang="es">En Vivo: Marca femenina</title>
+    <desc lang="es">Actualidad del fútbol femenino en el mundo. Una mirada distinta y profesional para analizar el juego de las mujeres que salen a la cancha y conquistan, cada jornada, más fanáticos en sus distintas categorías.</desc>
   </programme>
   <programme start="20230709052000 -0400" stop="20230709070000 -0400" channel="0503">
     <title lang="es">Celine Dion - Taking Chances World Tour - The Concert - 2013</title>
@@ -25010,10 +25197,6 @@
   <programme start="20230710123000 -0400" stop="20230710130000 -0400" channel="0153">
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
-  </programme>
-  <programme start="20230710134500 -0400" stop="20230710143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
   </programme>
   <programme start="20230710130000 -0400" stop="20230710141500 -0400" channel="0153">
     <title lang="es">Efemérides</title>
