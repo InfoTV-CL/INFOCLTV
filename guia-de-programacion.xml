@@ -5302,6 +5302,9 @@
   <programme start="20230717113000 -0400" stop="20230717120000 -0400" channel="0205">
     <title lang="es">DocFilm</title>
   </programme>
+  <programme start="20230717120000 -0400" stop="20230717120300 -0400" channel="0205">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20230717120300 -0400" stop="20230717121500 -0400" channel="0205">
     <title lang="es">El reportero</title>
   </programme>
@@ -13138,6 +13141,9 @@
   <programme start="20230717103000 -0400" stop="20230717110000 -0400" channel="0310">
     <title lang="es">Que día tan maravilloso</title>
   </programme>
+  <programme start="20230717120000 -0400" stop="20230717123000 -0400" channel="0310">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
+  </programme>
   <programme start="20230717133000 -0400" stop="20230717140000 -0400" channel="0310">
     <title lang="es">Yoyo, el mago</title>
   </programme>
@@ -17052,8 +17058,8 @@
     <desc lang="es">Un espacio que presenta los videos más destacados sobre grupero, pop, urbano, salsa y bachata. Los amantes de la música podrán disfrutar de los últimos lanzamientos, tendencias y artistas más importantes.</desc>
   </programme>
   <programme start="20230718030000 -0400" stop="20230718040000 -0400" channel="0536">
-    <title lang="es">Fútbol al día (?)</title>
-    <desc lang="es">No hay información disponible.</desc>
+    <title lang="es">Fútbol al día</title>
+    <desc lang="es">Un espacio lleno de tradición donde nos cuentan las polémicas y controversias que se viven en el fútbol. El presentador nos da su punto de vista desde donde sea necesario para tener los reportajes y perspectiva de todos los involucrados.</desc>
   </programme>
   <programme start="20230718040000 -0400" stop="20230718153000 -0400" channel="0536">
     <title lang="es">Himno nacional</title>
@@ -17096,8 +17102,8 @@
     <desc lang="es">Un espacio que presenta los videos más destacados sobre grupero, pop, urbano, salsa y bachata. Los amantes de la música podrán disfrutar de los últimos lanzamientos, tendencias y artistas más importantes.</desc>
   </programme>
   <programme start="20230719030000 -0400" stop="20230719040000 -0400" channel="0536">
-    <title lang="es">Fútbol al día (?)</title>
-    <desc lang="es">No hay información disponible.</desc>
+    <title lang="es">Fútbol al día</title>
+    <desc lang="es">Un espacio lleno de tradición donde nos cuentan las polémicas y controversias que se viven en el fútbol. El presentador nos da su punto de vista desde donde sea necesario para tener los reportajes y perspectiva de todos los involucrados.</desc>
   </programme>
   <programme start="20230716022500 -0400" stop="20230716025500 -0400" channel="0539">
     <title lang="es">2x1 Bandamax</title>
@@ -25149,10 +25155,6 @@
   <programme start="20230717123000 -0400" stop="20230717130000 -0400" channel="0153">
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
-  </programme>
-  <programme start="20230717134500 -0400" stop="20230717143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
   </programme>
   <programme start="20230717130000 -0400" stop="20230717141500 -0400" channel="0153">
     <title lang="es">Efemérides</title>
