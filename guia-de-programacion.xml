@@ -5462,6 +5462,9 @@
   <programme start="20230725113000 -0400" stop="20230725120000 -0400" channel="0205">
     <title lang="es">Todo gol</title>
   </programme>
+  <programme start="20230725120000 -0400" stop="20230725120300 -0400" channel="0205">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20230725120300 -0400" stop="20230725123000 -0400" channel="0205">
     <title lang="es">Visión futuro</title>
   </programme>
@@ -13446,6 +13449,9 @@
   <programme start="20230725080000 -0400" stop="20230725083000 -0400" channel="0310">
     <title lang="es">Charlie y los números</title>
   </programme>
+  <programme start="20230725120000 -0400" stop="20230725123000 -0400" channel="0310">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
+  </programme>
   <programme start="20230725133000 -0400" stop="20230725140000 -0400" channel="0310">
     <title lang="es">El tren del correo y otras historias</title>
   </programme>
@@ -14488,6 +14494,9 @@
   </programme>
   <programme start="20230725103000 -0400" stop="20230725110000 -0400" channel="0405">
     <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20230725110000 -0400" stop="20230725130000 -0400" channel="0405">
+    <title lang="es">Lo mejor de África</title>
   </programme>
   <programme start="20230725130000 -0400" stop="20230725150000 -0400" channel="0405">
     <title lang="es">Partidazo de Lyon</title>
@@ -25659,9 +25668,9 @@
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
   </programme>
-  <programme start="20230724130000 -0400" stop="20230724141500 -0400" channel="0153">
-    <title lang="es">Efemérides</title>
-    <desc lang="es">Cada día una nueva historia en Bío Bío TV.</desc>
+  <programme start="20230724134500 -0400" stop="20230724143000 -0400" channel="0153">
+    <title lang="es">Noticias mediodía</title>
+    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
   </programme>
   <programme start="20230724143000 -0400" stop="20230724153000 -0400" channel="0153">
     <title lang="es">El Tablón</title>
@@ -26531,26 +26540,42 @@
     <desc lang="es">Bloque que muestra diversos productos para la venta.</desc>
   </programme>
   <programme start="20230724150000 -0400" stop="20230724160000 -0400" channel="0110">
-    <title lang="es">Médicos, línea de vida</title>
-    <desc lang="es">Gonzalo Olmedo, director del Hospital de Especialidades Médicas, se percata de la complejidad de dirigir un hospital de esta magnitud, por lo que recluta a los médicos más especializados en cada una de las ramas de la medicina.</desc>
+    <title lang="es">CNTV Infantil</title>
+    <desc lang="es">Programación infantil desarrollada para CNTV con contenido para infantes, pre escolar y pre adolescentes.</desc>
   </programme>
   <programme start="20230724160000 -0400" stop="20230724180000 -0400" channel="0110">
     <title lang="es">La Previa</title>
     <desc lang="es">Prende tu tarde con los mejores videoclips y la simpatía de sus conductores.</desc>
   </programme>
-  <programme start="20230724180000 -0400" stop="20230724200000 -0400" channel="0110">
+  <programme start="20230724180000 -0400" stop="20230724190000 -0400" channel="0110">
     <title lang="es">Retrohits</title>
     <desc lang="es">Programa de videoclips con lo mejor de la década de los 80s.</desc>
   </programme>
+  <programme start="20230724190000 -0400" stop="20230724200000 -0400" channel="0110">
+    <title lang="es">CNTV Infantil</title>
+    <desc lang="es">Programación infantil desarrollada para CNTV con contenido para infantes, pre escolar y pre adolescentes.</desc>
+  </programme>
   <programme start="20230724200000 -0400" stop="20230724210000 -0400" channel="0110">
-    <title lang="es">Por amar sin ley</title>
-    <desc lang="es">La vida personal y el trabajo de un grupo de abogados perteneciente a un prestigioso bufete de México que no están dispuestos a perder ningún caso.</desc>
+    <title lang="es">Teleserie</title>
+    <desc lang="es">Bloque donde se presenta un nuevo capítulo de la teleserie en emisión.</desc>
   </programme>
   <programme start="20230724210000 -0400" stop="20230724220000 -0400" channel="0110">
     <title lang="es">Portavoz Noticias</title>
     <desc lang="es">Un noticiero nacional accesible, hecho para todas las regiones.</desc>
   </programme>
-  <programme start="20230724220000 -0400" stop="20230725030000 -0400" channel="0110">
+  <programme start="20230724220000 -0400" stop="20230724230000 -0400" channel="0110">
+    <title lang="es">Tu conexión matinal</title>
+    <desc lang="es">Espacio matutino que da voz a las regiones, con todo el acontecer de la actualidad nacional, entrevistas y entretenidas secciones.</desc>
+  </programme>
+  <programme start="20230724230000 -0400" stop="20230725000000 -0400" channel="0110">
+    <title lang="es">Problemas y soluciones</title>
+    <desc lang="es">Programa en el que los televidentes comparten sus problemáticas y se plantean soluciones para esa problemática.</desc>
+  </programme>
+  <programme start="20230725000000 -0400" stop="20230725010000 -0400" channel="0110">
+    <title lang="es">Iglesia Universal</title>
+    <desc lang="es">La Iglesia Universal del Reino de Dios presenta palabras de fe e historias de personas que lograron vencer diversos obstáculos en sus vidas, por medio de la palabra de Dios y su amor incondicional.</desc>
+  </programme>
+  <programme start="20230725010000 -0400" stop="20230725030000 -0400" channel="0110">
     <title lang="es">Tu conexión matinal</title>
     <desc lang="es">Espacio matutino que da voz a las regiones, con todo el acontecer de la actualidad nacional, entrevistas y entretenidas secciones.</desc>
   </programme>
@@ -26583,28 +26608,36 @@
     <desc lang="es">Bloque que muestra diversos productos para la venta.</desc>
   </programme>
   <programme start="20230725150000 -0400" stop="20230725160000 -0400" channel="0110">
-    <title lang="es">Médicos, línea de vida</title>
-    <desc lang="es">Gonzalo Olmedo, director del Hospital de Especialidades Médicas, se percata de la complejidad de dirigir un hospital de esta magnitud, por lo que recluta a los médicos más especializados en cada una de las ramas de la medicina.</desc>
+    <title lang="es">CNTV Infantil</title>
+    <desc lang="es">Programación infantil desarrollada para CNTV con contenido para infantes, pre escolar y pre adolescentes.</desc>
   </programme>
   <programme start="20230725160000 -0400" stop="20230725180000 -0400" channel="0110">
     <title lang="es">La Previa</title>
     <desc lang="es">Prende tu tarde con los mejores videoclips y la simpatía de sus conductores.</desc>
   </programme>
-  <programme start="20230725180000 -0400" stop="20230725200000 -0400" channel="0110">
+  <programme start="20230725180000 -0400" stop="20230725190000 -0400" channel="0110">
     <title lang="es">Retrohits</title>
     <desc lang="es">Programa de videoclips con lo mejor de la década de los 80s.</desc>
   </programme>
+  <programme start="20230725190000 -0400" stop="20230725200000 -0400" channel="0110">
+    <title lang="es">CNTV Infantil</title>
+    <desc lang="es">Programación infantil desarrollada para CNTV con contenido para infantes, pre escolar y pre adolescentes.</desc>
+  </programme>
   <programme start="20230725200000 -0400" stop="20230725210000 -0400" channel="0110">
-    <title lang="es">Por amar sin ley</title>
-    <desc lang="es">La vida personal y el trabajo de un grupo de abogados perteneciente a un prestigioso bufete de México que no están dispuestos a perder ningún caso.</desc>
+    <title lang="es">Teleserie</title>
+    <desc lang="es">Bloque donde se presenta un nuevo capítulo de la teleserie en emisión.</desc>
   </programme>
   <programme start="20230725210000 -0400" stop="20230725220000 -0400" channel="0110">
     <title lang="es">Portavoz Noticias</title>
     <desc lang="es">Un noticiero nacional accesible, hecho para todas las regiones.</desc>
   </programme>
-  <programme start="20230725220000 -0400" stop="20230726030000 -0400" channel="0110">
+  <programme start="20230725220000 -0400" stop="20230725230000 -0400" channel="0110">
     <title lang="es">Tu conexión matinal</title>
     <desc lang="es">Espacio matutino que da voz a las regiones, con todo el acontecer de la actualidad nacional, entrevistas y entretenidas secciones.</desc>
+  </programme>
+  <programme start="20230725230000 -0400" stop="20230726000000 -0400" channel="0110">
+    <title lang="es">Problemas y soluciones</title>
+    <desc lang="es">Programa en el que los televidentes comparten sus problemáticas y se plantean soluciones para esa problemática.</desc>
   </programme>
   <programme start="20230724060000 -0400" stop="20230724070000 -0400" channel="0115">
     <title lang="es">Cierre de transmisión</title>
@@ -29636,13 +29669,122 @@
   <programme start="20230725220000 -0400" stop="20230726060000 -0400" channel="0164">
     <title lang="es">Patagonia Radio Classics</title>
   </programme>
-  <programme start="20230724000000 -0400" stop="20230724235900 -0400" channel="0173">
-    <title lang="es">Contivisión</title>
-    <desc lang="es">No hay información disponible.</desc>
+  <programme start="20230724060000 -0400" stop="20230724080000 -0400" channel="0173">
+    <title lang="es">Cine Familiar Contivisión</title>
   </programme>
-  <programme start="20230725000000 -0400" stop="20230725235900 -0400" channel="0173">
-    <title lang="es">Contivisión</title>
-    <desc lang="es">No hay información disponible.</desc>
+  <programme start="20230724080000 -0400" stop="20230724090000 -0400" channel="0173">
+    <title lang="es">PortaVoz Noticias</title>
+  </programme>
+  <programme start="20230724090000 -0400" stop="20230724093000 -0400" channel="0173">
+    <title lang="es">Eco</title>
+  </programme>
+  <programme start="20230724093000 -0400" stop="20230724100000 -0400" channel="0173">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20230724100000 -0400" stop="20230724103000 -0400" channel="0173">
+    <title lang="es">Un Buen Café</title>
+  </programme>
+  <programme start="20230724103000 -0400" stop="20230724120000 -0400" channel="0173">
+    <title lang="es">Cine Familiar Contivisión</title>
+  </programme>
+  <programme start="20230724120000 -0400" stop="20230724123000 -0400" channel="0173">
+    <title lang="es">Eco</title>
+  </programme>
+  <programme start="20230724123000 -0400" stop="20230724130000 -0400" channel="0173">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20230724130000 -0400" stop="20230724133000 -0400" channel="0173">
+    <title lang="es">Contivisión Noticias Tarde</title>
+  </programme>
+  <programme start="20230724133000 -0400" stop="20230724140000 -0400" channel="0173">
+    <title lang="es">PortaVoz Noticias</title>
+  </programme>
+  <programme start="20230724140000 -0400" stop="20230724150000 -0400" channel="0173">
+    <title lang="es">Teleserie</title>
+  </programme>
+  <programme start="20230724150000 -0400" stop="20230724173000 -0400" channel="0173">
+    <title lang="es">Bloque NTV</title>
+  </programme>
+  <programme start="20230724173000 -0400" stop="20230724190000 -0400" channel="0173">
+    <title lang="es">Cultura 21</title>
+  </programme>
+  <programme start="20230724190000 -0400" stop="20230724210000 -0400" channel="0173">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20230724210000 -0400" stop="20230724214500 -0400" channel="0173">
+    <title lang="es">Contivisión Noticias Central</title>
+  </programme>
+  <programme start="20230724214500 -0400" stop="20230724222500 -0400" channel="0173">
+    <title lang="es">PortaVoz Noticias</title>
+  </programme>
+  <programme start="20230724222500 -0400" stop="20230724232000 -0400" channel="0173">
+    <title lang="es">Cine Contivisión</title>
+  </programme>
+  <programme start="20230724232000 -0400" stop="20230725000000 -0400" channel="0173">
+    <title lang="es">Cine Nocturno Contivisión</title>
+  </programme>
+  <programme start="20230725000000 -0400" stop="20230725003000 -0400" channel="0173">
+    <title lang="es">Contivisión Noticias Cierre</title>
+  </programme>
+  <programme start="20230725003000 -0400" stop="20230725020000 -0400" channel="0173">
+    <title lang="es">Cine Contivisión</title>
+  </programme>
+  <programme start="20230725020000 -0400" stop="20230725060000 -0400" channel="0173">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20230725060000 -0400" stop="20230725080000 -0400" channel="0173">
+    <title lang="es">Cine Familiar Contivisión</title>
+  </programme>
+  <programme start="20230725080000 -0400" stop="20230725090000 -0400" channel="0173">
+    <title lang="es">PortaVoz Noticias</title>
+  </programme>
+  <programme start="20230725090000 -0400" stop="20230725093000 -0400" channel="0173">
+    <title lang="es">Eco</title>
+  </programme>
+  <programme start="20230725093000 -0400" stop="20230725100000 -0400" channel="0173">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20230725100000 -0400" stop="20230725103000 -0400" channel="0173">
+    <title lang="es">Un Buen Café</title>
+  </programme>
+  <programme start="20230725103000 -0400" stop="20230725120000 -0400" channel="0173">
+    <title lang="es">Cine Familiar Contivisión</title>
+  </programme>
+  <programme start="20230725120000 -0400" stop="20230725123000 -0400" channel="0173">
+    <title lang="es">Eco</title>
+  </programme>
+  <programme start="20230725123000 -0400" stop="20230725130000 -0400" channel="0173">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20230725130000 -0400" stop="20230725133000 -0400" channel="0173">
+    <title lang="es">Contivisión Noticias Tarde</title>
+  </programme>
+  <programme start="20230725133000 -0400" stop="20230725140000 -0400" channel="0173">
+    <title lang="es">PortaVoz Noticias</title>
+  </programme>
+  <programme start="20230725140000 -0400" stop="20230725150000 -0400" channel="0173">
+    <title lang="es">Teleserie</title>
+  </programme>
+  <programme start="20230725150000 -0400" stop="20230725173000 -0400" channel="0173">
+    <title lang="es">Bloque NTV</title>
+  </programme>
+  <programme start="20230725173000 -0400" stop="20230725190000 -0400" channel="0173">
+    <title lang="es">Cultura 21</title>
+  </programme>
+  <programme start="20230725190000 -0400" stop="20230725210000 -0400" channel="0173">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20230725210000 -0400" stop="20230725214500 -0400" channel="0173">
+    <title lang="es">Contivisión Noticias Central</title>
+  </programme>
+  <programme start="20230725214500 -0400" stop="20230725222500 -0400" channel="0173">
+    <title lang="es">PortaVoz Noticias</title>
+  </programme>
+  <programme start="20230725222500 -0400" stop="20230725232000 -0400" channel="0173">
+    <title lang="es">Cine Contivisión</title>
+  </programme>
+  <programme start="20230725232000 -0400" stop="20230726000000 -0400" channel="0173">
+    <title lang="es">Cine Nocturno Contivisión</title>
   </programme>
   <programme start="20230724000000 -0400" stop="20230724235900 -0400" channel="0434">
     <title lang="es">DIRECTV Sports Fight</title>
