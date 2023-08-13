@@ -4916,6 +4916,9 @@
   <programme start="20230814113000 -0400" stop="20230814120000 -0400" channel="0205">
     <title lang="es">DocFilm</title>
   </programme>
+  <programme start="20230814120000 -0400" stop="20230814120300 -0400" channel="0205">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20230814120300 -0400" stop="20230814121500 -0400" channel="0205">
     <title lang="es">El reportero</title>
   </programme>
@@ -11838,6 +11841,9 @@
   </programme>
   <programme start="20230814103000 -0400" stop="20230814110000 -0400" channel="0310">
     <title lang="es">Canciones y rimas y otras historias</title>
+  </programme>
+  <programme start="20230814120000 -0400" stop="20230814123000 -0400" channel="0310">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
   </programme>
   <programme start="20230814133000 -0400" stop="20230814140000 -0400" channel="0310">
     <title lang="es">El tren del correo y otras historias</title>
@@ -23446,10 +23452,6 @@
   <programme start="20230814123000 -0400" stop="20230814130000 -0400" channel="0153">
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
-  </programme>
-  <programme start="20230814134500 -0400" stop="20230814143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
   </programme>
   <programme start="20230814130000 -0400" stop="20230814141500 -0400" channel="0153">
     <title lang="es">Efemérides</title>
