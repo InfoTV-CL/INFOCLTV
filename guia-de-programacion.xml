@@ -316,7 +316,7 @@
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0436">
-    <display-name lang="es">DSports Argentina</display-name>
+    <display-name lang="en">DSports Argentina</display-name>
     <icon src="https://i.ibb.co/pnYNYhh/0431.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
@@ -845,42 +845,82 @@
     <sub-title lang="en">Eventos deportivos</sub-title>
     <desc lang="en">Vista en vivo de los resultados deportivos y horarios de los próximos encuentros que ocurrirán durante el día.</desc>
   </programme>
-  <programme start="20230816000000 -0400" stop="20230816120000 -0400" channel="0001">
+  <programme start="20230816000000 -0400" stop="20230816170000 -0400" channel="0001">
     <title lang="es">Señal de eventos 1</title>
     <sub-title lang="es">Sin evento programado</sub-title>
     <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
   </programme>
-  <programme start="20230816120000 -0400" stop="20230817000000 -0400" channel="0001">
+  <programme start="20230816170000 -0400" stop="20230816202000 -0400" channel="0001">
+    <title lang="es">Universidad Católica vs Colo-Colo</title>
+    <sub-title lang="es">EN VIVO: Fútbol Copa Chile - Estadio Santa Laura</sub-title>
+    <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
+  </programme>
+  <programme start="20230816202000 -0400" stop="20230816225000 -0400" channel="0001">
+    <title lang="es">Coquimbo Unido vs Cobresal</title>
+    <sub-title lang="es">EN VIVO: Fútbol Copa Chile - Estadio Francisco Sánchez Rumoroso</sub-title>
+    <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
+  </programme>
+  <programme start="20230816225000 -0400" stop="20230817000000 -0400" channel="0001">
     <title lang="es">Señal de eventos 1</title>
     <sub-title lang="es">Sin evento programado</sub-title>
     <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
   </programme>
-  <programme start="20230817000000 -0400" stop="20230817120000 -0400" channel="0001">
+  <programme start="20230817000000 -0400" stop="20230817170000 -0400" channel="0001">
     <title lang="es">Señal de eventos 1</title>
     <sub-title lang="es">Sin evento programado</sub-title>
     <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
   </programme>
-  <programme start="20230817120000 -0400" stop="20230818000000 -0400" channel="0001">
+  <programme start="20230817170000 -0400" stop="20230817202000 -0400" channel="0001">
+    <title lang="es">Universidad Católica vs Colo-Colo</title>
+    <sub-title lang="es">EN VIVO: Fútbol Copa Chile - Estadio Santa Laura</sub-title>
+    <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
+  </programme>
+  <programme start="20230817202000 -0400" stop="20230817225000 -0400" channel="0001">
+    <title lang="es">Coquimbo Unido vs Cobresal</title>
+    <sub-title lang="es">EN VIVO: Fútbol Copa Chile - Estadio Francisco Sánchez Rumoroso</sub-title>
+    <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
+  </programme>
+  <programme start="20230817225000 -0400" stop="20230818000000 -0400" channel="0001">
     <title lang="es">Señal de eventos 1</title>
     <sub-title lang="es">Sin evento programado</sub-title>
     <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
   </programme>
-  <programme start="20230816000000 -0400" stop="20230816120000 -0400" channel="0002">
+  <programme start="20230816000000 -0400" stop="20230816170000 -0400" channel="0002">
     <title lang="es">Señal de eventos 2</title>
     <sub-title lang="es">Sin evento programado</sub-title>
     <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
   </programme>
-  <programme start="20230816120000 -0400" stop="20230817000000 -0400" channel="0002">
+  <programme start="20230816170000 -0400" stop="20230816202000 -0400" channel="0002">
+    <title lang="es">Universidad Católica vs Colo-Colo</title>
+    <sub-title lang="es">EN VIVO: Fútbol Copa Chile - Estadio Santa Laura</sub-title>
+    <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
+  </programme>
+  <programme start="20230816202000 -0400" stop="20230816225000 -0400" channel="0002">
+    <title lang="es">Coquimbo Unido vs Cobresal</title>
+    <sub-title lang="es">EN VIVO: Fútbol Copa Chile - Estadio Francisco Sánchez Rumoroso</sub-title>
+    <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
+  </programme>
+  <programme start="20230816225000 -0400" stop="20230817000000 -0400" channel="0002">
     <title lang="es">Señal de eventos 2</title>
     <sub-title lang="es">Sin evento programado</sub-title>
     <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
   </programme>
-  <programme start="20230817000000 -0400" stop="20230817120000 -0400" channel="0002">
+  <programme start="20230817000000 -0400" stop="20230817170000 -0400" channel="0002">
     <title lang="es">Señal de eventos 2</title>
     <sub-title lang="es">Sin evento programado</sub-title>
     <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
   </programme>
-  <programme start="20230817120000 -0400" stop="20230818000000 -0400" channel="0002">
+  <programme start="20230817170000 -0400" stop="20230817202000 -0400" channel="0002">
+    <title lang="es">Universidad Católica vs Colo-Colo</title>
+    <sub-title lang="es">EN VIVO: Fútbol Copa Chile - Estadio Santa Laura</sub-title>
+    <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
+  </programme>
+  <programme start="20230817202000 -0400" stop="20230817225000 -0400" channel="0002">
+    <title lang="es">Coquimbo Unido vs Cobresal</title>
+    <sub-title lang="es">EN VIVO: Fútbol Copa Chile - Estadio Francisco Sánchez Rumoroso</sub-title>
+    <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
+  </programme>
+  <programme start="20230817225000 -0400" stop="20230818000000 -0400" channel="0002">
     <title lang="es">Señal de eventos 2</title>
     <sub-title lang="es">Sin evento programado</sub-title>
     <desc lang="es">Señal exclusiva, reservada para eventos en vivo.</desc>
@@ -12202,6 +12242,9 @@
   <programme start="20230817140000 -0400" stop="20230817143000 -0400" channel="0310">
     <title lang="es">Tutti Frutti</title>
   </programme>
+  <programme start="20230817163000 -0400" stop="20230817170000 -0400" channel="0310">
+    <title lang="es">Descubriendo con Vegibugs</title>
+  </programme>
   <programme start="20230816002500 -0400" stop="20230816020000 -0400" channel="0318">
     <title lang="es">Campamento del terror</title>
   </programme>
@@ -12274,6 +12317,9 @@
   </programme>
   <programme start="20230817143000 -0400" stop="20230817161000 -0400" channel="0318">
     <title lang="es">Planeta 51</title>
+  </programme>
+  <programme start="20230817161000 -0400" stop="20230817170000 -0400" channel="0318">
+    <title lang="es">Attack on Titan</title>
   </programme>
   <programme start="20230817202000 -0400" stop="20230817220000 -0400" channel="0318">
     <title lang="es">Deep el Pulpo</title>
@@ -14895,20 +14941,12 @@
     <sub-title lang="es">Post Supercopa. Manchester City - Sevilla</sub-title>
     <desc lang="es">Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.</desc>
   </programme>
-  <programme start="20230817001500 +0200" stop="20230817021500 +0200" channel="0428">
+  <programme start="20230817001500 +0200" stop="20230817022500 +0200" channel="0428">
     <title lang="es">Supercopa de Europa</title>
     <sub-title lang="es">Manchester City - Sevilla</sub-title>
     <desc lang="es">El Manchester City fue el gran triunfador de la temporada pasada y este nuevo curso quiere prolongar su reinado. El Sevilla, orgulloso campeón de la Europa League, acude a Atenas dispuesto a dar guerra. En los banquillos, interesante duelo entre Guardiola y Mendilibar.</desc>
     <star-rating system="ES">
-      <value>5/1</value>
-    </star-rating>
-  </programme>
-  <programme start="20230817021500 +0200" stop="20230817022500 +0200" channel="0428">
-    <title lang="es">Supercopa de Europa</title>
-    <sub-title lang="es">Manchester City - Sevilla</sub-title>
-    <desc lang="es">El Manchester City fue el gran triunfador de la temporada pasada y este nuevo curso quiere prolongar su reinado. El Sevilla, orgulloso campeón de la Europa League, acude a Atenas dispuesto a dar guerra. En los banquillos, interesante duelo entre Guardiola y Mendilibar.</desc>
-    <star-rating system="ES">
-      <value>5/1</value>
+      <value>4/34</value>
     </star-rating>
   </programme>
   <programme start="20230817022500 +0200" stop="20230817033000 +0200" channel="0428">
@@ -15096,35 +15134,35 @@
       <value>3/6</value>
     </star-rating>
   </programme>
-  <programme start="20230816000000 -0400" stop="20230816060000 -0400" channel="0430">
+  <programme start="20230815210000 -0400" stop="20230816030000 -0400" channel="0430">
     <title lang="en">DSports Chile</title>
     <desc lang="en">Las mejores ligas y disciplinas deportivas sólo por DSports.</desc>
   </programme>
-  <programme start="20230816060000 -0400" stop="20230816120000 -0400" channel="0430">
+  <programme start="20230816030000 -0400" stop="20230816090000 -0400" channel="0430">
     <title lang="en">DSports Chile</title>
     <desc lang="en">Las mejores ligas y disciplinas deportivas sólo por DSports.</desc>
   </programme>
-  <programme start="20230816120000 -0400" stop="20230816180000 -0400" channel="0430">
+  <programme start="20230816090000 -0400" stop="20230816150000 -0400" channel="0430">
     <title lang="en">DSports Chile</title>
     <desc lang="en">Las mejores ligas y disciplinas deportivas sólo por DSports.</desc>
   </programme>
-  <programme start="20230816180000 -0400" stop="20230817000000 -0400" channel="0430">
+  <programme start="20230816150000 -0400" stop="20230816210000 -0400" channel="0430">
     <title lang="en">DSports Chile</title>
     <desc lang="en">Las mejores ligas y disciplinas deportivas sólo por DSports.</desc>
   </programme>
-  <programme start="20230817000000 -0400" stop="20230817060000 -0400" channel="0430">
+  <programme start="20230816210000 -0400" stop="20230817030000 -0400" channel="0430">
     <title lang="en">DSports Chile</title>
     <desc lang="en">Las mejores ligas y disciplinas deportivas sólo por DSports.</desc>
   </programme>
-  <programme start="20230817060000 -0400" stop="20230817120000 -0400" channel="0430">
+  <programme start="20230817030000 -0400" stop="20230817090000 -0400" channel="0430">
     <title lang="en">DSports Chile</title>
     <desc lang="en">Las mejores ligas y disciplinas deportivas sólo por DSports.</desc>
   </programme>
-  <programme start="20230817120000 -0400" stop="20230817180000 -0400" channel="0430">
+  <programme start="20230817090000 -0400" stop="20230817150000 -0400" channel="0430">
     <title lang="en">DSports Chile</title>
     <desc lang="en">Las mejores ligas y disciplinas deportivas sólo por DSports.</desc>
   </programme>
-  <programme start="20230817180000 -0400" stop="20230818000000 -0400" channel="0430">
+  <programme start="20230817150000 -0400" stop="20230817210000 -0400" channel="0430">
     <title lang="en">DSports Chile</title>
     <desc lang="en">Las mejores ligas y disciplinas deportivas sólo por DSports.</desc>
   </programme>
@@ -15595,6 +15633,38 @@
     <title lang="es">City TV</title>
     <sub-title lang="es">3 Manchester City vs. Sevilla, UEFA Super Cup</sub-title>
     <desc lang="es">Un resumen de los mejores encuentros deportivos de la semana.</desc>
+  </programme>
+  <programme start="20230815200000 -0400" stop="20230816020000 -0400" channel="0436">
+    <title lang="en">DIRECTV Sports Argentina</title>
+    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  </programme>
+  <programme start="20230816020000 -0400" stop="20230816080000 -0400" channel="0436">
+    <title lang="en">DIRECTV Sports Argentina</title>
+    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  </programme>
+  <programme start="20230816080000 -0400" stop="20230816140000 -0400" channel="0436">
+    <title lang="en">DIRECTV Sports Argentina</title>
+    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  </programme>
+  <programme start="20230816140000 -0400" stop="20230816200000 -0400" channel="0436">
+    <title lang="en">DIRECTV Sports Argentina</title>
+    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  </programme>
+  <programme start="20230816200000 -0400" stop="20230817020000 -0400" channel="0436">
+    <title lang="en">DIRECTV Sports Argentina</title>
+    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  </programme>
+  <programme start="20230817020000 -0400" stop="20230817080000 -0400" channel="0436">
+    <title lang="en">DIRECTV Sports Argentina</title>
+    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  </programme>
+  <programme start="20230817080000 -0400" stop="20230817140000 -0400" channel="0436">
+    <title lang="en">DIRECTV Sports Argentina</title>
+    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  </programme>
+  <programme start="20230817140000 -0400" stop="20230817200000 -0400" channel="0436">
+    <title lang="en">DIRECTV Sports Argentina</title>
+    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
   </programme>
   <programme start="20230816061500 -0400" stop="20230816075700 -0400" channel="0503">
     <title lang="es">Gwen Stefani - This is What The Truth Feels Like Tour 2016</title>
@@ -28624,36 +28694,140 @@
     <title lang="en">DSports Fight</title>
     <desc lang="en">Información no disponible.</desc>
   </programme>
-  <programme start="20230816000000 -0400" stop="20230816060000 -0400" channel="0435">
+  <programme start="20230815210000 -0400" stop="20230816030000 -0400" channel="0435">
     <title lang="en">DSports Motor</title>
     <desc lang="en">Sin información.</desc>
   </programme>
-  <programme start="20230816060000 -0400" stop="20230816120000 -0400" channel="0435">
+  <programme start="20230816030000 -0400" stop="20230816090000 -0400" channel="0435">
     <title lang="en">DSports Motor</title>
     <desc lang="en">Sin información.</desc>
   </programme>
-  <programme start="20230816120000 -0400" stop="20230816180000 -0400" channel="0435">
+  <programme start="20230816090000 -0400" stop="20230816150000 -0400" channel="0435">
     <title lang="en">DSports Motor</title>
     <desc lang="en">Sin información.</desc>
   </programme>
-  <programme start="20230816180000 -0400" stop="20230817000000 -0400" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">Sin información.</desc>
+  <programme start="20230816163000 -0400" stop="20230816173000 -0400" channel="0435">
+    <title lang="en">Ferrari Challenge Racing Series - Estoril 2023</title>
+    <desc lang="en">Las acciones más destacadas del campeonato de series monomarca de mayor duración. Realizado del 14 al 19 de julio de 2023. Desde el circuito de Estoril, en Portugal.</desc>
   </programme>
-  <programme start="20230817000000 -0400" stop="20230817060000 -0400" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">Sin información.</desc>
+  <programme start="20230816173000 -0400" stop="20230816180000 -0400" channel="0435">
+    <title lang="en">FastZone</title>
+    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
   </programme>
-  <programme start="20230817060000 -0400" stop="20230817120000 -0400" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">Sin información.</desc>
+  <programme start="20230816180000 -0400" stop="20230816190000 -0400" channel="0435">
+    <title lang="en">Formula E - ePrix de Londres I: Rresumen</title>
+    <desc lang="en">Lo más destacado del primer día de carreras del ePrix de Londres. Desde el ExCeL London Circuit. 29 de julio de 2023.</desc>
   </programme>
-  <programme start="20230817120000 -0400" stop="20230817180000 -0400" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">Sin información.</desc>
+  <programme start="20230816190000 -0400" stop="20230816200000 -0400" channel="0435">
+    <title lang="en">Formula E - ePrix de Londres II: Resumen</title>
+    <desc lang="en">Las acciones más destacadas del segundo día de carreras del ePrix de Londres. Desde el ExCeL London Circuit. 30 de julio de 2023.</desc>
   </programme>
-  <programme start="20230817180000 -0400" stop="20230818000000 -0400" channel="0435">
+  <programme start="20230816200000 -0400" stop="20230816210000 -0400" channel="0435">
+    <title lang="en">FIA World Rally Championship - Finlandia, resumen</title>
+    <desc lang="en">Toda la emoción del FIA World Rally Championship. Cobertura de las pruebas automovilísticas que conforman el campeonato.</desc>
+  </programme>
+  <programme start="20230816210000 -0400" stop="20230816213000 -0400" channel="0435">
     <title lang="en">DSports Motor</title>
-    <desc lang="en">Sin información.</desc>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230816213000 -0400" stop="20230816220000 -0400" channel="0435">
+    <title lang="en">Abriendo pista</title>
+    <desc lang="en">Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación (CaNav).</desc>
+  </programme>
+  <programme start="20230816220000 -0400" stop="20230816223000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230816223000 -0400" stop="20230816233000 -0400" channel="0435">
+    <title lang="en">FIM Endurance World Championship Motorcycle Racing - 8 Horas de Suzuka: Resumen</title>
+    <desc lang="en">Las acciones más emocionantes del evento motociclista de resistencia llevado a cabo en Suzuka el 6 de agosto de 2023.</desc>
+  </programme>
+  <programme start="20230816233000 -0400" stop="20230817003000 -0400" channel="0435">
+    <title lang="en">Automovilismo Serie DTM - Nürburgring, resumen</title>
+    <desc lang="en">Lo más destacado de las carreras del Deutsche Tourenwagen Masters, mejor conocido como DTM, disputado en Alemania.</desc>
+  </programme>
+  <programme start="20230817003000 -0400" stop="20230817010000 -0400" channel="0435">
+    <title lang="en">FastZone</title>
+    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
+  </programme>
+  <programme start="20230817010000 -0400" stop="20230817013000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230817013000 -0400" stop="20230817023000 -0400" channel="0435">
+    <title lang="en">Live: CIK/FIA Karting World Championship - Cremona, finales</title>
+    <desc lang="en">En el circuito de Cremona, en Lombardía, se proclaman los campeones europeos de karting, en el marco del Campeonato Europeo de Karting de la FIA.</desc>
+  </programme>
+  <programme start="20230817023000 -0400" stop="20230817033000 -0400" channel="0435">
+    <title lang="en">FIA World Rally Championship - Finlandia, resumen</title>
+    <desc lang="en">Toda la emoción del FIA World Rally Championship. Cobertura de las pruebas automovilísticas que conforman el campeonato.</desc>
+  </programme>
+  <programme start="20230817033000 -0400" stop="20230817060000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Pennzoil 150 presented by Advance Auto Parts</title>
+    <desc lang="en">Intensidad en Indianápolis "Capital mundial de las carreras de coches" con la Nascar Xfinity Series.</desc>
+  </programme>
+  <programme start="20230817060000 -0400" stop="20230817063000 -0400" channel="0435">
+    <title lang="en">GP Confidential</title>
+    <desc lang="en">Análisis de la parte técnica de todas las escuderías de la Fórmula 1 y de su rendimiento durante los grandes premios disputados.</desc>
+  </programme>
+  <programme start="20230817063000 -0400" stop="20230817073000 -0400" channel="0435">
+    <title lang="en">FIM Endurance World Championship Motorcycle Racing - 8 Horas de Suzuka: Resumen</title>
+    <desc lang="en">Las acciones más emocionantes del evento motociclista de resistencia llevado a cabo en Suzuka el 6 de agosto de 2023.</desc>
+  </programme>
+  <programme start="20230817073000 -0400" stop="20230817083000 -0400" channel="0435">
+    <title lang="en">Live: CIK/FIA Karting World Championship - Cremona, finales</title>
+    <desc lang="en">En el circuito de Cremona, en Lombardía, se proclaman los campeones europeos de karting, en el marco del Campeonato Europeo de Karting de la FIA.</desc>
+  </programme>
+  <programme start="20230817083000 -0400" stop="20230817093000 -0400" channel="0435">
+    <title lang="en">GT World Challenge Highlights - Nurburgring, resumen</title>
+    <desc lang="en">Un resumen con los momentos más destacados de la ronda 6 del GT World Challenge Europe 2023, realizado entre el 28 y el 30 de julio en Nürburgring, Alemania.</desc>
+  </programme>
+  <programme start="20230817093000 -0400" stop="20230817100000 -0400" channel="0435">
+    <title lang="en">FastZone</title>
+    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
+  </programme>
+  <programme start="20230817100000 -0400" stop="20230817103000 -0400" channel="0435">
+    <title lang="en">Abriendo pista</title>
+    <desc lang="en">Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación (CaNav).</desc>
+  </programme>
+  <programme start="20230817103000 -0400" stop="20230817110000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230817110000 -0400" stop="20230817113000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230817113000 -0400" stop="20230817133000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Craftsman Truck Series - TSport 200</title>
+    <desc lang="en">La postemporada de la NASCAR Craftsman Truck Series se pone en marcha en la TSport 200. Carson Hocevar ganó el último evento de la temporada regular el 5 de agosto, y ocupa el tercer lugar en la clasificación de puntos.</desc>
+  </programme>
+  <programme start="20230817133000 -0400" stop="20230817143000 -0400" channel="0435">
+    <title lang="en">FIA World Rally Championship - Finlandia, resumen</title>
+    <desc lang="en">Toda la emoción del FIA World Rally Championship. Cobertura de las pruebas automovilísticas que conforman el campeonato.</desc>
+  </programme>
+  <programme start="20230817143000 -0400" stop="20230817153000 -0400" channel="0435">
+    <title lang="en">Automovilismo Serie DTM - Nürburgring, resumen</title>
+    <desc lang="en">Lo más destacado de las carreras del Deutsche Tourenwagen Masters, mejor conocido como DTM, disputado en Alemania.</desc>
+  </programme>
+  <programme start="20230817153000 -0400" stop="20230817163000 -0400" channel="0435">
+    <title lang="en">FIM Endurance World Championship Motorcycle Racing - 8 Horas de Suzuka: Resumen</title>
+    <desc lang="en">Las acciones más emocionantes del evento motociclista de resistencia llevado a cabo en Suzuka el 6 de agosto de 2023.</desc>
+  </programme>
+  <programme start="20230817163000 -0400" stop="20230817173000 -0400" channel="0435">
+    <title lang="en">Live: CIK/FIA Karting World Championship - Cremona, finales</title>
+    <desc lang="en">En el circuito de Cremona, en Lombardía, se proclaman los campeones europeos de karting, en el marco del Campeonato Europeo de Karting de la FIA.</desc>
+  </programme>
+  <programme start="20230817173000 -0400" stop="20230817200000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Pennzoil 150 presented by Advance Auto Parts</title>
+    <desc lang="en">Intensidad en Indianápolis "Capital mundial de las carreras de coches" con la Nascar Xfinity Series.</desc>
+  </programme>
+  <programme start="20230817200000 -0400" stop="20230817203000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230817203000 -0400" stop="20230820190000 -0400" channel="0435">
+    <title lang="en">FastZone</title>
+    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
   </programme>
 </tv>
