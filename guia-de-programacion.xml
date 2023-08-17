@@ -4848,6 +4848,9 @@
   <programme start="20230818113000 -0400" stop="20230818120000 -0400" channel="0205">
     <title lang="es">En Forma</title>
   </programme>
+  <programme start="20230818120000 -0400" stop="20230818120300 -0400" channel="0205">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20230818120300 -0400" stop="20230818123000 -0400" channel="0205">
     <title lang="es">Enfoque europa: Países, gentes, destinos</title>
   </programme>
@@ -12089,6 +12092,9 @@
   <programme start="20230818103000 -0400" stop="20230818110000 -0400" channel="0310">
     <title lang="es">Canciones y rimas y otras historias</title>
   </programme>
+  <programme start="20230818120000 -0400" stop="20230818123000 -0400" channel="0310">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
+  </programme>
   <programme start="20230817002500 -0400" stop="20230817020000 -0400" channel="0318">
     <title lang="es">La llorona</title>
   </programme>
@@ -12159,6 +12165,9 @@
     <title lang="es">Deep el Pulpo</title>
     <title lang="xx">Deep</title>
     <desc lang="es">Los últimos sobrevivientes de la tierra viven en una grieta en lo más profundo del océano que tras un accidente Deep es la esperanza para salvar su hogar.</desc>
+  </programme>
+  <programme start="20230818111000 -0400" stop="20230818125000 -0400" channel="0318">
+    <title lang="es">El chapulin colorado animado</title>
   </programme>
   <programme start="20230818143000 -0400" stop="20230818161000 -0400" channel="0318">
     <title lang="es">Deep el Pulpo</title>
@@ -15170,145 +15179,153 @@
       <value>2/4</value>
     </star-rating>
   </programme>
-  <programme start="20230816210000 -0400" stop="20230817030000 -0400" channel="0430">
+  <programme start="20230816200000 -0400" stop="20230817020000 -0400" channel="0430">
     <title lang="en">DSports Chile</title>
     <desc lang="en">Las mejores ligas y disciplinas deportivas sólo por DSports.</desc>
   </programme>
-  <programme start="20230817060000 -0400" stop="20230817070000 -0400" channel="0430">
+  <programme start="20230817050000 -0400" stop="20230817060000 -0400" channel="0430">
     <title lang="en">DSports noticias</title>
     <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
   </programme>
-  <programme start="20230817070000 -0400" stop="20230817090000 -0400" channel="0430">
+  <programme start="20230817060000 -0400" stop="20230817080000 -0400" channel="0430">
     <title lang="en">Copa Mundial Femenina de la FIFA 2023 - Semifinal: Australia vs. Inglaterra</title>
     <desc lang="en">Acción correspondiente a la semifinal de la Copa Mundial Femenina de la FIFA 2023. Australia enfrenta a Inglaterra para el pase a la final. Desde el Stadium Australia, Sidney.</desc>
   </programme>
-  <programme start="20230817090000 -0400" stop="20230817093000 -0400" channel="0430">
+  <programme start="20230817080000 -0400" stop="20230817083000 -0400" channel="0430">
     <title lang="en">Hilos : IDV y Liga de Conquistadores de América - IDV y Liga de Conquistadores de América</title>
     <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.</desc>
   </programme>
-  <programme start="20230817093000 -0400" stop="20230817100000 -0400" channel="0430">
+  <programme start="20230817083000 -0400" stop="20230817090000 -0400" channel="0430">
     <title lang="en">DSports Historias - Definiciones en la Copa Sudamericana</title>
     <desc lang="en">T01  E14 Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos. Temporada:01,Episodio:14.</desc>
   </programme>
-  <programme start="20230817100000 -0400" stop="20230817103000 -0400" channel="0430">
+  <programme start="20230817090000 -0400" stop="20230817093000 -0400" channel="0430">
     <title lang="en">Hilos : Riquelme - Riquelme</title>
     <desc lang="en">Encuentro con una de las figuras más representativas del deporte a nivel mundial. Lo más destacado sobre el futbolista argentino Juan Román Riquelme.</desc>
   </programme>
-  <programme start="20230817103000 -0400" stop="20230817110000 -0400" channel="0430">
+  <programme start="20230817093000 -0400" stop="20230817100000 -0400" channel="0430">
     <title lang="en">DSports Historias - Goleadas en Copa Sudamericana</title>
     <desc lang="en">T01  E15 Un recuento de partidos jugados en la historia de la Copa Sudamericana donde un equipo no deja de anotar goles. Temporada:01,Episodio:15.</desc>
   </programme>
-  <programme start="20230817110000 -0400" stop="20230817113000 -0400" channel="0430">
+  <programme start="20230817100000 -0400" stop="20230817103000 -0400" channel="0430">
     <title lang="en">Todo en 30</title>
     <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.</desc>
   </programme>
-  <programme start="20230817113000 -0400" stop="20230817120000 -0400" channel="0430">
+  <programme start="20230817103000 -0400" stop="20230817110000 -0400" channel="0430">
     <title lang="en">Hilos : Phil Jackson - Phil Jackson</title>
     <desc lang="en">En este episodio Hilos desentraña la historia del coach más ganador de la historia: Philip Douglas "Phil" Jackson quien encabezó la dinastía de los Chicago Bulls y Los Angeles Lakers.</desc>
   </programme>
-  <programme start="20230817120000 -0400" stop="20230817123000 -0400" channel="0430">
+  <programme start="20230817110000 -0400" stop="20230817113000 -0400" channel="0430">
     <title lang="en">DSports Historias - Definiciones en la Copa Sudamericana</title>
     <desc lang="en">T01  E14 Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos. Temporada:01,Episodio:14.</desc>
   </programme>
-  <programme start="20230817123000 -0400" stop="20230817133000 -0400" channel="0430">
+  <programme start="20230817113000 -0400" stop="20230817123000 -0400" channel="0430">
     <title lang="en">De fútbol se habla así, Chile</title>
     <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.</desc>
   </programme>
-  <programme start="20230817133000 -0400" stop="20230817150000 -0400" channel="0430">
+  <programme start="20230817123000 -0400" stop="20230817140000 -0400" channel="0430">
     <title lang="en">DSports noticias</title>
     <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
   </programme>
-  <programme start="20230817150000 -0400" stop="20230817160000 -0400" channel="0430">
+  <programme start="20230817140000 -0400" stop="20230817150000 -0400" channel="0430">
     <title lang="en">Magazine Copa Sudamericana - Octavos vuelta</title>
     <desc lang="en">Resumen con lo mejor de la Copa Conmebol Sudamericana.</desc>
   </programme>
-  <programme start="20230817160000 -0400" stop="20230817180000 -0400" channel="0430">
+  <programme start="20230817150000 -0400" stop="20230817170000 -0400" channel="0430">
     <title lang="en">Villarreal vs. Real Betis : Fútbol Español La Liga - Villarreal vs. Real Betis</title>
     <desc lang="en">Jornada 1 de LaLiga 2023-2024. Desde el Estadio de la Cerámica. Villarreal recibe a Real Betis. La temporada pasada, los equipos ocuparon plazas premiadas por jugar en la Europa League.</desc>
   </programme>
-  <programme start="20230817180000 -0400" stop="20230817190000 -0400" channel="0430">
+  <programme start="20230817170000 -0400" stop="20230817180000 -0400" channel="0430">
     <title lang="en">DSports noticias</title>
     <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
   </programme>
-  <programme start="20230817190000 -0400" stop="20230817210000 -0400" channel="0430">
+  <programme start="20230817180000 -0400" stop="20230817200000 -0400" channel="0430">
     <title lang="en">Copa Mundial Femenina de la FIFA 2023 - Semifinal: Australia vs. Inglaterra</title>
     <desc lang="en">Acción correspondiente a la semifinal de la Copa Mundial Femenina de la FIFA 2023. Australia enfrenta a Inglaterra para el pase a la final. Desde el Stadium Australia, Sidney.</desc>
   </programme>
-  <programme start="20230817210000 -0400" stop="20230817213000 -0400" channel="0430">
+  <programme start="20230817200000 -0400" stop="20230817203000 -0400" channel="0430">
     <title lang="en">Todo en 30</title>
     <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.</desc>
   </programme>
-  <programme start="20230817213000 -0400" stop="20230817220000 -0400" channel="0430">
+  <programme start="20230817203000 -0400" stop="20230817210000 -0400" channel="0430">
     <title lang="en">Hilos : Roger Federer - Roger Federer</title>
     <desc lang="en">Encuentro de análisis sobre la trayectoria deportiva del jugador profesional de tenis, Roger Federer.</desc>
   </programme>
-  <programme start="20230817220000 -0400" stop="20230817223000 -0400" channel="0430">
+  <programme start="20230817210000 -0400" stop="20230817213000 -0400" channel="0430">
     <title lang="en">Hilos : Riquelme - Riquelme</title>
     <desc lang="en">Encuentro con una de las figuras más representativas del deporte a nivel mundial. Lo más destacado sobre el futbolista argentino Juan Román Riquelme.</desc>
   </programme>
-  <programme start="20230817223000 -0400" stop="20230817233000 -0400" channel="0430">
+  <programme start="20230817213000 -0400" stop="20230817223000 -0400" channel="0430">
     <title lang="en">Íntimos - Marlon "Chito" Vera</title>
     <desc lang="en">T01  E14 La trayectoria de Marlon "Chito" Vera, luchador ecuatoriano de MMA, quien actualmente pelea en la división de peso gallo de la UFC. Temporada:01,Episodio:14.</desc>
   </programme>
-  <programme start="20230817233000 -0400" stop="20230818000000 -0400" channel="0430">
+  <programme start="20230817223000 -0400" stop="20230817230000 -0400" channel="0430">
     <title lang="en">Directo a Santiago - Catalina Salazar</title>
     <desc lang="en">Entrevista a la destacada triatleta chilena en su camino a los Juegos Panamericanos de Santiago 2023.</desc>
+  </programme>
+  <programme start="20230817230000 -0400" stop="20230818000000 -0400" channel="0430">
+    <title lang="en">De fútbol se habla así, Chile</title>
+    <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.</desc>
   </programme>
   <programme start="20230818000000 -0400" stop="20230818010000 -0400" channel="0430">
     <title lang="en">De fútbol se habla así, Chile</title>
     <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.</desc>
   </programme>
   <programme start="20230818010000 -0400" stop="20230818020000 -0400" channel="0430">
-    <title lang="en">De fútbol se habla así, Chile</title>
-    <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.</desc>
-  </programme>
-  <programme start="20230818020000 -0400" stop="20230818030000 -0400" channel="0430">
     <title lang="en">DSports Básquet</title>
     <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
-  <programme start="20230818030000 -0400" stop="20230818040000 -0400" channel="0430">
+  <programme start="20230818020000 -0400" stop="20230818030000 -0400" channel="0430">
     <title lang="en">DSports noticias</title>
     <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
   </programme>
-  <programme start="20230818040000 -0400" stop="20230818060000 -0400" channel="0430">
+  <programme start="20230818030000 -0400" stop="20230818050000 -0400" channel="0430">
     <title lang="en">Real Sociedad vs. Girona : Fútbol Español La Liga - Real Sociedad vs. Girona</title>
     <desc lang="en">Jornada 1 de LaLiga 2023-2024. Desde el Reale Arena. Real Sociedad recibe a Girona. El equipo local puede contar la temporada anterior como exitosa: los jugadores reales ocuparon el cuarto lugar.</desc>
   </programme>
-  <programme start="20230818060000 -0400" stop="20230818070000 -0400" channel="0430">
+  <programme start="20230818050000 -0400" stop="20230818060000 -0400" channel="0430">
     <title lang="en">DSports noticias</title>
     <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
   </programme>
-  <programme start="20230818070000 -0400" stop="20230818090000 -0400" channel="0430">
+  <programme start="20230818060000 -0400" stop="20230818080000 -0400" channel="0430">
     <title lang="en">Copa Mundial Femenina de la FIFA 2023 - Semifinal: España vs. Suecia</title>
     <desc lang="en">España se enfrenta Suecia en el primer partido de semifinales de la Copa Mundial Femenina. Disputado el 15 de agosto de 2023 en el Eden Park, en Auckland, Australia.</desc>
   </programme>
-  <programme start="20230818090000 -0400" stop="20230818100000 -0400" channel="0430">
+  <programme start="20230818080000 -0400" stop="20230818090000 -0400" channel="0430">
     <title lang="en">Magazine Copa Sudamericana - Octavos vuelta</title>
     <desc lang="en">Resumen con lo mejor de la Copa Conmebol Sudamericana.</desc>
   </programme>
-  <programme start="20230818100000 -0400" stop="20230818103000 -0400" channel="0430">
+  <programme start="20230818090000 -0400" stop="20230818093000 -0400" channel="0430">
     <title lang="en">DSports Historias - Manu Ginóbili: The last dance en la selección</title>
     <desc lang="en">T01  E21 El más ganador en la historia del básquetbol argentino: 4 anillos de la NBA, una medalla de oro y bronce olímpico, una medalla de plata mundialista, campeón y MVP de la Euroliga. Temporada:01,Episodio:21.</desc>
   </programme>
-  <programme start="20230818103000 -0400" stop="20230818110000 -0400" channel="0430">
+  <programme start="20230818093000 -0400" stop="20230818100000 -0400" channel="0430">
     <title lang="en">Hilos : Riquelme - Riquelme</title>
     <desc lang="en">Encuentro con una de las figuras más representativas del deporte a nivel mundial. Lo más destacado sobre el futbolista argentino Juan Román Riquelme.</desc>
   </programme>
-  <programme start="20230818110000 -0400" stop="20230818113000 -0400" channel="0430">
+  <programme start="20230818100000 -0400" stop="20230818103000 -0400" channel="0430">
     <title lang="en">Todo en 30</title>
     <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.</desc>
   </programme>
-  <programme start="20230818113000 -0400" stop="20230818120000 -0400" channel="0430">
-    <title lang="en">Hilos : Roger Federer - Roger Federer</title>
-    <desc lang="en">Encuentro de análisis sobre la trayectoria deportiva del jugador profesional de tenis, Roger Federer.</desc>
+  <programme start="20230818113000 -0400" stop="20230818173000 -0400" channel="0430">
+    <title lang="en">De fútbol se habla así, Chile</title>
+    <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.</desc>
   </programme>
-  <programme start="20230818120000 -0400" stop="20230818123000 -0400" channel="0430">
+  <programme start="20230818110000 -0400" stop="20230818152500 -0400" channel="0430">
     <title lang="en">Hilos : IDV y Liga de Conquistadores de América - IDV y Liga de Conquistadores de América</title>
     <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.</desc>
   </programme>
-  <programme start="20230818123000 -0400" stop="20230819110000 -0400" channel="0430">
-    <title lang="en">De fútbol se habla así, Chile</title>
-    <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.</desc>
+  <programme start="20230818103000 -0400" stop="20230818143000 -0400" channel="0430">
+    <title lang="en">Hilos : Roger Federer - Roger Federer</title>
+    <desc lang="en">Encuentro de análisis sobre la trayectoria deportiva del jugador profesional de tenis, Roger Federer.</desc>
+  </programme>
+  <programme start="20230818143000 -0400" stop="20230818150000 -0400" channel="0430">
+    <title lang="en">La previa de La Liga</title>
+    <desc lang="en">Análisis previo a una nueva jornada de la apasionante Liga española de fútbol.</desc>
+  </programme>
+  <programme start="20230818173000 -0400" stop="20230819123000 -0400" channel="0430">
+    <title lang="en">DSports noticias</title>
+    <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
   </programme>
   <programme start="20230817000000 -0400" stop="20230817020000 -0400" channel="0431">
     <title lang="es">FIFA Women's WC Au/NZ 2023</title>
@@ -28800,60 +28817,168 @@
     <title lang="en">DSports Fight</title>
     <desc lang="en">Información no disponible.</desc>
   </programme>
+  <programme start="20230816200000 -0400" stop="20230816203000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230816203000 -0400" stop="20230816210000 -0400" channel="0435">
+    <title lang="en">Abriendo pista</title>
+    <desc lang="en">Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación (CaNav).</desc>
+  </programme>
   <programme start="20230816210000 -0400" stop="20230816213000 -0400" channel="0435">
     <title lang="en">DSports Motor</title>
     <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
-  <programme start="20230816213000 -0400" stop="20230816220000 -0400" channel="0435">
-    <title lang="en">Abriendo pista</title>
-    <desc lang="en">Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación (CaNav).</desc>
-  </programme>
-  <programme start="20230816220000 -0400" stop="20230816223000 -0400" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230816223000 -0400" stop="20230816233000 -0400" channel="0435">
+  <programme start="20230816213000 -0400" stop="20230816223000 -0400" channel="0435">
     <title lang="en">FIM Endurance World Championship Motorcycle Racing - 8 Horas de Suzuka: Resumen</title>
     <desc lang="en">Las acciones más emocionantes del evento motociclista de resistencia llevado a cabo en Suzuka el 6 de agosto de 2023.</desc>
   </programme>
-  <programme start="20230816233000 -0400" stop="20230817003000 -0400" channel="0435">
+  <programme start="20230816223000 -0400" stop="20230816233000 -0400" channel="0435">
     <title lang="en">Automovilismo Serie DTM - Nürburgring, resumen</title>
     <desc lang="en">Lo más destacado de las carreras del Deutsche Tourenwagen Masters, mejor conocido como DTM, disputado en Alemania.</desc>
   </programme>
-  <programme start="20230817003000 -0400" stop="20230817010000 -0400" channel="0435">
+  <programme start="20230816233000 -0400" stop="20230817000000 -0400" channel="0435">
     <title lang="en">FastZone</title>
     <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
   </programme>
-  <programme start="20230817010000 -0400" stop="20230817013000 -0400" channel="0435">
+  <programme start="20230817000000 -0400" stop="20230817003000 -0400" channel="0435">
     <title lang="en">DSports Motor</title>
     <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
-  <programme start="20230817013000 -0400" stop="20230817023000 -0400" channel="0435">
+  <programme start="20230817003000 -0400" stop="20230817013000 -0400" channel="0435">
     <title lang="en">Live: CIK/FIA Karting World Championship - Cremona, finales</title>
     <desc lang="en">En el circuito de Cremona, en Lombardía, se proclaman los campeones europeos de karting, en el marco del Campeonato Europeo de Karting de la FIA.</desc>
   </programme>
-  <programme start="20230817023000 -0400" stop="20230817033000 -0400" channel="0435">
+  <programme start="20230817013000 -0400" stop="20230817023000 -0400" channel="0435">
     <title lang="en">FIA World Rally Championship - Finlandia, resumen</title>
     <desc lang="en">Toda la emoción del FIA World Rally Championship. Cobertura de las pruebas automovilísticas que conforman el campeonato.</desc>
   </programme>
-  <programme start="20230817033000 -0400" stop="20230817060000 -0400" channel="0435">
+  <programme start="20230817023000 -0400" stop="20230817050000 -0400" channel="0435">
     <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Pennzoil 150 presented by Advance Auto Parts</title>
     <desc lang="en">Intensidad en Indianápolis "Capital mundial de las carreras de coches" con la Nascar Xfinity Series.</desc>
   </programme>
-  <programme start="20230817060000 -0400" stop="20230817063000 -0400" channel="0435">
+  <programme start="20230817050000 -0400" stop="20230817053000 -0400" channel="0435">
     <title lang="en">GP Confidential</title>
     <desc lang="en">Análisis de la parte técnica de todas las escuderías de la Fórmula 1 y de su rendimiento durante los grandes premios disputados.</desc>
   </programme>
-  <programme start="20230818073000 -0400" stop="20230819133000 -0400" channel="0435">
-    <title lang="en">Live: CIK/FIA Karting World Championship - Cremona, finales</title>
-    <desc lang="en">En el circuito de Cremona, en Lombardía, se proclaman los campeones europeos de karting, en el marco del Campeonato Europeo de Karting de la FIA.</desc>
+  <programme start="20230817123000 -0400" stop="20230817133000 -0400" channel="0435">
+    <title lang="en">FIA World Rally Championship - Finlandia, resumen</title>
+    <desc lang="en">Toda la emoción del FIA World Rally Championship. Cobertura de las pruebas automovilísticas que conforman el campeonato.</desc>
   </programme>
-  <programme start="20230817063000 -0400" stop="20230818123000 -0400" channel="0435">
+  <programme start="20230817133000 -0400" stop="20230817143000 -0400" channel="0435">
+    <title lang="en">Automovilismo Serie DTM - Nürburgring, resumen</title>
+    <desc lang="en">Lo más destacado de las carreras del Deutsche Tourenwagen Masters, mejor conocido como DTM, disputado en Alemania.</desc>
+  </programme>
+  <programme start="20230817143000 -0400" stop="20230817153000 -0400" channel="0435">
     <title lang="en">FIM Endurance World Championship Motorcycle Racing - 8 Horas de Suzuka: Resumen</title>
     <desc lang="en">Las acciones más emocionantes del evento motociclista de resistencia llevado a cabo en Suzuka el 6 de agosto de 2023.</desc>
   </programme>
-  <programme start="20230818123000 -0400" stop="20230819073000 -0400" channel="0435">
+  <programme start="20230817153000 -0400" stop="20230817163000 -0400" channel="0435">
     <title lang="en">Live: CIK/FIA Karting World Championship - Cremona, finales</title>
     <desc lang="en">En el circuito de Cremona, en Lombardía, se proclaman los campeones europeos de karting, en el marco del Campeonato Europeo de Karting de la FIA.</desc>
+  </programme>
+  <programme start="20230817163000 -0400" stop="20230817190000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Pennzoil 150 presented by Advance Auto Parts</title>
+    <desc lang="en">Intensidad en Indianápolis "Capital mundial de las carreras de coches" con la Nascar Xfinity Series.</desc>
+  </programme>
+  <programme start="20230817190000 -0400" stop="20230817193000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230817193000 -0400" stop="20230817200000 -0400" channel="0435">
+    <title lang="en">FastZone</title>
+    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
+  </programme>
+  <programme start="20230817200000 -0400" stop="20230817210000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230817210000 -0400" stop="20230817230000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Craftsman Truck Series - TSport 200</title>
+    <desc lang="en">La postemporada de la NASCAR Craftsman Truck Series se pone en marcha en la TSport 200. Carson Hocevar ganó el último evento de la temporada regular el 5 de agosto, y ocupa el tercer lugar en la clasificación de puntos.</desc>
+  </programme>
+  <programme start="20230817230000 -0400" stop="20230818000000 -0400" channel="0435">
+    <title lang="en">FIM Endurance World Championship Motorcycle Racing - 8 Horas de Suzuka: Resumen</title>
+    <desc lang="en">Las acciones más emocionantes del evento motociclista de resistencia llevado a cabo en Suzuka el 6 de agosto de 2023.</desc>
+  </programme>
+  <programme start="20230818000000 -0400" stop="20230818003000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230818003000 -0400" stop="20230818010000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230818010000 -0400" stop="20230818013000 -0400" channel="0435">
+    <title lang="en">FastZone</title>
+    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
+  </programme>
+  <programme start="20230818013000 -0400" stop="20230818020000 -0400" channel="0435">
+    <title lang="en">Rally América</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230818020000 -0400" stop="20230818033000 -0400" channel="0435">
+    <title lang="en">Automovilismo Serie DTM - Nürburgring: Carrera 1</title>
+    <desc lang="en">Primera carrera de la cuarta etapa de 2023, celebrada en el Circuito de Nürburgring en Nürburg, Alemania, el 5 de agosto.</desc>
+  </programme>
+  <programme start="20230818033000 -0400" stop="20230818050000 -0400" channel="0435">
+    <title lang="en">Automovilismo Serie DTM - Nürburgring: Carrera 2</title>
+    <desc lang="en">Segunda carrera de la cuarta etapa celebrada en el Circuito de Nürburgring en Nürburg, Alemania.</desc>
+  </programme>
+  <programme start="20230818050000 -0400" stop="20230818060000 -0400" channel="0435">
+    <title lang="en">FIM Endurance World Championship Motorcycle Racing - 8 Horas de Suzuka: Resumen</title>
+    <desc lang="en">Las acciones más emocionantes del evento motociclista de resistencia llevado a cabo en Suzuka el 6 de agosto de 2023.</desc>
+  </programme>
+  <programme start="20230818060000 -0400" stop="20230818070000 -0400" channel="0435">
+    <title lang="en">Formula E - ePrix de Londres I: Rresumen</title>
+    <desc lang="en">Lo más destacado del primer día de carreras del ePrix de Londres. Desde el ExCeL London Circuit. 29 de julio de 2023.</desc>
+  </programme>
+  <programme start="20230818070000 -0400" stop="20230818080000 -0400" channel="0435">
+    <title lang="en">Formula E - ePrix de Londres II: Resumen</title>
+    <desc lang="en">Las acciones más destacadas del segundo día de carreras del ePrix de Londres. Desde el ExCeL London Circuit. 30 de julio de 2023.</desc>
+  </programme>
+  <programme start="20230818080000 -0400" stop="20230818083000 -0400" channel="0435">
+    <title lang="en">Rally América</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230818083000 -0400" stop="20230818093000 -0400" channel="0435">
+    <title lang="en">FIA World Rally Championship - Finlandia, resumen</title>
+    <desc lang="en">Toda la emoción del FIA World Rally Championship. Cobertura de las pruebas automovilísticas que conforman el campeonato.</desc>
+  </programme>
+  <programme start="20230818093000 -0400" stop="20230818100000 -0400" channel="0435">
+    <title lang="en">FastZone</title>
+    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
+  </programme>
+  <programme start="20230818100000 -0400" stop="20230818103000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230818103000 -0400" stop="20230818113000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230818113000 -0400" stop="20230818123000 -0400" channel="0435">
+    <title lang="en">Live: CIK/FIA Karting World Championship - Cremona, finales</title>
+    <desc lang="en">En el circuito de Cremona, en Lombardía, se proclaman los campeones europeos de karting, en el marco del Campeonato Europeo de Karting de la FIA.</desc>
+  </programme>
+  <programme start="20230818123000 -0400" stop="20230818133000 -0400" channel="0435">
+    <title lang="en">GT World Challenge Highlights - Nurburgring, resumen</title>
+    <desc lang="en">Un resumen con los momentos más destacados de la ronda 6 del GT World Challenge Europe 2023, realizado entre el 28 y el 30 de julio en Nürburgring, Alemania.</desc>
+  </programme>
+  <programme start="20230818133000 -0400" stop="20230818150000 -0400" channel="0435">
+    <title lang="en">Automovilismo Serie DTM - Nürburgring: Carrera 1</title>
+    <desc lang="en">Primera carrera de la cuarta etapa de 2023, celebrada en el Circuito de Nürburgring en Nürburg, Alemania, el 5 de agosto.</desc>
+  </programme>
+  <programme start="20230818150000 -0400" stop="20230818163000 -0400" channel="0435">
+    <title lang="en">Automovilismo Serie DTM - Nürburgring: Carrera 2</title>
+    <desc lang="en">Segunda carrera de la cuarta etapa celebrada en el Circuito de Nürburgring en Nürburg, Alemania.</desc>
+  </programme>
+  <programme start="20230818163000 -0400" stop="20230818173000 -0400" channel="0435">
+    <title lang="en">Ferrari Challenge Racing Series - Estoril 2023</title>
+    <desc lang="en">Las acciones más destacadas del campeonato de series monomarca de mayor duración. Realizado del 14 al 19 de julio de 2023. Desde el circuito de Estoril, en Portugal.</desc>
+  </programme>
+  <programme start="20230818173000 -0400" stop="20230818200000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Cup Series - Verizon 200 at the Brickyard</title>
+    <desc lang="en">Cobertura de la NASCAR Cup Series 2023. Esta es la 75ª temporada de la NASCAR, las carreras profesionales de coches de serie en Estados Unidos.</desc>
   </programme>
 </tv>
