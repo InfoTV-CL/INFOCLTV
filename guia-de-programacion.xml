@@ -11993,6 +11993,9 @@
   <programme start="20230824120000 -0400" stop="20230824123000 -0400" channel="0310">
     <title lang="es">Los primeros descubrimientos mágicos</title>
   </programme>
+  <programme start="20230824150000 -0400" stop="20230824153000 -0400" channel="0310">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
+  </programme>
   <programme start="20230823003000 -0400" stop="20230823020000 -0400" channel="0318">
     <title lang="es">El amarre</title>
   </programme>
@@ -13496,7 +13499,15 @@
     <title lang="es">SportsCenter+</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
   </programme>
-  <programme start="20230824174500 -0400" stop="20230824210000 -0400" channel="0412">
+  <programme start="20230824174500 -0400" stop="20230824185000 -0400" channel="0412">
+    <title lang="es">Goles de la Eredivisie</title>
+    <desc lang="es">Los goles del fútbol holandés.</desc>
+  </programme>
+  <programme start="20230824185000 -0400" stop="20230824195500 -0400" channel="0412">
+    <title lang="es">PGA Tour Highlights - BMW Championship</title>
+    <desc lang="es">Desde el Olympia Fields Country Club (North), Olympia Fields, IllInois, revivimos todo lo que dejó el segundo evento de los Playoffs del PGA TOUR y la victoria del noruego Viktor Hovland logrando así su quinto título en el PGA TOUR. Highlights y entrevistas con los protagonistas.</desc>
+  </programme>
+  <programme start="20230824195500 -0400" stop="20230824210000 -0400" channel="0412">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
   </programme>
@@ -15054,9 +15065,8 @@
     <desc lang="es">Todas las novedades y la información de la actualidad deportiva.</desc>
   </programme>
   <programme start="20230823083000 -0400" stop="20230823103000 -0400" channel="0431">
-    <title lang="es">CONMEBOL Sudamericana</title>
-    <sub-title lang="es">Botafogo (Bra) vs. Def. y Justicia (Arg), Cuartos de final Vuelta, Estadio Olímpico N. Santos</sub-title>
-    <desc lang="es">Vive los partidos de la vigésima segunda edición del torneo organizado por la CONMEBOL.</desc>
+    <title lang="es">City TV: 4 - Manchester City vs. Newcastle United, EPL</title>
+    <desc lang="es">Un resumen de los mejores encuentros deportivos de la semana.</desc>
   </programme>
   <programme start="20230823103000 -0400" stop="20230823123000 -0400" channel="0431">
     <title lang="es">FIFA Women's WC Au/Nz 2023</title>
@@ -21276,95 +21286,98 @@
     <sub-title lang="es">Red Moon</sub-title>
     <desc lang="es">Jane trabaja con un astrólogo local quien insiste ayudar al equipo con un homicidio triple en el que están involucrados tres policías y el enemigo de Jane, Red John.</desc>
   </programme>
-  <programme start="20230823135300 -0400" stop="20230823145100 -0400" channel="0833">
-    <title lang="es">The Mentalist</title>
-    <sub-title lang="es">Jolly Red Elf</sub-title>
-    <desc lang="es">Patrick Jane trabaja de forma encubierta en un grupo AA durante la investigación del asesinato de un Santa, mientras que Van Pelt y Rigsby hablan con los miembros de una auténtica sociedad de Santas.</desc>
-  </programme>
-  <programme start="20230823145100 -0400" stop="20230823154200 -0400" channel="0833">
+  <programme start="20230823141500 -0400" stop="20230823151800 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Bloodsport</sub-title>
     <desc lang="es">Cadáver de mujer es hallado en combate de artes marciales; Rigsby tiene que pedirle un favor a Cho.</desc>
   </programme>
-  <programme start="20230823154200 -0400" stop="20230823163600 -0400" channel="0833">
+  <programme start="20230823151800 -0400" stop="20230823161800 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Bloodhounds</sub-title>
     <desc lang="es">Patrick Jane está determinado a probar que sus métodos son superiores mientras investiga un doble asesinato con un experto criminalista.</desc>
   </programme>
-  <programme start="20230823163600 -0400" stop="20230823173500 -0400" channel="0833">
+  <programme start="20230823161800 -0400" stop="20230823172300 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Red Alert</sub-title>
     <desc lang="es">Jane debe usar sus habilidades para desactivar una situación peligrosa cuando un acusado de asesinato lo secuestra a él y otras personas.</desc>
   </programme>
-  <programme start="20230823173500 -0400" stop="20230823183400 -0400" channel="0833">
+  <programme start="20230823172300 -0400" stop="20230823182500 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Blood for Blood</sub-title>
     <desc lang="es">Las acciones de Van Pelt son cuestionadas cuando el testigo que ella está protegiendo es asesinado.</desc>
   </programme>
-  <programme start="20230823183400 -0400" stop="20230823193200 -0400" channel="0833">
+  <programme start="20230823182500 -0400" stop="20230823192600 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Red Gold</sub-title>
     <desc lang="es">El agente Hightower se une a Patrick Jane después de que Lisbon es herido mientras investiga la muerte de un explorador.</desc>
   </programme>
-  <programme start="20230823193200 -0400" stop="20230823203100 -0400" channel="0833">
+  <programme start="20230823192600 -0400" stop="20230823202800 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Red Queen</sub-title>
     <desc lang="es">Un vendedor de antigüedades es hallado muerto en un museo y las evidencias apuntan hacia un miembro del equipo CBI.</desc>
   </programme>
-  <programme start="20230823203100 -0400" stop="20230823213000 -0400" channel="0833">
+  <programme start="20230823202800 -0400" stop="20230823213000 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Bloodstream</sub-title>
     <desc lang="es">Un doctor es hallado muerto en un campo de golf y el equipo busca entre sus integrantes y pacientes al sospechoso. Cho se convierte en el nuevo líder del equipo.</desc>
   </programme>
-  <programme start="20230823213000 -0400" stop="20230823222800 -0400" channel="0833">
+  <programme start="20230823213000 -0400" stop="20230823223600 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">The Red Mile</sub-title>
     <desc lang="es">Un hombre que pensó que había sido secuestrado por unos alienígenas es asesinado y su cuerpo es robado de la camioneta del forense; Van Pelt busca un vestido de novia.</desc>
   </programme>
-  <programme start="20230823222800 -0400" stop="20230823232700 -0400" channel="0833">
+  <programme start="20230823223600 -0400" stop="20230823233500 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Every Rose Has Its Thorn</sub-title>
     <desc lang="es">El cuerpo de un hombre es hallado en la marina y su esposa (Morena Baccarin) hermosa y manipuladora se convierte en la principal sospechosa.</desc>
   </programme>
-  <programme start="20230823232700 -0400" stop="20230824002000 -0400" channel="0833">
+  <programme start="20230823233500 -0400" stop="20230824002900 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Redacted</sub-title>
     <desc lang="es">Patrick investiga dos robos fallidos, uno de los cuales involucra a un hombre que fue contratado para entrar a la casa de LaRoche.</desc>
   </programme>
-  <programme start="20230824002000 -0400" stop="20230824010500 -0400" channel="0833">
+  <programme start="20230824002900 -0400" stop="20230824012000 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Like a Redheaded Stepchild</sub-title>
     <desc lang="es">Patrick sospecha de un reo por la muerte a puñaladas del guardia de una prisión; Rigsby cuestiona a su padre acerca del asesinato.</desc>
   </programme>
-  <programme start="20230824010500 -0400" stop="20230824015600 -0400" channel="0833">
+  <programme start="20230824012000 -0400" stop="20230824020800 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Rhapsody in Red</sub-title>
     <desc lang="es">Miembros de la Orquesta Sinfónica del Norte de California son interrogados después del asesinato de un joven violinista; Cho se cruza en el camino de un carterista.</desc>
   </programme>
-  <programme start="20230824015600 -0400" stop="20230824023900 -0400" channel="0833">
+  <programme start="20230824020800 -0400" stop="20230824025300 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Strawberries and Cream, Part I</sub-title>
     <desc lang="es">La identidad del espía del CBI es revelada. El encuentro de Patrick Jane y John el Rojo tiene consecuencias para el equipo.</desc>
   </programme>
-  <programme start="20230824023900 -0400" stop="20230824032500 -0400" channel="0833">
+  <programme start="20230824025300 -0400" stop="20230824033800 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Strawberries and Cream, Part II</sub-title>
     <desc lang="es">La identidad del espía del CBI es revelada; el encuentro de Patrick Jane y Red John tiene consecuencias para el equipo.</desc>
   </programme>
-  <programme start="20230824032500 -0400" stop="20230824040900 -0400" channel="0833">
+  <programme start="20230824033800 -0400" stop="20230824042400 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Red Sky at Night</sub-title>
     <desc lang="es">Un prominente abogado es secuestrado. El encuentro de Patrick Jane con John el Rojo provoca que se cuestione su futuro en la unidad.</desc>
   </programme>
-  <programme start="20230824040900 -0400" stop="20230824045500 -0400" channel="0833">
+  <programme start="20230824042400 -0400" stop="20230824050900 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Cackle-Bladder Blood</sub-title>
     <desc lang="es">El cuñado de Jane llega a la ciudad y se convierte en el sospechoso de un asesinato y Jane se ve obligado a ayudarlo.</desc>
   </programme>
-  <programme start="20230824045500 -0400" stop="20230824060000 -0400" channel="0833">
+  <programme start="20230824050900 -0400" stop="20230824055500 -0400" channel="0833">
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">The Blood on His Hands</sub-title>
     <desc lang="es">El líder de culto Bret Stiles (Malcolm McDowell) ofrece información a Patrick Jane acerca de Red John y la psíquica desaparecida, Kristina Frye.</desc>
+  </programme>
+  <programme start="20230824055500 -0400" stop="20230824055800 -0400" channel="0833">
+    <title lang="es">TNT Buzz</title>
+    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
+  </programme>
+  <programme start="20230824055800 -0400" stop="20230824060000 -0400" channel="0833">
+    <title lang="es">TNT Buzz</title>
+    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
   </programme>
   <programme start="20230824060000 -0400" stop="20230824070900 -0400" channel="0833">
     <title lang="es">Hollywood One on One</title>
@@ -27700,84 +27713,8 @@
     <title lang="en">DSports Motor</title>
     <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
-  <programme start="20230823203000 -0400" stop="20230823210000 -0400" channel="0435">
+  <programme start="20230823203000 -0400" stop="20230828020000 -0400" channel="0435">
     <title lang="en">Abriendo pista</title>
     <desc lang="en">Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación (CaNav).</desc>
-  </programme>
-  <programme start="20230823210000 -0400" stop="20230823213000 -0400" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230823213000 -0400" stop="20230823220000 -0400" channel="0435">
-    <title lang="en">Behind the Gate</title>
-    <desc lang="en">Los momentos más destacados de la carrera de MXGP realizada el 12 y 13 de agosto de 2023 en el circuito de Uddevalla, en Suecia.</desc>
-  </programme>
-  <programme start="20230823220000 -0400" stop="20230824023000 -0400" channel="0435">
-    <title lang="en">Porsche Carrera Cup - Nurburgring, resumen</title>
-    <desc lang="en">Las carreras y los podios de la temporada de la Copa Porsche.</desc>
-  </programme>
-  <programme start="20230824023000 -0400" stop="20230824030000 -0400" channel="0435">
-    <title lang="en">Behind the Gate</title>
-    <desc lang="en">Los momentos más destacados de la carrera de MXGP realizada el 12 y 13 de agosto de 2023 en el circuito de Uddevalla, en Suecia.</desc>
-  </programme>
-  <programme start="20230824030000 -0400" stop="20230824040000 -0400" channel="0435">
-    <title lang="en">Campeonato Británico de Superbikes - Ronda 7: Thruxton, resumen</title>
-    <desc lang="en">Lo más destacado de toda la acción del campeonato británico de Superbike.</desc>
-  </programme>
-  <programme start="20230824040000 -0400" stop="20230824050000 -0400" channel="0435">
-    <title lang="en">FIM Speedway GP Highlights - Riga, Letonia</title>
-    <desc lang="en">Acción resumida de la temporada Grand Prix en el FIM Speedway.</desc>
-  </programme>
-  <programme start="20230824050000 -0400" stop="20230824080000 -0400" channel="0435">
-    <title lang="en">Automovilismo NASCAR Cup Series - Go Bowling at The Glen</title>
-    <desc lang="en">Cobertura de la carrera Go Bowling At The Glen en el hipódromo internacional de Watkins Glen.</desc>
-  </programme>
-  <programme start="20230824080000 -0400" stop="20230824090000 -0400" channel="0435">
-    <title lang="en">Campeonato Británico de Superbikes - Ronda 7: Thruxton, resumen</title>
-    <desc lang="en">Lo más destacado de toda la acción del campeonato británico de Superbike.</desc>
-  </programme>
-  <programme start="20230824090000 -0400" stop="20230824093000 -0400" channel="0435">
-    <title lang="en">Abriendo pista</title>
-    <desc lang="en">Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación (CaNav).</desc>
-  </programme>
-  <programme start="20230824093000 -0400" stop="20230824100000 -0400" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230824100000 -0400" stop="20230824103000 -0400" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230824103000 -0400" stop="20230824110000 -0400" channel="0435">
-    <title lang="en">Behind the Gate</title>
-    <desc lang="en">Los momentos más destacados de la carrera de MXGP realizada el 12 y 13 de agosto de 2023 en el circuito de Uddevalla, en Suecia.</desc>
-  </programme>
-  <programme start="20230824110000 -0400" stop="20230824140000 -0400" channel="0435">
-    <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Shriners Children's 200, carrera</title>
-    <desc lang="en">Fecha 23 del calendario 2023 de la serie Xfinity de NASCAR. Desde el autódromo Watkins Glen International, Nueva York.</desc>
-  </programme>
-  <programme start="20230824140000 -0400" stop="20230824153000 -0400" channel="0435">
-    <title lang="en">ADAC GT4 Germany - Lausitzring, carrera 1 - resumen</title>
-    <desc lang="en">Los mejores momentos de la primera carrera en el ADAC GT4 Alemania 2023. Desde el circuito Lausitzring, Schipkau.</desc>
-  </programme>
-  <programme start="20230824153000 -0400" stop="20230824170000 -0400" channel="0435">
-    <title lang="en">ADAC GT4 Germany - Lausitzring, carrera 2 - resumen</title>
-    <desc lang="en">Los mejores momentos de la segunda carrera en el ADAC GT4 Alemania 2023. Desde el circuito Lausitzring, Schipkau.</desc>
-  </programme>
-  <programme start="20230824170000 -0400" stop="20230824180000 -0400" channel="0435">
-    <title lang="en">Campeonato Británico de Superbikes - Ronda 7: Thruxton, resumen</title>
-    <desc lang="en">Lo más destacado de toda la acción del campeonato británico de Superbike.</desc>
-  </programme>
-  <programme start="20230824180000 -0400" stop="20230824190000 -0400" channel="0435">
-    <title lang="en">FIM Speedway GP Highlights - Riga, Letonia</title>
-    <desc lang="en">Acción resumida de la temporada Grand Prix en el FIM Speedway.</desc>
-  </programme>
-  <programme start="20230824190000 -0400" stop="20230824193000 -0400" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230824193000 -0400" stop="20230824200000 -0400" channel="0435">
-    <title lang="en">FastZone</title>
-    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
   </programme>
 </tv>
