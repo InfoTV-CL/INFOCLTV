@@ -360,6 +360,11 @@
     <icon src="https://i.ibb.co/bdMTTSD/0602.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
+  <channel id="0603">
+    <display-name lang="es">Discovery Home and Health Argentina</display-name>
+    <icon src="HHARGENTINA" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
   <channel id="0604">
     <display-name lang="en">Investigation Discovery</display-name>
     <icon src="https://i.ibb.co/WzXm88L/0604.png" />
@@ -373,6 +378,11 @@
   <channel id="0621">
     <display-name lang="en">Vive</display-name>
     <icon src="https://i.ibb.co/CbdvzQC/0621.png" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
+  <channel id="0622">
+    <display-name lang="en">Docu</display-name>
+    <icon src="DOCU" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0702">
@@ -410,6 +420,16 @@
     <icon src="https://i.ibb.co/Q9bwjhp/0801.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
+  <channel id="0802">
+    <display-name lang="es">DHE</display-name>
+    <icon src="DHE" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
+  <channel id="0803">
+    <display-name lang="es">Paramount Network</display-name>
+    <icon src="PARAMOUNT" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
   <channel id="0804">
     <display-name lang="es">Universal TV</display-name>
     <icon src="https://i.ibb.co/0yx5wLT/0804.png" />
@@ -423,6 +443,11 @@
   <channel id="0806">
     <display-name lang="es">Sony Channel</display-name>
     <icon src="https://i.ibb.co/64ZDJGH/0806.png" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
+  <channel id="0807">
+    <display-name lang="es">Sony Cine</display-name>
+    <icon src="SONYCINE" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0808">
@@ -520,6 +545,11 @@
     <icon src="https://i.ibb.co/NFmxpWS/0844.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
+  <channel id="0845">
+    <display-name lang="en">Universal Comedy Este</display-name>
+    <icon src="UNIVERSALCOMEDY" />
+    <url>http://www.theuselessweb.com</url>
+  </channel>
   <channel id="0151">
     <display-name lang="en">Iquique TV</display-name>
     <icon src="" />
@@ -611,7 +641,7 @@
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0317">
-    <display-name lang="es">AnimeStation TV</display-name>
+    <display-name lang="en">AnimeStation TV</display-name>
     <icon src="https://i.ibb.co/8zD43vN/0317.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
@@ -4917,6 +4947,9 @@
   </programme>
   <programme start="20230828113000 -0400" stop="20230828120000 -0400" channel="0205">
     <title lang="es">DocFilm</title>
+  </programme>
+  <programme start="20230828120000 -0400" stop="20230828120300 -0400" channel="0205">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20230828120300 -0400" stop="20230828121500 -0400" channel="0205">
     <title lang="es">El reportero</title>
@@ -12127,6 +12160,9 @@
   <programme start="20230828043000 -0400" stop="20230828050000 -0400" channel="0310">
     <title lang="es">De la Noche al Día</title>
   </programme>
+  <programme start="20230828120000 -0400" stop="20230828123000 -0400" channel="0310">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
+  </programme>
   <programme start="20230828140000 -0400" stop="20230828143000 -0400" channel="0310">
     <title lang="es">Walter &amp; Dude</title>
   </programme>
@@ -14990,6 +15026,10 @@
     <sub-title lang="es">60 years of bundesliga most memorable moments</sub-title>
     <desc lang="es">Un repaso a toda la actualidad de la Bundesliga, la categoría reina del fútbol alemán. El campeonato de la regularidad germano se caracteriza por un juego ofensivo y sin concesiones y son habituales las goleadas en muchos de sus partidos.</desc>
   </programme>
+  <programme start="20230828193000 -0400" stop="20230828200000 -0400" channel="0430">
+    <title lang="en">Hilos : Luka Doncic y Nikola Jokic - Luka Doncic y Nikola Jokic</title>
+    <desc lang="en">Análisis de los basquetbolistas europeos que están dominando la NBA en los últimos años: Luka Doncic y Nikola Jokic.</desc>
+  </programme>
   <programme start="20230827013000 -0400" stop="20230827020000 -0400" channel="0431">
     <title lang="es">Hilos: 93 - Doncic y Jokic</title>
     <desc lang="es">93 - Doncic y Jokic. Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
@@ -16688,6 +16728,279 @@
     <sub-title lang="es">El Vega de carrera</sub-title>
     <desc lang="es">Joe y el equipo trabajan contra reloj para completar la transformación del Vega a tiempo. Este es el mayor y más drástico proyecto al que se han enfrentado nunca.</desc>
   </programme>
+  <programme start="20230827004800 -0400" stop="20230827013400 -0400" channel="0603">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+    <sub-title lang="es">T4 - Ep: 14 Un poco del glamour de Las Vegas</sub-title>
+    <desc lang="es">Drew y Jonathan Scott tienen la misión de ayudar a las parejas a transformar sus casas en hogares donde puedan echar raíces. Los hermanos desbloquean todo el potencial de cada propiedad y las renuevan para cumplir los sueños de sus dueños. Una pareja de Texas se mudó a Las Vegas para estar más cerca de la familia, pero la cocina y el comedor anticuados no se adaptan a sus cenas temáticas. Drew y Jonathan intervienen para convertir su casa en el sueño de un artista.</desc>
+  </programme>
+  <programme start="20230827013400 -0400" stop="20230827022000 -0400" channel="0603">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+    <sub-title lang="es">Ep: 1 La tradición de la casa definitiva</sub-title>
+    <desc lang="es">Drew y Jonathan Scott tienen la misión de ayudar a las parejas a transformar sus casas en hogares donde puedan echar raíces. Los hermanos desbloquean todo el potencial de cada propiedad y las renuevan para cumplir los sueños de sus dueños. A una pareja le encanta la idea de criar a sus hijos en una casa definitiva, pero necesitan cambiar su diseño. Drew y Jonathan renuevan los espacios para crear un hogar que se adapte a su vida familiar caótica.</desc>
+  </programme>
+  <programme start="20230827022000 -0400" stop="20230827030600 -0400" channel="0603">
+    <title lang="es">Clínica de la piel</title>
+    <sub-title lang="es">T4 Ep: 2 Es una mentira</sub-title>
+    <desc lang="es">Imagine vivir con una condición aterradora en la piel. Imagine que la gente lo mira a causa de su piel. Imagine no querer salir de su casa por cómo lo miran. Esta es una serie en la que los protagonistas padecen condiciones incontrolables en la piel y, finalmente, buscan ayuda. La dermatóloga y cirujana Emma Craythorne es una experta en el tratamiento de todo tipo de pieles. Acompañada por un gran equipo en su Harley Street Clinic, se verá cómo la Dra. Emma atiende a personas comunes de todo Gran Bretaña, que sufren condiciones inusuales en la piel. En esta serie conmovedora, se verá a la Dra. Emma transformando, para siempre, las vidas de personas que están atrapadas en su piel. La exmodelo Sarra odia su enorme lipoma, la cara de Kzartan lo convierte en un recluso, la psoriasis arruina la vida de Emily y Kevin no tiene a dónde acudir por su bulto.</desc>
+  </programme>
+  <programme start="20230827030600 -0400" stop="20230827035200 -0400" channel="0603">
+    <title lang="es">Restaurando casas com Dave e Jenny</title>
+    <sub-title lang="es">T3 - Ep: 14 Casa de mitad de siglo para fiestas</sub-title>
+    <desc lang="es">Dave y Jenny Mars, una ingeniosa y creativa pareja, trabajan juntos para transformar viejas casas históricas de Bentonville, Arkansas, para convertirlas en encantadores hogares para toda la vida. Una pareja pensó que comprar una casa de la década de los setentas sería razonable, pero piden ayuda con tantos proyectos de renovación. Dave y Jenny se ponen a trabajar para recuperar su antiguo esplendor.</desc>
+  </programme>
+  <programme start="20230827035200 -0400" stop="20230827043800 -0400" channel="0603">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+    <sub-title lang="es">T1 - Ep: 12 Orgullosos de la casa</sub-title>
+    <desc lang="es">Drew y Jonathan Scott tienen la misión de ayudar a las parejas a transformar sus casas en hogares donde puedan echar raíces. Los hermanos desbloquean todo el potencial de cada propiedad y las renuevan para cumplir los sueños de sus dueños. Una pareja cría a sus hijas en el mismo vecindario en el que crecieron ellos. Sin embargo, sus hijas se avergüenzan de la casa. Jonathan y Drew renovarán la cocina, la sala de estar, el comedor y el sótano.</desc>
+  </programme>
+  <programme start="20230827043800 -0400" stop="20230827050000 -0400" channel="0603">
+    <title lang="es">Los cazahogares por el mundo</title>
+    <sub-title lang="es">T89 - Ep: 13 Hacia los scones de Milton Keynes, Inglaterra</sub-title>
+    <desc lang="es">Viiaja alrededor del mundo, desde San Pablo en Brasil hasta Praga en la República Checa. Los buscadores de hogares y sus agentes inmobiliarios atraviesan todo tipo de estilos arquitectónicos y trabajan a través de las diferentes idiosincrasias de los países respecto a la compra-venta de inmuebles. En cualquier lengua, comprar una casa siempre es una experiencia emocionante. Una pareja de Chicago se apresura para encontrar una casa en Dublín luego de conseguir un trabajo allí.</desc>
+  </programme>
+  <programme start="20230827050000 -0400" stop="20230827053000 -0400" channel="0603">
+    <title lang="es">Nuestro hogar en México</title>
+    <sub-title lang="es">Ep: 7 Una nueva vida en Bucerías</sub-title>
+    <desc lang="es">Desde las cálidas aguas del Caribe de Playa del Carmen hasta destinos como Puerto Vallarta y Cabo San Lucas, los agentes inmobiliarios ayudarán a un grupo de turistas a encontrar la propiedad perfecta para su recreación y esparcimiento. Una pareja de Canadá planea escaparse de la vida de la ciudad para vivir en Bucerías.</desc>
+  </programme>
+  <programme start="20230827053000 -0400" stop="20230827061700 -0400" channel="0603">
+    <title lang="es">Renovación sin demolición</title>
+    <sub-title lang="es">T0 - 1.2 Ep: 7 Recuerdos familiares</sub-title>
+    <desc lang="es">Jennifer Todryk, experta en renovaciones de viviendas, combina soluciones de diseño inteligentes e ideas de ahorro de costes para crear impresionantes renovaciones de viviendas para los clientes en el área de Dallas-Fort Worth, todo sin una demolición importante. Una pareja le pide a Jenn que revitalice su casa familiar anticuada que contiene, entre otros desafíos, los baños más inusuales que ha visto. Luego, Jenn trabaja con una familia que tiene una casa con mucho espacio, pero sin personalidad.</desc>
+  </programme>
+  <programme start="20230827061700 -0400" stop="20230827070500 -0400" channel="0603">
+    <title lang="es">Renovación sin demolición</title>
+    <sub-title lang="es">T0 - 1.2 Ep: 8 Rehacer la casa soñada</sub-title>
+    <desc lang="es">Jennifer Todryk, experta en renovaciones de viviendas, combina soluciones de diseño inteligentes e ideas de ahorro de costes para crear impresionantes renovaciones de viviendas para los clientes en el área de Dallas-Fort Worth, todo sin una demolición importante. Unos propietarios que siguen considerando su casa de 20 años como la casa de sus sueños, le piden a Jenn que les dé un retoque importante a sus espacios anticuados.</desc>
+  </programme>
+  <programme start="20230827070500 -0400" stop="20230827075200 -0400" channel="0603">
+    <title lang="es">Cambiemos esposas</title>
+    <sub-title lang="es">T7 Ep: 7 Markiewicz y Zusin</sub-title>
+    <desc lang="es">¿Se imagina dejar su casa e irse a vivir a otra que no conoce por diez días? Durante algo más de una semana, voluntarias llevarán a cabo un intercambio de maridos, hijos y estilo de vida. El show se adentrará en la vida de dos familias, y mostrará a la audiencia cómo estas mujeres manejan las demandas, expectativas y caos doméstico ajeno, y cuyas opiniones e ideas de sobre cómo criar a los hijos y manejar un hogar son completamente diferentes. Éstas no podrán tener comunicación ni contacto con sus respectivos familiares. Serán responsables del clan que aceptaron cuidar, por lo que sus vidas sufrirán un giro radical. Los primeros días, ella deberá seguir las instrucciones del 'manual' que ha preparado aquella a quien está reemplazando, así no esté de acuerdo. Ya le llegará el momento del desquite, que es durante su segunda semana. Tiempo durante el cual podrá variar la decoración, tirar lo que considere inservible, organizar una fiesta, cambiar el día por la noche y dictar sus propias reglas. Al terminar queda el aprendizaje de todos los miembros, empezando por los esposos. Una madre permisiva e indulgente intercambia vidas con una estricta madre rusa.</desc>
+  </programme>
+  <programme start="20230827075200 -0400" stop="20230827083900 -0400" channel="0603">
+    <title lang="es">Cambiemos esposas</title>
+    <sub-title lang="es">T7 Ep: 5 DiBella y LaRosh</sub-title>
+    <desc lang="es">¿Se imagina dejar su casa e irse a vivir a otra que no conoce por diez días? Durante algo más de una semana, voluntarias llevarán a cabo un intercambio de maridos, hijos y estilo de vida. El show se adentrará en la vida de dos familias, y mostrará a la audiencia cómo estas mujeres manejan las demandas, expectativas y caos doméstico ajeno, y cuyas opiniones e ideas de sobre cómo criar a los hijos y manejar un hogar son completamente diferentes. Éstas no podrán tener comunicación ni contacto con sus respectivos familiares. Serán responsables del clan que aceptaron cuidar, por lo que sus vidas sufrirán un giro radical. Los primeros días, ella deberá seguir las instrucciones del 'manual' que ha preparado aquella a quien está reemplazando, así no esté de acuerdo. Ya le llegará el momento del desquite, que es durante su segunda semana. Tiempo durante el cual podrá variar la decoración, tirar lo que considere inservible, organizar una fiesta, cambiar el día por la noche y dictar sus propias reglas. Al terminar queda el aprendizaje de todos los miembros, empezando por los esposos. Una fanática del ejercicio y adicta al trabajo de San Diego cambia vidas con una madre italiana de Nueva Jersey que le gusta consentir a su familia.</desc>
+  </programme>
+  <programme start="20230827083900 -0400" stop="20230827093200 -0400" channel="0603">
+    <title lang="es">Cirujanos al rescate: celebridades</title>
+    <desc lang="es">Pacientes que buscaban verse mejor y cuyas intervenciones estéticas no terminaron de la mejor manera, tienen una nueva oportunidad de recuperar su figura y salud en esta serie. Sigue a los mejores cirujanos plásticos de Gran Bretaña, al mismo tiempo que intentan reparar los daños sufridos por celebridades en operaciones de cirugía plástica que acabaron en desastre.</desc>
+  </programme>
+  <programme start="20230827093200 -0400" stop="20230827102800 -0400" channel="0603">
+    <title lang="es">Cirujanos al rescate: celebridades</title>
+    <desc lang="es">Pacientes que buscaban verse mejor y cuyas intervenciones estéticas no terminaron de la mejor manera, tienen una nueva oportunidad de recuperar su figura y salud en esta serie. Sigue a los mejores cirujanos plásticos de Gran Bretaña, al mismo tiempo que intentan reparar los daños sufridos por celebridades en operaciones de cirugía plástica que acabaron en desastre.</desc>
+  </programme>
+  <programme start="20230827102800 -0400" stop="20230827112500 -0400" channel="0603">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+    <sub-title lang="es">T2 - Ep: 2 Lo viejo y lo nuevo</sub-title>
+    <desc lang="es">Drew y Jonathan Scott tienen la misión de ayudar a las parejas a transformar sus casas en hogares donde puedan echar raíces. Los hermanos desbloquean todo el potencial de cada propiedad y las renuevan para cumplir los sueños de sus dueños. La casa retro de una pareja perdió su encanto después de vivir allí nueve años con sus gemelos. Drew y Jonathan renuevan la entrada, la sala de estar, el comedor y la cocina.</desc>
+  </programme>
+  <programme start="20230827112500 -0400" stop="20230827122300 -0400" channel="0603">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+    <sub-title lang="es">T2 - Ep: 3 La primera casa</sub-title>
+    <desc lang="es">Drew y Jonathan Scott tienen la misión de ayudar a las parejas a transformar sus casas en hogares donde puedan echar raíces. Los hermanos desbloquean todo el potencial de cada propiedad y las renuevan para cumplir los sueños de sus dueños. Con el paso del tiempo, la casa de una pareja se ha convertido en el lugar donde se pasan las vacaciones y se hacen todas las celebraciones, pero el diseño con concepto cerrado no ayuda.</desc>
+  </programme>
+  <programme start="20230827122300 -0400" stop="20230827132100 -0400" channel="0603">
+    <title lang="es">De casa nova</title>
+    <sub-title lang="es">T6 Ep: 15 La casa moderna y tradicional</sub-title>
+    <desc lang="es">Erin y Ben Napier adoran su pequeña ciudad natal de Mississippi, especialmente sus antiguas casas históricas. Utilizando materiales encontrados, mantienen el estilo de estas viviendas clásicas, dándole algunos toques modernos. Desde los imaginativos bocetos a mano de Erin hasta el trabajo personalizado de Ben, esta pareja está devolviéndole la vida a los hogares y asegurándose de que el futuro de su pequeño pueblo sea tan brillante como su pasado. Una pareja recién comprometida busca echar raíces en Laurel y tiene la oportunidad de comprar la casa de su abuela, pero la propiedad viene con un conjunto de reglas inusuales. Ben y Erin también les muestran un lugar que realmente pueden hacer suyo.</desc>
+  </programme>
+  <programme start="20230827132100 -0400" stop="20230827141900 -0400" channel="0603">
+    <title lang="es">De casa nova</title>
+    <sub-title lang="es">T6 Ep: 16 Un poco de sol</sub-title>
+    <desc lang="es">Erin y Ben Napier adoran su pequeña ciudad natal de Mississippi, especialmente sus antiguas casas históricas. Utilizando materiales encontrados, mantienen el estilo de estas viviendas clásicas, dándole algunos toques modernos. Desde los imaginativos bocetos a mano de Erin hasta el trabajo personalizado de Ben, esta pareja está devolviéndole la vida a los hogares y asegurándose de que el futuro de su pequeño pueblo sea tan brillante como su pasado. Inmigrantes de California buscan una sensación de pueblo pequeño más simple en Laurel y esperan encontrar una casa con encanto arquitectónico. Ben y Erin les presentan dos opciones de hogar y la que eligen le da a Erin algunas sorpresas de diseño.</desc>
+  </programme>
+  <programme start="20230827141900 -0400" stop="20230827151400 -0400" channel="0603">
+    <title lang="es">Mi hogar es un desastre</title>
+    <sub-title lang="es">T2 - Ep: 4 De desodenado a astuto</sub-title>
+    <desc lang="es">La organizadora profesional Cassandra Aarrssen ayuda a las familias a organizar sus hogares y sus vidas y volver a encaminarlos. Cas trabaja con una pareja para transformar su sala de estar en un oasis familiar que se adapte a cualquier ocasión. Además, Wendell y ella crean el segundo piso perfecto para una veterana ansiosa por comenzar su nueva carrera.</desc>
+  </programme>
+  <programme start="20230827151400 -0400" stop="20230827161200 -0400" channel="0603">
+    <title lang="es">Mi hogar es un desastre</title>
+    <sub-title lang="es">Ep: 5 Caos en el cuarto</sub-title>
+    <desc lang="es">La organizadora profesional Cassandra Aarrssen ayuda a las familias a organizar sus hogares y sus vidas y volver a encaminarlos. Cas y Wendell ayudan a una pareja cuya casa se ha convertido en una sala de juegos gigante para sus hijos y a otra familia. Ellos los ayudan a deshacerse del desorden con trucos que ahorran espacio y mantendrán todo organizado de ahora en adelante.</desc>
+  </programme>
+  <programme start="20230827161200 -0400" stop="20230827170900 -0400" channel="0603">
+    <title lang="es">Mi hogar es un desastre</title>
+    <sub-title lang="es">T2 - Ep: 6 Lo que hay detrás (de la cocina)</sub-title>
+    <desc lang="es">La organizadora profesional Cassandra Aarrssen ayuda a las familias a organizar sus hogares y sus vidas y volver a encaminarlos. Una pareja necesita más espacio en su casa para recibir a una gran lista de invitados. Sin embargo, Cas y Wendell descubren más desorden de lo esperado y deben descubrir cómo crear un diseño que coincida con el estilo de organización de la familia.</desc>
+  </programme>
+  <programme start="20230827170900 -0400" stop="20230827180500 -0400" channel="0603">
+    <title lang="es">Transformando casas con los El Moussa</title>
+    <sub-title lang="es">T1 Ep: 3 Cinco renovaciones en Bear</sub-title>
+    <desc lang="es">Sigue a los recién casados Tarek El Moussa y Heather Rae El Moussa , expertos en bienes raíces, en su viaje personal y profesional. Es un momento importante para Heather cuando ella y Tarek se dirigen a su ciudad natal para hacer una renovación. Tarek se siente fuera de su zona de confort con algunos diseños audaces y no saben si vender la cabaña o quedársela para alquilar.</desc>
+  </programme>
+  <programme start="20230827180500 -0400" stop="20230827190400 -0400" channel="0603">
+    <title lang="es">Renovación 911</title>
+    <sub-title lang="es">T1 Ep: 1 Incendios, inundaciones y adolescentes</sub-title>
+    <desc lang="es">Siga a las hermanas y expertas en restauración Kirsten Meehan y Lindsey Uselding mientras rescatan casas de desastres inesperados y trágicos, ayudando a los clientes a superar la angustia para crear una casa de ensueño totalmente renovada. Lindsey y Kirsten están muy ocupados restaurando la cocina, la sala de estar y el garaje de los Higgins, todo destruido por un gran incendio. Investigan una escena en la que un adolescente se estrelló contra una casa y demolió la pared exterior.</desc>
+  </programme>
+  <programme start="20230827190400 -0400" stop="20230827200200 -0400" channel="0603">
+    <title lang="es">Renovación sin demolición</title>
+    <sub-title lang="es">T2 Ep: 1 Matrimonio Mulligan</sub-title>
+    <desc lang="es">Jennifer Todryk, experta en renovaciones de viviendas, combina soluciones de diseño inteligentes e ideas de ahorro de costes para crear impresionantes renovaciones de viviendas para los clientes en el área de Dallas-Fort Worth, todo sin una demolición importante. Jenn ayuda a una pareja a renovar su hogar para siempre. Mientras tanto, dos padres necesitan el consejo de Jenn sobre cómo convertir su oficina/dormitorio en un oasis lejos de su ajetreada vida con seis hijos.</desc>
+  </programme>
+  <programme start="20230827200200 -0400" stop="20230827205900 -0400" channel="0603">
+    <title lang="es">Renovación sin demolición</title>
+    <sub-title lang="es">T2 Ep: 2 No más gris</sub-title>
+    <desc lang="es">Jennifer Todryk, experta en renovaciones de viviendas, combina soluciones de diseño inteligentes e ideas de ahorro de costes para crear impresionantes renovaciones de viviendas para los clientes en el área de Dallas-Fort Worth, todo sin una demolición importante. Después de mudarse de California, una familia necesita que Jenn convierta su casa en un hogar con mucha personalidad. Al otro lado de la ciudad, Jenn convierte el patio de una pareja en un tranquilo centro turístico en su propio patio trasero.</desc>
+  </programme>
+  <programme start="20230827205900 -0400" stop="20230827215900 -0400" channel="0603">
+    <title lang="es">Remodelación en pareja: un nuevo hogar</title>
+    <sub-title lang="es">T0 - 1. 6 Ep: 1 Una casa anticuada para los recién casados</sub-title>
+    <desc lang="es">Chip y Jo están de vuelta con nuevas ideas para convertir hogares obsoletos en espacios habitables innovadores y asombrosos. Habiendo expandido su negocio (y su familia), los Gaineses ahora hacen malabarismos en sus remodelaciones. Lucas y Laney acaban de comprar una casa y temen que Chip y Jo se nieguen a renovarla. La casa está abandonada desde hace 10 años, pero Chip y Jo intentan hacer la transformación y darles a los recién casados un nuevo hogar al final de la luna de miel.</desc>
+  </programme>
+  <programme start="20230827215900 -0400" stop="20230827225700 -0400" channel="0603">
+    <title lang="es">Christina en el campo</title>
+    <sub-title lang="es">T1 Ep: 6 Deshaciendo el daño</sub-title>
+    <desc lang="es">Christina Hall comienza un nuevo capítulo en la vida a medida que expande su negocio de diseño por todo el país y echa raíces en una granja de Tennessee. Después de haber sido desplazada durante más de un año por un incendio eléctrico, una familia le pide a Christina que renueve su hogar para crear un espacio espectacular y audaz. Además, Josh ayuda a construir un lujoso gallinero a juego con la casa.</desc>
+  </programme>
+  <programme start="20230827225700 -0400" stop="20230827232500 -0400" channel="0603">
+    <title lang="es">La casa de mis sueños</title>
+    <sub-title lang="es">T13 - Ep: 1 De Fildelfia a Fayteville</sub-title>
+    <desc lang="es">Ganadores de la lotería generalmente buscan inmuebles para invertir su dinero, y es cuando David Bromstad los ayuda en la búsqueda de la casa de sus sueños. Ya sea que hayan ganado cientos de miles o cientos de millones, estos afortunados van a gastar todas sus ganancias en una mansión extravagante o conformarse con una inversión sólida y sencilla. Averigua lo que sucede cuando estadounidenses promedio van tras sus hogares ideales. Un premio de 2 millones llegó en el momento perfecto para una pareja que se mudó de Filadelfia para cuidar a su familia en Fayetteville, Carolina del Norte. Ahora, David los ayuda a encontrar un hogar para organizar parrilladas con sus 10 nietos.</desc>
+  </programme>
+  <programme start="20230827232500 -0400" stop="20230827235400 -0400" channel="0603">
+    <title lang="es">La casa de mis sueños</title>
+    <sub-title lang="es">Ep: 2 Ángel de un millón de dólares</sub-title>
+    <desc lang="es">Ganadores de la lotería generalmente buscan inmuebles para invertir su dinero, y es cuando David Bromstad los ayuda en la búsqueda de la casa de sus sueños. Ya sea que hayan ganado cientos de miles o cientos de millones, estos afortunados van a gastar todas sus ganancias en una mansión extravagante o conformarse con una inversión sólida y sencilla. Averigua lo que sucede cuando estadounidenses promedio van tras sus hogares ideales.</desc>
+  </programme>
+  <programme start="20230827235400 -0400" stop="20230828004800 -0400" channel="0603">
+    <title lang="es">Las renovadoras</title>
+    <sub-title lang="es">T7 - Ep: 4 Granero rojo urbano</sub-title>
+    <desc lang="es">Madre e hija, Karen E. Laine y Mina Starsiak, están revitalizando su ciudad natal, Indianápolis, una propiedad a la vez, comprando viviendas en mal estado y convirtiéndolas en impresionantes monumentos, habiendo remodelado, desde el 2007 hasta ahora, cerca de veinte casas en Fountain Square. Mina y el equipo van a Old Southside para abordar la casa más pequeña de la cuadra. Esta casa necesita agrandarse para generar ganancias y Mina planea agregar un segundo piso y un revestimiento rojo, pero un solo error podría retrasar al equipo por semanas.</desc>
+  </programme>
+  <programme start="20230828004800 -0400" stop="20230828013400 -0400" channel="0603">
+    <title lang="es">Comprometidos con los bienes raíces</title>
+    <sub-title lang="es">T2 Ep: 8 Estacionando en Poncey-Highand</sub-title>
+    <desc lang="es">Egypt Sherrod y Mike Jackson hacen malabares con sus ocupadas vidas profesionales y personales mientras ayudan a los clientes a conseguir su hogar perfecto en un vecindario de ensueño. Con un buen ojo para el diseño y asegurando ganancias futuras, Egypt aprovecha su conocimiento del mercado para encontrar propiedades asequibles en ubicaciones deseables para sus clientes. Luego, Mike y su equipo crean una hermosa casa con renovaciones inteligentes. Una familia está lista para estacionar su pequeña casa sobre ruedas y echar raíces en Poncey-Highland, Georgia. No se conformarán con cualquier lugar estándar, por lo que Egypt y Mike buscan mucho para encontrar una casa antigua con mucha personalidad.</desc>
+  </programme>
+  <programme start="20230828013400 -0400" stop="20230828022000 -0400" channel="0603">
+    <title lang="es">Comprometidos con los bienes raíces</title>
+    <sub-title lang="es">Ep: 9 Arreglando el hogar</sub-title>
+    <desc lang="es">Egypt Sherrod y Mike Jackson hacen malabares con sus ocupadas vidas profesionales y personales mientras ayudan a los clientes a conseguir su hogar perfecto en un vecindario de ensueño. Con un buen ojo para el diseño y asegurando ganancias futuras, Egypt aprovecha su conocimiento del mercado para encontrar propiedades asequibles en ubicaciones deseables para sus clientes. Luego, Mike y su equipo crean una hermosa casa con renovaciones inteligentes. Un soltero está buscando un hogar que se adapte a su estilo de vida actual. Egypt y Mike convierten una casa de mediados de siglo en una obra de arte con una renovación completa, incluida una nueva adición para el entretenimiento.</desc>
+  </programme>
+  <programme start="20230828022000 -0400" stop="20230828030600 -0400" channel="0603">
+    <title lang="es">Transformando casas con los El Moussa</title>
+    <sub-title lang="es">T1 Ep: 3 Cinco renovaciones en Bear</sub-title>
+    <desc lang="es">Sigue a los recién casados Tarek El Moussa y Heather Rae El Moussa , expertos en bienes raíces, en su viaje personal y profesional. Es un momento importante para Heather cuando ella y Tarek se dirigen a su ciudad natal para hacer una renovación. Tarek se siente fuera de su zona de confort con algunos diseños audaces y no saben si vender la cabaña o quedársela para alquilar.</desc>
+  </programme>
+  <programme start="20230828030600 -0400" stop="20230828035000 -0400" channel="0603">
+    <title lang="es">Cambiemos esposas</title>
+    <sub-title lang="es">T1 Ep: 3 DeGarmo vs. Mosby</sub-title>
+    <desc lang="es">¿Se imagina dejar su casa e irse a vivir a otra que no conoce por diez días? Durante algo más de una semana, voluntarias llevarán a cabo un intercambio de maridos, hijos y estilo de vida. El show se adentrará en la vida de dos familias, y mostrará a la audiencia cómo estas mujeres manejan las demandas, expectativas y caos doméstico ajeno, y cuyas opiniones e ideas de sobre cómo criar a los hijos y manejar un hogar son completamente diferentes. Éstas no podrán tener comunicación ni contacto con sus respectivos familiares. Serán responsables del clan que aceptaron cuidar, por lo que sus vidas sufrirán un giro radical. Los primeros días, ella deberá seguir las instrucciones del 'manual' que ha preparado aquella a quien está reemplazando, así no esté de acuerdo. Ya le llegará el momento del desquite, que es durante su segunda semana. Tiempo durante el cual podrá variar la decoración, tirar lo que considere inservible, organizar una fiesta, cambiar el día por la noche y dictar sus propias reglas. Al terminar queda el aprendizaje de todos los miembros, empezando por los esposos. Dos mamás completamente opuestas intercambian sus vidas y familias. Una de ellas es una apasionada por la tecnología y le gusta mostrar la vida de su familia por Internet. La otra mamá prefiere mantener a su familia alejada de ese mundo.</desc>
+  </programme>
+  <programme start="20230828035000 -0400" stop="20230828043700 -0400" channel="0603">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+    <sub-title lang="es">T1 - Ep: 13 Casa familiar actualizada</sub-title>
+    <desc lang="es">Drew y Jonathan Scott tienen la misión de ayudar a las parejas a transformar sus casas en hogares donde puedan echar raíces. Los hermanos desbloquean todo el potencial de cada propiedad y las renuevan para cumplir los sueños de sus dueños. Una pareja que compró su casa cuando se casó se siente frustrada por su cocina anticuada, la falta de espacio de almacenamiento y el diseño de la planta baja. Los hermanos renovarán esos espacios.</desc>
+  </programme>
+  <programme start="20230828043700 -0400" stop="20230828050000 -0400" channel="0603">
+    <title lang="es">Los cazahogares por el mundo</title>
+    <sub-title lang="es">T90 - Ep: 1 Kaiserslautern, Alemania</sub-title>
+    <desc lang="es">Viiaja alrededor del mundo, desde San Pablo en Brasil hasta Praga en la República Checa. Los buscadores de hogares y sus agentes inmobiliarios atraviesan todo tipo de estilos arquitectónicos y trabajan a través de las diferentes idiosincrasias de los países respecto a la compra-venta de inmuebles. En cualquier lengua, comprar una casa siempre es una experiencia emocionante. Una pareja tiene listas de deseos muy diferentes cuando quieren comprar su casa en Kaiserslautern, Alemania.</desc>
+  </programme>
+  <programme start="20230828050000 -0400" stop="20230828052800 -0400" channel="0603">
+    <title lang="es">Nuestro hogar en México</title>
+    <sub-title lang="es">T3 - Ep: 8 El corazón en Puerto Vallarta</sub-title>
+    <desc lang="es">Desde las cálidas aguas del Caribe de Playa del Carmen hasta destinos como Puerto Vallarta y Cabo San Lucas, los agentes inmobiliarios ayudarán a un grupo de turistas a encontrar la propiedad perfecta para su recreación y esparcimiento. Una pareja deja atrás el costoso San Francisco para tener una vida pacífica y acorde a su presupuesto en Puerto Vallarta.</desc>
+  </programme>
+  <programme start="20230828052800 -0400" stop="20230828061600 -0400" channel="0603">
+    <title lang="es">Comprometidos con los bienes raíces</title>
+    <sub-title lang="es">T2 Ep: 6 Renovación de una casa para alquilar</sub-title>
+    <desc lang="es">Egypt Sherrod y Mike Jackson hacen malabares con sus ocupadas vidas profesionales y personales mientras ayudan a los clientes a conseguir su hogar perfecto en un vecindario de ensueño. Con un buen ojo para el diseño y asegurando ganancias futuras, Egypt aprovecha su conocimiento del mercado para encontrar propiedades asequibles en ubicaciones deseables para sus clientes. Luego, Mike y su equipo crean una hermosa casa con renovaciones inteligentes. Una pareja que heredó la casa de su infancia ahora está buscando convertir la pequeña casa en una propiedad de alquiler a corto plazo. Egypt y Mike intervienen con su experiencia en construcción y diseño para transformar el lugar gastado en un sueño.</desc>
+  </programme>
+  <programme start="20230828061600 -0400" stop="20230828070400 -0400" channel="0603">
+    <title lang="es">Barbie: casa de los sueños</title>
+    <sub-title lang="es">T1 Ep: 2 La vida en la habitación de Barbie y Ken</sub-title>
+    <desc lang="es">Mira cómo ocho equipos de estrellas convierten una casa en el sur de California en una Barbie Dreamhouse de la vida real. Una afortunada amante de Barbie finalmente tendrá la oportunidad de quedarse en la vivienda. Jonathan Knight y Kristina Crestin deben crear la habitación icónica de Barbie, mientras luchan contra Alison Victoria y Ty Pennington, quienes construyen la primera guarida para Ken. Además, los invitados especiales Allison y Nischelle se unen a la diversión.</desc>
+  </programme>
+  <programme start="20230828070400 -0400" stop="20230828075300 -0400" channel="0603">
+    <title lang="es">De casa nova</title>
+    <sub-title lang="es">T4 - Ep: 10 Algo tiene el porche</sub-title>
+    <desc lang="es">Erin y Ben Napier adoran su pequeña ciudad natal de Mississippi, especialmente sus antiguas casas históricas. Utilizando materiales encontrados, mantienen el estilo de estas viviendas clásicas, dándole algunos toques modernos. Desde los imaginativos bocetos a mano de Erin hasta el trabajo personalizado de Ben, esta pareja está devolviéndole la vida a los hogares y asegurándose de que el futuro de su pequeño pueblo sea tan brillante como su pasado. Una pareja busca una casa histórica en el campo con un porche y mucho espacio verde. Ben y Erin transforman su nuevo hogar en una casa clásica llena de encanto histórico y toques sureños.</desc>
+  </programme>
+  <programme start="20230828075300 -0400" stop="20230828084200 -0400" channel="0603">
+    <title lang="es">Restaurando casas com Dave e Jenny</title>
+    <sub-title lang="es">T3 - Ep: 15 Familia citadina regresa a sus orígenes campiranos</sub-title>
+    <desc lang="es">Dave y Jenny Mars, una ingeniosa y creativa pareja, trabajan juntos para transformar viejas casas históricas de Bentonville, Arkansas, para convertirlas en encantadores hogares para toda la vida. Ahora que sus hijos son mayores, una familia regresa a sus raíces en Arkansas. Dave y Jenny intervienen para ayudar a convertir su lugar en una acogedora casa de campo donde pueden concentrarse en 'desconectarse' con más tiempo en familia.</desc>
+  </programme>
+  <programme start="20230828084200 -0400" stop="20230828093300 -0400" channel="0603">
+    <title lang="es">100 dias para morar: começando do zero</title>
+    <sub-title lang="es">T2 Ep: 6 Gran mudanza desde la Gran Manzana</sub-title>
+    <desc lang="es">Brian y Mika Kleinschmidt son un equipo/matrimonio de Tampa, Florida, que hace realidad las casas de sus sueños. Ella es la inmobiliaria, él es el desarrollador y juntos ayudan a los clientes a diseñar y construir la casa perfecta desde cero en 100 días o menos. Una pareja muy divertida está cansada de su pequeño apartamento de Brooklyn y decide mudarse a Florida, cerca de su familia. Ella quiere una casa novedosa, pero él prefiere algo más tradicional y Brian y Mika los ayudan a decidir sobre un diseño.</desc>
+  </programme>
+  <programme start="20230828093300 -0400" stop="20230828112600 -0400" channel="0603">
+    <title lang="es">Todo en 90 días: antes del viaje</title>
+    <sub-title lang="es">T2 - Ep: 11 Diga todo</sub-title>
+    <desc lang="es">Siga a los americanos que han buscado amor en internet y están viajando a un país extranjero para conocer a su potencial alma gemela por primera vez. Cada pareja debe encarar las diferencias culturales mientras decide si quiere o no comprometerse. Las parejas se reúnen para un programa especial emotivo en el que contarán todo. Ahora que todos volvieron a estar distanciados, se enfrentan a nuevas presiones, tensiones y desafíos.</desc>
+  </programme>
+  <programme start="20230828112600 -0400" stop="20230828122400 -0400" channel="0603">
+    <title lang="es">Siendo extraordinario</title>
+    <desc lang="es">Una serie que cuenta historias de la vida real de personas que superan condiciones médicas severas para mostrar valentía humana. En cada episodio, el público podrá conocer a personas que se esfuerzan por superar enfermedades graves. Las historias incluyen al adolescente Tilly Lockey, a quien se le diagnosticó septicemia meningocócica y usa brazos biónicos, Nick Smith, uno de los hombres más pequeños del mundo, que tiene enanismo primordial osteodisplásico microcefálico.</desc>
+  </programme>
+  <programme start="20230828122400 -0400" stop="20230828132200 -0400" channel="0603">
+    <title lang="es">Siendo extraordinario</title>
+    <desc lang="es">Una serie que cuenta historias de la vida real de personas que superan condiciones médicas severas para mostrar valentía humana. En cada episodio, el público podrá conocer a personas que se esfuerzan por superar enfermedades graves. Las historias incluyen al adolescente Tilly Lockey, a quien se le diagnosticó septicemia meningocócica y usa brazos biónicos, Nick Smith, uno de los hombres más pequeños del mundo, que tiene enanismo primordial osteodisplásico microcefálico.</desc>
+  </programme>
+  <programme start="20230828132200 -0400" stop="20230828141800 -0400" channel="0603">
+    <title lang="es">Siendo extraordinario</title>
+    <desc lang="es">Una serie que cuenta historias de la vida real de personas que superan condiciones médicas severas para mostrar valentía humana. En cada episodio, el público podrá conocer a personas que se esfuerzan por superar enfermedades graves. Las historias incluyen al adolescente Tilly Lockey, a quien se le diagnosticó septicemia meningocócica y usa brazos biónicos, Nick Smith, uno de los hombres más pequeños del mundo, que tiene enanismo primordial osteodisplásico microcefálico.</desc>
+  </programme>
+  <programme start="20230828141800 -0400" stop="20230828151500 -0400" channel="0603">
+    <title lang="es">Siendo extraordinario</title>
+    <desc lang="es">Una serie que cuenta historias de la vida real de personas que superan condiciones médicas severas para mostrar valentía humana. En cada episodio, el público podrá conocer a personas que se esfuerzan por superar enfermedades graves. Las historias incluyen al adolescente Tilly Lockey, a quien se le diagnosticó septicemia meningocócica y usa brazos biónicos, Nick Smith, uno de los hombres más pequeños del mundo, que tiene enanismo primordial osteodisplásico microcefálico.</desc>
+  </programme>
+  <programme start="20230828151500 -0400" stop="20230828161100 -0400" channel="0603">
+    <title lang="es">Siendo extraordinario</title>
+    <desc lang="es">Una serie que cuenta historias de la vida real de personas que superan condiciones médicas severas para mostrar valentía humana. En cada episodio, el público podrá conocer a personas que se esfuerzan por superar enfermedades graves. Las historias incluyen al adolescente Tilly Lockey, a quien se le diagnosticó septicemia meningocócica y usa brazos biónicos, Nick Smith, uno de los hombres más pequeños del mundo, que tiene enanismo primordial osteodisplásico microcefálico.</desc>
+  </programme>
+  <programme start="20230828161100 -0400" stop="20230828170800 -0400" channel="0603">
+    <title lang="es">Dra. Sandra Lee: especialista en piel</title>
+    <sub-title lang="es">T3 Ep: 20 Seasons Squeezings</sub-title>
+    <desc lang="es">Sandra Lee no es solo una de las dermatólogas más reconocidas de Estados Unidos, es también una celebridad de Instagram y Youtube, pionera en lo que ha sido una fascinación médica durante décadas. Es la época de los exprimidos, ya que la Dra. Lee y su personal se abren paso a lo largo del día. Con lipomas abultados y quistes en abundancia, tendrán las manos llenas durante uno de sus días más ocupados del año.</desc>
+  </programme>
+  <programme start="20230828170800 -0400" stop="20230828180500 -0400" channel="0603">
+    <title lang="es">Dra. Sandra Lee: especialista en piel</title>
+    <sub-title lang="es">T3 Ep: 21 El psíquico de los lipomas</sub-title>
+    <desc lang="es">Sandra Lee no es solo una de las dermatólogas más reconocidas de Estados Unidos, es también una celebridad de Instagram y Youtube, pionera en lo que ha sido una fascinación médica durante décadas. Roger vuelve con sus gigantescos crecimientos en la nariz con la esperanza de que la Dra. Lee y sus colegas puedan ayudarle antes de que sea demasiado tarde. Christine ha perdido su esencia debido a un gran crecimiento en su hombro.</desc>
+  </programme>
+  <programme start="20230828180500 -0400" stop="20230828190200 -0400" channel="0603">
+    <title lang="es">Dra. Sandra Lee: especialista en piel</title>
+    <sub-title lang="es">T7 Ep: 1 Buscando el amor</sub-title>
+    <desc lang="es">Sandra Lee no es solo una de las dermatólogas más reconocidas de Estados Unidos, es también una celebridad de Instagram y Youtube, pionera en lo que ha sido una fascinación médica durante décadas. Gabe tiene un crecimiento en la clavícula pero le aterra la cirugía. Karen ha lidiado con pies dolorosos durante 22 años sin diagnóstico. Lorne tiene tumores en la cara y el cuerpo y cree que es por eso que aún no ha conocido a 'el indicado'.</desc>
+  </programme>
+  <programme start="20230828190200 -0400" stop="20230828200200 -0400" channel="0603">
+    <title lang="es">Dra. Sandra Lee: especialista en piel</title>
+    <sub-title lang="es">T7 Ep: 2 La increíble hinchazón</sub-title>
+    <desc lang="es">Sandra Lee no es solo una de las dermatólogas más reconocidas de Estados Unidos, es también una celebridad de Instagram y Youtube, pionera en lo que ha sido una fascinación médica durante décadas. Rubén es un entrenador, cuyo crecimiento en la cabeza le ha impedido ver a sus clientes en persona. Kaitlin tiene cicatrices en los brazos debido al uso prolongado de drogas. Adrian quedó con un bulto en el trasero después de caer por unas escaleras.</desc>
+  </programme>
+  <programme start="20230828200200 -0400" stop="20230828210000 -0400" channel="0603">
+    <title lang="es">Dra. Sandra Lee: especialista en piel</title>
+    <sub-title lang="es">T4 Ep: 3 En carne viva</sub-title>
+    <desc lang="es">Sandra Lee no es solo una de las dermatólogas más reconocidas de Estados Unidos, es también una celebridad de Instagram y Youtube, pionera en lo que ha sido una fascinación médica durante décadas. Margarita es una matriarca que ha estado ocultando su bulto en la axila a su familia. Kayla es una música con una carrera prometedora y su doloroso eczema la ha detenido. Bradley tiene un crecimiento preocupante que parece carne cruda en su pierna.</desc>
+  </programme>
+  <programme start="20230828210000 -0400" stop="20230828215900 -0400" channel="0603">
+    <title lang="es">Dra. Sandra Lee: especialista en piel</title>
+    <sub-title lang="es">T5 Ep: 2 Lunar y golpe en la cabeza</sub-title>
+    <desc lang="es">Sandra Lee no es solo una de las dermatólogas más reconocidas de Estados Unidos, es también una celebridad de Instagram y Youtube, pionera en lo que ha sido una fascinación médica durante décadas. El enorme crecimiento de los hombros de Jacqueline le dificulta realizar su pasatiempo favorito. A la misteriosa protuberancia en la mejilla de James le encanta sangrar. Mikalia tiene una masa maloliente y llena de baches en la cabeza desde que nació.</desc>
+  </programme>
+  <programme start="20230828215900 -0400" stop="20230828225900 -0400" channel="0603">
+    <title lang="es">Dra. Colón: especialista en huesos</title>
+    <sub-title lang="es">Ep: 2 Uno frío, los libros, maíz</sub-title>
+    <desc lang="es">Docuserie médica ambientada en un consultorio, donde la Dra. Alessandra Colón y su equipo usan métodos quiroprácticos para abordar condiciones físicas extremas y debilitantes. La Dra. Colón ayuda a una mujer que no puede mantener sus articulaciones en su lugar, una madre primeriza que sufre un trágico accidente de barco, una fisicoculturista sobreviviente de leucemia y un bebé estreñido.</desc>
+  </programme>
+  <programme start="20230828225900 -0400" stop="20230828235300 -0400" channel="0603">
+    <title lang="es">Clínica de la piel</title>
+    <sub-title lang="es">T4 Ep: 3 Mi bulto pesa 4 kilos</sub-title>
+    <desc lang="es">Imagine vivir con una condición aterradora en la piel. Imagine que la gente lo mira a causa de su piel. Imagine no querer salir de su casa por cómo lo miran. Esta es una serie en la que los protagonistas padecen condiciones incontrolables en la piel y, finalmente, buscan ayuda. La dermatóloga y cirujana Emma Craythorne es una experta en el tratamiento de todo tipo de pieles. Acompañada por un gran equipo en su Harley Street Clinic, se verá cómo la Dra. Emma atiende a personas comunes de todo Gran Bretaña, que sufren condiciones inusuales en la piel. En esta serie conmovedora, se verá a la Dra. Emma transformando, para siempre, las vidas de personas que están atrapadas en su piel. La Dra. Emma intentará tratar el bulto de cuatro kilos de Graham, los abultados lóbulos de las orejas de Samantha y el pegajoso lipoma de Deborah.</desc>
+  </programme>
+  <programme start="20230828235300 -0400" stop="20230829004500 -0400" channel="0603">
+    <title lang="es">Mi cuerpo, mi desafío</title>
+    <sub-title lang="es">T5 - Ep: 5 Mi madre es bella durmiente</sub-title>
+    <desc lang="es">Padecen enfermedades tan raras y misteriosas que la propia medicina queda desconcertada. A veces requieren intervenciones tan complicadas que las posibilidades de supervivencia son remotas, pero el amor de su familia y sus amigos, la dedicación de los equipos de médicos, su propia fortaleza y sus ganas de vivir los ayudan a salir adelante. Los protagonistas de estas historias podrían ser cualquiera de nosotros. Son personas afectadas por horribles síndromes que harían que cualquiera evitara el contacto humano. Esta serie muestra la grandeza que puede alcanzar la humanidad. Una mujer que durmió durante el nacimiento de su hijo, espera encontrar un diagnóstico para su condición de sueño. Un hombre con genitales gigantes busca ayuda. Un adolescente de 2,5 pies espera descubrir qué detuvo su crecimiento.</desc>
+  </programme>
   <programme start="20230826201600 -0400" stop="20230826211100 -0400" channel="0604">
     <title lang="en">La casa del mal</title>
     <desc lang="en">Jill Garrison pensó que su segundo intento en el amor duraría para siempre. Pero su tranquila ciudad empezó a ser acechada por un asesino. Jill no se dio cuenta de que invitó a un monstruo a su casa.</desc>
@@ -17464,6 +17777,131 @@
   <programme start="20230828190000 -0400" stop="20230828200000 -0400" channel="0621">
     <title lang="en">Estilo Chic</title>
     <desc lang="en">El programa está dedicado a la moda, belleza y vida sana.</desc>
+  </programme>
+  <programme start="20230827074000 -0400" stop="20230827090000 -0400" channel="0622">
+    <title lang="en">La ciudad perdida</title>
+    <desc lang="en">Documental sobre Región de Aysén.</desc>
+  </programme>
+  <programme start="20230827090000 -0400" stop="20230827102000 -0400" channel="0622">
+    <title lang="en">La directiva</title>
+    <desc lang="en">Árbitros amateur organizan sus directivas.</desc>
+  </programme>
+  <programme start="20230827102000 -0400" stop="20230827105000 -0400" channel="0622">
+    <title lang="en">¿De quién es nuestro mundo?</title>
+    <sub-title lang="en">Creando pobreza</sub-title>
+  </programme>
+  <programme start="20230827105000 -0400" stop="20230827115000 -0400" channel="0622">
+    <title lang="en">Cien Niños Esperando un Tren</title>
+    <desc lang="en">Documental acerca de un grupo de niños que descruben el mundo del cine en una capilla católica.</desc>
+  </programme>
+  <programme start="20230827115000 -0400" stop="20230827131000 -0400" channel="0622">
+    <title lang="en">Jaar, el lamento de las imágenes</title>
+    <desc lang="en">Este documental presenta un recorrido por la obra de Alfredo Jaar, observando su proceso creativo.</desc>
+  </programme>
+  <programme start="20230827131000 -0400" stop="20230827133500 -0400" channel="0622">
+    <title lang="en">Yo, consumidor</title>
+    <sub-title lang="en">El negocio de la ropa usada</sub-title>
+    <desc lang="en">No importa si lo hacemos en el supermercado, en el centro comercial o en Internet, el mundo siempre está en producción y nosotros compramos, muchas veces sin conocer las consecuencias que tiene nuestro consumo.</desc>
+  </programme>
+  <programme start="20230827133500 -0400" stop="20230827150000 -0400" channel="0622">
+    <title lang="en">La magnitud de todas las cosas</title>
+    <desc lang="en">La cineasta Jennifer Abbott explora las dimensiones emocionales y psicológicas de la crisis climática y la relación entre el dolor y la esperanza en tiempos de cambio personal y planetario.</desc>
+  </programme>
+  <programme start="20230827150000 -0400" stop="20230827162000 -0400" channel="0622">
+    <title lang="en">En el umbral</title>
+    <desc lang="en">Documental autobiográfico realizado por una madre que sigue la transición de género de su hijo,.</desc>
+  </programme>
+  <programme start="20230827162000 -0400" stop="20230827180000 -0400" channel="0622">
+    <title lang="en">Hi-Ho Mistahey!</title>
+    <desc lang="en">En este largometraje documental, Alanis Obomsawin cuenta la historia del Sueño de Shannen, una campaña nacional para brindar acceso equitativo a la educación en escuelas seguras y adecuadas para los niños de las Primeras Naciones.</desc>
+  </programme>
+  <programme start="20230827180000 -0400" stop="20230827194000 -0400" channel="0622">
+    <title lang="en">El edificio de los chilenos</title>
+    <desc lang="en">A fines de los años 70', los militantes del Movimiento de Izquierda Revolucionaria (MIR) exiliados en Europa regresaron a Chile a luchar clandestinamente contra la dictadura. Muchos de esos militantes tenían hijos que no podrían llevar con ellos. Para esos hijos nació el Proyecto Hogares, un espacio de vida comunitaria que reunió cerca de 60 niños que fueron cuidados por 20 adultos, llamados Padres Sociales. Esta es la historia de un pedazo de mi vida.</desc>
+  </programme>
+  <programme start="20230827194000 -0400" stop="20230827210500 -0400" channel="0622">
+    <title lang="en">Metamorfosis</title>
+    <desc lang="en">Una producción que ofrece una mirada a la crisis climática y a las adaptaciones a sus cambios.</desc>
+  </programme>
+  <programme start="20230827210500 -0400" stop="20230827223000 -0400" channel="0622">
+    <title lang="en">Flow</title>
+    <desc lang="en">Siguiendo los cursos del río Ganges en la India y del Biobío en Chile se produce entre ambos una increíble conexión humana y hasta morfológica, que este documental analiza en una especie de juego de espejos, que refleja dos civilizaciones. Sus cauces atraviesan una larga extensión desde la montaña hasta la desembocadura en el océano, aportando a su alrededor una fuente inagotable de vida y riquezas. Están todos invitados a este poético viaje sobre sus aguas.</desc>
+  </programme>
+  <programme start="20230827223000 -0400" stop="20230827235500 -0400" channel="0622">
+    <title lang="en">Cordillera de los sueños</title>
+    <desc lang="en">La cordillera de los sueños es una investigación histórica, un ensayo cinematográfico y una introspección íntima y colectiva sobre Chile.</desc>
+  </programme>
+  <programme start="20230827235500 -0400" stop="20230828003000 -0400" channel="0622">
+    <title lang="en">Chile, una galaxia de problemas</title>
+    <desc lang="en">Patricio Guzmán realiza una encuesta para conocer el "estado de la memoria histórica" en Santiago.</desc>
+  </programme>
+  <programme start="20230828003000 -0400" stop="20230828015000 -0400" channel="0622">
+    <title lang="en">El hombre nuevo</title>
+    <desc lang="en">Stephania es un travesti nacido en Nicaragua. Cuando era un niño, fue adoptado por una pareja de activistas de izquierda de Uruguay en medio de la revolución sandinista. Ahora, Stephania se gana la vida viendo coches aparcados en Montevideo. La película sigue a Stephania en su viaje para volver a descubrir su país de origen, donde ella fue una vez un hijo, un hermano y un niño que enseñaba la alfabetización y que ahora quiere ser aceptada como la mujer que es.</desc>
+  </programme>
+  <programme start="20230828015000 -0400" stop="20230828022500 -0400" channel="0622">
+    <title lang="en">No olvidar</title>
+    <desc lang="en">Las mujeres de la familia Maureira cuentan su experiencia de búsqueda de 5 de sus hombres a lo largo de Chile, luego de su detención por la policía, a pocos días del golpe militar de 1973.</desc>
+  </programme>
+  <programme start="20230828022500 -0400" stop="20230828035500 -0400" channel="0622">
+    <title lang="en">La cantuta en la boca del diablo</title>
+    <desc lang="en">Los asesinatos que hoy han condenado al ex presidente Alberto Fujimori, quedaron al descubierto y se convirtieron en un caso sólido por las acciones de personas comunes y corrientes que vencieron el miedo y enfrentaron al poder absoluto por la verdad.</desc>
+  </programme>
+  <programme start="20230828035500 -0400" stop="20230828050500 -0400" channel="0622">
+    <title lang="en">Genoveva</title>
+    <desc lang="en">Ensayo documental sobre discriminación racial.</desc>
+  </programme>
+  <programme start="20230828050500 -0400" stop="20230828062500 -0400" channel="0622">
+    <title lang="en">Y en el centro de la tierra había fuego</title>
+    <desc lang="en">Vera Kohn, psicóloga judía y maestra zen llegó a Ecuador huyendo de la segunda guerra mundial en 1939. Años después, el joven director Bernhard Hetzenauer, nieto de un nazi austriaco, se conecta con ella para narrar la historia de la gran terapeuta.</desc>
+  </programme>
+  <programme start="20230828062500 -0400" stop="20230828073500 -0400" channel="0622">
+    <title lang="en">El espanto</title>
+    <desc lang="en">En un pequeño pueblo, perdido en medio del vasto territorio argentino, sus habitantes descreen de la medicina tradicional y en cambio confían en las curas y en las recetas caseras, que se aprenden de generación en generación, como si fuese un legado. Pero la única dolencia que nadie puede combatir es la conocida por los vecinos como "El espanto", una extraña enfermedad que ataca únicamente a las mujeres y que sólo puede ser curada por un anciano, aunque casi nadie se anima a visitarlo.</desc>
+  </programme>
+  <programme start="20230828073500 -0400" stop="20230828085000 -0400" channel="0622">
+    <title lang="en">Riu, lo que cuentan los cantos</title>
+    <desc lang="en">Viaje físico y espiritual de la última heredera de la cultura ancestral de tradición oral que queda en la Isla de Pascua: María Elena Hotus.</desc>
+  </programme>
+  <programme start="20230828085000 -0400" stop="20230828092000 -0400" channel="0622">
+    <title lang="en">La fuerza del deporte</title>
+    <sub-title lang="en">Deporte tras los muros, los futbolistas de la cárcel de Hamburgo</sub-title>
+  </programme>
+  <programme start="20230828092000 -0400" stop="20230828104500 -0400" channel="0622">
+    <title lang="en">Jonás y el circo sin carpa</title>
+    <desc lang="en">Jonas tiene 13 años y sueña con mantener vivo el circo que ha construido en el patio de casa.</desc>
+  </programme>
+  <programme start="20230828104500 -0400" stop="20230828120000 -0400" channel="0622">
+    <title lang="en">La cueca antes de Dios</title>
+    <desc lang="en">Primer documental de larga duración hecho en Chile por Vincent Moon.</desc>
+  </programme>
+  <programme start="20230828120000 -0400" stop="20230828123000 -0400" channel="0622">
+    <title lang="en">Como me da la gana II</title>
+    <desc lang="en">Segunda parte actualizada de CMDLG.</desc>
+  </programme>
+  <programme start="20230828123000 -0400" stop="20230828134500 -0400" channel="0622">
+    <title lang="en">El casamiento</title>
+    <desc lang="en">Película documental sobre Julia e Ignacio, una pareja de ancianos que ha estado unida durante veinte años gracias a su gran amor y a pesar de grandes obstáculos. Están esperando casarse ya que Julia es transexual, y tiene la esperanza de que el Estado de Uruguay reconozca su identidad.</desc>
+  </programme>
+  <programme start="20230828134500 -0400" stop="20230828150500 -0400" channel="0622">
+    <title lang="en">Con amor, Scott</title>
+    <desc lang="en">El documental cuenta historia de Scott Jones, un joven músico homosexual que fue atacado afuera de un club nocturno de Nueva Escocia y quedó paralizado de la cintura para abajo.</desc>
+  </programme>
+  <programme start="20230828150500 -0400" stop="20230828162500 -0400" channel="0622">
+    <title lang="en">Los Reyes</title>
+    <desc lang="en">Los reyes es el skatepark más antiguo de Santiago.</desc>
+  </programme>
+  <programme start="20230828162500 -0400" stop="20230828174500 -0400" channel="0622">
+    <title lang="en">Mi casa de la pradera</title>
+    <desc lang="en">Seguimiento al músico canadiense de folk indie Rae Spoon en una gira de conciertos en un autobús Greyhound a través de las praderas donde creció.</desc>
+  </programme>
+  <programme start="20230828174500 -0400" stop="20230828192500 -0400" channel="0622">
+    <title lang="en">El edificio de los chilenos</title>
+    <desc lang="en">A fines de los años 70', los militantes del Movimiento de Izquierda Revolucionaria (MIR) exiliados en Europa regresaron a Chile a luchar clandestinamente contra la dictadura. Muchos de esos militantes tenían hijos que no podrían llevar con ellos. Para esos hijos nació el Proyecto Hogares, un espacio de vida comunitaria que reunió cerca de 60 niños que fueron cuidados por 20 adultos, llamados Padres Sociales. Esta es la historia de un pedazo de mi vida.</desc>
+  </programme>
+  <programme start="20230828192500 -0400" stop="20230828211500 -0400" channel="0622">
+    <title lang="en">¿Qué es la democracia?</title>
+    <desc lang="en">En tiempos de profunda crisis política y social, What Is Democracy?</desc>
   </programme>
   <programme start="20230827004500 -0400" stop="20230827013900 -0400" channel="0702">
     <title lang="es">Parques nacionales de Estados Unidos</title>
@@ -19308,6 +19746,219 @@
     <title lang="es">Presagio</title>
     <desc lang="es">Año 1959: durante la inauguración de un nuevo colegio, los estudiantes guardan en una cápsula del tiempo varios objetos. Lucinda, una de las niñas, guarda un papel en el que ha escrito extraños números. Cincuenta años después, la cápsula del tiempo es desenterrada y Caleb, el hijo de John Koestler, un profesor de astronomía viudo, recibe la misteriosa nota de Lucinda. John descubrirá enseguida que esos números esconden predicciones escalofriantes, algunas de las cuales ya han sucedido mientras que otras aún no.</desc>
   </programme>
+  <programme start="20230827011500 -0400" stop="20230827024500 -0400" channel="0802">
+    <title lang="es">Absolutamente Todo</title>
+  </programme>
+  <programme start="20230827024500 -0400" stop="20230827045500 -0400" channel="0802">
+    <title lang="es">Elle</title>
+  </programme>
+  <programme start="20230827045500 -0400" stop="20230827070000 -0400" channel="0802">
+    <title lang="es">Padrino de boda</title>
+  </programme>
+  <programme start="20230827070000 -0400" stop="20230827084000 -0400" channel="0802">
+    <title lang="es">Una jungla de locura</title>
+  </programme>
+  <programme start="20230827084000 -0400" stop="20230827102500 -0400" channel="0802">
+    <title lang="es">Escucha tu corazón</title>
+  </programme>
+  <programme start="20230827102500 -0400" stop="20230827115500 -0400" channel="0802">
+    <title lang="es">Dave hizo un laberinto</title>
+  </programme>
+  <programme start="20230827115500 -0400" stop="20230827132500 -0400" channel="0802">
+    <title lang="es">Los criminales de noviembre</title>
+  </programme>
+  <programme start="20230827132500 -0400" stop="20230827150500 -0400" channel="0802">
+    <title lang="es">Abduccion</title>
+  </programme>
+  <programme start="20230827150500 -0400" stop="20230827172000 -0400" channel="0802">
+    <title lang="es">Testamento de juventud</title>
+  </programme>
+  <programme start="20230827172000 -0400" stop="20230827190000 -0400" channel="0802">
+    <title lang="es">La última chica</title>
+  </programme>
+  <programme start="20230827190000 -0400" stop="20230827204500 -0400" channel="0802">
+    <title lang="es">Alquiler de padrinos</title>
+  </programme>
+  <programme start="20230827204500 -0400" stop="20230827222000 -0400" channel="0802">
+    <title lang="es">Amor Rebelde</title>
+  </programme>
+  <programme start="20230827222000 -0400" stop="20230828002000 -0400" channel="0802">
+    <title lang="es">Mar negro</title>
+  </programme>
+  <programme start="20230828222000 -0400" stop="20230829002000 -0400" channel="0802">
+    <title lang="es">Mar negro</title>
+  </programme>
+  <programme start="20230829002000 -0400" stop="20230829020500 -0400" channel="0802">
+    <title lang="es">La noche anterior</title>
+  </programme>
+  <programme start="20230829020500 -0400" stop="20230829035000 -0400" channel="0802">
+    <title lang="es">Proscrito</title>
+  </programme>
+  <programme start="20230829035000 -0400" stop="20230829052500 -0400" channel="0802">
+    <title lang="es">Cara a cara</title>
+  </programme>
+  <programme start="20230829052500 -0400" stop="20230829070000 -0400" channel="0802">
+    <title lang="es">Posesión Infernal</title>
+  </programme>
+  <programme start="20230829070000 -0400" stop="20230829083000 -0400" channel="0802">
+    <title lang="es">Cenicienta y el príncipe oculto</title>
+  </programme>
+  <programme start="20230829083000 -0400" stop="20230829102000 -0400" channel="0802">
+    <title lang="es">El Principito</title>
+  </programme>
+  <programme start="20230829102000 -0400" stop="20230829115500 -0400" channel="0802">
+    <title lang="es">Astronauta: El Último Impulso</title>
+  </programme>
+  <programme start="20230829115500 -0400" stop="20230829134000 -0400" channel="0802">
+    <title lang="es">Noche de estreno</title>
+  </programme>
+  <programme start="20230829134000 -0400" stop="20230829152500 -0400" channel="0802">
+    <title lang="es">Cazando salvajes</title>
+  </programme>
+  <programme start="20230829152500 -0400" stop="20230829171500 -0400" channel="0802">
+    <title lang="es">Conozcan a los Fang</title>
+  </programme>
+  <programme start="20230829171500 -0400" stop="20230829190000 -0400" channel="0802">
+    <title lang="es">Gimme Shelter</title>
+  </programme>
+  <programme start="20230829190000 -0400" stop="20230829204500 -0400" channel="0802">
+    <title lang="es">El plan de Maggie</title>
+  </programme>
+  <programme start="20230829204500 -0400" stop="20230829224500 -0400" channel="0802">
+    <title lang="es">La Máquina del Recuerdo</title>
+  </programme>
+  <programme start="20230829224500 -0400" stop="20230830002500 -0400" channel="0802">
+    <title lang="es">El maestro del dinero</title>
+  </programme>
+  <programme start="20230827004500 -0400" stop="20230827023400 -0400" channel="0803">
+    <title lang="es">Cruzando el límite</title>
+    <desc lang="es">Max Lewinsky, un detective de la policía de Londres, pierde la pista del peligroso criminal Jacob Sternwood, al que sigue el rastro desde hace tiempo. Tres años después, su frustración no le deja superar el fracaso. Sin embargo, cuando el hijo de Sternwood es detenido tras un atraco que ha salido mal, Lewinsky sabe que su presa volverá para rescatarlo.</desc>
+  </programme>
+  <programme start="20230827023400 -0400" stop="20230827040900 -0400" channel="0803">
+    <title lang="es">Lovelace: garganta profunda</title>
+    <desc lang="es">Linda Lovelace es conocida principalmente por el notorio éxito de taquilla de la película porno de 1972, 'Garganta Profunda'. Más tarde, cuando dejó la industria, la actriz se divorció de Chuck Traynor y recuperó su verdadero nombre: Linda Boreman. Además, acusó a su exmarido de haberla obligado a prostituirse y dedicarse a la pornografía, recurriendo a todo tipo de violencia e incluso al hipnotismo.</desc>
+  </programme>
+  <programme start="20230827040900 -0400" stop="20230827060000 -0400" channel="0803">
+    <title lang="es">Compulsión</title>
+    <desc lang="es">Cuando las vidas de dos vecinas se cruzan, sus obsesiones individuales comienzan a desmoronarse.</desc>
+  </programme>
+  <programme start="20230827060000 -0400" stop="20230827063000 -0400" channel="0803">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+  </programme>
+  <programme start="20230827063000 -0400" stop="20230827070000 -0400" channel="0803">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+  </programme>
+  <programme start="20230827070000 -0400" stop="20230827073000 -0400" channel="0803">
+    <title lang="es">Takeshi's Castle</title>
+    <desc lang="es">El programa de juegos de destreza física Japonés, ahora en su versión Tailandesa. Con José Manuel Guillén como narrador, el ejército del General Tanith deberá sobrevivir a innumerables pruebas físicas y mentales parfa tomar el castillo.</desc>
+  </programme>
+  <programme start="20230827073000 -0400" stop="20230827080000 -0400" channel="0803">
+    <title lang="es">Takeshi's Castle</title>
+    <desc lang="es">El programa de juegos de destreza física Japonés, ahora en su versión Tailandesa. Con José Manuel Guillén como narrador, el ejército del General Tanith deberá sobrevivir a innumerables pruebas físicas y mentales parfa tomar el castillo.</desc>
+  </programme>
+  <programme start="20230827080000 -0400" stop="20230827093000 -0400" channel="0803">
+    <title lang="es">Bandit and the Saints of Dogwood</title>
+    <desc lang="es">Lenna, y Bandit, su amigo peludo, planean, junto a otros estudiantes, hacerle una broma al director el último día de colegio. La noche de su travesura, hallan a unos ladrones de tesoros en busca de oro enterrado bajo el gimnasio de la escuela. Éstos descubren a los estudiantes, quienes escapan por poco y reciben un castigo por el daño. Entonces, Bandit recluta a algunos de sus amigos de cuatro patas para ayudar a los niños y llevarlos a casa.</desc>
+  </programme>
+  <programme start="20230827093000 -0400" stop="20230827111500 -0400" channel="0803">
+    <title lang="es">Espejito, espejito</title>
+    <desc lang="es">Después de la desaparición del Rey, su mujer despiadada toma el control del reino, manteniendo escondida en el palacio a su hijastra de 18 años de edad, la hermosa Blancanieves. Todo cambia cuando la princesa atrae la atención de un príncipe azul y rico, y la reina celosa destierra a la niña en un bosque cercano. Acogida por un grupo de enanos rebeldes pero de buen corazón, Blancanieves se transforma en una mujer joven y valiente decidida a salvar a su país de la Reina.</desc>
+  </programme>
+  <programme start="20230827111500 -0400" stop="20230827134500 -0400" channel="0803">
+    <title lang="es">Flyboys</title>
+    <desc lang="es">La heroica historia de los hombres de la Escuadrilla Lafayette, el primer escuadrón norteamericano de pilotos de combate que entró en acción en la Primera Guerra Mundial. Unos jóvenes llenos de valor que lucharon a favor de la democracia.</desc>
+  </programme>
+  <programme start="20230827134500 -0400" stop="20230827161500 -0400" channel="0803">
+    <title lang="es">The Terminal</title>
+    <desc lang="es">Victor Navorski, un ciudadano de un pequeño país del este europeo, se ve involuntariamente exiliado en la terminal internacional del aeropuerto JFK de Nueva York cuando estalla una guerra civil en su tierra de origen. A raíz del conflicto, el pasaporte de este viajero queda anulado y se ve obligado a quedarse en la parada, ya que no puede pisar suelo estadounidense ni subir a ningún avión. Durante su estancia, hará de todo para sobrevivir y entablará relación con el personal que trabaja en este lugar, especialmente con una bella azafata y con el estricto responsable de seguridad de la instalación.</desc>
+  </programme>
+  <programme start="20230827161500 -0400" stop="20230827181500 -0400" channel="0803">
+    <title lang="es">Mad Money</title>
+    <desc lang="es">Bridget Cardigan, mujer de posición, sufre un revés en su nivel de vida cuando su esposo se queda sin trabajo. Luego de aceptar emplearse como guardia en el Banco de Reserva, conspira con dos empleadas para hurtar billetes usados por reciclar.</desc>
+  </programme>
+  <programme start="20230827181500 -0400" stop="20230827201500 -0400" channel="0803">
+    <title lang="es">Cruzando el límite</title>
+    <desc lang="es">Max Lewinsky, un detective de la policía de Londres, pierde la pista del peligroso criminal Jacob Sternwood, al que sigue el rastro desde hace tiempo. Tres años después, su frustración no le deja superar el fracaso. Sin embargo, cuando el hijo de Sternwood es detenido tras un atraco que ha salido mal, Lewinsky sabe que su presa volverá para rescatarlo.</desc>
+  </programme>
+  <programme start="20230827201500 -0400" stop="20230827220000 -0400" channel="0803">
+    <title lang="es">Censor</title>
+    <desc lang="es">Año 1985. Después de ver un extraño vídeo familiar, Enid, censora de películas, decide investigar la desaparición de su hermana, embarcándose en una aventura a medio camino entre la realidad y la ficción.</desc>
+  </programme>
+  <programme start="20230827220000 -0400" stop="20230828000000 -0400" channel="0803">
+    <title lang="es">Azul extremo</title>
+    <desc lang="es">Cuando unos jóvenes submarinistas descubren un avión carguero en el fondo del mar, ellos creen que su sueño de encontrar un tesoro enterrado se ha hecho realidad. Lo que no saben es que el avión sumergido contiene millones de dólares de cargamento ilegal y un grupo de criminales peligrosos se encuentra buscándolo desesperadamente. Mientras las tensiones aumentan y los amigos comienzan a pelear por el destino de su hallazgo, otros se acercan cada vez más para descubrir su secreto, y los cazafortunas pronto se convierten en los cazados.</desc>
+  </programme>
+  <programme start="20230828000000 -0400" stop="20230828020000 -0400" channel="0803">
+    <title lang="es">13 Minutes</title>
+    <desc lang="es">Cuatro familias deben unirse cuando un tornado golpea su pueblo. A pesar de sus diferencias, deben trabajar juntos para sobrevivir y encontrar un refugio seguro en solo 13 minutos.</desc>
+  </programme>
+  <programme start="20230828020000 -0400" stop="20230828040000 -0400" channel="0803">
+    <title lang="es">Knife Fight</title>
+    <desc lang="es">Paul Turner, experto en relaciones públicas y conocido como el 'maestro del desastre', debe lidiar con dos clientes que buscan ser reelegidos en sus cargos políticos.</desc>
+  </programme>
+  <programme start="20230828040000 -0400" stop="20230828060000 -0400" channel="0803">
+    <title lang="es">Rostros robados</title>
+    <desc lang="es">Un asesino en serie tiene atemorizada a la ciudad. Una espectadora inocente presencia su último ataque, pero al huir cae de un puente quedando inconsciente. Cuando despierta en el hospital, no puede reconocer a su propia familia, ni siquiera su propio reflejo en el espejo. Se le diagnostica prosopagnosia, un desorden neurológico real causado por una lesión en el lóbulo temporal que impide comparar la cara que estamos viendo con otra cara almacenada en la memoria; cada vez que mira a alguien es como si fuera nuevo para ella. El problema es que es la única testigo del homicidio y el asesino, conciente de esto, intentará matarla.</desc>
+  </programme>
+  <programme start="20230828060000 -0400" stop="20230828063000 -0400" channel="0803">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+  </programme>
+  <programme start="20230828063000 -0400" stop="20230828070000 -0400" channel="0803">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+  </programme>
+  <programme start="20230828070000 -0400" stop="20230828073000 -0400" channel="0803">
+    <title lang="es">Takeshi's Castle</title>
+    <desc lang="es">El programa de juegos de destreza física Japonés, ahora en su versión Tailandesa. Con José Manuel Guillén como narrador, el ejército del General Tanith deberá sobrevivir a innumerables pruebas físicas y mentales parfa tomar el castillo.</desc>
+  </programme>
+  <programme start="20230828073000 -0400" stop="20230828080000 -0400" channel="0803">
+    <title lang="es">Takeshi's Castle</title>
+    <desc lang="es">El programa de juegos de destreza física Japonés, ahora en su versión Tailandesa. Con José Manuel Guillén como narrador, el ejército del General Tanith deberá sobrevivir a innumerables pruebas físicas y mentales parfa tomar el castillo.</desc>
+  </programme>
+  <programme start="20230828080000 -0400" stop="20230828083000 -0400" channel="0803">
+    <title lang="es">Takeshi's Castle</title>
+    <desc lang="es">El programa de juegos de destreza física Japonés, ahora en su versión Tailandesa. Con José Manuel Guillén como narrador, el ejército del General Tanith deberá sobrevivir a innumerables pruebas físicas y mentales parfa tomar el castillo.</desc>
+  </programme>
+  <programme start="20230828083000 -0400" stop="20230828100000 -0400" channel="0803">
+    <title lang="es">Cazador de dinosaurio</title>
+    <desc lang="es">Unas vacaciones se convierten en la aventura de su vida para un chico de 13 años, cuando se ve atrapado en un mundo lleno de barcos fantasma, criaturas prehistóricas y una joven que dice venir del pasado. Juntos se embarcan en un viaje que cambiará el futuro de ambos.</desc>
+  </programme>
+  <programme start="20230828100000 -0400" stop="20230828113000 -0400" channel="0803">
+    <title lang="es">La máquina voladora</title>
+    <desc lang="es">Georgie es una mamá estresada por su trabajo. Un día, lleva a sus hijos a ver una película animada, con participación en vivo del famoso pianista Lang Lang. De repente, no ve a sus pequeños y con ayuda del músico tiene que ir a buscarlos... dentro del filme. Más que un simple concierto, Lang Lang transporta a Georgie y a los niños a un viaje mágico a bordo de su piano, una emblemática máquina que puede volar y viajar a través del tiempo y el espacio. Una vez allí, y con Lang Lang al volante, son testigos de la historia de Anna, una chica cuyo padre tuvo que abandonar Polonia para trabajar en Londres. Sin embargo, Anna y su primo Chip Chip encuentran un piano roto que mágicamente se transforma en una máquina voladora y los lleva a través de Europa. La niña espera a conocer a su anhelado padre.</desc>
+  </programme>
+  <programme start="20230828113000 -0400" stop="20230828133000 -0400" channel="0803">
+    <title lang="es">Charlie - A Toy Story</title>
+    <desc lang="es">Caden y su perro Charlie visitan la juguetería de su padre, quien ha creado un juguete capaz de hacer realidad lo imaginado. Cuando hace un viaje de negocios, Caden y Charlie quedan al cuidado de la tienda, ya que unos niños malos quieren robarse el juguete mágico.</desc>
+  </programme>
+  <programme start="20230828133000 -0400" stop="20230828153000 -0400" channel="0803">
+    <title lang="es">Mad Money</title>
+    <desc lang="es">Bridget Cardigan, mujer de posición, sufre un revés en su nivel de vida cuando su esposo se queda sin trabajo. Luego de aceptar emplearse como guardia en el Banco de Reserva, conspira con dos empleadas para hurtar billetes usados por reciclar.</desc>
+  </programme>
+  <programme start="20230828153000 -0400" stop="20230828180000 -0400" channel="0803">
+    <title lang="es">El niño y el fugitivo</title>
+    <desc lang="es">En una isla del Mississippi, dos chicos descubren a un fugitivo llamado Mud. Ha matado a un hombre para proteger al amor de su vida, Juniper, y ahora se oculta de los cazadores de recompensas. Los chicos acceden a ayudarle a reunirse con Juniper y preparar su huida juntos, sin saber que la aparición de Mud significará el fin de sus infancias.</desc>
+  </programme>
+  <programme start="20230828180000 -0400" stop="20230828200000 -0400" channel="0803">
+    <title lang="es">Azul extremo</title>
+    <desc lang="es">Cuando unos jóvenes submarinistas descubren un avión carguero en el fondo del mar, ellos creen que su sueño de encontrar un tesoro enterrado se ha hecho realidad. Lo que no saben es que el avión sumergido contiene millones de dólares de cargamento ilegal y un grupo de criminales peligrosos se encuentra buscándolo desesperadamente. Mientras las tensiones aumentan y los amigos comienzan a pelear por el destino de su hallazgo, otros se acercan cada vez más para descubrir su secreto, y los cazafortunas pronto se convierten en los cazados.</desc>
+  </programme>
+  <programme start="20230828200000 -0400" stop="20230828214500 -0400" channel="0803">
+    <title lang="es">Nacho libre</title>
+    <desc lang="es">Nacho es un joven que trabaja como cocinero en el monasterio mexicano en el que se crió. Cuando la institución sufre una crisis financiera, Nacho decide que debe acudir a ayudar a la casa de Dios (así como a la bella joven monja que se acaba de unir a la orden). Para hacerlo, competirá en el torneo local de Lucha Libre. Vistiendo un disfraz apretado, mascara y capa, Nacho se convierte en el héroe de todos. ¿Pero será que se ganará el corazón de la mujer con el hábito?</desc>
+  </programme>
+  <programme start="20230828214500 -0400" stop="20230828224500 -0400" channel="0803">
+    <title lang="es">Yellowstone</title>
+    <sub-title lang="es">T4 - Ep: 7 Mantén a los lobos cerca</sub-title>
+    <desc lang="es">Sigue la historia de la familia Dutton, propietarios del mayor rancho de ganado de Estados Unidos. El negocio de los Dutton navega un complicado mundo de alianzas económicas y políticas y se encuentra en constante conflicto con quienes lo rodean, desde un pueblo en expansión, a una reserva indígena y al primer Parque Nacional de Estados Unidos. Un intenso retrato de un mundo violento lejos de los reflectores de la prensa, donde la apropiación de tierras genera billones de dólares y los políticos son comprados y vendidos para el beneficio de las empresas más poderosas del país. El gobernador Perry pone a John en una posición incómoda, en tanto Carter trabaja para recuperar la confianza de Beth. Por su parte, Jamie se llevará una gran sorpresa.</desc>
+  </programme>
+  <programme start="20230828224500 -0400" stop="20230829004500 -0400" channel="0803">
+    <title lang="es">13 Minutes</title>
+    <desc lang="es">Cuatro familias deben unirse cuando un tornado golpea su pueblo. A pesar de sus diferencias, deben trabajar juntos para sobrevivir y encontrar un refugio seguro en solo 13 minutos.</desc>
+  </programme>
   <programme start="20230827000000 -0400" stop="20230827005500 -0400" channel="0804">
     <title lang="es">Chicago PD</title>
     <sub-title lang="es">T3 - Ep: 14 La canción de Gregory Williams Yates</sub-title>
@@ -19898,6 +20549,81 @@
   <programme start="20230828235500 -0400" stop="20230829020500 -0400" channel="0806">
     <title lang="es">El libro de los secretos</title>
     <desc lang="es">En un futuro apocalíptico, 30 años después del 'resplandor' que aniquiló la casi totalidad de la sociedad civilizada, unos pocos humanos sobreviven en un ambiente increíblemente hostil y árido. Violaciones, canibalismo y salvajismo imperan en unas derruidas ciudades donde el más fuerte y el que posee el agua impone su ley. Vagando por la carretera, un guerrero solitario se dirige al oeste con una sola misión: proteger un misterioso libro que lleva en su mochila.</desc>
+  </programme>
+  <programme start="20230827010900 -0400" stop="20230827031400 -0400" channel="0807">
+    <title lang="es">Air Force One</title>
+  </programme>
+  <programme start="20230827031400 -0400" stop="20230827045000 -0400" channel="0807">
+    <title lang="es">Rage and Honor</title>
+  </programme>
+  <programme start="20230827045000 -0400" stop="20230827070000 -0400" channel="0807">
+    <title lang="es">Donnie Brasco</title>
+  </programme>
+  <programme start="20230827070000 -0400" stop="20230827094800 -0400" channel="0807">
+    <title lang="es">The Girl With the Dragon Tattoo</title>
+  </programme>
+  <programme start="20230827094800 -0400" stop="20230827112700 -0400" channel="0807">
+    <title lang="es">Brothers in arms</title>
+  </programme>
+  <programme start="20230827112700 -0400" stop="20230827132400 -0400" channel="0807">
+    <title lang="es">The Quick and the Dead</title>
+  </programme>
+  <programme start="20230827132400 -0400" stop="20230827152700 -0400" channel="0807">
+    <title lang="es">Seraphim Falls</title>
+  </programme>
+  <programme start="20230827152700 -0400" stop="20230827175700 -0400" channel="0807">
+    <title lang="es">A few good men</title>
+  </programme>
+  <programme start="20230827175700 -0400" stop="20230827201000 -0400" channel="0807">
+    <title lang="es">The walk</title>
+  </programme>
+  <programme start="20230827201000 -0400" stop="20230827215400 -0400" channel="0807">
+    <title lang="es">From Paris with Love</title>
+  </programme>
+  <programme start="20230827215400 -0400" stop="20230828000300 -0400" channel="0807">
+    <title lang="es">The Punisher</title>
+  </programme>
+  <programme start="20230828215400 -0400" stop="20230829000300 -0400" channel="0807">
+    <title lang="es">The Punisher</title>
+  </programme>
+  <programme start="20230829000300 -0400" stop="20230829014700 -0400" channel="0807">
+    <title lang="es">From Paris with Love</title>
+  </programme>
+  <programme start="20230829014700 -0400" stop="20230829035600 -0400" channel="0807">
+    <title lang="es">The Punisher</title>
+  </programme>
+  <programme start="20230829035600 -0400" stop="20230829053800 -0400" channel="0807">
+    <title lang="es">Untraceable</title>
+  </programme>
+  <programme start="20230829053800 -0400" stop="20230829070700 -0400" channel="0807">
+    <title lang="es">Cold comes the night</title>
+  </programme>
+  <programme start="20230829070700 -0400" stop="20230829090100 -0400" channel="0807">
+    <title lang="es">Never Back Down 2: The Beatdown</title>
+  </programme>
+  <programme start="20230829090100 -0400" stop="20230829104800 -0400" channel="0807">
+    <title lang="es">Hero Wanted</title>
+  </programme>
+  <programme start="20230829104800 -0400" stop="20230829124800 -0400" channel="0807">
+    <title lang="es">Gloria</title>
+  </programme>
+  <programme start="20230829124800 -0400" stop="20230829145400 -0400" channel="0807">
+    <title lang="es">The Net</title>
+  </programme>
+  <programme start="20230829145400 -0400" stop="20230829163600 -0400" channel="0807">
+    <title lang="es">Spider's Web</title>
+  </programme>
+  <programme start="20230829163600 -0400" stop="20230829183600 -0400" channel="0807">
+    <title lang="es">Guess Who</title>
+  </programme>
+  <programme start="20230829183600 -0400" stop="20230829201800 -0400" channel="0807">
+    <title lang="es">Taking 5</title>
+  </programme>
+  <programme start="20230829201800 -0400" stop="20230829215900 -0400" channel="0807">
+    <title lang="es">Bingo</title>
+  </programme>
+  <programme start="20230829215900 -0400" stop="20230830000800 -0400" channel="0807">
+    <title lang="es">The Karate Kid</title>
   </programme>
   <programme start="20230827001000 -0400" stop="20230827020500 -0400" channel="0808">
     <title lang="es">Sentencia de muerte</title>
@@ -23411,6 +24137,332 @@
     <title lang="en">Blue Bloods</title>
     <desc lang="en">Hay un Reagan vs Reagan cuando Danny desobedece la orden de Jamie en una negociación de rehenes.</desc>
   </programme>
+  <programme start="20230827075000 -0400" stop="20230827081500 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Pavos y tradiciones</sub-title>
+    <desc lang="en">Wade y las chicas organizan una comida tradicional del Día de Acción de Gracias para los amigos y la familia. Ben intenta hacer pavo frito por primera vez.</desc>
+  </programme>
+  <programme start="20230827081500 -0400" stop="20230827084000 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Sin presiones</sub-title>
+    <desc lang="en">Wade finge estar saliendo con Caroline (Betsy Brand) para evitar que Delia le organice citas a ciegas. Ben y Michelle organizan una fiesta de aniversario para ellos mismos, pero tienen problemas con el catering.</desc>
+  </programme>
+  <programme start="20230827084000 -0400" stop="20230827090500 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Anna y el unicornio</sub-title>
+    <desc lang="en">Wade está cautivado, sus hijas, divertidas y sus amigos, entusiasmados cuando tiene su primer enamoramiento luego de haber quedado solo.</desc>
+  </programme>
+  <programme start="20230827090500 -0400" stop="20230827093000 -0400" channel="0845">
+    <title lang="en">30 Rock</title>
+    <desc lang="en">Liz conoce al ex amante de su madre. La mamá de Jack se mete en sus relaciones con Avery y Nancy.</desc>
+  </programme>
+  <programme start="20230827093000 -0400" stop="20230827095500 -0400" channel="0845">
+    <title lang="en">30 Rock</title>
+    <desc lang="en">Jack se enreda aún más en su triangulo amoroso con Avery Jessup y Nancy Donovan.</desc>
+  </programme>
+  <programme start="20230827095500 -0400" stop="20230827102000 -0400" channel="0845">
+    <title lang="en">30 Rock</title>
+    <desc lang="en">Liz se cuestiona su destino cuando encuentra al hombre de sus sueños. Mientras, el triángulo amoroso de Jack llega a un punto crítico y el novio de Jenna enfrenta un dilema similar. Kenneth intentará evitar que lo transfieran a Los Ángeles.</desc>
+  </programme>
+  <programme start="20230827102000 -0400" stop="20230827104500 -0400" channel="0845">
+    <title lang="en">30 Rock</title>
+    <desc lang="en">En el comienzo de la quinta temporada de TGS, Liz y Carol se ven obligados a evaluar su relación.</desc>
+  </programme>
+  <programme start="20230827104500 -0400" stop="20230827111000 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Sin importar qué depare el futuro</sub-title>
+    <desc lang="en">Cuando Grace se prepara para ir a su primer baile, Wade siente con fuerza la ausencia de Jill y se apoya en sus amigos para transitar la situación.</desc>
+  </programme>
+  <programme start="20230827111000 -0400" stop="20230827113500 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Piloto</sub-title>
+    <desc lang="en">Walton Goggins protagoniza una comedia sobre un grupo muy unido de amigos y familiares que ayudan a Wade (Goggins) a aceptar su "nueva normalidad" luego de haber perdido a su esposa un año atrás en el primer episodio de la serie.</desc>
+  </programme>
+  <programme start="20230827113500 -0400" stop="20230827122500 -0400" channel="0845">
+    <title lang="en">Monk</title>
+    <desc lang="en">Monk se hace pasar por un hombre muerto en un esfuerzo por descubrir la trama de un asesinato.</desc>
+  </programme>
+  <programme start="20230827122500 -0400" stop="20230827131000 -0400" channel="0845">
+    <title lang="en">Monk</title>
+    <desc lang="en">Monk toma un trabajo como maestro sustituto de escuela secundaria para determinar si la caída de un maestro de una torre de reloj fue realmente un suicidio o una lección de asesinato.</desc>
+  </programme>
+  <programme start="20230827131000 -0400" stop="20230827135500 -0400" channel="0845">
+    <title lang="en">Monk</title>
+    <desc lang="en">Natalie está convencida de que un crítico (estrella invitada Dylan Baker), quien hizo pedazos la actuación teatral de su hija Julie, es responsable de un asesinato sucedido al mismo tiempo que la obra.</desc>
+  </programme>
+  <programme start="20230827135500 -0400" stop="20230827144000 -0400" channel="0845">
+    <title lang="en">Monk</title>
+    <desc lang="en">El vudú parece ser la única explicación cuando muñecas anónimas son enviadas a algunos residentes de San Francisco prediciendo una serie de muertes inexplicables incluyendo, probablemente, la muerte de Natalie. Con Meat Loaf como estrella invitada.</desc>
+  </programme>
+  <programme start="20230827144000 -0400" stop="20230827153000 -0400" channel="0845">
+    <title lang="en">Monk</title>
+    <desc lang="en">La aseguradora de Monk rechaza continuar pagando sus sesiones de terapia individual y Monk decide acudir a las sesiones grupales del Dr. Bell, donde alguien parece estar asesinando a sus pacientes. Con Tim Bagley y Héctor Elizondo como estrellas invitadas.</desc>
+  </programme>
+  <programme start="20230827153000 -0400" stop="20230827161500 -0400" channel="0845">
+    <title lang="en">Monk</title>
+    <desc lang="en">Natalie intenta organizar una fiesta sorpresa para Monk mientras investiga la muerte misteriosa del hombre de mantenimiento de un edificio corporativo. Con Virginia Madsen y John Carroll Lynch como estrellas invitadas.</desc>
+  </programme>
+  <programme start="20230827161500 -0400" stop="20230827170000 -0400" channel="0845">
+    <title lang="en">Monk</title>
+    <desc lang="en">Cuando Sharona regresa a San Francisco para tramitar unas cuestiones legales relacionadas con la muerte de un tío, Monk sospecha que hay gato encerrado y se siente dividido entre los distintos estilos de Sharona y Natalie. Bitty Schram aparece como artista invitada.</desc>
+  </programme>
+  <programme start="20230827170000 -0400" stop="20230827172500 -0400" channel="0845">
+    <title lang="en">Un hombre. Un plan</title>
+    <desc lang="en">Cuando Adam y Andi pierden un video de un momento íntimo que habían grabado sin querer, deben encontrarlo antes de que alguien lo vea.</desc>
+  </programme>
+  <programme start="20230827172500 -0400" stop="20230827175000 -0400" channel="0845">
+    <title lang="en">Un hombre, un plan</title>
+    <desc lang="en">Adam está decidido a descubrir qué está ocultando Andi cuando descubre que ha estado guardando secretos por su propio bien.</desc>
+  </programme>
+  <programme start="20230827175000 -0400" stop="20230827181500 -0400" channel="0845">
+    <title lang="en">Un hombre, un plan</title>
+    <desc lang="en">Cuando Adam y Andi pierden la grabación de un momento íntimo que grabaron accidentalmente, deben localizarlo antes de que alguien lo vea.</desc>
+  </programme>
+  <programme start="20230827181500 -0400" stop="20230827183500 -0400" channel="0845">
+    <title lang="en">Un hombre, un plan</title>
+    <desc lang="en">Cuando Adam insiste que jugar bromas es una diversión inofensiva, Andi diseña una elaborada trampa para darle una lección.</desc>
+  </programme>
+  <programme start="20230827183500 -0400" stop="20230827190000 -0400" channel="0845">
+    <title lang="en">Un hombre, un plan</title>
+    <desc lang="en">Adam se siente emocionado y honrado de poder ayudar a Joe a construir un nuevo auto pero es tomado por sorpresa cuando de repente, Joe se vuelve irritable y las negociaciones se salen de control.</desc>
+  </programme>
+  <programme start="20230827190000 -0400" stop="20230827192500 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Parte 2 de 2. Michael se despide por última vez de la oficina.</desc>
+  </programme>
+  <programme start="20230827192500 -0400" stop="20230827195000 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Jim está a la cabeza en un comité entrevistando a candidatos potenciales para gerente. Los aspirantes incluyen a Andy, Darryl y Dwight.</desc>
+  </programme>
+  <programme start="20230827195000 -0400" stop="20230827201500 -0400" channel="0845">
+    <title lang="en">Maratón The Office</title>
+    <desc lang="en">Cuando Jim rechaza la oferta de Jo, Dwight se convierte en el director interino de la sucursal de Scranton, pero un accidente podría acortar drásticamente su permanencia en el cargo.</desc>
+  </programme>
+  <programme start="20230827201500 -0400" stop="20230827204000 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Jim está a la cabeza en un comité entrevistando a candidatos potenciales para gerente. Los aspirantes incluyen a Andy, Darryl y Dwight.</desc>
+  </programme>
+  <programme start="20230827204000 -0400" stop="20230827210500 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">El proceso de entrevistas para contratar a un nuevo jefe continúa.</desc>
+  </programme>
+  <programme start="20230827210500 -0400" stop="20230827213000 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Los empleados descubren sus nombres en una misteriosa lista escrita por Robert California, el nuevo CEO de Sabre. La paranoia se extiende a través de la oficina, los empleados especulan sobre lo que la lista significa.</desc>
+  </programme>
+  <programme start="20230827213000 -0400" stop="20230827220000 -0400" channel="0845">
+    <title lang="en">Colin from Accounts</title>
+    <desc lang="en">Ashley lleva a Gordon a su cena de cumpleaños en la casa de Lynelle y el espeluznante profesor Lee.</desc>
+  </programme>
+  <programme start="20230827220000 -0400" stop="20230827223000 -0400" channel="0845">
+    <title lang="en">Dr. Ken</title>
+    <desc lang="en">Un médico frustrado hace malabarismos con su carrera, matrimonio y familia. (new).</desc>
+  </programme>
+  <programme start="20230827223000 -0400" stop="20230827225500 -0400" channel="0845">
+    <title lang="en">Ghosts</title>
+    <desc lang="en">Sam luchó por mantener el ánimo de Issac después de que chocó contra un muro al intentar publicar una biografía sobre él, Trevor y Hetty conspiran para mantener su relación oculta y Flower insta a Thor a controlar su ira. (repeat).</desc>
+  </programme>
+  <programme start="20230827225500 -0400" stop="20230827232500 -0400" channel="0845">
+    <title lang="en">Rutherford Falls: Un pueblo sin dueños</title>
+    <sub-title lang="en">Feria de Historia</sub-title>
+    <desc lang="en">Nathan y Reagan sirven como jueces en la Feria de Historia anual de su ciudad; Terry Thomas y la alcaldesa Deirdre intentan encontrar puntos en común. (repeat).</desc>
+  </programme>
+  <programme start="20230827232500 -0400" stop="20230828000000 -0400" channel="0845">
+    <title lang="en">Upright</title>
+    <sub-title lang="en">Ya basta</sub-title>
+    <desc lang="en">Luego de escapar de la comunidad, Lucky y Meg se apresuran a regresar a Sídney con la esperanza de llegar a tiempo para encontrarse con Billie en el aeropuerto. (repeat).</desc>
+  </programme>
+  <programme start="20230828000000 -0400" stop="20230828013000 -0400" channel="0845">
+    <title lang="en">Billy Madison: Tonto, pero No Tanto</title>
+    <desc lang="en">Adam Sandler en el rol de un joven rico y mimado que debe repetir su educación para heredar el negocio familiar de hoteles.</desc>
+  </programme>
+  <programme start="20230828013000 -0400" stop="20230828015500 -0400" channel="0845">
+    <title lang="en">The Odd Couple</title>
+    <desc lang="en">La hipocondría de Félix llega a un pico máximo cuando Oscar comienza a salir con la persona más importante de la vida de Félix, su médica.</desc>
+  </programme>
+  <programme start="20230828015500 -0400" stop="20230828022000 -0400" channel="0845">
+    <title lang="en">The Odd Couple</title>
+    <desc lang="en">Félix convence a Oscar de que aparezca en un show deportivo de televisión en contra de los consejos de Teddy, que opina que debe mantenerse solo en la radio.</desc>
+  </programme>
+  <programme start="20230828022000 -0400" stop="20230828024500 -0400" channel="0845">
+    <title lang="en">The Odd Couple</title>
+    <desc lang="en">Cuando Oscar se siente amenazado por la sorprendente actuación de Félix en la cancha de softbol y en la de béisbol, acuerdan hacer un decatlón para ver cuál de los dos es mejor atleta.</desc>
+  </programme>
+  <programme start="20230828024500 -0400" stop="20230828031000 -0400" channel="0845">
+    <title lang="en">The Odd Couple</title>
+    <desc lang="en">Cuando Oscar y Félix van a lo de Ashely para buscar la almohada especial de Félix, se revela un secreto que Félix no le había contado a Oscar.</desc>
+  </programme>
+  <programme start="20230828031000 -0400" stop="20230828033500 -0400" channel="0845">
+    <title lang="en">The Odd Couple</title>
+    <desc lang="en">Cuando Félix reemplaza a un profesor en una clase de yoga, su estilo de enseñanza les molesta a todos, incluso a Emily. Oscar y Dani quedan atrapados en el subte, lo que aumenta su molestia de estar viviendo en la ciudad.</desc>
+  </programme>
+  <programme start="20230828033500 -0400" stop="20230828040000 -0400" channel="0845">
+    <title lang="en">Odd Mom Out</title>
+    <sub-title lang="en">Negocios juguetones</sub-title>
+    <desc lang="en">Jill y Andy visitan a Hazel en el campamento Sleepaway y se sorprenden al ver lo mucho que ha madurado.</desc>
+  </programme>
+  <programme start="20230828040000 -0400" stop="20230828042500 -0400" channel="0845">
+    <title lang="en">Odd Mom Out</title>
+    <sub-title lang="en">Bocazas</sub-title>
+    <desc lang="en">Jill llega a un punto de ruptura con Candace viviendo en su apartamento y toma una medida sorprendente.</desc>
+  </programme>
+  <programme start="20230828042500 -0400" stop="20230828045000 -0400" channel="0845">
+    <title lang="en">Odd Mom Out</title>
+    <sub-title lang="en">Máster en bellas artes y cuentos chinos</sub-title>
+    <desc lang="en">Jill se esfuerza por dar la impresión correcta en su exposición de arte.</desc>
+  </programme>
+  <programme start="20230828045000 -0400" stop="20230828051500 -0400" channel="0845">
+    <title lang="en">Odd Mom Out</title>
+    <sub-title lang="en">Los chicos del pudin de maíz</sub-title>
+    <desc lang="en">Jill enfrenta su miedo a los suburbios y asiste a una tradicional comida de Acción de Gracias.</desc>
+  </programme>
+  <programme start="20230828051500 -0400" stop="20230828054000 -0400" channel="0845">
+    <title lang="en">Odd Mom Out</title>
+    <sub-title lang="en">Cuando haces de jurado</sub-title>
+    <desc lang="en">Jill está plagada de culpa después de escuchar los espeluznantes detalles del juicio al que asistió Candace.</desc>
+  </programme>
+  <programme start="20230828054000 -0400" stop="20230828060500 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Los trabajadores del almacén se retiran después de ganar la lotería, dejando a sus superiores soñando con ganar el gran premio de la lotería. Mientras contratan nuevo personal, ellos tiendrán que temporalmente realizar los trabajos del almacén.</desc>
+  </programme>
+  <programme start="20230828060500 -0400" stop="20230828063000 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Andy planta las semillas e intenta impresionar a Robert California con una fiesta de jardín en Schrute Farms. Los padres de Andy y su hermano también asistirán al evento, sólo para hacer que se sienta incómodo.</desc>
+  </programme>
+  <programme start="20230828063000 -0400" stop="20230828070000 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Erin trata desesperadamente de crear exactamente la fiesta de Halloween que Robert y Andy tienen en mente. Mientras tanto, Jim está horrorizado al descubrir que Pam cree en fantasmas; Dwight y el hijo de Robert entablan una amistad.</desc>
+  </programme>
+  <programme start="20230828070000 -0400" stop="20230828072500 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Dwight pone en marcha un sistema de "día del juicio final" draconiano para reducir los errores de los empleados y mejorar los niveles de eficiencia en la oficina.</desc>
+  </programme>
+  <programme start="20230828072500 -0400" stop="20230828075500 -0400" channel="0845">
+    <title lang="en">Upright</title>
+    <sub-title lang="en">Bananas</sub-title>
+    <desc lang="en">Mientras Meg continúa buscando a su mamá en Cairns, Lucky trata de pasar desapercibido para evitar su turbio pasado.</desc>
+  </programme>
+  <programme start="20230828075500 -0400" stop="20230828082500 -0400" channel="0845">
+    <title lang="en">Upright</title>
+    <sub-title lang="en">Reparaciones</sub-title>
+    <desc lang="en">Lucky y Meg se van de Cairns, pero el pasado mejor olvidado de Lucky lo alcanza.</desc>
+  </programme>
+  <programme start="20230828082500 -0400" stop="20230828084500 -0400" channel="0845">
+    <title lang="en">Maratón Kevin puede esperar</title>
+    <desc lang="en">Kevin y Vanessa enfrentan dudas como socios al ser rebasados por un competidor.</desc>
+  </programme>
+  <programme start="20230828084500 -0400" stop="20230828091000 -0400" channel="0845">
+    <title lang="en">Un hombre, un plan</title>
+    <desc lang="en">El padre de Adam visita al doctor, y Adam descubre algunas cosas sobre su padre que preferiría no saber.</desc>
+  </programme>
+  <programme start="20230828091000 -0400" stop="20230828095500 -0400" channel="0845">
+    <title lang="en">Monk</title>
+    <desc lang="en">Contra su voluntad, Monk adopta a un perro mientras investiga la extraña desaparición de su propietario. Con Wallace Langham como estrella invitada.</desc>
+  </programme>
+  <programme start="20230828095500 -0400" stop="20230828103500 -0400" channel="0845">
+    <title lang="en">Monk</title>
+    <desc lang="en">Para ganarse al solitario rezagado en el comité de readaptación, Monk acompaña al teniente Disher en un viaje de exploración con el problemático hijo del hombre, un viaje en que la naturaleza no es lo único que la tropa tiene que temer.</desc>
+  </programme>
+  <programme start="20230828103500 -0400" stop="20230828110000 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Lo que vale es la intención</sub-title>
+    <desc lang="en">Después de que Forrest le regala una pistola de agua a Noah, Ben y Michelle se la quitan rápidamente, y el grupo tiene una discusión franca sobre la injusticia social.</desc>
+  </programme>
+  <programme start="20230828110000 -0400" stop="20230828112000 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Hay que trabajarlo</sub-title>
+    <desc lang="en">Después de que Ben recomienda a Wade para un empleo en su lugar de trabajo, todos se sorprenden al ver lo radicalmente diferentes que son sus estilos profesionales.</desc>
+  </programme>
+  <programme start="20230828112000 -0400" stop="20230828120500 -0400" channel="0845">
+    <title lang="en">Psíquico</title>
+    <sub-title lang="en">Shawn Rescues Darth Vader</sub-title>
+    <desc lang="en">Mientras Shawn trabaja intentando recuperar un objeto de coleccionista de Star Wars, encuentra un cadáver en el Consulado Británico.</desc>
+  </programme>
+  <programme start="20230828120500 -0400" stop="20230828124500 -0400" channel="0845">
+    <title lang="en">Psíquico</title>
+    <desc lang="en">Shawn, Gus, Lassiter, y el médico forense Woody despiertan en la oficina de Psych sin tener ningún recuerdo de lo sucedido la noche anterior.</desc>
+  </programme>
+  <programme start="20230828124500 -0400" stop="20230828131000 -0400" channel="0845">
+    <title lang="en">Maratón The Odd Couple</title>
+    <desc lang="en">Oscar se obsesiona con estar a la altura de los estándares de vida de Murph cuando se entera de que la chica con la que sale solía salir con el apuesto ex jugador de béisbol.</desc>
+  </programme>
+  <programme start="20230828131000 -0400" stop="20230828133500 -0400" channel="0845">
+    <title lang="en">Odd Mom Out</title>
+    <sub-title lang="en">Papatope</sub-title>
+    <desc lang="en">Andy consume estimulantes agobiado por la entrega de un trabajo la noche del Comité de Padres.</desc>
+  </programme>
+  <programme start="20230828133500 -0400" stop="20230828140000 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Andy planta las semillas e intenta impresionar a Robert California con una fiesta de jardín en Schrute Farms. Los padres de Andy y su hermano también asistirán al evento, sólo para hacer que se sienta incómodo.</desc>
+  </programme>
+  <programme start="20230828140000 -0400" stop="20230828142500 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Erin trata desesperadamente de crear exactamente la fiesta de Halloween que Robert y Andy tienen en mente. Mientras tanto, Jim está horrorizado al descubrir que Pam cree en fantasmas; Dwight y el hijo de Robert entablan una amistad.</desc>
+  </programme>
+  <programme start="20230828142500 -0400" stop="20230828145000 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Dwight pone en marcha un sistema de "día del juicio final" draconiano para reducir los errores de los empleados y mejorar los niveles de eficiencia en la oficina.</desc>
+  </programme>
+  <programme start="20230828145000 -0400" stop="20230828151500 -0400" channel="0845">
+    <title lang="en">The Office</title>
+    <desc lang="en">Pam se prepara para su ausencia de maternidad mediante el entrenamiento de su reemplazo temporal, pero ella se inquieta de que Jim la encuentra atractiva. Mientras tanto, Robert California pide unirse a la banda de Andy, Darryl y Kevin.</desc>
+  </programme>
+  <programme start="20230828151500 -0400" stop="20230828153500 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Tres hombres a la pesca</sub-title>
+    <desc lang="en">Cuando Wade visita un lugar especial para conocer gente en lugar de usar su app de citas, Forrest y Ben deciden acompañarlo.</desc>
+  </programme>
+  <programme start="20230828153500 -0400" stop="20230828155500 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Wade retrasado</sub-title>
+    <desc lang="en">Cuando Wade se va de la ciudad por el día, entra en pánico al darse cuenta de que solo queda él ahora para cuidar de sus hijas.</desc>
+  </programme>
+  <programme start="20230828155500 -0400" stop="20230828162000 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Pavos y tradiciones</sub-title>
+    <desc lang="en">Wade y las chicas organizan una comida tradicional del Día de Acción de Gracias para los amigos y la familia. Ben intenta hacer pavo frito por primera vez.</desc>
+  </programme>
+  <programme start="20230828162000 -0400" stop="20230828164500 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Sin presiones</sub-title>
+    <desc lang="en">Wade finge estar saliendo con Caroline (Betsy Brand) para evitar que Delia le organice citas a ciegas. Ben y Michelle organizan una fiesta de aniversario para ellos mismos, pero tienen problemas con el catering.</desc>
+  </programme>
+  <programme start="20230828164500 -0400" stop="20230828171000 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Anna y el unicornio</sub-title>
+    <desc lang="en">Wade está cautivado, sus hijas, divertidas y sus amigos, entusiasmados cuando tiene su primer enamoramiento luego de haber quedado solo.</desc>
+  </programme>
+  <programme start="20230828171000 -0400" stop="20230828174000 -0400" channel="0845">
+    <title lang="en">The Mindy Project</title>
+    <sub-title lang="en">¿Lo harán o no lo harán?</sub-title>
+    <desc lang="en">El estreno de mitad de temporada encuentra a Mindy y Jody alojando a un grupo de universitarias salvajes que están en la ciudad por el receso primaveral y quieren congelar sus óvulos. Cuando Mindy se distrae para una noche romantica con Danny, las chicas siembran el caos en Nueva York. Mientras tanto, una de las chicas se interesa por Jody y no tiene miedo de pasar a la acción.</desc>
+  </programme>
+  <programme start="20230828174000 -0400" stop="20230828180500 -0400" channel="0845">
+    <title lang="en">The Mindy Project</title>
+    <sub-title lang="en">Demasiado rápido para ser serio</sub-title>
+    <desc lang="en">Mindy intenta volver al mundo de las citas y encuentra un buen candidato.</desc>
+  </programme>
+  <programme start="20230828180500 -0400" stop="20230828183000 -0400" channel="0845">
+    <title lang="en">30 Rock</title>
+    <desc lang="en">Liz se cuestiona su destino cuando encuentra al hombre de sus sueños. Mientras, el triángulo amoroso de Jack llega a un punto crítico y el novio de Jenna enfrenta un dilema similar. Kenneth intentará evitar que lo transfieran a Los Ángeles.</desc>
+  </programme>
+  <programme start="20230828183000 -0400" stop="20230828185000 -0400" channel="0845">
+    <title lang="en">30 Rock</title>
+    <desc lang="en">En el comienzo de la quinta temporada de TGS, Liz y Carol se ven obligados a evaluar su relación.</desc>
+  </programme>
+  <programme start="20230828185000 -0400" stop="20230828191500 -0400" channel="0845">
+    <title lang="en">The Unicorn</title>
+    <sub-title lang="en">Lo que vale es la intención</sub-title>
+    <desc lang="en">Después de que Forrest le regala una pistola de agua a Noah, Ben y Michelle se la quitan rápidamente, y el grupo tiene una discusión franca sobre la injusticia social.</desc>
+  </programme>
+  <programme start="20230828191500 -0400" stop="20230828194000 -0400" channel="0845">
+    <title lang="en">Maratón Kevin puede esperar</title>
+    <desc lang="en">Kevin le saca una cita en línea a Vanessa y él hace un nuevo mejor amigo.</desc>
+  </programme>
+  <programme start="20230828194000 -0400" stop="20230828200000 -0400" channel="0845">
+    <title lang="en">Maratón Kevin puede esperar</title>
+    <desc lang="en">Vanessa ya está cansada de cocinar para Kevin todos los días; su vecino ya no lo hace.</desc>
+  </programme>
   <programme start="20230826200000 -0400" stop="20230826210000 -0400" channel="0151">
     <title lang="en">Hablemos de Basquet</title>
     <desc lang="en">Toda la actualidad del basquetbol chileno, difusión e información de la LBn Chile. (repeat).</desc>
@@ -23907,10 +24959,6 @@
   <programme start="20230828123000 -0400" stop="20230828130000 -0400" channel="0153">
     <title lang="es">De película</title>
     <desc lang="es">Programa dedicado a los estrenos del cine.</desc>
-  </programme>
-  <programme start="20230828134500 -0400" stop="20230828143000 -0400" channel="0153">
-    <title lang="es">Noticias mediodía</title>
-    <desc lang="es">Noticiario regional, donde informamos principalmente lo que sucede en la Región del Biobío, pero también de Ñuble y a nivel nacional gracias al convenio de cooperación con CNN Chile y el apoyo de Radio Bío Bío.</desc>
   </programme>
   <programme start="20230828130000 -0400" stop="20230828141500 -0400" channel="0153">
     <title lang="es">Efemérides</title>
@@ -26028,167 +27076,29 @@
   <programme start="20230829023000 -0400" stop="20230829030000 -0400" channel="0316">
     <title lang="es">Yo-Kai Watch</title>
   </programme>
-  <programme start="20230827020000 -0400" stop="20230827030000 -0400" channel="0317">
-    <title lang="es">La vida moderna de Rocko</title>
-    <desc lang="es">Rocko es un wallaby que trata con todos los problemas de la vida moderna.</desc>
+  <programme start="20230827020000 -0400" stop="20230827080000 -0400" channel="0317">
+    <title lang="en">Amazon Kids</title>
   </programme>
-  <programme start="20230827030000 -0400" stop="20230827040000 -0400" channel="0317">
-    <title lang="es">Daria</title>
-    <desc lang="es">La inteligente y sardónica, Daria Morgendorffer, trata de pasar desapercibida en la secundaria de Lawndale y ella está haciendo una excelente labor consiguiéndolo, su profesora de autoestima ni siquiera recuerda su nombre, para Dalia la autoestima no es su problema quien explica francamente que siente baja autoestima por los demás. A ella no le importan los que son populares o ser parte del grupo, como a su hermana, Quinn o la porrista, Brittany, al menos su mejor amiga Jane Lane está disponible cada vez que Daria la necesita para descansar de las masas ignorantes que la rodean.</desc>
+  <programme start="20230827080000 -0400" stop="20230827140000 -0400" channel="0317">
+    <title lang="en">Amazon Kids</title>
   </programme>
-  <programme start="20230827040000 -0400" stop="20230827060000 -0400" channel="0317">
-    <title lang="es">Replay</title>
+  <programme start="20230827140000 -0400" stop="20230827200000 -0400" channel="0317">
+    <title lang="en">Amazon Kids</title>
   </programme>
-  <programme start="20230827060000 -0400" stop="20230827070000 -0400" channel="0317">
-    <title lang="es">Los Simpsons</title>
-    <desc lang="es">La comedia de dibujos animados se centra en una familia que vive en la ciudad de Springfield. La cabeza de la familia Simpson es Homero, quien no es un hombre de familia típico, obrero de una planta nuclear, él hace lo mejor para poder liderar a su familia, pero frecuentemente se da cuenta que son ellos los que lo mandan.</desc>
+  <programme start="20230827200000 -0400" stop="20230828020000 -0400" channel="0317">
+    <title lang="en">Amazon Kids</title>
   </programme>
-  <programme start="20230827070000 -0400" stop="20230827080000 -0400" channel="0317">
-    <title lang="es">Futurama</title>
-    <desc lang="es">Accidentalmente el repartidor de pizza, Fry, se despierta 1000 años en el futuro. Él es recibido por su único descendiente, un científico anciano y débil que es dueño de un servicio de repartos.</desc>
+  <programme start="20230828020000 -0400" stop="20230828080000 -0400" channel="0317">
+    <title lang="en">Amazon Kids</title>
   </programme>
-  <programme start="20230827080000 -0400" stop="20230827090000 -0400" channel="0317">
-    <title lang="es">Rick and Morty</title>
-    <desc lang="es">Después de haber estado desaparecido durante casi 20 años, Rick Sánchez llega de imprevisto a la puerta de la casa de su hija Beth y se va a vivir con ella y su familia utilizando el garaje como su laboratorio personal.</desc>
+  <programme start="20230828080000 -0400" stop="20230828140000 -0400" channel="0317">
+    <title lang="en">Amazon Kids</title>
   </programme>
-  <programme start="20230827090000 -0400" stop="20230827100000 -0400" channel="0317">
-    <title lang="es">Bob y Margaret</title>
-    <desc lang="es">Las aventuras animadas de Bob, un neurótico dentista y su esposa Margaret, una pareja británica sin hijos, pero con dos perros llamados William y Elizabeth.</desc>
+  <programme start="20230828140000 -0400" stop="20230828200000 -0400" channel="0317">
+    <title lang="en">Amazon Kids</title>
   </programme>
-  <programme start="20230827100000 -0400" stop="20230827110000 -0400" channel="0317">
-    <title lang="es">La vida moderna de Rocko</title>
-    <desc lang="es">Rocko es un wallaby que trata con todos los problemas de la vida moderna.</desc>
-  </programme>
-  <programme start="20230827110000 -0400" stop="20230827120000 -0400" channel="0317">
-    <title lang="es">Daria</title>
-    <desc lang="es">La inteligente y sardónica, Daria Morgendorffer, trata de pasar desapercibida en la secundaria de Lawndale y ella está haciendo una excelente labor consiguiéndolo, su profesora de autoestima ni siquiera recuerda su nombre, para Dalia la autoestima no es su problema quien explica francamente que siente baja autoestima por los demás. A ella no le importan los que son populares o ser parte del grupo, como a su hermana, Quinn o la porrista, Brittany, al menos su mejor amiga Jane Lane está disponible cada vez que Daria la necesita para descansar de las masas ignorantes que la rodean.</desc>
-  </programme>
-  <programme start="20230827120000 -0400" stop="20230827140000 -0400" channel="0317">
-    <title lang="es">Replay</title>
-  </programme>
-  <programme start="20230827140000 -0400" stop="20230827150000 -0400" channel="0317">
-    <title lang="es">Los Simpsons</title>
-    <desc lang="es">La comedia de dibujos animados se centra en una familia que vive en la ciudad de Springfield. La cabeza de la familia Simpson es Homero, quien no es un hombre de familia típico, obrero de una planta nuclear, él hace lo mejor para poder liderar a su familia, pero frecuentemente se da cuenta que son ellos los que lo mandan.</desc>
-  </programme>
-  <programme start="20230827150000 -0400" stop="20230827160000 -0400" channel="0317">
-    <title lang="es">Futurama</title>
-    <desc lang="es">Accidentalmente el repartidor de pizza, Fry, se despierta 1000 años en el futuro. Él es recibido por su único descendiente, un científico anciano y débil que es dueño de un servicio de repartos.</desc>
-  </programme>
-  <programme start="20230827160000 -0400" stop="20230827170000 -0400" channel="0317">
-    <title lang="es">Rick and Morty</title>
-    <desc lang="es">Después de haber estado desaparecido durante casi 20 años, Rick Sánchez llega de imprevisto a la puerta de la casa de su hija Beth y se va a vivir con ella y su familia utilizando el garaje como su laboratorio personal.</desc>
-  </programme>
-  <programme start="20230827170000 -0400" stop="20230827180000 -0400" channel="0317">
-    <title lang="es">Bob y Margaret</title>
-    <desc lang="es">Las aventuras animadas de Bob, un neurótico dentista y su esposa Margaret, una pareja británica sin hijos, pero con dos perros llamados William y Elizabeth.</desc>
-  </programme>
-  <programme start="20230827180000 -0400" stop="20230827190000 -0400" channel="0317">
-    <title lang="es">La vida moderna de Rocko</title>
-    <desc lang="es">Rocko es un wallaby que trata con todos los problemas de la vida moderna.</desc>
-  </programme>
-  <programme start="20230827190000 -0400" stop="20230827200000 -0400" channel="0317">
-    <title lang="es">Daria</title>
-    <desc lang="es">La inteligente y sardónica, Daria Morgendorffer, trata de pasar desapercibida en la secundaria de Lawndale y ella está haciendo una excelente labor consiguiéndolo, su profesora de autoestima ni siquiera recuerda su nombre, para Dalia la autoestima no es su problema quien explica francamente que siente baja autoestima por los demás. A ella no le importan los que son populares o ser parte del grupo, como a su hermana, Quinn o la porrista, Brittany, al menos su mejor amiga Jane Lane está disponible cada vez que Daria la necesita para descansar de las masas ignorantes que la rodean.</desc>
-  </programme>
-  <programme start="20230827200000 -0400" stop="20230827220000 -0400" channel="0317">
-    <title lang="es">Replay</title>
-  </programme>
-  <programme start="20230827220000 -0400" stop="20230827230000 -0400" channel="0317">
-    <title lang="es">Los Simpsons</title>
-    <desc lang="es">La comedia de dibujos animados se centra en una familia que vive en la ciudad de Springfield. La cabeza de la familia Simpson es Homero, quien no es un hombre de familia típico, obrero de una planta nuclear, él hace lo mejor para poder liderar a su familia, pero frecuentemente se da cuenta que son ellos los que lo mandan.</desc>
-  </programme>
-  <programme start="20230827230000 -0400" stop="20230828000000 -0400" channel="0317">
-    <title lang="es">Futurama</title>
-    <desc lang="es">Accidentalmente el repartidor de pizza, Fry, se despierta 1000 años en el futuro. Él es recibido por su único descendiente, un científico anciano y débil que es dueño de un servicio de repartos.</desc>
-  </programme>
-  <programme start="20230828000000 -0400" stop="20230828010000 -0400" channel="0317">
-    <title lang="es">Rick and Morty</title>
-    <desc lang="es">Después de haber estado desaparecido durante casi 20 años, Rick Sánchez llega de imprevisto a la puerta de la casa de su hija Beth y se va a vivir con ella y su familia utilizando el garaje como su laboratorio personal.</desc>
-  </programme>
-  <programme start="20230828010000 -0400" stop="20230828020000 -0400" channel="0317">
-    <title lang="es">Bob y Margaret</title>
-    <desc lang="es">Las aventuras animadas de Bob, un neurótico dentista y su esposa Margaret, una pareja británica sin hijos, pero con dos perros llamados William y Elizabeth.</desc>
-  </programme>
-  <programme start="20230828020000 -0400" stop="20230828030000 -0400" channel="0317">
-    <title lang="es">La vida moderna de Rocko</title>
-    <desc lang="es">Rocko es un wallaby que trata con todos los problemas de la vida moderna.</desc>
-  </programme>
-  <programme start="20230828030000 -0400" stop="20230828040000 -0400" channel="0317">
-    <title lang="es">Daria</title>
-    <desc lang="es">La inteligente y sardónica, Daria Morgendorffer, trata de pasar desapercibida en la secundaria de Lawndale y ella está haciendo una excelente labor consiguiéndolo, su profesora de autoestima ni siquiera recuerda su nombre, para Dalia la autoestima no es su problema quien explica francamente que siente baja autoestima por los demás. A ella no le importan los que son populares o ser parte del grupo, como a su hermana, Quinn o la porrista, Brittany, al menos su mejor amiga Jane Lane está disponible cada vez que Daria la necesita para descansar de las masas ignorantes que la rodean.</desc>
-  </programme>
-  <programme start="20230828040000 -0400" stop="20230828060000 -0400" channel="0317">
-    <title lang="es">Replay</title>
-  </programme>
-  <programme start="20230828060000 -0400" stop="20230828070000 -0400" channel="0317">
-    <title lang="es">Los Simpsons</title>
-    <desc lang="es">La comedia de dibujos animados se centra en una familia que vive en la ciudad de Springfield. La cabeza de la familia Simpson es Homero, quien no es un hombre de familia típico, obrero de una planta nuclear, él hace lo mejor para poder liderar a su familia, pero frecuentemente se da cuenta que son ellos los que lo mandan.</desc>
-  </programme>
-  <programme start="20230828070000 -0400" stop="20230828080000 -0400" channel="0317">
-    <title lang="es">Futurama</title>
-    <desc lang="es">Accidentalmente el repartidor de pizza, Fry, se despierta 1000 años en el futuro. Él es recibido por su único descendiente, un científico anciano y débil que es dueño de un servicio de repartos.</desc>
-  </programme>
-  <programme start="20230828080000 -0400" stop="20230828090000 -0400" channel="0317">
-    <title lang="es">Rick and Morty</title>
-    <desc lang="es">Después de haber estado desaparecido durante casi 20 años, Rick Sánchez llega de imprevisto a la puerta de la casa de su hija Beth y se va a vivir con ella y su familia utilizando el garaje como su laboratorio personal.</desc>
-  </programme>
-  <programme start="20230828090000 -0400" stop="20230828100000 -0400" channel="0317">
-    <title lang="es">Bob y Margaret</title>
-    <desc lang="es">Las aventuras animadas de Bob, un neurótico dentista y su esposa Margaret, una pareja británica sin hijos, pero con dos perros llamados William y Elizabeth.</desc>
-  </programme>
-  <programme start="20230828100000 -0400" stop="20230828110000 -0400" channel="0317">
-    <title lang="es">La vida moderna de Rocko</title>
-    <desc lang="es">Rocko es un wallaby que trata con todos los problemas de la vida moderna.</desc>
-  </programme>
-  <programme start="20230828110000 -0400" stop="20230828120000 -0400" channel="0317">
-    <title lang="es">Daria</title>
-    <desc lang="es">La inteligente y sardónica, Daria Morgendorffer, trata de pasar desapercibida en la secundaria de Lawndale y ella está haciendo una excelente labor consiguiéndolo, su profesora de autoestima ni siquiera recuerda su nombre, para Dalia la autoestima no es su problema quien explica francamente que siente baja autoestima por los demás. A ella no le importan los que son populares o ser parte del grupo, como a su hermana, Quinn o la porrista, Brittany, al menos su mejor amiga Jane Lane está disponible cada vez que Daria la necesita para descansar de las masas ignorantes que la rodean.</desc>
-  </programme>
-  <programme start="20230828120000 -0400" stop="20230828140000 -0400" channel="0317">
-    <title lang="es">Replay</title>
-  </programme>
-  <programme start="20230828140000 -0400" stop="20230828150000 -0400" channel="0317">
-    <title lang="es">Los Simpsons</title>
-    <desc lang="es">La comedia de dibujos animados se centra en una familia que vive en la ciudad de Springfield. La cabeza de la familia Simpson es Homero, quien no es un hombre de familia típico, obrero de una planta nuclear, él hace lo mejor para poder liderar a su familia, pero frecuentemente se da cuenta que son ellos los que lo mandan.</desc>
-  </programme>
-  <programme start="20230828150000 -0400" stop="20230828160000 -0400" channel="0317">
-    <title lang="es">Futurama</title>
-    <desc lang="es">Accidentalmente el repartidor de pizza, Fry, se despierta 1000 años en el futuro. Él es recibido por su único descendiente, un científico anciano y débil que es dueño de un servicio de repartos.</desc>
-  </programme>
-  <programme start="20230828160000 -0400" stop="20230828170000 -0400" channel="0317">
-    <title lang="es">Rick and Morty</title>
-    <desc lang="es">Después de haber estado desaparecido durante casi 20 años, Rick Sánchez llega de imprevisto a la puerta de la casa de su hija Beth y se va a vivir con ella y su familia utilizando el garaje como su laboratorio personal.</desc>
-  </programme>
-  <programme start="20230828170000 -0400" stop="20230828180000 -0400" channel="0317">
-    <title lang="es">Bob y Margaret</title>
-    <desc lang="es">Las aventuras animadas de Bob, un neurótico dentista y su esposa Margaret, una pareja británica sin hijos, pero con dos perros llamados William y Elizabeth.</desc>
-  </programme>
-  <programme start="20230828180000 -0400" stop="20230828190000 -0400" channel="0317">
-    <title lang="es">La vida moderna de Rocko</title>
-    <desc lang="es">Rocko es un wallaby que trata con todos los problemas de la vida moderna.</desc>
-  </programme>
-  <programme start="20230828190000 -0400" stop="20230828200000 -0400" channel="0317">
-    <title lang="es">Daria</title>
-    <desc lang="es">La inteligente y sardónica, Daria Morgendorffer, trata de pasar desapercibida en la secundaria de Lawndale y ella está haciendo una excelente labor consiguiéndolo, su profesora de autoestima ni siquiera recuerda su nombre, para Dalia la autoestima no es su problema quien explica francamente que siente baja autoestima por los demás. A ella no le importan los que son populares o ser parte del grupo, como a su hermana, Quinn o la porrista, Brittany, al menos su mejor amiga Jane Lane está disponible cada vez que Daria la necesita para descansar de las masas ignorantes que la rodean.</desc>
-  </programme>
-  <programme start="20230828200000 -0400" stop="20230828220000 -0400" channel="0317">
-    <title lang="es">Replay</title>
-  </programme>
-  <programme start="20230828220000 -0400" stop="20230828230000 -0400" channel="0317">
-    <title lang="es">Los Simpsons</title>
-    <desc lang="es">La comedia de dibujos animados se centra en una familia que vive en la ciudad de Springfield. La cabeza de la familia Simpson es Homero, quien no es un hombre de familia típico, obrero de una planta nuclear, él hace lo mejor para poder liderar a su familia, pero frecuentemente se da cuenta que son ellos los que lo mandan.</desc>
-  </programme>
-  <programme start="20230828230000 -0400" stop="20230829000000 -0400" channel="0317">
-    <title lang="es">Futurama</title>
-    <desc lang="es">Accidentalmente el repartidor de pizza, Fry, se despierta 1000 años en el futuro. Él es recibido por su único descendiente, un científico anciano y débil que es dueño de un servicio de repartos.</desc>
-  </programme>
-  <programme start="20230829000000 -0400" stop="20230829010000 -0400" channel="0317">
-    <title lang="es">Rick and Morty</title>
-    <desc lang="es">Después de haber estado desaparecido durante casi 20 años, Rick Sánchez llega de imprevisto a la puerta de la casa de su hija Beth y se va a vivir con ella y su familia utilizando el garaje como su laboratorio personal.</desc>
-  </programme>
-  <programme start="20230829010000 -0400" stop="20230829020000 -0400" channel="0317">
-    <title lang="es">Bob y Margaret</title>
-    <desc lang="es">Las aventuras animadas de Bob, un neurótico dentista y su esposa Margaret, una pareja británica sin hijos, pero con dos perros llamados William y Elizabeth.</desc>
+  <programme start="20230828200000 -0400" stop="20230829020000 -0400" channel="0317">
+    <title lang="en">Amazon Kids</title>
   </programme>
   <programme start="20230827000000 -0400" stop="20230827060000 -0400" channel="0319">
     <title lang="en">EnerGeek Radio</title>
@@ -27836,5 +28746,77 @@
   <programme start="20230828180000 -0400" stop="20230829000000 -0400" channel="0434">
     <title lang="en">DSports Fight</title>
     <desc lang="en">Información no disponible.</desc>
+  </programme>
+  <programme start="20230827080000 -0400" stop="20230827090000 -0400" channel="0435">
+    <title lang="en">Automovilismo TCR Sudamericano - 2023: El Pinar, Uruguay</title>
+    <desc lang="en">Los mejores momentos de la carrera TCR Sudamericano 2023. Desde el Autódromo Víctor Borrat Fabini, en El Pinar, Uruguay.</desc>
+  </programme>
+  <programme start="20230827090000 -0400" stop="20230827140000 -0400" channel="0435">
+    <title lang="en">European Le Mans Series - Aragón</title>
+    <desc lang="en">Acción del campeonato European Le Mans Series.</desc>
+  </programme>
+  <programme start="20230827140000 -0400" stop="20230827170000 -0400" channel="0435">
+    <title lang="en">IMSA Michelin Pilot Challenge - Road America 120</title>
+    <desc lang="en">Desde Plymouth, Wisconsin.</desc>
+  </programme>
+  <programme start="20230827170000 -0400" stop="20230827190000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Craftsman Truck Series - Clean Harbors 175</title>
+    <desc lang="en">La postemporada de la NASCAR Craftsman Truck Series continúa en la semana 2 con la Clean Harbors 175. Ty Majeski abrió la postemporada con una victoria en la última carrera. Desde la Milwaukee Mile en West Allis, Wisconsin.</desc>
+  </programme>
+  <programme start="20230827190000 -0400" stop="20230827223000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Wawa 250</title>
+    <desc lang="en">Acción de las carreras de NASCAR Xfinity Racing Series.</desc>
+  </programme>
+  <programme start="20230827223000 -0400" stop="20230827233000 -0400" channel="0435">
+    <title lang="en">Automovilismo Serie DTM - Lausitzring, resumen</title>
+    <desc lang="en">Lo más destacado de las carreras del Deutsche Tourenwagen Masters, mejor conocido como DTM, disputado en Alemania.</desc>
+  </programme>
+  <programme start="20230827233000 -0400" stop="20230828000000 -0400" channel="0435">
+    <title lang="en">FastZone</title>
+    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
+  </programme>
+  <programme start="20230828000000 -0400" stop="20230828010000 -0400" channel="0435">
+    <title lang="en">FIM Speedway GP Highlights - Riga, Letonia</title>
+    <desc lang="en">Acción resumida de la temporada Grand Prix en el FIM Speedway.</desc>
+  </programme>
+  <programme start="20230828010000 -0400" stop="20230828020000 -0400" channel="0435">
+    <title lang="en">World Rallycross - Ronda 6: Estering, Alemania</title>
+    <desc lang="en">Todo tipo de eventos Rallycross, incluyendo los campeonatos del mundo.</desc>
+  </programme>
+  <programme start="20230828020000 -0400" stop="20230828033000 -0400" channel="0435">
+    <title lang="en">ADAC GT4 Germany - Lausitzring, carrera 1 - resumen</title>
+    <desc lang="en">Los mejores momentos de la primera carrera en el ADAC GT4 Alemania 2023. Desde el circuito Lausitzring, Schipkau.</desc>
+  </programme>
+  <programme start="20230828033000 -0400" stop="20230828050000 -0400" channel="0435">
+    <title lang="en">ADAC GT4 Germany - Lausitzring, carrera 2 - resumen</title>
+    <desc lang="en">Los mejores momentos de la segunda carrera en el ADAC GT4 Alemania 2023. Desde el circuito Lausitzring, Schipkau.</desc>
+  </programme>
+  <programme start="20230828050000 -0400" stop="20230828070000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Craftsman Truck Series - Clean Harbors 175</title>
+    <desc lang="en">La postemporada de la NASCAR Craftsman Truck Series continúa en la semana 2 con la Clean Harbors 175. Ty Majeski abrió la postemporada con una victoria en la última carrera. Desde la Milwaukee Mile en West Allis, Wisconsin.</desc>
+  </programme>
+  <programme start="20230828070000 -0400" stop="20230828100000 -0400" channel="0435">
+    <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Wawa 250</title>
+    <desc lang="en">Acción de las carreras de NASCAR Xfinity Racing Series.</desc>
+  </programme>
+  <programme start="20230828100000 -0400" stop="20230828103000 -0400" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230828103000 -0400" stop="20230828153000 -0400" channel="0435">
+    <title lang="en">European Le Mans Series - Aragón</title>
+    <desc lang="en">Acción del campeonato European Le Mans Series.</desc>
+  </programme>
+  <programme start="20230828153000 -0400" stop="20230828160000 -0400" channel="0435">
+    <title lang="en">European Rally Championship Highlights - Ronda 7, República Checa</title>
+    <desc lang="en">Lo más destacado del Campeonato de Europa de Rally.</desc>
+  </programme>
+  <programme start="20230828160000 -0400" stop="20230828190000 -0400" channel="0435">
+    <title lang="en">IMSA Michelin Pilot Challenge - Road America 120</title>
+    <desc lang="en">Desde Plymouth, Wisconsin.</desc>
+  </programme>
+  <programme start="20230828190000 -0400" stop="20230828200000 -0400" channel="0435">
+    <title lang="en">Carreras Simuladas - Gran Turismo Nations Cup 2023: Nations Cup (Amsterdam)</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
 </tv>
