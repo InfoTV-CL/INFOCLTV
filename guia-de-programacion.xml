@@ -4975,6 +4975,9 @@
   <programme start="20230915113000 -0300" stop="20230915120000 -0300" channel="0205">
     <title lang="es">Hecho en Alemania</title>
   </programme>
+  <programme start="20230915120000 -0300" stop="20230915120300 -0300" channel="0205">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20230915120300 -0300" stop="20230915123000 -0300" channel="0205">
     <title lang="es">¡Aquí estoy</title>
   </programme>
@@ -15491,56 +15494,9 @@
     <title lang="en">Fútbol Total</title>
     <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.</desc>
   </programme>
-  <programme start="20230914190000 -0300" stop="20230914193000 -0300" channel="0430">
+  <programme start="20230914190000 -0300" stop="20230915070000 -0300" channel="0430">
     <title lang="en">Todo en 30</title>
     <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.</desc>
-  </programme>
-  <programme start="20230914193000 -0300" stop="20230914200000 -0300" channel="0430">
-    <title lang="en">DSports Historias - Goleadas en Copa Sudamericana</title>
-    <desc lang="en">T01  E15 Un recuento de partidos jugados en la historia de la Copa Sudamericana donde un equipo no deja de anotar goles. Temporada:01,Episodio:15.</desc>
-  </programme>
-  <programme start="20230914200000 -0300" stop="20230914210000 -0300" channel="0430">
-    <title lang="en">Más que Fútbol</title>
-    <desc lang="en">Programa conducido por Juan Pablo Varsky, quien nos trae una mirada diferente de la Copa Mundial de la FIFA Catar 2022. Análisis con la más alta tecnología, los goles, las polémicas y contenidos exclusivos.</desc>
-  </programme>
-  <programme start="20230914210000 -0300" stop="20230914213000 -0300" channel="0430">
-    <title lang="en">Directo a Santiago - Sergio "Cachito" Vigil</title>
-    <desc lang="en">Una mirada especial a "Cachito" Vigil, entrenador de la selección chilena femenina de hockey sobre pasto, en preparación a los Juegos Panamericanos 2023, Santiago, Chile.</desc>
-  </programme>
-  <programme start="20230914213000 -0300" stop="20230914220000 -0300" channel="0430">
-    <title lang="en">Directo a Santiago - Johann Herrera</title>
-    <desc lang="en">El judoca chileno Johann Herrera habla sobre su preparación de cara a los Juegos Parapanamericanos de Santiago 2023 a celebrarse en octubre y noviembre.</desc>
-  </programme>
-  <programme start="20230914220000 -0300" stop="20230914230000 -0300" channel="0430">
-    <title lang="en">De fútbol se habla así, Chile</title>
-    <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.</desc>
-  </programme>
-  <programme start="20230914230000 -0300" stop="20230915000000 -0300" channel="0430">
-    <title lang="en">De fútbol se habla así, Chile</title>
-    <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.</desc>
-  </programme>
-  <programme start="20230915000000 -0300" stop="20230915003000 -0300" channel="0430">
-    <title lang="en">Hilos : Del Potro en el US Open - Del Potro en el US Open</title>
-    <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.</desc>
-  </programme>
-  <programme start="20230915003000 -0300" stop="20230915010000 -0300" channel="0430">
-    <title lang="en">DSports Historias - Goleadas en Copa Sudamericana</title>
-    <desc lang="en">T01  E15 Un recuento de partidos jugados en la historia de la Copa Sudamericana donde un equipo no deja de anotar goles. Temporada:01,Episodio:15.</desc>
-  </programme>
-  <programme start="20230915010000 -0300" stop="20230915020000 -0300" channel="0430">
-    <title lang="en">DSports noticias</title>
-    <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
-  </programme>
-  <programme start="20230915020000 -0300" stop="20230915030000 -0300" channel="0430">
-    <title lang="en">Fútbol Total</title>
-    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.</desc>
-  </programme>
-  <programme start="20230915030000 -0300" stop="20230915050000 -0300" channel="0430">
-    <title lang="en">Real Sociedad vs. Granada : Fútbol Español La Liga - Real Sociedad vs. Granada</title>
-    <desc lang="en">Jornada 4 de LaLiga 2023-2024. Desde el estadio Reale Arena. Real Sociedad recibe a Granada.</desc>
-  </programme>
-  <programme start="20230915050000 -0300" stop="20230915070000 -0300" channel="0430">
-    <title lang="en">El chiringuito de jugones</title>
   </programme>
   <programme start="20230915070000 -0300" stop="20230915080000 -0300" channel="0430">
     <title lang="en">DSports noticias</title>
@@ -15550,49 +15506,17 @@
     <title lang="en">Hilos : Del Potro en el US Open - Del Potro en el US Open</title>
     <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.</desc>
   </programme>
-  <programme start="20230915083000 -0300" stop="20230915085000 -0300" channel="0430">
+  <programme start="20230915083000 -0300" stop="20230915090000 -0300" channel="0430">
     <title lang="en">Todo en 30</title>
     <desc lang="en">En treinta minutos el resumen de los mejores momentos de la Copa Mundial de la FIFA Rusia 2018.</desc>
   </programme>
-  <programme start="20230915085000 -0300" stop="20230915110000 -0300" channel="0430">
-    <title lang="en">Copa Davis 2023 - Italia vs. Chile</title>
-    <desc lang="en">Acción de la fase de grupos de las finales de la Copa Davis 2023. Duelo en el Grupo A entre Italia y Chile disputado el 15 de septiembre de 2023 en el Unipol Arena, en Bolonia, Italia.</desc>
-  </programme>
-  <programme start="20230915110000 -0300" stop="20230915130000 -0300" channel="0430">
-    <title lang="en">Copa Davis 2023 - Italia vs. Chile</title>
-    <desc lang="en">Acción de la fase de grupos de las finales de la Copa Davis 2023. Duelo en el Grupo A entre Italia y Chile disputado el 15 de septiembre de 2023 en el Unipol Arena, en Bolonia, Italia.</desc>
-  </programme>
-  <programme start="20230915130000 -0300" stop="20230915150000 -0300" channel="0430">
-    <title lang="en">Copa Davis 2023 - Italia vs. Chile</title>
-    <desc lang="en">Acción de la fase de grupos de las finales de la Copa Davis 2023. Duelo en el Grupo A entre Italia y Chile disputado el 15 de septiembre de 2023 en el Unipol Arena, en Bolonia, Italia.</desc>
-  </programme>
-  <programme start="20230915150000 -0300" stop="20230915153000 -0300" channel="0430">
-    <title lang="en">Hilos : Del Potro en el US Open - Del Potro en el US Open</title>
-    <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.</desc>
-  </programme>
-  <programme start="20230915153000 -0300" stop="20230915160000 -0300" channel="0430">
-    <title lang="en">DSports Historias - Manu Ginóbili: The last dance en la selección</title>
-    <desc lang="en">T01  E21 El más ganador en la historia del básquetbol argentino: 4 anillos de la NBA, una medalla de oro y bronce olímpico, una medalla de plata mundialista, campeón y MVP de la Euroliga. Temporada:01,Episodio:21.</desc>
-  </programme>
-  <programme start="20230915160000 -0300" stop="20230915170000 -0300" channel="0430">
-    <title lang="en">Lo mejor de Dsports Fight</title>
-    <desc lang="en">Repaso de los mejores momentos de DSports Fight, la casa de los deportes de contacto.</desc>
-  </programme>
-  <programme start="20230915170000 -0300" stop="20230915180000 -0300" channel="0430">
-    <title lang="en">DSports noticias</title>
-    <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
-  </programme>
-  <programme start="20230915180000 -0300" stop="20230915190000 -0300" channel="0430">
-    <title lang="en">Fútbol Total</title>
-    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.</desc>
-  </programme>
-  <programme start="20230915190000 -0300" stop="20230915193000 -0300" channel="0430">
-    <title lang="en">Todo en 30</title>
-    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.</desc>
+  <programme start="20230915090000 -0300" stop="20230915193000 -0300" channel="0430">
+    <title lang="en">São Paulo vs. Liga de Quito : Fútbol CONMEBOL Sudamericana - São Paulo vs. Liga de Quito</title>
+    <desc lang="en">Acción en la Copa Sudamericana de Fútbol 2023. Encuentro de cuartos de final entre Sao Paulo contra Quito.</desc>
   </programme>
   <programme start="20230915193000 -0300" stop="20230915200000 -0300" channel="0430">
-    <title lang="en">Hilos : IDV y Liga de Conquistadores de América - IDV y Liga de Conquistadores de América</title>
-    <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.</desc>
+    <title lang="en">DSports Historias - Goleadas en Copa Sudamericana</title>
+    <desc lang="en">T01  E15 Un recuento de partidos jugados en la historia de la Copa Sudamericana donde un equipo no deja de anotar goles. Temporada:01,Episodio:15.</desc>
   </programme>
   <programme start="20230914020000 -0300" stop="20230914030000 -0300" channel="0431">
     <title lang="es">DSports noticias</title>
@@ -17304,71 +17228,71 @@
     <sub-title lang="es">Las investigadoras</sub-title>
     <desc lang="es">Hallan muerto a un adolescente desaparecido de Atlanta. En busca de pistas, la detective Benton rastrea la última actividad del adolescente en internet. En Cincinnati, la detective Mitsch investiga el caso de un joven asesinado por mirar mal a alguien.</desc>
   </programme>
+  <programme start="20230914030700 -0300" stop="20230914035000 -0300" channel="0603">
+    <title lang="es">Vender para comprar</title>
+    <sub-title lang="es">Vender para comprar</sub-title>
+    <desc lang="es">Joe y Lana quieren lo mejor para sus hijos, pero el costo de vida en la ciudad es muy alto. La pareja está desesperada por mudarse a las afueras, pero tendrán que renovar su casa. El presupuesto que se necesita para hacerlo los tomará por sorpresa.</desc>
+  </programme>
   <programme start="20230914022400 -0300" stop="20230914030800 -0300" channel="0603">
     <title lang="es">Las investigadoras</title>
     <sub-title lang="es">Las investigadoras</sub-title>
     <desc lang="es">Un testigo y un sospechoso tienen dos versiones distintas pero creíbles de la misma historia. La detective Jenny Luke debe averiguar quién dice la verdad sobre la noche en que asesinaron a un hombre en la puerta de un bar.</desc>
   </programme>
-  <programme start="20230914030800 -0300" stop="20230914035100 -0300" channel="0603">
-    <title lang="es">Vender para comprar</title>
-    <sub-title lang="es">Vender para comprar</sub-title>
-    <desc lang="es">Joe y Lana quieren lo mejor para sus hijos, pero el costo de vida en la ciudad es muy alto. La pareja está desesperada por mudarse a las afueras, pero tendrán que renovar su casa. El presupuesto que se necesita para hacerlo los tomará por sorpresa.</desc>
-  </programme>
-  <programme start="20230914035100 -0300" stop="20230914043400 -0300" channel="0603">
+  <programme start="20230914035000 -0300" stop="20230914043400 -0300" channel="0603">
     <title lang="es">Vender para comprar</title>
     <sub-title lang="es">Vender para comprar</sub-title>
     <desc lang="es">Kim y Pete están buscando mudarse a un espacio más amplio para sus tres hijos, para que sea más adecuado como hogar de familia. Pero es probable que tengan que mudarse más lejos de lo que esperaban.</desc>
   </programme>
-  <programme start="20230914043400 -0300" stop="20230914051700 -0300" channel="0603">
+  <programme start="20230914043400 -0300" stop="20230914051600 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">La casa de una familia solía ser un espacio de entretenimiento para sus amigos, pero ahora quedó anticuada. Drew y Jonathan trabajan en ese espacio para crear un hogar perfecto para entretener y criar una familia.</desc>
   </programme>
-  <programme start="20230914051700 -0300" stop="20230914060000 -0300" channel="0603">
+  <programme start="20230914051600 -0300" stop="20230914060000 -0300" channel="0603">
     <title lang="es">Hermanos a la obra</title>
     <sub-title lang="es">Hermanos a la obra</sub-title>
     <desc lang="es">Luego de pasar de una propiedad rentada desastrosa a la otra, Katie y Mark están listos para tener su primera casa, y en este programa los ayudarán a lograrlo.</desc>
   </programme>
-  <programme start="20230914060000 -0300" stop="20230914062400 -0300" channel="0603">
+  <programme start="20230914060000 -0300" stop="20230914062200 -0300" channel="0603">
     <title lang="es">Nuestro hogar en México</title>
     <sub-title lang="es">Nuestro hogar en México</sub-title>
     <desc lang="es">Una pareja comprometida con trabajos exigentes busca un estilo de vida más relajado en Tulum, México. Sin embargo, faltando solo un mes para su boda, la futura novia está preocupada por el precio de sus altos estándares.</desc>
   </programme>
-  <programme start="20230914062400 -0300" stop="20230914071000 -0300" channel="0603">
+  <programme start="20230914062200 -0300" stop="20230914070500 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">Una familia ama su hogar y no quisiera dejar su comunidad, pero mientras que los niños crecen la casa empieza a sentirse pequeña. Jonathan y Drew trabajan en la casa para que se adapte a sus necesidades.</desc>
   </programme>
-  <programme start="20230914071000 -0300" stop="20230914075400 -0300" channel="0603">
+  <programme start="20230914070500 -0300" stop="20230914075000 -0300" channel="0603">
     <title lang="es">Clínica de la piel</title>
     <sub-title lang="es">Clínica de la piel</sub-title>
     <desc lang="es">Rae viene a ver a la Dra. Emma con un gran crecimiento muy extraño e incómodo justo encima de sus glúteos. Vicki tiene un gran bulto que sigue creciendo.</desc>
   </programme>
-  <programme start="20230914075400 -0300" stop="20230914083900 -0300" channel="0603">
+  <programme start="20230914075000 -0300" stop="20230914083500 -0300" channel="0603">
     <title lang="es">Clínica de la piel</title>
     <sub-title lang="es">Clínica de la piel</sub-title>
     <desc lang="es">Emma recibe al paciente Antony, quien tiene enormes bultos en las orejas. Además, la confianza de Sam sufrió un enorme revés cuando le creció un bulto en medio de la frente.</desc>
   </programme>
-  <programme start="20230914083900 -0300" stop="20230914092300 -0300" channel="0603">
+  <programme start="20230914083500 -0300" stop="20230914091900 -0300" channel="0603">
     <title lang="es">Clínica de la piel</title>
     <sub-title lang="es">Clínica de la piel</sub-title>
-    <desc lang="es">Becky tiene unas horribles ronchas con forma de volcán por todo el cuerpo. Y Alan, de 80 años, está desesperado por deshacerse de un enorme bulto causado por una mordedura de camello.</desc>
+    <desc lang="es">Becky tiene unas horribles ronchas con forma de volcán por todo el cuerpo. Alan, de 80 años, está desesperado por deshacerse de un enorme bulto causado por una mordedura de camello.</desc>
   </programme>
-  <programme start="20230914092300 -0300" stop="20230914101300 -0300" channel="0603">
+  <programme start="20230914091900 -0300" stop="20230914100900 -0300" channel="0603">
     <title lang="es">Clínica de la piel</title>
     <sub-title lang="es">Clínica de la piel</sub-title>
     <desc lang="es">Caroline sufre un crecimiento excesivo de vello en toda la cara. Y, unos extraños bultos en los testículos de Antony le han impedido tener una relación.</desc>
   </programme>
-  <programme start="20230914101300 -0300" stop="20230914110700 -0300" channel="0603">
+  <programme start="20230914100900 -0300" stop="20230914110700 -0300" channel="0603">
     <title lang="es">Clínica de la piel</title>
     <sub-title lang="es">Clínica de la piel</sub-title>
     <desc lang="es">ldrin padece una enfermedad que le hace sufrir constantemente, lo que le hace estar malhumorado y le hace sentir que no está siendo un buen padre para su hijo. La Dra. Emma le receta algunos medicamentos.</desc>
   </programme>
-  <programme start="20230914110700 -0300" stop="20230914111200 -0300" channel="0603">
+  <programme start="20230914110700 -0300" stop="20230914111100 -0300" channel="0603">
     <title lang="es">Un nuevo plan</title>
     <desc lang="es">\n.</desc>
   </programme>
-  <programme start="20230914111200 -0300" stop="20230914130000 -0300" channel="0603">
+  <programme start="20230914111100 -0300" stop="20230914130000 -0300" channel="0603">
     <title lang="es">Todo en 90 días: antes del viaje</title>
     <sub-title lang="es">Todo en 90 días: antes del viaje</sub-title>
     <desc lang="es">Angela se enfrenta a más problemas en relación a Michael. Darcey se prepara para conocer a su nuevo hombre británico. Ben teme que su enamorada de Kenia no esté lista para convertirse en madrastra. Avery conoce a Omar.</desc>
@@ -17378,75 +17302,75 @@
     <sub-title lang="es">Las renovadoras</sub-title>
     <desc lang="es">Una pareja que dirige una organización sin fines de lucro que beneficia al vecindario de Garfield Park contacta a Mina y Karen para renovar una de sus propiedades en ruinas. El equipo debe trabajar en conjunto para ayudar a un artista.</desc>
   </programme>
-  <programme start="20230914135400 -0300" stop="20230914144800 -0300" channel="0603">
+  <programme start="20230914135400 -0300" stop="20230914144900 -0300" channel="0603">
     <title lang="es">Las renovadoras</title>
     <sub-title lang="es">Las renovadoras</sub-title>
     <desc lang="es">Mina y su esposo, Steve, deciden que es hora de renovar y vender una propiedad para comenzar un fondo universitario para su hijo. Karen y Mina planean crear un refugio lleno de elegante mármol y colores urbanos.</desc>
   </programme>
-  <programme start="20230914144800 -0300" stop="20230914154200 -0300" channel="0603">
+  <programme start="20230914144900 -0300" stop="20230914154300 -0300" channel="0603">
     <title lang="es">Las renovadoras</title>
     <sub-title lang="es">Las renovadoras</sub-title>
     <desc lang="es">Mina y Karen buscan convertir el viejo garaje de una de sus propiedades en una pequeña casa para el hermano de Mina, Tad. Con problemas de cimientos y una misteriosa tubería rota, esta pequeña casa tiene problemas grandes.</desc>
   </programme>
-  <programme start="20230914154200 -0300" stop="20230914163600 -0300" channel="0603">
+  <programme start="20230914154300 -0300" stop="20230914163700 -0300" channel="0603">
     <title lang="es">Las renovadoras</title>
     <sub-title lang="es">Las renovadoras</sub-title>
     <desc lang="es">Mina y Karen compran un terreno baldío y lo que comienza como una nueva construcción se convierte rápidamente en una construcción para los amigos de Mina. Sin embargo, un problema en las tuberías puede requerir más tiempo y dinero.</desc>
   </programme>
-  <programme start="20230914163600 -0300" stop="20230914173000 -0300" channel="0603">
+  <programme start="20230914163700 -0300" stop="20230914173100 -0300" channel="0603">
     <title lang="es">Las renovadoras</title>
     <sub-title lang="es">Las renovadoras</sub-title>
     <desc lang="es">Mina y Karen están de regreso en Old Southside, donde compraron la casa de unos acumuladores que está llena de basura y que oculta daños causados por el fuego. Pero, a medida que avanza la demolición, descubren más problemas.</desc>
   </programme>
-  <programme start="20230914173000 -0300" stop="20230914182400 -0300" channel="0603">
+  <programme start="20230914173100 -0300" stop="20230914182700 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">Una familia piensa que su casa de la década de 1960 es un tesoro lleno de encanto, pero su diseño poco práctico y su cocina muestran su antigüedad. Drew y Jonathan combinan elementos tradicionales y modernos para convertirla en un hogar acogedor.</desc>
   </programme>
-  <programme start="20230914182400 -0300" stop="20230914191800 -0300" channel="0603">
+  <programme start="20230914182700 -0300" stop="20230914192200 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">La casa de una familia ha albergado reuniones durante más de 20 años, pero el diseño irregular ya no es funcional para cuatro adultos. Drew y Jonathan quieren crear una casa moderna y espaciosa para llevar a esta familia a la próxima generación.</desc>
   </programme>
-  <programme start="20230914191800 -0300" stop="20230914201200 -0300" channel="0603">
+  <programme start="20230914192200 -0300" stop="20230914201800 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">Una pareja se mudó 14 veces en 15 años, pero están listos para instalarse en su casa de un piso con algunas peculiaridades de los años 70. Drew y Jonathan actualizan el extraño plano y el dormitorio principal para hacer realidad sus sueños para siempre.</desc>
   </programme>
-  <programme start="20230914201200 -0300" stop="20230914210600 -0300" channel="0603">
+  <programme start="20230914201800 -0300" stop="20230914211400 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">Una familia tiene décadas de recuerdos en su hogar. Están listos para un cambio debido a los detalles de la década de 1980 y los niveles de piso desiguales. Drew y Jonathan transforman la cocina y los espacios habitables para dar nueva vida a su hogar.</desc>
   </programme>
-  <programme start="20230914210600 -0300" stop="20230914220000 -0300" channel="0603">
+  <programme start="20230914211400 -0300" stop="20230914221000 -0300" channel="0603">
     <title lang="es">Remodelaciones con celebridades</title>
     <sub-title lang="es">Remodelaciones con celebridades</sub-title>
     <desc lang="es">Estrellas de Hollywood expresan su gratitud a las personas que han impactado sus vidas sorprendiéndo.</desc>
   </programme>
-  <programme start="20230914220000 -0300" stop="20230914225400 -0300" channel="0603">
+  <programme start="20230914221000 -0300" stop="20230914230600 -0300" channel="0603">
     <title lang="es">Remodelaciones con celebridades</title>
     <sub-title lang="es">Remodelaciones con celebridades</sub-title>
     <desc lang="es">La superestrella de la pantalla y el escenario, Kristin Chenoweth, recluta a Jonathan y Drew para regalar a sus administradores una remodelación de lujo. Kristen los considera parte de su familia y hará lo necesario para darles una sorpresa inolvidable.</desc>
   </programme>
-  <programme start="20230914225400 -0300" stop="20230914234800 -0300" channel="0603">
+  <programme start="20230914230600 -0300" stop="20230914234800 -0300" channel="0603">
     <title lang="es">Vívala o véndala</title>
     <sub-title lang="es">Vívala o véndala</sub-title>
     <desc lang="es">Una pareja casada con dos hijos adolescentes vive en un hogar que ha estado causando tensión y estrés. Uno tiene un apego sentimental y cree que Hilary puede transformar el espacio; el otro no puede esperar a que David les encuentre un nuevo lugar.</desc>
   </programme>
-  <programme start="20230914234800 -0300" stop="20230915004200 -0300" channel="0603">
+  <programme start="20230914234800 -0300" stop="20230915004800 -0300" channel="0603">
     <title lang="es">El hotel de Trixie</title>
     <desc lang="es">Acompañamos a Trixie Mattel y su novio David Silver, quienes compran un motel en ruinas en Palm Springs, California, y lo remodelan basándose en una estética retro-kitsh. Un viaje al diseño, la refacción y a este nuevo paraíso drag.</desc>
   </programme>
-  <programme start="20230914234800 -0300" stop="20230915004200 -0300" channel="0603">
+  <programme start="20230914234800 -0300" stop="20230915004800 -0300" channel="0603">
     <title lang="es">El hotel de Trixie</title>
     <desc lang="es">Acompañamos a Trixie Mattel y su novio David Silver, quienes compran un motel en ruinas en Palm Springs, California, y lo remodelan basándose en una estética retro-kitsh. Un viaje al diseño, la refacción y a este nuevo paraíso drag.</desc>
   </programme>
-  <programme start="20230915004200 -0300" stop="20230915013400 -0300" channel="0603">
+  <programme start="20230915004800 -0300" stop="20230915014100 -0300" channel="0603">
     <title lang="es">Especialistas en pies</title>
     <sub-title lang="es">Especialistas en pies</sub-title>
     <desc lang="es">El Dr. Ebonie opera a una mujer que caminó con una pierna rota durante 10 años. Luego, el Dr. Brad se muda a Nueva York y su primer paciente tiene juanetes del tamaño de pelotas de golf. Además, la Dra. Sarah conoce a un hombre que tiene un dedo del pie en su mano.</desc>
   </programme>
-  <programme start="20230915013400 -0300" stop="20230915022400 -0300" channel="0603">
+  <programme start="20230915014100 -0300" stop="20230915022400 -0300" channel="0603">
     <title lang="es">Especialistas en pies</title>
     <sub-title lang="es">Especialistas en pies</sub-title>
     <desc lang="es">El Dr. Brad atiende a un hombre con un pie con forma de tiburón martillo. Un hombre que nunca se ha lavado los pies sorprende al Dr. Ebonie. La Dra. Sarah elimina un crecimiento que parece un gusano en el dedo del pie de una mujer.</desc>
@@ -17461,12 +17385,12 @@
     <sub-title lang="es">Amor fatal</sub-title>
     <desc lang="es">A Melissa le espera un futuro brillante cuando se encuentra con su amor de la secundaria, Robert Burton. Pero cuando trata de seguir sus ambiciones, él se torna posesivo, y su sueño adolescente se convierte en una pesadilla.</desc>
   </programme>
-  <programme start="20230915035100 -0300" stop="20230915043400 -0300" channel="0603">
+  <programme start="20230915035100 -0300" stop="20230915043300 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">La casa retro de una pareja perdió su encanto después de vivir allí nueve años con sus gemelos. Drew y Jonathan renuevan la entrada, la sala de estar, el comedor y la cocina.</desc>
   </programme>
-  <programme start="20230915043400 -0300" stop="20230915051700 -0300" channel="0603">
+  <programme start="20230915043300 -0300" stop="20230915051700 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">Una familia ama su hogar y no quisiera dejar su comunidad, pero mientras que los niños crecen la casa empieza a sentirse pequeña. Jonathan y Drew trabajan en la casa para que se adapte a sus necesidades.</desc>
