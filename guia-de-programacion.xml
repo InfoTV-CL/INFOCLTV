@@ -801,7 +801,7 @@
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0159">
-    <display-name lang="es">Ufrovisión - La Araucanía</display-name>
+    <display-name lang="en">Ufrovisión - La Araucanía</display-name>
     <icon src="https://i.ibb.co/Hpdht54/0159.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
@@ -11869,22 +11869,6 @@
     <title lang="en">Paka-Paka</title>
     <desc lang="en">Programación infantil.</desc>
   </programme>
-  <programme start="20230916000000 -0300" stop="20230916060000 -0300" channel="0312">
-    <title lang="en">Paka-Paka</title>
-    <desc lang="en">Programación infantil.</desc>
-  </programme>
-  <programme start="20230916060000 -0300" stop="20230916120000 -0300" channel="0312">
-    <title lang="en">Paka-Paka</title>
-    <desc lang="en">Programación infantil.</desc>
-  </programme>
-  <programme start="20230916120000 -0300" stop="20230916180000 -0300" channel="0312">
-    <title lang="en">Paka-Paka</title>
-    <desc lang="en">Programación infantil.</desc>
-  </programme>
-  <programme start="20230916180000 -0300" stop="20230917000000 -0300" channel="0312">
-    <title lang="en">Paka-Paka</title>
-    <desc lang="en">Programación infantil.</desc>
-  </programme>
   <programme start="20230915003000 -0300" stop="20230915010000 -0300" channel="0310">
     <title lang="es">Noches de ensueño</title>
   </programme>
@@ -12029,8 +12013,8 @@
   <programme start="20230916073000 -0300" stop="20230916080000 -0300" channel="0310">
     <title lang="es">El momento de los buenos días</title>
   </programme>
-  <programme start="20230916120000 -0300" stop="20230916123000 -0300" channel="0310">
-    <title lang="es">A bailar</title>
+  <programme start="20230916123000 -0300" stop="20230916130000 -0300" channel="0310">
+    <title lang="es">La hora del arte, la actividad y la música</title>
   </programme>
   <programme start="20230916143000 -0300" stop="20230916150000 -0300" channel="0310">
     <title lang="es">Canciones y rimas y otras historias</title>
@@ -15251,133 +15235,92 @@
     <title lang="en">Todo en 30</title>
     <desc lang="en">En treinta minutos el resumen de los mejores momentos de la Copa Mundial de la FIFA Rusia 2018.</desc>
   </programme>
-  <programme start="20230915130000 -0300" stop="20230915150000 -0300" channel="0430">
-    <title lang="en">Copa Davis 2023 - Italia vs. Chile</title>
-    <desc lang="en">Acción de la fase de grupos de las finales de la Copa Davis 2023. Duelo en el Grupo A entre Italia y Chile disputado el 15 de septiembre de 2023 en el Unipol Arena, en Bolonia, Italia.</desc>
-  </programme>
-  <programme start="20230915150000 -0300" stop="20230915153000 -0300" channel="0430">
-    <title lang="en">Hilos : Del Potro en el US Open - Del Potro en el US Open</title>
-    <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.</desc>
-  </programme>
   <programme start="20230915153000 -0300" stop="20230915160000 -0300" channel="0430">
-    <title lang="en">DSports Historias - Manu Ginóbili: The last dance en la selección</title>
-    <desc lang="en">T01  E21 El más ganador en la historia del básquetbol argentino: 4 anillos de la NBA, una medalla de oro y bronce olímpico, una medalla de plata mundialista, campeón y MVP de la Euroliga. Temporada:01,Episodio:21.</desc>
+    <title lang="en">DSports Historias - Goleadas en Copa Sudamericana</title>
   </programme>
   <programme start="20230915160000 -0300" stop="20230915170000 -0300" channel="0430">
-    <title lang="en">Lo mejor de Dsports Fight</title>
-    <desc lang="en">Repaso de los mejores momentos de DSports Fight, la casa de los deportes de contacto.</desc>
+    <title lang="en">Más que Fútbol</title>
   </programme>
-  <programme start="20230915170000 -0300" stop="20230915180000 -0300" channel="0430">
-    <title lang="en">DSports noticias</title>
-    <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+  <programme start="20230915170000 -0300" stop="20230915173000 -0300" channel="0430">
+    <title lang="en">Directo a Santiago - Sergio &amp;quot;Cachito&amp;quot; Vigil</title>
+  </programme>
+  <programme start="20230915173000 -0300" stop="20230915180000 -0300" channel="0430">
+    <title lang="en">Directo a Santiago - Johann Herrera</title>
   </programme>
   <programme start="20230915180000 -0300" stop="20230915190000 -0300" channel="0430">
-    <title lang="en">Fútbol Total</title>
-    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.</desc>
+    <title lang="en">De fútbol se habla así, Chile</title>
   </programme>
-  <programme start="20230915190000 -0300" stop="20230915193000 -0300" channel="0430">
-    <title lang="en">Todo en 30</title>
-    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.</desc>
+  <programme start="20230915190000 -0300" stop="20230915200000 -0300" channel="0430">
+    <title lang="en">De fútbol se habla así, Chile</title>
   </programme>
-  <programme start="20230915193000 -0300" stop="20230915200000 -0300" channel="0430">
-    <title lang="en">DSports Historias - Semifinales Copa Sudamericana 2019</title>
-    <desc lang="en">T01  E01 Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos. Temporada:01,Episodio:01.</desc>
+  <programme start="20230915200000 -0300" stop="20230915203000 -0300" channel="0430">
+    <title lang="en">Hilos : Del Potro en el US Open - Del Potro en el US Open</title>
   </programme>
-  <programme start="20230915200000 -0300" stop="20230915210000 -0300" channel="0430">
-    <title lang="en">Marca femenina</title>
-    <desc lang="en">Actualidad del fútbol femenino en el mundo. Una mirada distinta y profesional para analizar el juego de las mujeres que salen a la cancha y conquistan, cada jornada, más fanáticos en sus distintas categorías.</desc>
+  <programme start="20230915203000 -0300" stop="20230915210000 -0300" channel="0430">
+    <title lang="en">DSports Historias - Goleadas en Copa Sudamericana</title>
   </programme>
   <programme start="20230915210000 -0300" stop="20230915220000 -0300" channel="0430">
-    <title lang="en">FIFA Women's World Cup 2023 - Tournament Review Film</title>
-    <desc lang="en">Repaso de los mejores momentos en la Copa Mundial Femenina de la FIFA 2023 que se celebra en Australia y Nueva Zelanda.</desc>
+    <title lang="en">DSports noticias</title>
   </programme>
   <programme start="20230915220000 -0300" stop="20230915230000 -0300" channel="0430">
-    <title lang="en">Más que Fútbol Chile</title>
-    <desc lang="en">Programa estelar con un completo análisis de la actualidad del futbol nacional a cargo de Juan Cristóbal Guarello y Victor Tigre Cruces. Con entrevistas a los protagonistas de cada fecha, y revisión de los goles nacionales y de las principales ligas internacionales.</desc>
-  </programme>
-  <programme start="20230915230000 -0300" stop="20230916000000 -0300" channel="0430">
-    <title lang="en">Más que Fútbol Chile</title>
-    <desc lang="en">Programa estelar con un completo análisis de la actualidad del futbol nacional a cargo de Juan Cristóbal Guarello y Victor Tigre Cruces. Con entrevistas a los protagonistas de cada fecha, y revisión de los goles nacionales y de las principales ligas internacionales.</desc>
-  </programme>
-  <programme start="20230916000000 -0300" stop="20230916010000 -0300" channel="0430">
-    <title lang="en">DSports Básquet</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916010000 -0300" stop="20230916020000 -0300" channel="0430">
-    <title lang="en">DSports noticias</title>
-    <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
-  </programme>
-  <programme start="20230916020000 -0300" stop="20230916030000 -0300" channel="0430">
     <title lang="en">Fútbol Total</title>
-    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.</desc>
   </programme>
-  <programme start="20230916030000 -0300" stop="20230916050000 -0300" channel="0430">
-    <title lang="en">Girona vs. Las Palmas : Fútbol Español La Liga - Girona vs. Las Palmas</title>
-    <desc lang="en">Jornada 4 de LaLiga 2023-2024. Desde el estadio Montilivi. Girona recibe a Las Palmas.</desc>
+  <programme start="20230915230000 -0300" stop="20230916010000 -0300" channel="0430">
+    <title lang="en">Real Sociedad vs. Granada : Fútbol Español La Liga - Real Sociedad vs.</title>
   </programme>
-  <programme start="20230916050000 -0300" stop="20230916073000 -0300" channel="0430">
-    <title lang="en">Copa Mundial FIBA Masculino 2023 - Final: Teams TBA</title>
-    <desc lang="en">Desde Mall of Asia Arena en Pasay, Manila, Filipinas.</desc>
+  <programme start="20230916010000 -0300" stop="20230916030000 -0300" channel="0430">
+    <title lang="en">El chiringuito de jugones</title>
   </programme>
-  <programme start="20230916073000 -0300" stop="20230916080000 -0300" channel="0430">
-    <title lang="en">DSports Historias - Messi vs. Cristiano, la génesis</title>
-    <desc lang="en">T01  E23 Se presenta la rivalidad entre Lionel Messi y Cristiano Ronaldo en el fútbol para determinar a lo largo de los años quién es el mejor jugador del mundo. Temporada:01,Episodio:23.</desc>
+  <programme start="20230916030000 -0300" stop="20230916040000 -0300" channel="0430">
+    <title lang="en">DSports noticias</title>
   </programme>
-  <programme start="20230916080000 -0300" stop="20230916090000 -0300" channel="0430">
+  <programme start="20230916040000 -0300" stop="20230916043000 -0300" channel="0430">
+    <title lang="en">Hilos : Del Potro en el US Open - Del Potro en el US Open</title>
+  </programme>
+  <programme start="20230916043000 -0300" stop="20230916045000 -0300" channel="0430">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20230916045000 -0300" stop="20230916070000 -0300" channel="0430">
+    <title lang="en">Copa Davis 2023 - Italia vs. Chile</title>
+  </programme>
+  <programme start="20230916070000 -0300" stop="20230916090000 -0300" channel="0430">
+    <title lang="en">Copa Davis 2023 - Italia vs. Chile</title>
+  </programme>
+  <programme start="20230916090000 -0300" stop="20230916110000 -0300" channel="0430">
+    <title lang="en">Copa Davis 2023 - Italia vs. Chile</title>
+  </programme>
+  <programme start="20230916110000 -0300" stop="20230916113000 -0300" channel="0430">
+    <title lang="en">Hilos : Del Potro en el US Open - Del Potro en el US Open</title>
+  </programme>
+  <programme start="20230916113000 -0300" stop="20230916120000 -0300" channel="0430">
+    <title lang="en">DSports Historias - Manu Ginóbili: The last dance en la selección</title>
+  </programme>
+  <programme start="20230916120000 -0300" stop="20230916130000 -0300" channel="0430">
+    <title lang="en">Lo mejor de Dsports Fight</title>
+  </programme>
+  <programme start="20230916130000 -0300" stop="20230916140000 -0300" channel="0430">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20230916140000 -0300" stop="20230916150000 -0300" channel="0430">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20230916150000 -0300" stop="20230916153000 -0300" channel="0430">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20230916153000 -0300" stop="20230916160000 -0300" channel="0430">
+    <title lang="en">DSports Historias - Semifinales Copa Sudamericana 2019</title>
+  </programme>
+  <programme start="20230916160000 -0300" stop="20230916170000 -0300" channel="0430">
     <title lang="en">Marca femenina</title>
-    <desc lang="en">Actualidad del fútbol femenino en el mundo. Una mirada distinta y profesional para analizar el juego de las mujeres que salen a la cancha y conquistan, cada jornada, más fanáticos en sus distintas categorías.</desc>
-  </programme>
-  <programme start="20230916090000 -0300" stop="20230916093000 -0300" channel="0430">
-    <title lang="en">La previa de La Liga</title>
-    <desc lang="en">Análisis previo a una nueva jornada de la apasionante Liga española de fútbol.</desc>
-  </programme>
-  <programme start="20230916093000 -0300" stop="20230916094500 -0300" channel="0430">
-    <title lang="en">LaLiga World</title>
-    <desc lang="en">Reportajes y entrevistas relacionados con LaLiga. El lado más íntimo de los jugadores, las opiniones de aficionados, con una muestra de otra cara del fútbol español.</desc>
-  </programme>
-  <programme start="20230916094500 -0300" stop="20230916101000 -0300" channel="0430">
-    <title lang="en">La previa del partido</title>
-    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.</desc>
-  </programme>
-  <programme start="20230916101000 -0300" stop="20230916121500 -0300" channel="0430">
-    <title lang="en">Valencia vs. Atlético Madrid : Fútbol Español La Liga - Valencia vs. Atlético Madrid</title>
-    <desc lang="en">Acción de la jornada 5 de LaLiga 2023-2024. Desde el estadio Mestalla. Valencia recibe a Atlético Madrid.</desc>
-  </programme>
-  <programme start="20230916121500 -0300" stop="20230916122500 -0300" channel="0430">
-    <title lang="en">La previa del partido</title>
-    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.</desc>
-  </programme>
-  <programme start="20230916122500 -0300" stop="20230916143000 -0300" channel="0430">
-    <title lang="en">Celta de Vigo vs. Mallorca : Fútbol Español La Liga - Celta de Vigo vs. Mallorca</title>
-    <desc lang="en">Acción de la jornada 5 de LaLiga 2023-2024. Desde el estadio Balaidos. Celta de Vigo recibe a Mallorca.</desc>
-  </programme>
-  <programme start="20230916143000 -0300" stop="20230916163000 -0300" channel="0430">
-    <title lang="en">Valencia vs. Atlético Madrid : Fútbol Español La Liga - Valencia vs. Atlético Madrid</title>
-    <desc lang="en">Acción de la jornada 5 de LaLiga 2023-2024. Desde el estadio Mestalla. Valencia recibe a Atlético Madrid.</desc>
-  </programme>
-  <programme start="20230916163000 -0300" stop="20230916170000 -0300" channel="0430">
-    <title lang="en">Magazine Conmebol Sudamericana: Semifinales, ida</title>
-    <desc lang="en">Toda la acción de los partidos correspondientes a la ida de la semifinal del torneo continental.</desc>
   </programme>
   <programme start="20230916170000 -0300" stop="20230916180000 -0300" channel="0430">
-    <title lang="en">DSports noticias</title>
-    <desc lang="en">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+    <title lang="en">FIFA Women&amp;apos;s World Cup 2023 - Tournament Review Film</title>
   </programme>
-  <programme start="20230916180000 -0300" stop="20230916183000 -0300" channel="0430">
-    <title lang="en">DSports Historias - Messi vs. Cristiano, la génesis</title>
-    <desc lang="en">T01  E23 Se presenta la rivalidad entre Lionel Messi y Cristiano Ronaldo en el fútbol para determinar a lo largo de los años quién es el mejor jugador del mundo. Temporada:01,Episodio:23.</desc>
+  <programme start="20230916180000 -0300" stop="20230916190000 -0300" channel="0430">
+    <title lang="en">Más que Fútbol Chile</title>
   </programme>
-  <programme start="20230916183000 -0300" stop="20230916190000 -0300" channel="0430">
-    <title lang="en">DSports Historias - Messi vs. Cristiano, temporada 2009/2010</title>
-    <desc lang="en">T01  E24 Lo mejor de la carrera deportiva y lo más destacado de los jugadores Lionel Messi y Cristiano Ronaldo. Temporada:01,Episodio:24.</desc>
-  </programme>
-  <programme start="20230916190000 -0300" stop="20230916193000 -0300" channel="0430">
-    <title lang="en">DSports Historias - Messi blaugrana: Hat-trick a Real Madrid 2013/14</title>
-    <desc lang="en">T01  E22 Se presentan las mejores actuaciones de Lionel Messi con FC Barcelona en LaLiga 2013-2014 ante Real Madrid. Temporada:01,Episodio:22.</desc>
-  </programme>
-  <programme start="20230916193000 -0300" stop="20230916213000 -0300" channel="0430">
-    <title lang="en">Valencia vs. Atlético Madrid : Fútbol Español La Liga - Valencia vs. Atlético Madrid</title>
-    <desc lang="en">Acción de la jornada 5 de LaLiga 2023-2024. Desde el estadio Mestalla. Valencia recibe a Atlético Madrid.</desc>
+  <programme start="20230916190000 -0300" stop="20230916200000 -0300" channel="0430">
+    <title lang="en">Más que fútbol Chile</title>
   </programme>
   <programme start="20230915020000 -0300" stop="20230915030000 -0300" channel="0431">
     <title lang="es">DSports noticias</title>
@@ -15879,25 +15822,77 @@
     <title lang="en">DIRECTV Sports Argentina</title>
     <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
   </programme>
-  <programme start="20230915140000 -0300" stop="20230915200000 -0300" channel="0436">
-    <title lang="en">DIRECTV Sports Argentina</title>
-    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  <programme start="20230915153000 -0300" stop="20230915173000 -0300" channel="0436">
+    <title lang="en">Ecuador vs. Uruguay : Eliminatorias para la Copa Mundial de la FIFA 20</title>
   </programme>
-  <programme start="20230915200000 -0300" stop="20230916020000 -0300" channel="0436">
-    <title lang="en">DIRECTV Sports Argentina</title>
-    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  <programme start="20230915173000 -0300" stop="20230915180000 -0300" channel="0436">
+    <title lang="en">DSports Historias - Semifinales Copa Sudamericana 2019</title>
   </programme>
-  <programme start="20230916020000 -0300" stop="20230916080000 -0300" channel="0436">
-    <title lang="en">DIRECTV Sports Argentina</title>
-    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  <programme start="20230915180000 -0300" stop="20230915190000 -0300" channel="0436">
+    <title lang="en">DSports noticias</title>
   </programme>
-  <programme start="20230916080000 -0300" stop="20230916140000 -0300" channel="0436">
-    <title lang="en">DIRECTV Sports Argentina</title>
-    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  <programme start="20230915190000 -0300" stop="20230915213000 -0300" channel="0436">
+    <title lang="en">Copa Mundial FIBA Masculino 2023 - Final: Teams TBA</title>
   </programme>
-  <programme start="20230916140000 -0300" stop="20230916200000 -0300" channel="0436">
-    <title lang="en">DIRECTV Sports Argentina</title>
-    <desc lang="en">Disfruta de las mejores ligas y disciplinas deportivas.</desc>
+  <programme start="20230915213000 -0300" stop="20230915220000 -0300" channel="0436">
+    <title lang="en">Hilos : Del Potro en el US Open - Del Potro en el US Open</title>
+  </programme>
+  <programme start="20230915220000 -0300" stop="20230915230000 -0300" channel="0436">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20230915230000 -0300" stop="20230916010000 -0300" channel="0436">
+    <title lang="en">Real Sociedad vs. Granada : Fútbol Español La Liga - Real Sociedad vs.</title>
+  </programme>
+  <programme start="20230916010000 -0300" stop="20230916030000 -0300" channel="0436">
+    <title lang="en">El chiringuito de jugones</title>
+  </programme>
+  <programme start="20230916030000 -0300" stop="20230916040000 -0300" channel="0436">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20230916040000 -0300" stop="20230916060000 -0300" channel="0436">
+    <title lang="en">City TV - EPL: Manchester Cuty vs. Fulham</title>
+  </programme>
+  <programme start="20230916060000 -0300" stop="20230916070000 -0300" channel="0436">
+    <title lang="en">Sorteo Copa Mundial FIFA Sub 17. Indonesia 2023</title>
+  </programme>
+  <programme start="20230916070000 -0300" stop="20230916083000 -0300" channel="0436">
+    <title lang="en">Puede pasar</title>
+  </programme>
+  <programme start="20230916083000 -0300" stop="20230916100000 -0300" channel="0436">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20230916100000 -0300" stop="20230916113000 -0300" channel="0436">
+    <title lang="en">De fútbol se habla así</title>
+  </programme>
+  <programme start="20230916113000 -0300" stop="20230916123000 -0300" channel="0436">
+    <title lang="en">DSports Rugby</title>
+  </programme>
+  <programme start="20230916123000 -0300" stop="20230916130000 -0300" channel="0436">
+    <title lang="en">Hilos : Argentina en la Copa Davis - Argentina en la Copa Davis</title>
+  </programme>
+  <programme start="20230916130000 -0300" stop="20230916140000 -0300" channel="0436">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20230916140000 -0300" stop="20230916150000 -0300" channel="0436">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20230916150000 -0300" stop="20230916153000 -0300" channel="0436">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20230916153000 -0300" stop="20230916160000 -0300" channel="0436">
+    <title lang="en">Atlas, el sueño de todos</title>
+  </programme>
+  <programme start="20230916160000 -0300" stop="20230916170000 -0300" channel="0436">
+    <title lang="en">Marca femenina</title>
+  </programme>
+  <programme start="20230916170000 -0300" stop="20230916180000 -0300" channel="0436">
+    <title lang="en">FIFA Women&amp;apos;s World Cup 2023 - Tournament Review Film</title>
+  </programme>
+  <programme start="20230916180000 -0300" stop="20230916190000 -0300" channel="0436">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20230916190000 -0300" stop="20230916210000 -0300" channel="0436">
+    <title lang="en">Ecuador vs. Uruguay : Eliminatorias para la Copa Mundial de la FIFA 20</title>
   </programme>
   <programme start="20230915051000 -0300" stop="20230915070000 -0300" channel="0503">
     <title lang="es">30 Seconds to Mars</title>
@@ -16854,7 +16849,7 @@
     <sub-title lang="es">1968 Corvette</sub-title>
     <desc lang="es">Mike y Edd discuten sobre la definición de un verdadero auto deportivo. Con el deseo de apretar el acelerador y sentir el asiento en la espalda, Mike se sube a un Corvette 1968.</desc>
   </programme>
-  <programme start="20230915120100 -0300" stop="20230915124800 -0300" channel="0602">
+  <programme start="20230915115700 -0300" stop="20230915124800 -0300" channel="0602">
     <title lang="es">Full Custom Garage</title>
     <sub-title lang="es">Cruiseliner</sub-title>
     <desc lang="es">Ian intenta terminar su salvaje prototipo a tiempo y estrenarlo en una exhibición de autos de primer nivel en la costa oeste.</desc>
@@ -19372,7 +19367,7 @@
     <title lang="es">Programa pagado</title>
     <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
   </programme>
-  <programme start="20230915120000 -0300" stop="20230915122900 -0300" channel="0705">
+  <programme start="20230915120000 -0300" stop="20230915122800 -0300" channel="0705">
     <title lang="es">Coyote Peterson: Aventuras salvajes</title>
     <sub-title lang="es">Pesadilla de aracnofobia</sub-title>
     <desc lang="es">Coyote se encuentra en busca de la letal araña de Sídney. Atrapar a una de estas arañas es una tarea peligrosa, pero su veneno sirve para crear un suero sanador.</desc>
@@ -19809,9 +19804,10 @@
     <sub-title lang="es">T1 - Ep: 1 El eje latino de la Segunda Guerra</sub-title>
     <desc lang="es">¿Qué pasó en Latinoamérica durante la Segunda Guerra Mundial? Con agilidad narrativa y rigurosidad histórica, recorremos los diferentes momentos de la contienda (1938-1945, más los períodos de pre y posguerra) sobre cuatro ejes temáticos: espionaje, diplomacia, economía y acción en el frente de batalla. Información clasificada e historias nunca contadas hasta hoy nos permiten comprender cómo los países latinos vivieron los años del conflicto armado. Con el ingreso de EEUU en la contienda mundial, en Diciembre de 1941, América abandona la neutralidad. Uno a uno, los países latinos empiezan a participar de la disputa en el plano comercial, pues el bando Aliado y las fuerzas del Eje requieren sus recursos naturales para abastecer la maquinaria militar. La guerra deja de ser sólo un tema de conversación, y se convierte en parte de la vida cotidiana de la población.</desc>
   </programme>
-  <programme start="20230915090000 -0300" stop="20230915100000 -0300" channel="0707">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.</desc>
+  <programme start="20230915084700 -0300" stop="20230915094500 -0300" channel="0707">
+    <title lang="es">El Universo</title>
+    <sub-title lang="es">T3 - Ep: 33 Universos paralelos</sub-title>
+    <desc lang="es">En cada episodio se presentan imágenes generadas por computadora y gráficos de objetos astronómicos del universo. Además, se realizan entrevistas con expertos que estudian los campos de la cosmología, astronomía y astrofísica. Algunos de los más importantes físicos de la actualidad han encontrado evidencia de que existen otros universos además del nuestro. Una posibilidad es que existan replicas de nuestro sistema solar, nuestro planeta y nosotros proyectadas en el tiempo. Hoy en día, diversos experimentos con colisionadores de partículas buscan evidencia de otras dimensiones y universos paralelos. Los resultados podrían cambiar nuestras vidas.</desc>
   </programme>
   <programme start="20230915100000 -0300" stop="20230915110000 -0300" channel="0707">
     <title lang="en">Programación pagada</title>
@@ -22942,7 +22938,12 @@
     <sub-title lang="es">Red Menace</sub-title>
     <desc lang="es">El equipo CBI se enfrenta a una de las pandillas de motociclistas más peligrosas de California mientras investiga la muerte de un abogado.</desc>
   </programme>
-  <programme start="20230915120300 -0300" stop="20230915130200 -0300" channel="0833">
+  <programme start="20230915111700 -0300" stop="20230915120400 -0300" channel="0833">
+    <title lang="es">Major Crimes</title>
+    <sub-title lang="es">Wish You Were Here</sub-title>
+    <desc lang="es">Un video de un hombre ensangrentado y semi desnudo caminando por la calle con un arma, va viral y el equipo debe decidir si la víctima fue blanco o un suicidio potencial.</desc>
+  </programme>
+  <programme start="20230915120400 -0300" stop="20230915130100 -0300" channel="0833">
     <title lang="es">Major Crimes</title>
     <sub-title lang="es">Fifth Dynasty</sub-title>
     <desc lang="es">La Unidad descubre la identidad de una víctima de asesinato: se trata del hijo de un juez reconocido por su mano dura con los delincuentes; el equipo investiga entre los casos del juez para determinar quién es el o los homicidas.</desc>
@@ -29166,82 +29167,82 @@
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
   </programme>
-  <programme start="20230915000000 -0300" stop="20230915060000 -0300" channel="0544">
+  <programme start="20230914210000 -0300" stop="20230915030000 -0300" channel="0544">
     <title lang="en">Qello Concerts</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230915060000 -0300" stop="20230915120000 -0300" channel="0544">
+  <programme start="20230915030000 -0300" stop="20230915090000 -0300" channel="0544">
     <title lang="en">Qello Concerts</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230915120000 -0300" stop="20230915180000 -0300" channel="0544">
+  <programme start="20230915090000 -0300" stop="20230915150000 -0300" channel="0544">
     <title lang="en">Qello Concerts</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230915180000 -0300" stop="20230916000000 -0300" channel="0544">
+  <programme start="20230915150000 -0300" stop="20230915210000 -0300" channel="0544">
     <title lang="en">Qello Concerts</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230916000000 -0300" stop="20230916060000 -0300" channel="0544">
+  <programme start="20230915210000 -0300" stop="20230916030000 -0300" channel="0544">
     <title lang="en">Qello Concerts</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230916060000 -0300" stop="20230916120000 -0300" channel="0544">
+  <programme start="20230916030000 -0300" stop="20230916090000 -0300" channel="0544">
     <title lang="en">Qello Concerts</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230916120000 -0300" stop="20230916180000 -0300" channel="0544">
+  <programme start="20230916090000 -0300" stop="20230916150000 -0300" channel="0544">
     <title lang="en">Qello Concerts</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230916180000 -0300" stop="20230917000000 -0300" channel="0544">
+  <programme start="20230916150000 -0300" stop="20230916210000 -0300" channel="0544">
     <title lang="en">Qello Concerts</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230915000000 -0300" stop="20230915060000 -0300" channel="0545">
+  <programme start="20230914210000 -0300" stop="20230915030000 -0300" channel="0545">
     <title lang="en">Karaoke</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230915060000 -0300" stop="20230915120000 -0300" channel="0545">
+  <programme start="20230915030000 -0300" stop="20230915090000 -0300" channel="0545">
     <title lang="en">Karaoke</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230915120000 -0300" stop="20230915180000 -0300" channel="0545">
+  <programme start="20230915090000 -0300" stop="20230915150000 -0300" channel="0545">
     <title lang="en">Karaoke</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230915180000 -0300" stop="20230916000000 -0300" channel="0545">
+  <programme start="20230915150000 -0300" stop="20230915210000 -0300" channel="0545">
     <title lang="en">Karaoke</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230916000000 -0300" stop="20230916060000 -0300" channel="0545">
+  <programme start="20230915210000 -0300" stop="20230916030000 -0300" channel="0545">
     <title lang="en">Karaoke</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230916060000 -0300" stop="20230916120000 -0300" channel="0545">
+  <programme start="20230916030000 -0300" stop="20230916090000 -0300" channel="0545">
     <title lang="en">Karaoke</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230916120000 -0300" stop="20230916180000 -0300" channel="0545">
+  <programme start="20230916090000 -0300" stop="20230916150000 -0300" channel="0545">
     <title lang="en">Karaoke</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
   </programme>
-  <programme start="20230916180000 -0300" stop="20230917000000 -0300" channel="0545">
+  <programme start="20230916150000 -0300" stop="20230916210000 -0300" channel="0545">
     <title lang="en">Karaoke</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Señal temática de Stingray Music.</desc>
@@ -29318,178 +29319,178 @@
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
   </programme>
-  <programme start="20230915000000 -0300" stop="20230915003000 -0300" channel="0154">
+  <programme start="20230914200000 -0300" stop="20230914203000 -0300" channel="0154">
     <title lang="en">Sexta Visión</title>
   </programme>
-  <programme start="20230915003000 -0300" stop="20230915010000 -0300" channel="0154">
+  <programme start="20230914203000 -0300" stop="20230914210000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
-  <programme start="20230915010000 -0300" stop="20230915023000 -0300" channel="0154">
+  <programme start="20230914210000 -0300" stop="20230914223000 -0300" channel="0154">
     <title lang="en">Entre Brujas</title>
   </programme>
-  <programme start="20230915023000 -0300" stop="20230915030000 -0300" channel="0154">
+  <programme start="20230914223000 -0300" stop="20230914230000 -0300" channel="0154">
     <title lang="en">SextaVision Especial</title>
   </programme>
-  <programme start="20230915030000 -0300" stop="20230915040000 -0300" channel="0154">
+  <programme start="20230914230000 -0300" stop="20230915000000 -0300" channel="0154">
     <title lang="en">Viaje al Fondo del Mar</title>
     <desc lang="en">Historias fascinantes sobre el submarino Seaview y su tripulación mientras cruzan los mares y se encuentran con gran cantidad de exóticas y letales criaturas marinas, así como perversos humanos. Irwin Allen fue el creador y productor ejecutivo, y adaptó la serie (y usó muchos de los sets) de su filme de 1961.</desc>
   </programme>
-  <programme start="20230915040000 -0300" stop="20230915043000 -0300" channel="0154">
+  <programme start="20230915000000 -0300" stop="20230915003000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
-  <programme start="20230915043000 -0300" stop="20230915063000 -0300" channel="0154">
+  <programme start="20230915003000 -0300" stop="20230915023000 -0300" channel="0154">
     <title lang="en">Estrellas del Cobre</title>
     <desc lang="en">(new).</desc>
   </programme>
-  <programme start="20230915063000 -0300" stop="20230915070000 -0300" channel="0154">
+  <programme start="20230915023000 -0300" stop="20230915030000 -0300" channel="0154">
     <title lang="en">Mujer Integral</title>
   </programme>
-  <programme start="20230915070000 -0300" stop="20230915073000 -0300" channel="0154">
+  <programme start="20230915030000 -0300" stop="20230915033000 -0300" channel="0154">
     <title lang="en">SextaVision Especial</title>
   </programme>
-  <programme start="20230915073000 -0300" stop="20230915080000 -0300" channel="0154">
+  <programme start="20230915033000 -0300" stop="20230915040000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
-  <programme start="20230915080000 -0300" stop="20230915090000 -0300" channel="0154">
+  <programme start="20230915040000 -0300" stop="20230915050000 -0300" channel="0154">
     <title lang="en">Contingencia</title>
   </programme>
-  <programme start="20230915090000 -0300" stop="20230915110000 -0300" channel="0154">
+  <programme start="20230915050000 -0300" stop="20230915070000 -0300" channel="0154">
     <title lang="en">Juntos... Tu Mejor Compañia</title>
     <desc lang="en">(new).</desc>
+  </programme>
+  <programme start="20230915070000 -0300" stop="20230915073000 -0300" channel="0154">
+    <title lang="en">Sextavision Noticias</title>
+  </programme>
+  <programme start="20230915073000 -0300" stop="20230915090000 -0300" channel="0154">
+    <title lang="en">Entre Brujas</title>
+  </programme>
+  <programme start="20230915090000 -0300" stop="20230915100000 -0300" channel="0154">
+    <title lang="en">Memories</title>
+  </programme>
+  <programme start="20230915100000 -0300" stop="20230915103000 -0300" channel="0154">
+    <title lang="en">Pauta Ciudadana</title>
+  </programme>
+  <programme start="20230915103000 -0300" stop="20230915110000 -0300" channel="0154">
+    <title lang="en">Sexta Visión</title>
   </programme>
   <programme start="20230915110000 -0300" stop="20230915113000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
-  <programme start="20230915113000 -0300" stop="20230915130000 -0300" channel="0154">
-    <title lang="en">Entre Brujas</title>
-  </programme>
-  <programme start="20230915130000 -0300" stop="20230915140000 -0300" channel="0154">
-    <title lang="en">Memories</title>
-  </programme>
-  <programme start="20230915140000 -0300" stop="20230915143000 -0300" channel="0154">
-    <title lang="en">Pauta Ciudadana</title>
-  </programme>
-  <programme start="20230915143000 -0300" stop="20230915150000 -0300" channel="0154">
-    <title lang="en">Sexta Visión</title>
-  </programme>
-  <programme start="20230915150000 -0300" stop="20230915153000 -0300" channel="0154">
-    <title lang="en">Sextavision Noticias</title>
-  </programme>
-  <programme start="20230915153000 -0300" stop="20230915160000 -0300" channel="0154">
+  <programme start="20230915113000 -0300" stop="20230915120000 -0300" channel="0154">
     <title lang="en">Panorama 15</title>
     <desc lang="en">Un espacio dedicado a temas regionales que muestra la realidad de diferentes comunidades chilenas.</desc>
   </programme>
-  <programme start="20230915160000 -0300" stop="20230915170000 -0300" channel="0154">
+  <programme start="20230915120000 -0300" stop="20230915130000 -0300" channel="0154">
     <title lang="en">Sin Pelos en la Lengua</title>
     <desc lang="en">Programa que presenta temas en voz de quienes viven esa realidad.</desc>
   </programme>
-  <programme start="20230915170000 -0300" stop="20230915173000 -0300" channel="0154">
+  <programme start="20230915130000 -0300" stop="20230915133000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
-  <programme start="20230915173000 -0300" stop="20230915180000 -0300" channel="0154">
+  <programme start="20230915133000 -0300" stop="20230915140000 -0300" channel="0154">
     <title lang="en">Patria cientifica</title>
     <desc lang="en">Programa de entretenimiento local.</desc>
   </programme>
-  <programme start="20230915180000 -0300" stop="20230915190000 -0300" channel="0154">
+  <programme start="20230915140000 -0300" stop="20230915150000 -0300" channel="0154">
     <title lang="en">Doctor en casa TV</title>
     <desc lang="en">Un programa con diferentes maneras e ideas para llevar una vida saludable. Consejos médicos, nutrición, ejercicios, testimonios y todo lo que necesitas saber para mejorar la calidad de vida en tu propio hogar. (new).</desc>
   </programme>
-  <programme start="20230915190000 -0300" stop="20230915210000 -0300" channel="0154">
+  <programme start="20230915150000 -0300" stop="20230915170000 -0300" channel="0154">
     <title lang="en">Juntos... Tu Mejor Compañia</title>
   </programme>
-  <programme start="20230915210000 -0300" stop="20230915220000 -0300" channel="0154">
+  <programme start="20230915170000 -0300" stop="20230915180000 -0300" channel="0154">
     <title lang="en">Memories</title>
   </programme>
-  <programme start="20230915220000 -0300" stop="20230915223000 -0300" channel="0154">
+  <programme start="20230915180000 -0300" stop="20230915183000 -0300" channel="0154">
     <title lang="en">Mujer Integral</title>
   </programme>
-  <programme start="20230915223000 -0300" stop="20230915233000 -0300" channel="0154">
+  <programme start="20230915183000 -0300" stop="20230915193000 -0300" channel="0154">
     <title lang="en">Sin Pelos en la Lengua</title>
     <desc lang="en">Programa que presenta temas en voz de quienes viven esa realidad.</desc>
   </programme>
-  <programme start="20230915233000 -0300" stop="20230916003000 -0300" channel="0154">
+  <programme start="20230915193000 -0300" stop="20230915203000 -0300" channel="0154">
     <title lang="en">Contingencia</title>
   </programme>
-  <programme start="20230916003000 -0300" stop="20230916010000 -0300" channel="0154">
+  <programme start="20230915203000 -0300" stop="20230915210000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
-  <programme start="20230916010000 -0300" stop="20230916023000 -0300" channel="0154">
+  <programme start="20230915210000 -0300" stop="20230915223000 -0300" channel="0154">
     <title lang="en">Estacion AM</title>
   </programme>
-  <programme start="20230916023000 -0300" stop="20230916030000 -0300" channel="0154">
+  <programme start="20230915223000 -0300" stop="20230915230000 -0300" channel="0154">
     <title lang="en">SextaVision Especial</title>
   </programme>
-  <programme start="20230916030000 -0300" stop="20230916040000 -0300" channel="0154">
+  <programme start="20230915230000 -0300" stop="20230916000000 -0300" channel="0154">
     <title lang="en">Las calles de san francisco</title>
     <desc lang="en">Programa de entretenimiento.</desc>
   </programme>
-  <programme start="20230916040000 -0300" stop="20230916043000 -0300" channel="0154">
+  <programme start="20230916000000 -0300" stop="20230916003000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
-  <programme start="20230916043000 -0300" stop="20230916063000 -0300" channel="0154">
+  <programme start="20230916003000 -0300" stop="20230916023000 -0300" channel="0154">
     <title lang="en">Cinevision 7</title>
   </programme>
-  <programme start="20230916063000 -0300" stop="20230916070000 -0300" channel="0154">
+  <programme start="20230916023000 -0300" stop="20230916030000 -0300" channel="0154">
     <title lang="en">Sexta Visión</title>
   </programme>
-  <programme start="20230916070000 -0300" stop="20230916073000 -0300" channel="0154">
+  <programme start="20230916030000 -0300" stop="20230916033000 -0300" channel="0154">
     <title lang="en">SextaVision Especial</title>
   </programme>
-  <programme start="20230916073000 -0300" stop="20230916080000 -0300" channel="0154">
+  <programme start="20230916033000 -0300" stop="20230916040000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
-  <programme start="20230916080000 -0300" stop="20230916090000 -0300" channel="0154">
+  <programme start="20230916040000 -0300" stop="20230916050000 -0300" channel="0154">
     <title lang="en">Memories</title>
   </programme>
-  <programme start="20230916090000 -0300" stop="20230916093000 -0300" channel="0154">
+  <programme start="20230916050000 -0300" stop="20230916053000 -0300" channel="0154">
     <title lang="en">SextaVision Especial</title>
   </programme>
-  <programme start="20230916093000 -0300" stop="20230916110000 -0300" channel="0154">
+  <programme start="20230916053000 -0300" stop="20230916070000 -0300" channel="0154">
     <title lang="en">Fair Play O'Higgins</title>
+  </programme>
+  <programme start="20230916070000 -0300" stop="20230916073000 -0300" channel="0154">
+    <title lang="en">Sextavision Noticias</title>
+  </programme>
+  <programme start="20230916073000 -0300" stop="20230916080000 -0300" channel="0154">
+    <title lang="en">Cartoons</title>
+    <desc lang="en">Una compilación de dibujos animados para niños que les enseñará lecciones importantes de la vida. También hará que los niños aprendan por medio de la diversión así como los personajes infantiles que entretienen y enseñan. Un programa de animación de calidad.</desc>
+  </programme>
+  <programme start="20230916080000 -0300" stop="20230916093000 -0300" channel="0154">
+    <title lang="en">Estacion AM</title>
+  </programme>
+  <programme start="20230916093000 -0300" stop="20230916100000 -0300" channel="0154">
+    <title lang="en">Cartoons</title>
+    <desc lang="en">Una compilación de dibujos animados para niños que les enseñará lecciones importantes de la vida. También hará que los niños aprendan por medio de la diversión así como los personajes infantiles que entretienen y enseñan. Un programa de animación de calidad.</desc>
+  </programme>
+  <programme start="20230916100000 -0300" stop="20230916110000 -0300" channel="0154">
+    <title lang="en">Cine Adictos</title>
   </programme>
   <programme start="20230916110000 -0300" stop="20230916113000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
   <programme start="20230916113000 -0300" stop="20230916120000 -0300" channel="0154">
-    <title lang="en">Cartoons</title>
-    <desc lang="en">Una compilación de dibujos animados para niños que les enseñará lecciones importantes de la vida. También hará que los niños aprendan por medio de la diversión así como los personajes infantiles que entretienen y enseñan. Un programa de animación de calidad.</desc>
-  </programme>
-  <programme start="20230916120000 -0300" stop="20230916133000 -0300" channel="0154">
-    <title lang="en">Estacion AM</title>
-  </programme>
-  <programme start="20230916133000 -0300" stop="20230916140000 -0300" channel="0154">
-    <title lang="en">Cartoons</title>
-    <desc lang="en">Una compilación de dibujos animados para niños que les enseñará lecciones importantes de la vida. También hará que los niños aprendan por medio de la diversión así como los personajes infantiles que entretienen y enseñan. Un programa de animación de calidad.</desc>
-  </programme>
-  <programme start="20230916140000 -0300" stop="20230916150000 -0300" channel="0154">
-    <title lang="en">Cine Adictos</title>
-  </programme>
-  <programme start="20230916150000 -0300" stop="20230916153000 -0300" channel="0154">
-    <title lang="en">Sextavision Noticias</title>
-  </programme>
-  <programme start="20230916153000 -0300" stop="20230916160000 -0300" channel="0154">
     <title lang="en">Creadores</title>
     <desc lang="en">El proceso creativo y la historia de autores uruguayos. Serie producida por GEN, Centro de Artes y Ciencias con el apoyo de AGADU.</desc>
   </programme>
-  <programme start="20230916160000 -0300" stop="20230916170000 -0300" channel="0154">
+  <programme start="20230916120000 -0300" stop="20230916130000 -0300" channel="0154">
     <title lang="en">Contingencia</title>
   </programme>
-  <programme start="20230916170000 -0300" stop="20230916173000 -0300" channel="0154">
+  <programme start="20230916130000 -0300" stop="20230916133000 -0300" channel="0154">
     <title lang="en">Sextavision Noticias</title>
   </programme>
-  <programme start="20230916173000 -0300" stop="20230916190000 -0300" channel="0154">
+  <programme start="20230916133000 -0300" stop="20230916150000 -0300" channel="0154">
     <title lang="en">Entre Brujas</title>
   </programme>
-  <programme start="20230916190000 -0300" stop="20230916203000 -0300" channel="0154">
+  <programme start="20230916150000 -0300" stop="20230916163000 -0300" channel="0154">
     <title lang="en">Estacion AM</title>
   </programme>
-  <programme start="20230916203000 -0300" stop="20230916223000 -0300" channel="0154">
+  <programme start="20230916163000 -0300" stop="20230916183000 -0300" channel="0154">
     <title lang="en">CineVision Clasico</title>
   </programme>
-  <programme start="20230916223000 -0300" stop="20230916233000 -0300" channel="0154">
+  <programme start="20230916183000 -0300" stop="20230916193000 -0300" channel="0154">
     <title lang="en">NKP</title>
   </programme>
-  <programme start="20230916233000 -0300" stop="20230917000000 -0300" channel="0154">
+  <programme start="20230916193000 -0300" stop="20230916200000 -0300" channel="0154">
     <title lang="en">Panorama 15</title>
     <desc lang="en">Un espacio dedicado a temas regionales que muestra la realidad de diferentes comunidades chilenas.</desc>
   </programme>
@@ -29649,163 +29650,59 @@
     <title lang="es">Con sabor y saber</title>
     <desc lang="es">Revista gastronómica de la Deutsch Welle.</desc>
   </programme>
-  <programme start="20230915153000 -0300" stop="20230915160000 -0300" channel="0159">
-    <title lang="es">Tendencias</title>
-    <desc lang="es">Cuando los talentos, pasatiempos y pasiones se vuelven una profesión.</desc>
-  </programme>
-  <programme start="20230915160000 -0300" stop="20230915163000 -0300" channel="0159">
-    <title lang="es">Vidas -19</title>
+  <programme start="20230915153000 -0300" stop="20230915163000 -0300" channel="0159">
+    <title lang="es">Araucania 360</title>
     <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
   <programme start="20230915163000 -0300" stop="20230915170000 -0300" channel="0159">
-    <title lang="es">Manos a la obra</title>
-    <desc lang="es">Pintura decorativa, manualidades, deco, indumentaria y mucho más. Junto a excelentes especialistas y profesores muy queridos por la audiencia te inspiramos y enseñamos todo paso a paso.</desc>
+    <title lang="es">Ni una menos</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
   <programme start="20230915170000 -0300" stop="20230915173000 -0300" channel="0159">
-    <title lang="es">Sobre libros</title>
-    <desc lang="es">Conocimiento del arte y la literatura.</desc>
+    <title lang="es">Creadoras</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
   <programme start="20230915173000 -0300" stop="20230915180000 -0300" channel="0159">
-    <title lang="es">Enlaces</title>
-    <desc lang="es">Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política.</desc>
+    <title lang="es">Global 3000</title>
+    <desc lang="es">El magacín de DW sobre la globalización trata temas de interés para todos los habitantes del planeta, en especial cómo la gente afronta las oportunidades y los riesgos que conlleva la globalización.</desc>
   </programme>
   <programme start="20230915180000 -0300" stop="20230915190000 -0300" channel="0159">
     <title lang="es">Cuando llega la tarde</title>
     <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
-  <programme start="20230915190000 -0300" stop="20230915200000 -0300" channel="0159">
-    <title lang="es">Centro cultural Padre las Casas</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230915200000 -0300" stop="20230915203000 -0300" channel="0159">
-    <title lang="es">Bisturí</title>
-    <desc lang="es">Aborda la información necesaria para reconocer los principales factores de riesgo y los síntomas que presentan las enfermedades crónicas más importantes a nivel nacional y mundial.</desc>
-  </programme>
-  <programme start="20230915203000 -0300" stop="20230915213000 -0300" channel="0159">
-    <title lang="es">Sala de ensayo</title>
-    <desc lang="es">Programa de música en el que encontrarás notas, un espacio para las bandas Under, documentales sobre temas relacionados, testeos, reviews, videos y mucho mas!</desc>
-  </programme>
-  <programme start="20230915213000 -0300" stop="20230915220000 -0300" channel="0159">
-    <title lang="es">Visión futuro</title>
-    <desc lang="es">Visión futuro les acompaña semanalmente en el fascinante viaje por el mundo de la Ciencia. El magacín para quienes quieren conocer nuestro universo y su funcionamiento.</desc>
-  </programme>
-  <programme start="20230915220000 -0300" stop="20230915223000 -0300" channel="0159">
-    <title lang="es">Artesanías del MAULE</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230915223000 -0300" stop="20230915230000 -0300" channel="0159">
-    <title lang="es">Mi oficio. Mi historia</title>
-    <desc lang="es">Se centra en el trabajo que realizan artesanos independientes de Argentina. Excelencia, calidad, autenticidad y creatividad se conjugan con un comportamiento ético y responsable a la hora de transmitir sus saberes.</desc>
-  </programme>
-  <programme start="20230915230000 -0300" stop="20230916000000 -0300" channel="0159">
-    <title lang="es">Ufro Deportes / Ufro Radio</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916000000 -0300" stop="20230916013000 -0300" channel="0159">
-    <title lang="es">Araucania 360</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916013000 -0300" stop="20230916080000 -0300" channel="0159">
-    <title lang="es">Break ufroclásica</title>
-    <desc lang="es">Fina selección musical clásica, comprendida entre los siglos XX y XXI.</desc>
-  </programme>
-  <programme start="20230916080000 -0300" stop="20230916080500 -0300" channel="0159">
-    <title lang="es">Un día como hoy</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916080500 -0300" stop="20230916081000 -0300" channel="0159">
-    <title lang="es">Premio nobel</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916081000 -0300" stop="20230916083000 -0300" channel="0159">
-    <title lang="es">Locos de laboratorio</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916083000 -0300" stop="20230916090000 -0300" channel="0159">
-    <title lang="es">CNTV Pre escolar</title>
-    <desc lang="es">Television cultural y educativa para niños, niñas y familia.</desc>
-  </programme>
-  <programme start="20230916090000 -0300" stop="20230916093000 -0300" channel="0159">
-    <title lang="es">CNTV Niños</title>
-    <desc lang="es">Cápsulas elaboradas a partir de secuencias y planos de animaciones CNTV Infantil, donde se invita a despertar la curiosidad, a hacer preguntas, a descubrir y explorar el entorno.</desc>
-  </programme>
-  <programme start="20230916093000 -0300" stop="20230916100000 -0300" channel="0159">
-    <title lang="es">CNTV Pre escolar</title>
-    <desc lang="es">Television cultural y educativa para niños, niñas y familia.</desc>
-  </programme>
-  <programme start="20230916100000 -0300" stop="20230916103000 -0300" channel="0159">
-    <title lang="es">En forma</title>
-    <desc lang="es">Magazine informativo que brinda al espectador conocimientos acerca de cómo llevar una vida sana y prevenir enfermedades, a través de la medicina tradicional en la cual figuran las terapias alternativas.</desc>
-  </programme>
-  <programme start="20230916103000 -0300" stop="20230916113000 -0300" channel="0159">
-    <title lang="es">Charlas del futuro</title>
-    <desc lang="es">Un evento realizado en Chile donde personas reconocidas en algún ámbito de estudio, tanto científico como humanista, exponen a la ciudadanía sobre problemáticas a las que se enfrenta o se enfrentará en un futuro la sociedad.</desc>
-  </programme>
-  <programme start="20230916113000 -0300" stop="20230916120000 -0300" channel="0159">
-    <title lang="es">CNTV Pre adolescente</title>
-    <desc lang="es">Television cultural y educativa para niños, niñas y familia.</desc>
-  </programme>
-  <programme start="20230916120000 -0300" stop="20230916140000 -0300" channel="0159">
-    <title lang="es">Araucania 360</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916140000 -0300" stop="20230916150000 -0300" channel="0159">
-    <title lang="es">Ufro Deportes / Ufro Radio</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916150000 -0300" stop="20230916153000 -0300" channel="0159">
-    <title lang="es">Con sabor y saber</title>
-    <desc lang="es">Revista gastronómica de la Deutsch Welle.</desc>
-  </programme>
-  <programme start="20230916153000 -0300" stop="20230916160000 -0300" channel="0159">
+  <programme start="20230915190000 -0300" stop="20230915193000 -0300" channel="0159">
     <title lang="es">Tendencias</title>
     <desc lang="es">Cuando los talentos, pasatiempos y pasiones se vuelven una profesión.</desc>
   </programme>
-  <programme start="20230916160000 -0300" stop="20230916163000 -0300" channel="0159">
+  <programme start="20230915193000 -0300" stop="20230915200000 -0300" channel="0159">
+    <title lang="es">Creadoras</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230915200000 -0300" stop="20230915203000 -0300" channel="0159">
     <title lang="es">Vidas -19</title>
     <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
-  <programme start="20230916163000 -0300" stop="20230916170000 -0300" channel="0159">
-    <title lang="es">Manos a la obra</title>
-    <desc lang="es">Pintura decorativa, manualidades, deco, indumentaria y mucho más. Junto a excelentes especialistas y profesores muy queridos por la audiencia te inspiramos y enseñamos todo paso a paso.</desc>
+  <programme start="20230915203000 -0300" stop="20230915210000 -0300" channel="0159">
+    <title lang="es">Emprende</title>
+    <desc lang="es">Programa que pretende cautivar, motivar e interesar a los emprendedores a salir adelante. La idea es apoyar a las pequeñas, medianas y grandes empresas que se vieron afectados por la pandemia.</desc>
   </programme>
-  <programme start="20230916170000 -0300" stop="20230916173000 -0300" channel="0159">
-    <title lang="es">Sobre libros</title>
-    <desc lang="es">Conocimiento del arte y la literatura.</desc>
+  <programme start="20230915210000 -0300" stop="20230915213000 -0300" channel="0159">
+    <title lang="es">Charlas del futuro</title>
+    <desc lang="es">Un evento realizado en Chile donde personas reconocidas en algún ámbito de estudio, tanto científico como humanista, exponen a la ciudadanía sobre problemáticas a las que se enfrenta o se enfrentará en un futuro la sociedad.</desc>
   </programme>
-  <programme start="20230916173000 -0300" stop="20230916180000 -0300" channel="0159">
-    <title lang="es">Enlaces</title>
-    <desc lang="es">Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política.</desc>
+  <programme start="20230915213000 -0300" stop="20230915220000 -0300" channel="0159">
+    <title lang="es">Euromaxx</title>
+    <desc lang="es">Espacio que nos muestra las nuevas facetas del viejo continente. Conozca la impresionante diversidad de la vida y cultura en Europa: moda, gastronomía, arquitectura, arte y espectáculos en un solo formato.</desc>
   </programme>
-  <programme start="20230916180000 -0300" stop="20230916190000 -0300" channel="0159">
-    <title lang="es">Cuando llega la tarde</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916190000 -0300" stop="20230916200000 -0300" channel="0159">
-    <title lang="es">Centro cultural Padre las Casas</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916200000 -0300" stop="20230916203000 -0300" channel="0159">
-    <title lang="es">Bisturí</title>
-    <desc lang="es">Aborda la información necesaria para reconocer los principales factores de riesgo y los síntomas que presentan las enfermedades crónicas más importantes a nivel nacional y mundial.</desc>
-  </programme>
-  <programme start="20230916203000 -0300" stop="20230916213000 -0300" channel="0159">
-    <title lang="es">Sala de ensayo</title>
-    <desc lang="es">Programa de música en el que encontrarás notas, un espacio para las bandas Under, documentales sobre temas relacionados, testeos, reviews, videos y mucho mas!</desc>
-  </programme>
-  <programme start="20230916213000 -0300" stop="20230916220000 -0300" channel="0159">
-    <title lang="es">Visión futuro</title>
-    <desc lang="es">Visión futuro les acompaña semanalmente en el fascinante viaje por el mundo de la Ciencia. El magacín para quienes quieren conocer nuestro universo y su funcionamiento.</desc>
-  </programme>
-  <programme start="20230916220000 -0300" stop="20230916223000 -0300" channel="0159">
-    <title lang="es">Artesanías del MAULE</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916223000 -0300" stop="20230916230000 -0300" channel="0159">
+  <programme start="20230915220000 -0300" stop="20230915223000 -0300" channel="0159">
     <title lang="es">Mi oficio. Mi historia</title>
     <desc lang="es">Se centra en el trabajo que realizan artesanos independientes de Argentina. Excelencia, calidad, autenticidad y creatividad se conjugan con un comportamiento ético y responsable a la hora de transmitir sus saberes.</desc>
   </programme>
-  <programme start="20230916230000 -0300" stop="20230917000000 -0300" channel="0159">
+  <programme start="20230915223000 -0300" stop="20230915230000 -0300" channel="0159">
+    <title lang="es">Artesanías del MAULE</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230915230000 -0300" stop="20230916000000 -0300" channel="0159">
     <title lang="es">Ufro Deportes / Ufro Radio</title>
     <desc lang="es">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
@@ -30007,224 +29904,244 @@
     <title lang="en">DSports Fight</title>
     <desc lang="en">Información no disponible.</desc>
   </programme>
-  <programme start="20230915180000 -0300" stop="20230916000000 -0300" channel="0434">
-    <title lang="en">DSports Fight</title>
-    <desc lang="en">Información no disponible.</desc>
+  <programme start="20230915190000 -0300" stop="20230915200000 -0300" channel="0434">
+    <title lang="en">Top Rank Classic Fights</title>
   </programme>
-  <programme start="20230916000000 -0300" stop="20230916060000 -0300" channel="0434">
-    <title lang="en">DSports Fight</title>
-    <desc lang="en">Información no disponible.</desc>
+  <programme start="20230915200000 -0300" stop="20230915210000 -0300" channel="0434">
+    <title lang="en">Especiales Ep 62: Luis Pajuelo</title>
   </programme>
-  <programme start="20230916060000 -0300" stop="20230916120000 -0300" channel="0434">
-    <title lang="en">DSports Fight</title>
-    <desc lang="en">Información no disponible.</desc>
+  <programme start="20230915210000 -0300" stop="20230915220000 -0300" channel="0434">
+    <title lang="en">Top Rank Classic Fights</title>
   </programme>
-  <programme start="20230916120000 -0300" stop="20230916180000 -0300" channel="0434">
-    <title lang="en">DSports Fight</title>
-    <desc lang="en">Información no disponible.</desc>
+  <programme start="20230915220000 -0300" stop="20230915230000 -0300" channel="0434">
+    <title lang="en">Especiales DIRECTV sports fight - Campeones de Gromda: Don Diego</title>
   </programme>
-  <programme start="20230916180000 -0300" stop="20230917000000 -0300" channel="0434">
-    <title lang="en">DSports Fight</title>
-    <desc lang="en">Información no disponible.</desc>
+  <programme start="20230915230000 -0300" stop="20230916010000 -0300" channel="0434">
+    <title lang="en">Gromda Fight Club</title>
+  </programme>
+  <programme start="20230916010000 -0300" stop="20230916050000 -0300" channel="0434">
+    <title lang="en">MMA FFC 60: Noche de campeones - MMA FFC 65: Basurto vs. Mena</title>
+  </programme>
+  <programme start="20230916050000 -0300" stop="20230916073000 -0300" channel="0434">
+    <title lang="en">Bellator MMA - 298: Storley vs. Ward</title>
+  </programme>
+  <programme start="20230916073000 -0300" stop="20230916080000 -0300" channel="0434">
+    <title lang="en">Boxeo - 2003: Floyd Mayweather Jr. vs. Phillip N&amp;apos;dou</title>
+  </programme>
+  <programme start="20230916080000 -0300" stop="20230916090000 -0300" channel="0434">
+    <title lang="en">Fight Sports: Mega Fights - Andre Ward vs. Chad Dawson</title>
+  </programme>
+  <programme start="20230916090000 -0300" stop="20230916120000 -0300" channel="0434">
+    <title lang="en">Fight Review - Glory 88: Hari vs. Mcsweeney</title>
+  </programme>
+  <programme start="20230916120000 -0300" stop="20230916130000 -0300" channel="0434">
+    <title lang="en">Especiales DIRECTV sports fight - Campeones de Gromda: Don Diego</title>
+  </programme>
+  <programme start="20230916130000 -0300" stop="20230916170000 -0300" channel="0434">
+    <title lang="en">MMA FFC 60: Noche de campeones - MMA FFC 65: Basurto vs. Mena</title>
+  </programme>
+  <programme start="20230916170000 -0300" stop="20230916180000 -0300" channel="0434">
+    <title lang="en">Greatest Classics - Bernard Hopkins vs. Lupe Aquino</title>
+  </programme>
+  <programme start="20230916180000 -0300" stop="20230916190000 -0300" channel="0434">
+    <title lang="en">Fight Review - Glory 57: Shenzhen</title>
+  </programme>
+  <programme start="20230916190000 -0300" stop="20230916200000 -0300" channel="0434">
+    <title lang="en">Fight News</title>
+  </programme>
+  <programme start="20230916200000 -0300" stop="20230916210000 -0300" channel="0434">
+    <title lang="en">Floyd Mayweather</title>
+  </programme>
+  <programme start="20230916210000 -0300" stop="20230916220000 -0300" channel="0434">
+    <title lang="en">Classic Fights Boxing - Manny Pacquiao vs. Brandon Rios</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230916230000 -0300" channel="0434">
+    <title lang="en">Classic Fights Boxing - Manny Pacquiao vs. Antonio Margarito</title>
+  </programme>
+  <programme start="20230916230000 -0300" stop="20230917010000 -0300" channel="0434">
+    <title lang="en">Gromda Fight Club</title>
+  </programme>
+  <programme start="20230914200000 -0300" stop="20230914203000 -0300" channel="0435">
+    <title lang="en">DSports Motor</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230914203000 -0300" stop="20230914210000 -0300" channel="0435">
+    <title lang="en">Rally América</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230914210000 -0300" stop="20230914220000 -0300" channel="0435">
+    <title lang="en">Italian F4 Championship Series</title>
+    <desc lang="en">Cobertura de los mejores momentos en el campeonato italiano de la FIA Fórmula 4.</desc>
+  </programme>
+  <programme start="20230914220000 -0300" stop="20230914230000 -0300" channel="0435">
+    <title lang="en">Italian F4 Championship Series</title>
+    <desc lang="en">Cobertura de los mejores momentos en el campeonato italiano de la FIA Fórmula 4.</desc>
+  </programme>
+  <programme start="20230914230000 -0300" stop="20230915000000 -0300" channel="0435">
+    <title lang="en">Italian F4 Championship Series</title>
+    <desc lang="en">Cobertura de los mejores momentos en el campeonato italiano de la FIA Fórmula 4.</desc>
   </programme>
   <programme start="20230915000000 -0300" stop="20230915003000 -0300" channel="0435">
     <title lang="en">DSports Motor</title>
     <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
   <programme start="20230915003000 -0300" stop="20230915010000 -0300" channel="0435">
-    <title lang="en">Rally América</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230915010000 -0300" stop="20230915020000 -0300" channel="0435">
-    <title lang="en">Italian F4 Championship Series</title>
-    <desc lang="en">Cobertura de los mejores momentos en el campeonato italiano de la FIA Fórmula 4.</desc>
-  </programme>
-  <programme start="20230915020000 -0300" stop="20230915030000 -0300" channel="0435">
-    <title lang="en">Italian F4 Championship Series</title>
-    <desc lang="en">Cobertura de los mejores momentos en el campeonato italiano de la FIA Fórmula 4.</desc>
-  </programme>
-  <programme start="20230915030000 -0300" stop="20230915040000 -0300" channel="0435">
-    <title lang="en">Italian F4 Championship Series</title>
-    <desc lang="en">Cobertura de los mejores momentos en el campeonato italiano de la FIA Fórmula 4.</desc>
-  </programme>
-  <programme start="20230915040000 -0300" stop="20230915043000 -0300" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230915043000 -0300" stop="20230915050000 -0300" channel="0435">
     <title lang="en">FastZone</title>
     <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
   </programme>
-  <programme start="20230915050000 -0300" stop="20230915060000 -0300" channel="0435">
+  <programme start="20230915010000 -0300" stop="20230915020000 -0300" channel="0435">
     <title lang="en">FIM Speedway Grand Prix Series</title>
     <desc lang="en">Los mejores momentos de las carreras de motociclismo FIM Speedway Grand Prix (SGP) alrededor del mundo.</desc>
   </programme>
-  <programme start="20230915060000 -0300" stop="20230915063000 -0300" channel="0435">
+  <programme start="20230915020000 -0300" stop="20230915023000 -0300" channel="0435">
     <title lang="en">Rally América</title>
     <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
-  <programme start="20230915063000 -0300" stop="20230915073000 -0300" channel="0435">
+  <programme start="20230915023000 -0300" stop="20230915033000 -0300" channel="0435">
     <title lang="en">Campeonato Mundial Rally</title>
     <desc lang="en">Competencia organizada y regulada por la Federación Internacional de Automovilismo (FIA) que es disputada en diferentes etapas y entornos.</desc>
   </programme>
-  <programme start="20230915073000 -0300" stop="20230915090000 -0300" channel="0435">
+  <programme start="20230915033000 -0300" stop="20230915050000 -0300" channel="0435">
     <title lang="en">Automovilismo NASCAR Cup Series</title>
     <desc lang="en">Toda la acción con las mejores carreras de la NASCAR Cup Series.</desc>
   </programme>
-  <programme start="20230915090000 -0300" stop="20230915110000 -0300" channel="0435">
+  <programme start="20230915050000 -0300" stop="20230915070000 -0300" channel="0435">
     <title lang="en">Automovilismo NASCAR Cup Series</title>
     <desc lang="en">Toda la acción con las mejores carreras de la NASCAR Cup Series.</desc>
   </programme>
-  <programme start="20230915110000 -0300" stop="20230915113000 -0300" channel="0435">
+  <programme start="20230915070000 -0300" stop="20230915073000 -0300" channel="0435">
     <title lang="en">GP Confidential</title>
     <desc lang="en">Análisis de la parte técnica de todas las escuderías de la Fórmula 1 y de su rendimiento durante los grandes premios disputados.</desc>
   </programme>
-  <programme start="20230915113000 -0300" stop="20230915123000 -0300" channel="0435">
+  <programme start="20230915073000 -0300" stop="20230915083000 -0300" channel="0435">
     <title lang="en">Live: CIK/FIA Karting World Championship</title>
     <desc lang="en">Cobertura de las carreras internacionales de karts de todo el mundo.</desc>
   </programme>
-  <programme start="20230915123000 -0300" stop="20230915133000 -0300" channel="0435">
+  <programme start="20230915083000 -0300" stop="20230915093000 -0300" channel="0435">
     <title lang="en">Campeonato Mundial Rally</title>
     <desc lang="en">Competencia organizada y regulada por la Federación Internacional de Automovilismo (FIA) que es disputada en diferentes etapas y entornos.</desc>
   </programme>
-  <programme start="20230915133000 -0300" stop="20230915140000 -0300" channel="0435">
+  <programme start="20230915093000 -0300" stop="20230915100000 -0300" channel="0435">
     <title lang="en">FastZone</title>
     <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
   </programme>
-  <programme start="20230915140000 -0300" stop="20230915143000 -0300" channel="0435">
+  <programme start="20230915100000 -0300" stop="20230915103000 -0300" channel="0435">
     <title lang="en">DSports Motor</title>
     <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
-  <programme start="20230915143000 -0300" stop="20230915150000 -0300" channel="0435">
+  <programme start="20230915103000 -0300" stop="20230915110000 -0300" channel="0435">
     <title lang="en">DSports Motor</title>
     <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
-  <programme start="20230915153000 -0300" stop="20230915163000 -0300" channel="0435">
-    <title lang="en">World Rally Championship - Grecia. Resumen</title>
-    <desc lang="en">Del 07 al 10 de septiembre llega un nuevo episodio de la WRC 2023. En este episodio se comenta todo sobre el capítulo en Grecia.</desc>
+  <programme start="20230915110000 -0300" stop="20230915120000 -0300" channel="0435">
+    <title lang="en">Campeonato Mundial Rally</title>
+    <desc lang="en">Competencia organizada y regulada por la Federación Internacional de Automovilismo (FIA) que es disputada en diferentes etapas y entornos.</desc>
   </programme>
-  <programme start="20230915163000 -0300" stop="20230915180000 -0300" channel="0435">
-    <title lang="en">ADAC GT4 Germany - Sachsenring: carrera 1, resumen</title>
-    <desc lang="en">Lo más relevante de la primera carrera del circuito Sachsenring. Desde Sajonia, en Alemania.</desc>
+  <programme start="20230915120000 -0300" stop="20230915130000 -0300" channel="0435">
+    <title lang="en">Live: CIK/FIA Karting World Championship</title>
+    <desc lang="en">Cobertura de las carreras internacionales de karts de todo el mundo.</desc>
   </programme>
-  <programme start="20230915180000 -0300" stop="20230915193000 -0300" channel="0435">
-    <title lang="en">ADAC GT4 Germany - Sachsenring: carrera 2, resumen</title>
-    <desc lang="en">Lo más destacado de la segunda carrera del circuito Sachsenring. Desde Sajonia, en Alemania.</desc>
+  <programme start="20230915130000 -0300" stop="20230915150000 -0300" channel="0435">
+    <title lang="en">Motocross</title>
+    <desc lang="en">La acción de las carreras de motocross y los mejores circuitos del mundo.</desc>
   </programme>
-  <programme start="20230915193000 -0300" stop="20230915200000 -0300" channel="0435">
-    <title lang="en">GP Confidential</title>
-    <desc lang="en">Análisis de la parte técnica de todas las escuderías de la Fórmula 1 y de su rendimiento durante los grandes premios disputados.</desc>
+  <programme start="20230915153000 -0300" stop="20230915160000 -0300" channel="0435">
+    <title lang="en">FastZone</title>
+  </programme>
+  <programme start="20230915160000 -0300" stop="20230915163000 -0300" channel="0435">
+    <title lang="en">DSports Motor</title>
+  </programme>
+  <programme start="20230915163000 -0300" stop="20230915170000 -0300" channel="0435">
+    <title lang="en">Rally América</title>
+  </programme>
+  <programme start="20230915170000 -0300" stop="20230915180000 -0300" channel="0435">
+    <title lang="en">Italian F4 Championship Series</title>
+  </programme>
+  <programme start="20230915180000 -0300" stop="20230915190000 -0300" channel="0435">
+    <title lang="en">Italian F4 Championship Series</title>
+  </programme>
+  <programme start="20230915190000 -0300" stop="20230915200000 -0300" channel="0435">
+    <title lang="en">Italian F4 Championship Series</title>
   </programme>
   <programme start="20230915200000 -0300" stop="20230915203000 -0300" channel="0435">
     <title lang="en">DSports Motor</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
   </programme>
   <programme start="20230915203000 -0300" stop="20230915210000 -0300" channel="0435">
-    <title lang="en">FIA European Truck Racing Championship - FIA European Truck Racing Championship: Zolder, resumen</title>
-    <desc lang="en">La mejor acción de la carrera de FIA Truck Racing que se realiza entre el 8 y 10 de septiembre en el circuito Zolder en Bélgica.</desc>
+    <title lang="en">FastZone</title>
   </programme>
   <programme start="20230915210000 -0300" stop="20230915220000 -0300" channel="0435">
-    <title lang="en">Automovilismo Serie DTM - Sachsenring, resumen</title>
-    <desc lang="en">Lo más destacado de las carreras del Deutsche Tourenwagen Masters, mejor conocido como DTM, disputado en Alemania.</desc>
+    <title lang="en">FIM Speedway Grand Prix Series</title>
   </programme>
-  <programme start="20230915220000 -0300" stop="20230915230000 -0300" channel="0435">
-    <title lang="en">FIA World Endurance Championship - 6 horas de Fuji, resumen</title>
-    <desc lang="en">EL 10 de septiembre llega la sexta fecha de la WEC 2023: Las 6 horas de Fuji en Shizuoka, al pie del monte Fuji en Japón.</desc>
-  </programme>
-  <programme start="20230915230000 -0300" stop="20230915233000 -0300" channel="0435">
-    <title lang="en">FIA World Rally-Raid Championship - Round 4: Desafio Ruta 40, Argentina</title>
-    <desc lang="en">Repaso al Desafío Ruta 40, cuarta prueba del Campeonato del Mundo FIA de Rallyes de Asfalto 2023.</desc>
-  </programme>
-  <programme start="20230915233000 -0300" stop="20230916020000 -0300" channel="0435">
-    <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Food City 300</title>
-    <desc lang="en">Acción de las carreras de NASCAR Xfinity Racing Series.</desc>
-  </programme>
-  <programme start="20230916020000 -0300" stop="20230916023000 -0300" channel="0435">
-    <title lang="en">FastZone</title>
-    <desc lang="en">Toda la acción de los deportes de motor. Desde el karting hasta la Fórmula 1 y todas las categorías de motor.</desc>
-  </programme>
-  <programme start="20230916023000 -0300" stop="20230916030000 -0300" channel="0435">
+  <programme start="20230915220000 -0300" stop="20230915223000 -0300" channel="0435">
     <title lang="en">Rally América</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
+  </programme>
+  <programme start="20230915223000 -0300" stop="20230915233000 -0300" channel="0435">
+    <title lang="en">Campeonato Mundial Rally</title>
+  </programme>
+  <programme start="20230915233000 -0300" stop="20230916010000 -0300" channel="0435">
+    <title lang="en">Automovilismo NASCAR Cup Series</title>
+  </programme>
+  <programme start="20230916010000 -0300" stop="20230916030000 -0300" channel="0435">
+    <title lang="en">Automovilismo NASCAR Cup Series</title>
   </programme>
   <programme start="20230916030000 -0300" stop="20230916033000 -0300" channel="0435">
-    <title lang="en">DSports Motor</title>
-    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.</desc>
-  </programme>
-  <programme start="20230916033000 -0300" stop="20230916050000 -0300" channel="0435">
-    <title lang="en">Automovilismo - ADAC GT Masters: Sachsenring, carrera 1</title>
-    <desc lang="en">Una mirada a las carreras más emocionantes y las mejores competencias del mundo del motor.</desc>
-  </programme>
-  <programme start="20230916050000 -0300" stop="20230916063000 -0300" channel="0435">
-    <title lang="en">Automovilismo - ADAC GT Masters: Sachsenring, carrera 2</title>
-    <desc lang="en">Una mirada a las carreras más emocionantes y las mejores competencias del mundo del motor.</desc>
-  </programme>
-  <programme start="20230916063000 -0300" stop="20230916073000 -0300" channel="0435">
-    <title lang="en">Live: CIK/FIA Karting World Championship - Wackersdorf, finales</title>
-    <desc lang="en">Acción de karting con el World Championship Germany en su etapa Wackersdorf. Categorías KZ, KZ2 y KZ2-Masters.</desc>
-  </programme>
-  <programme start="20230916073000 -0300" stop="20230916080000 -0300" channel="0435">
     <title lang="en">GP Confidential</title>
-    <desc lang="en">Análisis de la parte técnica de todas las escuderías de la Fórmula 1 y de su rendimiento durante los grandes premios disputados.</desc>
+  </programme>
+  <programme start="20230916033000 -0300" stop="20230916043000 -0300" channel="0435">
+    <title lang="en">Live: CIK/FIA Karting World Championship</title>
+  </programme>
+  <programme start="20230916043000 -0300" stop="20230916053000 -0300" channel="0435">
+    <title lang="en">Campeonato Mundial Rally</title>
+  </programme>
+  <programme start="20230916053000 -0300" stop="20230916060000 -0300" channel="0435">
+    <title lang="en">FastZone</title>
+  </programme>
+  <programme start="20230916060000 -0300" stop="20230916063000 -0300" channel="0435">
+    <title lang="en">DSports Motor</title>
+  </programme>
+  <programme start="20230916063000 -0300" stop="20230916070000 -0300" channel="0435">
+    <title lang="en">DSports Motor</title>
+  </programme>
+  <programme start="20230916070000 -0300" stop="20230916080000 -0300" channel="0435">
+    <title lang="en">Campeonato Mundial Rally</title>
   </programme>
   <programme start="20230916080000 -0300" stop="20230916090000 -0300" channel="0435">
-    <title lang="en">World Rally Championship - Grecia. Resumen</title>
-    <desc lang="en">Del 07 al 10 de septiembre llega un nuevo episodio de la WRC 2023. En este episodio se comenta todo sobre el capítulo en Grecia.</desc>
+    <title lang="en">Live: CIK/FIA Karting World Championship</title>
   </programme>
-  <programme start="20230916090000 -0300" stop="20230916100000 -0300" channel="0435">
-    <title lang="en">FIA World Endurance Championship - 6 horas de Fuji, resumen</title>
-    <desc lang="en">EL 10 de septiembre llega la sexta fecha de la WEC 2023: Las 6 horas de Fuji en Shizuoka, al pie del monte Fuji en Japón.</desc>
-  </programme>
-  <programme start="20230916100000 -0300" stop="20230916110000 -0300" channel="0435">
-    <title lang="en">Automovilismo Serie DTM - Sachsenring, resumen</title>
-    <desc lang="en">Lo más destacado de las carreras del Deutsche Tourenwagen Masters, mejor conocido como DTM, disputado en Alemania.</desc>
+  <programme start="20230916090000 -0300" stop="20230916110000 -0300" channel="0435">
+    <title lang="en">Motocross</title>
   </programme>
   <programme start="20230916110000 -0300" stop="20230916130000 -0300" channel="0435">
-    <title lang="en">Automovilismo NASCAR Craftsman Truck Series - UNOH 200</title>
-    <desc lang="en">El 14 de septiembre llega la carrera UNHO 200 de la Nascar Craftsman Truck Series en el Bristol Motor Speedway en Tennessee.</desc>
+    <title lang="en">Motocross</title>
   </programme>
   <programme start="20230916130000 -0300" stop="20230916133000 -0300" channel="0435">
-    <title lang="en">FIA World Rally-Raid Championship - Round 4: Desafio Ruta 40, Argentina</title>
-    <desc lang="en">Repaso al Desafío Ruta 40, cuarta prueba del Campeonato del Mundo FIA de Rallyes de Asfalto 2023.</desc>
+    <title lang="en">FastZone</title>
   </programme>
-  <programme start="20230916133000 -0300" stop="20230916143000 -0300" channel="0435">
-    <title lang="en">Fórmula Regional Europea - Monza, carrera 1</title>
-    <desc lang="en">Acción del del Campeonato de Fórmula Regional Europea.</desc>
+  <programme start="20230916133000 -0300" stop="20230916140000 -0300" channel="0435">
+    <title lang="en">Abriendo pista</title>
   </programme>
-  <programme start="20230916143000 -0300" stop="20230916150000 -0300" channel="0435">
-    <title lang="en">FIA European Truck Racing Championship - FIA European Truck Racing Championship: Zolder, resumen</title>
-    <desc lang="en">La mejor acción de la carrera de FIA Truck Racing que se realiza entre el 8 y 10 de septiembre en el circuito Zolder en Bélgica.</desc>
+  <programme start="20230916140000 -0300" stop="20230916143000 -0300" channel="0435">
+    <title lang="en">Automovilismo Fórmula Regional Europea</title>
   </programme>
-  <programme start="20230916150000 -0300" stop="20230916160000 -0300" channel="0435">
-    <title lang="en">FIA World Endurance Championship - 6 horas de Fuji, resumen</title>
-    <desc lang="en">EL 10 de septiembre llega la sexta fecha de la WEC 2023: Las 6 horas de Fuji en Shizuoka, al pie del monte Fuji en Japón.</desc>
+  <programme start="20230916143000 -0300" stop="20230916153000 -0300" channel="0435">
+    <title lang="en">GT World Challenge Highlights</title>
+  </programme>
+  <programme start="20230916153000 -0300" stop="20230916160000 -0300" channel="0435">
+    <title lang="en">European Rally Championship Highlights</title>
   </programme>
   <programme start="20230916160000 -0300" stop="20230916170000 -0300" channel="0435">
-    <title lang="en">Automovilismo Serie DTM - Sachsenring, resumen</title>
-    <desc lang="en">Lo más destacado de las carreras del Deutsche Tourenwagen Masters, mejor conocido como DTM, disputado en Alemania.</desc>
+    <title lang="en">Fórmula E</title>
   </programme>
   <programme start="20230916170000 -0300" stop="20230916180000 -0300" channel="0435">
-    <title lang="en">World Rally Championship - Grecia. Resumen</title>
-    <desc lang="en">Del 07 al 10 de septiembre llega un nuevo episodio de la WRC 2023. En este episodio se comenta todo sobre el capítulo en Grecia.</desc>
+    <title lang="en">Fórmula E</title>
   </programme>
-  <programme start="20230916180000 -0300" stop="20230916190000 -0300" channel="0435">
-    <title lang="en">Live: CIK/FIA Karting World Championship - Wackersdorf, finales</title>
-    <desc lang="en">Acción de karting con el World Championship Germany en su etapa Wackersdorf. Categorías KZ, KZ2 y KZ2-Masters.</desc>
+  <programme start="20230916180000 -0300" stop="20230916183000 -0300" channel="0435">
+    <title lang="en">DSports Motor</title>
+  </programme>
+  <programme start="20230916183000 -0300" stop="20230916190000 -0300" channel="0435">
+    <title lang="en">Campeonato Mundial Rally</title>
   </programme>
   <programme start="20230916190000 -0300" stop="20230916200000 -0300" channel="0435">
-    <title lang="en">Fórmula Regional Europea - Monza, carrera 1</title>
-    <desc lang="en">Acción del del Campeonato de Fórmula Regional Europea.</desc>
-  </programme>
-  <programme start="20230916200000 -0300" stop="20230916223000 -0300" channel="0435">
-    <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Food City 300</title>
-    <desc lang="en">Acción de las carreras de NASCAR Xfinity Racing Series.</desc>
-  </programme>
-  <programme start="20230916223000 -0300" stop="20230916233000 -0300" channel="0435">
-    <title lang="en">World Rally Championship - Grecia. Resumen</title>
-    <desc lang="en">Del 07 al 10 de septiembre llega un nuevo episodio de la WRC 2023. En este episodio se comenta todo sobre el capítulo en Grecia.</desc>
-  </programme>
-  <programme start="20230916233000 -0300" stop="20230917033000 -0300" channel="0435">
-    <title lang="en">Automovilismo NASCAR Cup Series - Bass Pro Shops Night Race</title>
-    <desc lang="en">Desde el Bristol Motor Speedway en Bristol, Tennessee, Estados Unidos.</desc>
+    <title lang="en">GT World Challenge Highlights</title>
   </programme>
 </tv>
