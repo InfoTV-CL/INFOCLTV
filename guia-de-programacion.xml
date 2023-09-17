@@ -825,214 +825,6 @@
     <icon src="https://i.ibb.co/3ff9hNj/0435.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
-    <desc lang="en">Sin información.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
-    <desc lang="en">Sin información.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
-    <desc lang="en">Sin información.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
-    <desc lang="en">Sin información.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
-    <desc lang="en">Sin información.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
-    <desc lang="en">Sin información.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
-    <desc lang="en">Sin información.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="9999">
-    <title lang="en">Contenido variado</title>
-    <desc lang="en">Sin información.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="9998">
-    <title lang="en">Canal no disponible</title>
-    <desc lang="en">Esta señal no se encuentra disponible actualmente.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="9998">
-    <title lang="en">Canal no disponible</title>
-    <desc lang="en">Esta señal no se encuentra disponible actualmente.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="9998">
-    <title lang="en">Canal no disponible</title>
-    <desc lang="en">Esta señal no se encuentra disponible actualmente.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="9998">
-    <title lang="en">Canal no disponible</title>
-    <desc lang="en">Esta señal no se encuentra disponible actualmente.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="9998">
-    <title lang="en">Canal no disponible</title>
-    <desc lang="en">Esta señal no se encuentra disponible actualmente.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="9998">
-    <title lang="en">Canal no disponible</title>
-    <desc lang="en">Esta señal no se encuentra disponible actualmente.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="9998">
-    <title lang="en">Canal no disponible</title>
-    <desc lang="en">Esta señal no se encuentra disponible actualmente.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="9998">
-    <title lang="en">Canal no disponible</title>
-    <desc lang="en">Esta señal no se encuentra disponible actualmente.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0000">
-    <title lang="en">Canal guía</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0000">
-    <title lang="en">Canal guía</title>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0000">
-    <title lang="en">Canal guía</title>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0000">
-    <title lang="en">Canal guía</title>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0000">
-    <title lang="en">Canal guía</title>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0000">
-    <title lang="en">Canal guía</title>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0000">
-    <title lang="en">Canal guía</title>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0000">
-    <title lang="en">Canal guía</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0001">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0001">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0001">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0001">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0001">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0001">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0001">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0001">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0002">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0002">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0002">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0002">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0002">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0002">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0002">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0002">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0003">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0003">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0003">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0003">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0003">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0003">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0003">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0003">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0004">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0004">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0004">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0004">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0004">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0004">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0004">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0004">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0005">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0005">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0005">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0005">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0005">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0005">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0005">
-    <title lang="en">Sin evento programado</title>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0005">
-    <title lang="en">Sin evento programado</title>
-  </programme>
   <programme start="20230917053000 -0300" stop="20230917190000 -0300" channel="0101">
     <title lang="es">Swiss nature labs</title>
     <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
@@ -2246,48 +2038,6 @@
     <title lang="es">Tiempos violentos</title>
     <desc lang="es">En tiempos donde la inseguridad y la violencia parecen ser las protagonistas de nuestras vidas, decidimos enfrentar los problemas a tiempo. Un espaciode conversación, análisis y reflexión donde expertos intentarán encontrar las respuestas para enfrentar un gran desafío, erradicar la violencia.</desc>
   </programme>
-  <programme start="20230917013000 -0300" stop="20230917020000 -0300" channel="0113">
-    <title lang="en">Quinto patrimonio</title>
-    <sub-title lang="en">Cueca Porteña</sub-title>
-    <desc lang="en">Serie que tiene por objetivo mostrar el patrimonio inmaterial de la quinta region, a traves de actividades de representacion cultural como son las costumbres, rituales, festividades, cultores, entre otros referentes. abarca las distintas provincias del territorio, con entrevistas de personajes relevantes en los distintos temas.</desc>
-  </programme>
-  <programme start="20230917020000 -0300" stop="20230917030000 -0300" channel="0113">
-    <title lang="en">City Tour</title>
-    <sub-title lang="en">Exposicion nemesio antunez en el MNBA</sub-title>
-    <desc lang="en">Federico Sánchez y Marcelo Comparini nos llevan a descubrir las maravillas arquitectónicas que ofrece la ciudad de Santiago, además de mostrar parte del patrimonio que se mantiene intacto en algunas regiones de nuestro país.</desc>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917040000 -0300" channel="0113">
-    <title lang="en">Recomiendo Chile</title>
-    <sub-title lang="en">Copiapó: sabores ancestrales</sub-title>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917050000 -0300" channel="0113">
-    <title lang="en">Cultura sagrada</title>
-    <sub-title lang="en">Camino al crematorio</sub-title>
-    <desc lang="en">Claudio Iturra en una exploración de uno de los lugares más atractivos y bellos del planeta tierra, India. Conoceremos de cerca el hinduismo, el sistema de castas, pobreza, vacas sagradas, templos y cremaciones en esta imperdible aventura.</desc>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917060000 -0300" channel="0113">
-    <title lang="en">Plan V</title>
-    <sub-title lang="en">Desde los árboles</sub-title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917070000 -0300" channel="0113">
-    <title lang="en">City Tour</title>
-    <sub-title lang="en">Pedro de Valdivia con Pocuro</sub-title>
-    <desc lang="en">Federico Sánchez y Marcelo Comparini recorren ciudades para mostrar la arquitectura patrimonial.</desc>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917073000 -0300" channel="0113">
-    <title lang="en">Corta por lo sano</title>
-    <sub-title lang="en">Barrio Vitacura</sub-title>
-    <desc lang="en">Cada vez las personas se están interesando más en los productos que consumen, y es por esta razón que junto a Antonia Tagle, blogger y chef de "cocina y alimentación consciente", realizaremos una ruta por capitulo en búsqueda de los mejores datos e ingredientes, para crear sabrosos y saludables experiencias gastronómicas.</desc>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917080000 -0300" channel="0113">
-    <title lang="en">Misa</title>
-    <desc lang="en">Se realiza el sacramento de la Eucaristía, centro y compendio de todo el Cristianismo.</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917090000 -0300" channel="0113">
-    <title lang="en">Cocina sin fronteras</title>
-    <sub-title lang="en">Paises Árabes</sub-title>
-    <desc lang="en">La comunidad árabe es una de las más nutridas de Chile. Sin ir más lejos, en nuestro país vive la población más numerosa de palestinos fuera del Medio Oriente. Hospitalarios y con un apego muy fuerte a sus ritos familiares, compartir con ellos es siempre una experiencia cálida y sabrosa. Mikel Zulueta recorrió los barrios de Santiago en busca su recetario más tradicional.</desc>
-  </programme>
   <programme start="20230917090000 -0300" stop="20230917100000 -0300" channel="0113">
     <title lang="en">Secretos para sanar</title>
     <sub-title lang="en">Resumen</sub-title>
@@ -3034,10 +2784,6 @@
   <programme start="20230919040000 -0300" stop="20230919050000 -0300" channel="0121">
     <title lang="es">Como la vida misma</title>
     <desc lang="es">Sole (Sigrid Alegría) y Alonso (Diego Muñoz) bordean los 50 años y encuentran una segunda oportunidad para el amor. Así comienza el desafío de construir una nueva familia, ensamblando a los hijos de ambos pero también a los ex y hasta a los suegros.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917090000 -0300" channel="0124">
-    <title lang="en">Notas y reportajes</title>
-    <desc lang="en">Los mejores y más interesantes reportajes de la actualidad nacional e internacional.</desc>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917110000 -0300" channel="0124">
     <title lang="en">Teletrece a la hora</title>
@@ -4707,202 +4453,6 @@
   <programme start="20230918231500 -0300" stop="20230919000000 -0300" channel="0205">
     <title lang="es">DocFilm</title>
   </programme>
-  <programme start="20230917013000 -0300" stop="20230917014500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917014500 -0300" stop="20230917015900 -0300" channel="0206">
-    <title lang="en">Escala en París</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917015900 -0300" stop="20230917020000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917020000 -0300" stop="20230917021500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (live).</desc>
-  </programme>
-  <programme start="20230917021500 -0300" stop="20230917022900 -0300" channel="0206">
-    <title lang="en">Corresponsales</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917022900 -0300" stop="20230917023000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917023000 -0300" stop="20230917024500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917024500 -0300" stop="20230917025900 -0300" channel="0206">
-    <title lang="en">Aquí América</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917025900 -0300" stop="20230917030000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917031500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917031500 -0300" stop="20230917032900 -0300" channel="0206">
-    <title lang="en">En primera plana</title>
-    <desc lang="en">Analistas y corresponsales extranjeros en París comentan lo más candente de la actualidad. (repeat).</desc>
-  </programme>
-  <programme start="20230917032900 -0300" stop="20230917033000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917033000 -0300" stop="20230917034500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917034500 -0300" stop="20230917035900 -0300" channel="0206">
-    <title lang="en">En primera plana</title>
-    <desc lang="en">Analistas y corresponsales extranjeros en París comentan lo más candente de la actualidad. (repeat).</desc>
-  </programme>
-  <programme start="20230917035900 -0300" stop="20230917040000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917041500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917041500 -0300" stop="20230917042200 -0300" channel="0206">
-    <title lang="en">Salud</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917042200 -0300" stop="20230917042900 -0300" channel="0206">
-    <title lang="en">Historia</title>
-    <desc lang="en">France 24 vuelve sobre las fechas más grandes de la Historia en América Latina y en el resto del mundo, poniéndolas en perspectiva con la actualidad. (repeat).</desc>
-  </programme>
-  <programme start="20230917042900 -0300" stop="20230917043000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917043000 -0300" stop="20230917044500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917044500 -0300" stop="20230917045900 -0300" channel="0206">
-    <title lang="en">El Expreso de Oriente</title>
-    <desc lang="en">Espacio dedicado a repasar la actualidad política, económica y social del panorama internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917045900 -0300" stop="20230917050000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917051000 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (live).</desc>
-  </programme>
-  <programme start="20230917051000 -0300" stop="20230917051600 -0300" channel="0206">
-    <title lang="en">Ciencia y tecnología</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917051600 -0300" stop="20230917052900 -0300" channel="0206">
-    <title lang="en">Europa hoy</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917052900 -0300" stop="20230917053000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917053000 -0300" stop="20230917054000 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917054000 -0300" stop="20230917054600 -0300" channel="0206">
-    <title lang="en">Moda</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917054600 -0300" stop="20230917055900 -0300" channel="0206">
-    <title lang="en">Carrusel de las artes</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917055900 -0300" stop="20230917060000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917061000 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917061000 -0300" stop="20230917062900 -0300" channel="0206">
-    <title lang="en">Boleto de vuelta</title>
-    <desc lang="en">Los reporteros y corresponsales de France 24 vuelven a lugares traumatizados en el pasado. (repeat).</desc>
-  </programme>
-  <programme start="20230917062900 -0300" stop="20230917063000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917063000 -0300" stop="20230917064000 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917064000 -0300" stop="20230917064500 -0300" channel="0206">
-    <title lang="en">En 5 minutos</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917064500 -0300" stop="20230917065100 -0300" channel="0206">
-    <title lang="en">Migrantes</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917065100 -0300" stop="20230917065900 -0300" channel="0206">
-    <title lang="en">En foco</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917065900 -0300" stop="20230917070000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917071500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (live).</desc>
-  </programme>
-  <programme start="20230917071500 -0300" stop="20230917072000 -0300" channel="0206">
-    <title lang="en">Deportes</title>
-    <desc lang="en">(live).</desc>
-  </programme>
-  <programme start="20230917072000 -0300" stop="20230917072900 -0300" channel="0206">
-    <title lang="en">Esto es Francia</title>
-    <desc lang="en">Lugares de prestigio, tradiciones, artes, gastronomía y especialidades locales: esto es Francia. (repeat).</desc>
-  </programme>
-  <programme start="20230917072900 -0300" stop="20230917073000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917074500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230917074500 -0300" stop="20230917075900 -0300" channel="0206">
-    <title lang="en">Escala en París</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917075900 -0300" stop="20230917080000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917081500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (live).</desc>
-  </programme>
-  <programme start="20230917081500 -0300" stop="20230917082000 -0300" channel="0206">
-    <title lang="en">Economía</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917082000 -0300" stop="20230917085900 -0300" channel="0206">
-    <title lang="en">Una semana en el mundo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230917085900 -0300" stop="20230917090000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
   <programme start="20230917090000 -0300" stop="20230917091500 -0300" channel="0206">
     <title lang="en">Noticias</title>
     <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
@@ -6247,68 +5797,6 @@
   <programme start="20230918230000 -0300" stop="20230919000000 -0300" channel="0211">
     <title lang="es">CNN Prime Time</title>
     <desc lang="es">Las últimas noticias, los principales titulares de la jornada, entrevistas a invitados especiales y más.</desc>
-  </programme>
-  <programme start="20230917013000 -0300" stop="20230917020000 -0300" channel="0212">
-    <title lang="en">Click</title>
-    <desc lang="en">A look at recent products and developments relating to the Internet.</desc>
-  </programme>
-  <programme start="20230917020000 -0300" stop="20230917023000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230917023000 -0300" stop="20230917030000 -0300" channel="0212">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">The host presents an analysis of the latest business stories and global economic trends.</desc>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917033000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230917033000 -0300" stop="20230917040000 -0300" channel="0212">
-    <title lang="en">The Travel Show</title>
-    <desc lang="en">The best of travel around the globe.</desc>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917043000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230917043000 -0300" stop="20230917050000 -0300" channel="0212">
-    <title lang="en">Brain Hacks</title>
-    <desc lang="en">Science journalist Melissa Hogenboom sets out to understand more about the brain's capabilities.</desc>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917053000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230917053000 -0300" stop="20230917060000 -0300" channel="0212">
-    <title lang="en">Island Games: One Sporting Family</title>
-    <desc lang="en">Every two years, over 2000 athletes compete at the international Island Games.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917063000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230917063000 -0300" stop="20230917070000 -0300" channel="0212">
-    <title lang="en">This Cultural Life</title>
-    <sub-title lang="en">Margaret Atwood</sub-title>
-    <desc lang="en">A spotlight on author Margaret Atwood, as she shares her experienced that helped with her writing. (repeat).</desc>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917073000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917080000 -0300" channel="0212">
-    <title lang="en">Panorama</title>
-    <sub-title lang="en">The Dark Side of Ballet Schools</sub-title>
-    <desc lang="en">An investigative documentary exploring the dark side of ballet. (repeat).</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917083000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230917083000 -0300" stop="20230917090000 -0300" channel="0212">
-    <title lang="en">HARDtalk</title>
-    <desc lang="en">Interviews with newsmakers and personalities from around the world.</desc>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917093000 -0300" channel="0212">
     <title lang="en">BBC News</title>
@@ -12178,9 +11666,6 @@
   <programme start="20230917233000 -0300" stop="20230918000000 -0300" channel="0310">
     <title lang="es">Noches de ensueño</title>
   </programme>
-  <programme start="20230918043000 -0300" stop="20230918050000 -0300" channel="0310">
-    <title lang="es">Sonidos Relajantes</title>
-  </programme>
   <programme start="20230918113000 -0300" stop="20230918120000 -0300" channel="0310">
     <title lang="es">Que día tan maravilloso</title>
   </programme>
@@ -12292,66 +11777,6 @@
   </programme>
   <programme start="20230919234500 -0300" stop="20230920003500 -0300" channel="0318">
     <title lang="es">Sincronía</title>
-  </programme>
-  <programme start="20230917013000 -0300" stop="20230917020000 -0300" channel="0320">
-    <title lang="en">Doraemon, el gato cósmico</title>
-    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
-  </programme>
-  <programme start="20230917020000 -0300" stop="20230917023000 -0300" channel="0320">
-    <title lang="en">Doraemon, el gato cósmico</title>
-    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
-  </programme>
-  <programme start="20230917023000 -0300" stop="20230917030000 -0300" channel="0320">
-    <title lang="en">Doraemon, el gato cósmico</title>
-    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917033000 -0300" channel="0320">
-    <title lang="en">Doraemon, el gato cósmico</title>
-    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
-  </programme>
-  <programme start="20230917033000 -0300" stop="20230917040000 -0300" channel="0320">
-    <title lang="en">Doraemon, el gato cósmico</title>
-    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917043000 -0300" channel="0320">
-    <title lang="en">Doraemon, el gato cósmico</title>
-    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
-  </programme>
-  <programme start="20230917043000 -0300" stop="20230917050000 -0300" channel="0320">
-    <title lang="en">Doraemon, el gato cósmico</title>
-    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917053000 -0300" channel="0320">
-    <title lang="en">Doraemon, el gato cósmico</title>
-    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
-  </programme>
-  <programme start="20230917053000 -0300" stop="20230917060000 -0300" channel="0320">
-    <title lang="en">Tsukiuta</title>
-    <desc lang="en">Doce miembros de dos grupos musicales rivales intentan coexistir en el mismo dormitorio.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917063000 -0300" channel="0320">
-    <title lang="en">Soy una Diosa ¿Y ahora qué?</title>
-    <desc lang="en">Tras perder su casa, un misterioso joven le ofrece a Nanami la oportunidad de ser una diosa.</desc>
-  </programme>
-  <programme start="20230917063000 -0300" stop="20230917070000 -0300" channel="0320">
-    <title lang="en">Soy una Diosa ¿Y ahora qué?</title>
-    <desc lang="en">Tras perder su casa, un misterioso joven le ofrece a Nanami la oportunidad de ser una diosa.</desc>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917073000 -0300" channel="0320">
-    <title lang="en">Soy una Diosa ¿Y ahora qué?</title>
-    <desc lang="en">Tras perder su casa, un misterioso joven le ofrece a Nanami la oportunidad de ser una diosa.</desc>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917080000 -0300" channel="0320">
-    <title lang="en">Soy una Diosa ¿Y ahora qué?</title>
-    <desc lang="en">Tras perder su casa, un misterioso joven le ofrece a Nanami la oportunidad de ser una diosa.</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917083000 -0300" channel="0320">
-    <title lang="en">Soy una Diosa ¿Y ahora qué?</title>
-    <desc lang="en">Tras perder su casa, un misterioso joven le ofrece a Nanami la oportunidad de ser una diosa.</desc>
-  </programme>
-  <programme start="20230917083000 -0300" stop="20230917090000 -0300" channel="0320">
-    <title lang="en">The Knight In The Area</title>
-    <desc lang="en">Kakeru Aizawa es el hermano menor de Suguru, un prodigio del fútbol de la selección sub-15 de Japón.</desc>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917093000 -0300" channel="0320">
     <title lang="en">The Knight In The Area</title>
@@ -12641,30 +12066,6 @@
     <title lang="en">Supercampeones Off Road 2002</title>
     <desc lang="en">Tsubasa juega su último partido en el Sao Paulo contra el Brancos FC. Luego,.</desc>
   </programme>
-  <programme start="20230917010000 -0300" stop="20230917020000 -0300" channel="0321">
-    <title lang="en">Poco se habla</title>
-  </programme>
-  <programme start="20230917020000 -0300" stop="20230917030000 -0300" channel="0321">
-    <title lang="en">Nostalgeeks</title>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917040000 -0300" channel="0321">
-    <title lang="en">RGB</title>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917050000 -0300" channel="0321">
-    <title lang="en">El lobby</title>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917060000 -0300" channel="0321">
-    <title lang="en">Poco se habla</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917070000 -0300" channel="0321">
-    <title lang="en">Nostalgeeks</title>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917080000 -0300" channel="0321">
-    <title lang="en">RGB</title>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917090000 -0300" channel="0321">
-    <title lang="en">El lobby</title>
-  </programme>
   <programme start="20230917090000 -0300" stop="20230917100000 -0300" channel="0321">
     <title lang="en">Poco se habla</title>
   </programme>
@@ -12783,46 +12184,6 @@
   </programme>
   <programme start="20230918203000 -0300" stop="20230918210000 -0300" channel="0321">
     <title lang="en">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0400">
-    <title lang="en">Portal deportivo</title>
-    <sub-title lang="en">Horarios y marcador en vivo</sub-title>
-    <desc lang="en">Vista en vivo de los resultados deportivos y horarios de los próximos encuentros que ocurrirán durante el día.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0400">
-    <title lang="en">Portal deportivo</title>
-    <sub-title lang="en">Horarios y marcador en vivo</sub-title>
-    <desc lang="en">Vista en vivo de los resultados deportivos y horarios de los próximos encuentros que ocurrirán durante el día.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0400">
-    <title lang="en">Portal deportivo</title>
-    <sub-title lang="en">Horarios y marcador en vivo</sub-title>
-    <desc lang="en">Vista en vivo de los resultados deportivos y horarios de los próximos encuentros que ocurrirán durante el día.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0400">
-    <title lang="en">Portal deportivo</title>
-    <sub-title lang="en">Horarios y marcador en vivo</sub-title>
-    <desc lang="en">Vista en vivo de los resultados deportivos y horarios de los próximos encuentros que ocurrirán durante el día.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0400">
-    <title lang="en">Portal deportivo</title>
-    <sub-title lang="en">Horarios y marcador en vivo</sub-title>
-    <desc lang="en">Vista en vivo de los resultados deportivos y horarios de los próximos encuentros que ocurrirán durante el día.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0400">
-    <title lang="en">Portal deportivo</title>
-    <sub-title lang="en">Horarios y marcador en vivo</sub-title>
-    <desc lang="en">Vista en vivo de los resultados deportivos y horarios de los próximos encuentros que ocurrirán durante el día.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0400">
-    <title lang="en">Portal deportivo</title>
-    <sub-title lang="en">Horarios y marcador en vivo</sub-title>
-    <desc lang="en">Vista en vivo de los resultados deportivos y horarios de los próximos encuentros que ocurrirán durante el día.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0400">
-    <title lang="en">Portal deportivo</title>
-    <sub-title lang="en">Horarios y marcador en vivo</sub-title>
-    <desc lang="en">Vista en vivo de los resultados deportivos y horarios de los próximos encuentros que ocurrirán durante el día.</desc>
   </programme>
   <programme start="20230917012500 -0300" stop="20230917035500 -0300" channel="0401">
     <title lang="es">Campeonato Ascenso Betsson 2023: Deportes Santa Cruz vs. Deportes Antofagasta, Fecha 23, Estadio Municipal Joaquín Muñoz García</title>
@@ -13196,13 +12557,6 @@
     <title lang="es">Copa Chile Easy 2023: Colo Colo vs. Universidad Católica , Final - Vuelta, Estadio Monumental, Santiago</title>
     <desc lang="es">Colo Colo vs. Universidad Católica , Final - Vuelta, Estadio Monumental, Santiago. Vive los partidos de la 43º edición del tradicional torneo de copa entre clubes de Chile, quienes buscarán el cupo de Chile 4, para la Copa Libertadores 2023. Los amantes del deporte podrán disfrutar de los partidos más emocionantes de la mano de los equipos más destacados a nviel nacional.</desc>
   </programme>
-  <programme start="20230916233500 -0300" stop="20230917060000 -0300" channel="0404">
-    <title lang="en">Deporte: Será Anunciado</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917070000 -0300" channel="0404">
-    <title lang="en">Replay</title>
-    <desc lang="en">Programa deportivo centrado en los deportes alternativos y de motor, que incluye amplia cobertura de los eventos clave y los últimos resultados generados durante el fin de semana.</desc>
-  </programme>
   <programme start="20230917070000 -0300" stop="20230917110000 -0300" channel="0404">
     <title lang="en">Deporte: Será Anunciado</title>
   </programme>
@@ -13324,39 +12678,6 @@
   </programme>
   <programme start="20230918193000 -0300" stop="20230918200000 -0300" channel="0405">
     <title lang="en">Lo mejor de Le Classique: Paris Saint Germain vs. Marseille - 90 in 30</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917020000 -0300" channel="0407">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <sub-title lang="en">2023: New Orleans Pelicans at Minnesota Timberwolves</sub-title>
-  </programme>
-  <programme start="20230917020000 -0300" stop="20230917023000 -0300" channel="0407">
-    <title lang="en">WNBA Weekly</title>
-    <desc lang="en">A weekly show featuring news from around the WNBA.</desc>
-  </programme>
-  <programme start="20230917023000 -0300" stop="20230917030000 -0300" channel="0407">
-    <title lang="en">WNBA Weekly</title>
-    <desc lang="en">A weekly show featuring news from around the WNBA.</desc>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917050000 -0300" channel="0407">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <sub-title lang="en">2023: Los Angeles Lakers at Los Angeles Clippers</sub-title>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917053000 -0300" channel="0407">
-    <title lang="en">WNBA Weekly</title>
-    <desc lang="en">A weekly show featuring news from around the WNBA.</desc>
-  </programme>
-  <programme start="20230917053000 -0300" stop="20230917060000 -0300" channel="0407">
-    <title lang="en">WNBA Weekly</title>
-    <desc lang="en">A weekly show featuring news from around the WNBA.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917070000 -0300" channel="0407">
-    <title lang="en">High Tops: Plays of the Month</title>
-    <sub-title lang="en">Best of 2022-23 Season</sub-title>
-    <desc lang="en">Spotlighting memorable and notable plays from the 2022-23 NBA season.</desc>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917090000 -0300" channel="0407">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <sub-title lang="en">2023: Denver Nuggets at Phoenix Suns</sub-title>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917093000 -0300" channel="0407">
     <title lang="en">WNBA Weekly</title>
@@ -14431,30 +13752,6 @@
   <programme start="20230918120000 -0300" stop="20230919000000 -0300" channel="0422">
     <title lang="en">Deporte: Será Anunciado</title>
   </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0423">
-    <title lang="en">Zapping Sports</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0423">
-    <title lang="en">Zapping Sports</title>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0423">
-    <title lang="en">Zapping Sports</title>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0423">
-    <title lang="en">Zapping Sports</title>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0423">
-    <title lang="en">Zapping Sports</title>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0423">
-    <title lang="en">Zapping Sports</title>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0423">
-    <title lang="en">Zapping Sports</title>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0423">
-    <title lang="en">Zapping Sports</title>
-  </programme>
   <programme start="20230917010000 -0300" stop="20230917012000 -0300" channel="0427">
     <title lang="es">LaLiga Zap Internacional</title>
   </programme>
@@ -14916,7 +14213,7 @@
     <sub-title lang="es">Bayern Múnich - Bayer Leverkusen</sub-title>
     <desc lang="es">Tuchel contra Xabi Alonso. Los dos equipos invictos de la Bundesliga que suman nueve puntos. El cansancio de los internacionales y la llegada de las competiciones europeas condicionan el partido. El duelo Kane versus Boniface está servido.</desc>
     <star-rating system="ES">
-      <value>3/7</value>
+      <value>3/8</value>
     </star-rating>
   </programme>
   <programme start="20230918170000 +0200" stop="20230918173000 +0200" channel="0428">
@@ -15614,18 +14911,6 @@
   <programme start="20230918180000 -0300" stop="20230918200000 -0300" channel="0436">
     <title lang="en">City TV - 2023-2024 EPL: West Ham United vs Manchester City</title>
   </programme>
-  <programme start="20230917010000 -0300" stop="20230917030000 -0300" channel="0504">
-    <title lang="en">Hot Ranking</title>
-    <desc lang="en">Conteo de las 21 canciones más populares.</desc>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917040000 -0300" channel="0504">
-    <title lang="en">Formula HTV</title>
-    <desc lang="en">Un espacio que presenta los artistas que inician una carrera con gran proyección.</desc>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917070000 -0300" channel="0504">
-    <title lang="en">HTV fiesta</title>
-    <desc lang="en">El programa que reúne los videos más alegres, divertidos y contagiosos para acompañarte en todo momento y hacer de tu vida una fiesta.</desc>
-  </programme>
   <programme start="20230917070000 -0300" stop="20230917110000 -0300" channel="0504">
     <title lang="en">HTV Raíces</title>
     <desc lang="en">Un espacio para los ritmos latinos.</desc>
@@ -15685,14 +14970,6 @@
   <programme start="20230918190000 -0300" stop="20230918210000 -0300" channel="0504">
     <title lang="en">Hot Ranking</title>
     <desc lang="en">Conteo de las 21 canciones más populares.</desc>
-  </programme>
-  <programme start="20230917010000 -0300" stop="20230917050000 -0300" channel="0518">
-    <title lang="en">Los 60</title>
-    <desc lang="en">Los grandes eventos e hitos de la década de 1960 se exploran en esta serie documental.</desc>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917070000 -0300" channel="0518">
-    <title lang="en">Q Clásicos</title>
-    <desc lang="en">Un viaje por los éxitos más destacados de los últimos quince años.</desc>
   </programme>
   <programme start="20230917070000 -0300" stop="20230917093000 -0300" channel="0518">
     <title lang="en">Dulce Despertar</title>
@@ -16118,49 +15395,6 @@
   <programme start="20230917003000 -0300" stop="20230917015100 -0300" channel="0601">
     <title lang="es">Masterchef Celebrity Colombia</title>
   </programme>
-  <programme start="20230917044800 -0300" stop="20230917053800 -0300" channel="0602">
-    <title lang="es">Los autos más veloces del sur</title>
-    <sub-title lang="es">Qué pesadilla de Camaro</sub-title>
-    <desc lang="es">Uno de los miembros del equipo tiene un Camaro polvoriento en el garaje que necesita más que una limpieza. Las piezas nuevas y un ajuste profesional prometen hacerlo perfecto.</desc>
-  </programme>
-  <programme start="20230917053800 -0300" stop="20230917062500 -0300" channel="0602">
-    <title lang="es">Chatarra de Oro</title>
-    <sub-title lang="es">El capitán</sub-title>
-    <desc lang="es">Con la ayuda de Dave Jensen y un poco de tecnología, Andy está seguro de que la grúa Hot Wheels finalmente puede romper el récord de velocidad. Bobby cree que Andy se volvió loco, pues quiere construir una estatua gigante con piezas de automóviles.</desc>
-  </programme>
-  <programme start="20230917062500 -0300" stop="20230917071200 -0300" channel="0602">
-    <title lang="es">Trans Am</title>
-    <sub-title lang="es">El gran Vista</sub-title>
-    <desc lang="es">Scott acepta una gran apuesta cuando coloca un motor de SLX nuevo en un Vista Cruiser de 1970, sin importar los deseos del cliente. En Worldwide, la modificación del Trans Am amenaza con arruinar la operación.</desc>
-  </programme>
-  <programme start="20230917071200 -0300" stop="20230917080000 -0300" channel="0602">
-    <title lang="es">Overhaulin'</title>
-    <sub-title lang="es">El Plymouth Barracuda 1970 de Cathlene</sub-title>
-    <desc lang="es">Chip y el equipo trabaja en un Plymouth Barracuda de 1970 que una enfermera compró a su abuela casi 25 años antes.</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917084700 -0300" channel="0602">
-    <title lang="es">Alto octanaje en Las Vegas</title>
-    <sub-title lang="es">El verdadero hombre de hierro</sub-title>
-    <desc lang="es">El equipo de Welder Up tiene solo dos semanas para construir el motor del vehículo de Tyrone e instalarlo.</desc>
-  </programme>
-  <programme start="20230917084700 -0300" stop="20230917093400 -0300" channel="0602">
-    <title lang="es">ADN mecánico</title>
-    <sub-title lang="es">La batalla</sub-title>
-    <desc lang="es">Los DeBerti construyen un vehículo todoterreno épico. La primera carrera de asfalto de Brad le deja una valiosa lección tras verse involucrado en un accidente de alta velocidad.</desc>
-  </programme>
-  <programme start="20230917093400 -0300" stop="20230917102100 -0300" channel="0602">
-    <title lang="es">Galpin Auto Sports</title>
-    <sub-title lang="es">El Resto-MACH 22</sub-title>
-    <desc lang="es">El equipo construye un icónico Mustang Mach-1 de 1972 para satisfacer a la superestrella de NASCAR Joey Logano. Además, Beau realiza una parada técnica en el SEMA para entregar un GT de 2019.</desc>
-  </programme>
-  <programme start="20230917102100 -0300" stop="20230917110900 -0300" channel="0602">
-    <title lang="es">Carreras ProhibidasNoches de competencia</title>
-    <desc lang="es">Los pilotos se enfrentan en California, Ohio y Oklahoma.</desc>
-  </programme>
-  <programme start="20230917110900 -0300" stop="20230917115700 -0300" channel="0602">
-    <title lang="es">Acumuladores sobre ruedas</title>
-    <desc lang="es">Rick y Chuck personalizan una camioneta Dodge de 1937 para un afligido padre; Michael construye un coche de demostración para James Hetfield.</desc>
-  </programme>
   <programme start="20230917115700 -0300" stop="20230917124800 -0300" channel="0602">
     <title lang="es">Acumuladores sobre ruedas</title>
     <sub-title lang="es">Ford Mercury</sub-title>
@@ -16409,142 +15643,142 @@
     <sub-title lang="es">Vender para comprar</sub-title>
     <desc lang="es">Julie y Blake tienen tres niños de menos de tres años y necesitan un lugar más grande. Lo que buscan es una casa espaciosa en una planta, con todas las comodidades. Pero si no renuevan su casa actual y la venden a buen precio, no irán a ninguna parte.</desc>
   </programme>
-  <programme start="20230917071000 -0300" stop="20230917075800 -0300" channel="0603">
+  <programme start="20230917071000 -0300" stop="20230917075500 -0300" channel="0603">
     <title lang="es">Hermanos a la obra</title>
     <sub-title lang="es">Hermanos a la obra</sub-title>
     <desc lang="es">Desde que se mudaron por el trabajo de sus sueños, Jaeme, Bliss y sus dos pequeños, se han quedado con amigos en la gran ciudad. Necesitan encontrar su propio hogar, pero las probabilidades están en su contra.</desc>
   </programme>
-  <programme start="20230917075800 -0300" stop="20230917084500 -0300" channel="0603">
+  <programme start="20230917075500 -0300" stop="20230917084200 -0300" channel="0603">
     <title lang="es">Hermanos a la obra</title>
     <sub-title lang="es">Hermanos a la obra</sub-title>
     <desc lang="es">Sarah y Kevin pasaron años renovando su pequeña casa. Pero con un bebé y el cambio de prioridades, han superado su espacio compacto y están desesperados por una casa suburbana con todo lo necesario.</desc>
   </programme>
-  <programme start="20230917084500 -0300" stop="20230917093200 -0300" channel="0603">
+  <programme start="20230917084200 -0300" stop="20230917092800 -0300" channel="0603">
     <title lang="es">Hermanos a la obra</title>
     <sub-title lang="es">Hermanos a la obra</sub-title>
     <desc lang="es">Paralizados por la indecisión y cansados de alquilar, Kristi y Jay están desesperados por comprar una casa. Los ayudarán a hallar la casa de sus sueños con el dinero que tienen y a renovarla a tiempo.</desc>
   </programme>
-  <programme start="20230917093200 -0300" stop="20230917102500 -0300" channel="0603">
+  <programme start="20230917092800 -0300" stop="20230917101800 -0300" channel="0603">
     <title lang="es">Hermanos a la obra</title>
     <sub-title lang="es">Hermanos a la obra</sub-title>
     <desc lang="es">Luke y Courtney viven en una casa pequeña con una hija de dos años y mellizos recién nacidos. Necesitan una casa nueva con urgencia y los ayudarán a hallar la casa de sus sueños con el dinero que tienen y a renovarla a tiempo.</desc>
   </programme>
-  <programme start="20230917102500 -0300" stop="20230917112100 -0300" channel="0603">
+  <programme start="20230917101800 -0300" stop="20230917111200 -0300" channel="0603">
     <title lang="es">Hermanos a la obra</title>
     <sub-title lang="es">Hermanos a la obra</sub-title>
     <desc lang="es">April trabaja mucho y quiere mudarse a una casa mejor en el centro de la ciudad. Se los ayudará a hallar la casa de sus sueños con el dinero que tienen y a renovarla a tiempo.</desc>
   </programme>
-  <programme start="20230917112100 -0300" stop="20230917121700 -0300" channel="0603">
+  <programme start="20230917111200 -0300" stop="20230917120600 -0300" channel="0603">
     <title lang="es">Hermanos a la obra</title>
     <sub-title lang="es">Hermanos a la obra</sub-title>
     <desc lang="es">Estos dos hermanos tienen como objetivo ayudar a las parejas a encontrar, comprar y transformar propiedades desastrosas en la casa de sus sueños.</desc>
   </programme>
-  <programme start="20230917121700 -0300" stop="20230917131200 -0300" channel="0603">
+  <programme start="20230917120600 -0300" stop="20230917130000 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">Una pareja recorrió más de 50 casas antes de encontrar la ideal. Drew y Jonathan se encargan de renovar la planta baja y la terraza para darles la casa de sus sueños, por dentro y por fuera.</desc>
   </programme>
-  <programme start="20230917131200 -0300" stop="20230917140700 -0300" channel="0603">
+  <programme start="20230917130000 -0300" stop="20230917135400 -0300" channel="0603">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
     <sub-title lang="es">Hermanos a la obra: Un hogar para siempre</sub-title>
     <desc lang="es">Una pareja que dejó de lado sus carreras ocupadas para enfocarse en sus hijos sueña con una casa que se adapte a las necesidades de la familia. Drew y Jonathan abren el diseño para crear una cocina y una sala de estar.</desc>
   </programme>
-  <programme start="20230917140700 -0300" stop="20230917150300 -0300" channel="0603">
+  <programme start="20230917135400 -0300" stop="20230917144800 -0300" channel="0603">
     <title lang="es">Renovando mi ciudad</title>
     <sub-title lang="es">Renovando mi ciudad</sub-title>
     <desc lang="es">Uno de los niños a los que Ben aconsejó como ministro de jóvenes ya es adulto y trabaja como mentor para la próxima generación. Ahora, está listo para comprar su primera casa, y Ben y Erin tienen $150 000 para encontrar una que encaje con su estilo.</desc>
   </programme>
-  <programme start="20230917150300 -0300" stop="20230917155900 -0300" channel="0603">
+  <programme start="20230917144800 -0300" stop="20230917154200 -0300" channel="0603">
     <title lang="es">Renovando mi ciudad</title>
     <sub-title lang="es">Renovando mi ciudad</sub-title>
     <desc lang="es">En preparación para futuros nietos, una pareja está buscando una casa grande con un porche y un baño con ducha. Ben y Erin enfrentan desvíos de plomería y daños por termitas para convertir una propiedad llena de problemas en la casa de sus sueños.</desc>
   </programme>
-  <programme start="20230917155900 -0300" stop="20230917165400 -0300" channel="0603">
+  <programme start="20230917154200 -0300" stop="20230917163600 -0300" channel="0603">
     <title lang="es">Christina en el campo</title>
     <sub-title lang="es">Christina en el campo</sub-title>
     <desc lang="es">Christina expande su negocio de diseño en Tennessee, y Josh recomienda a su hermana y a su esposo como clientes. Christina rediseña la cocina y la sala de estar, y explora lo que la vida en el campo tiene para ofrecer y la vida nocturna de Nashville.</desc>
   </programme>
-  <programme start="20230917165400 -0300" stop="20230917175000 -0300" channel="0603">
+  <programme start="20230917163600 -0300" stop="20230917173000 -0300" channel="0603">
     <title lang="es">Christina en el campo</title>
     <sub-title lang="es">Christina en el campo</sub-title>
     <desc lang="es">Con tres niños pequeños y una niña de una semana, una pareja solicita la ayuda de Christina para transformar su oscura cocina en un espacio más funcional. Además, Christina y Josh encuentran una propiedad de inversión que puede tener potencial.</desc>
   </programme>
-  <programme start="20230917175000 -0300" stop="20230917184600 -0300" channel="0603">
+  <programme start="20230917173000 -0300" stop="20230917182400 -0300" channel="0603">
     <title lang="es">Christina en el campo</title>
     <sub-title lang="es">Christina en el campo</sub-title>
     <desc lang="es">Christina transforma el hogar toscano oscuro y cerrado en un ambiente abierto y moderno de una pareja en Tennessee. Además, Christina y Josh reciben una entrega especial y los niños reciben una lección sobre cómo hacer smores en el campo.</desc>
   </programme>
-  <programme start="20230917184600 -0300" stop="20230917194200 -0300" channel="0603">
+  <programme start="20230917182400 -0300" stop="20230917191800 -0300" channel="0603">
     <title lang="es">Renovación 911</title>
     <sub-title lang="es">Renovación 911</sub-title>
     <desc lang="es">Cuando Kari olvidó cerrar el grifo mientras descongelaba la carne, ella y Todd quedaron con una inundación que destruyó su cocina y sótano. Lindsey y Kirsten reconstruyen y renuevan, mientras al otro lado de la ciudad, reemplazan el techo.</desc>
   </programme>
-  <programme start="20230917194200 -0300" stop="20230917203800 -0300" channel="0603">
+  <programme start="20230917191800 -0300" stop="20230917201200 -0300" channel="0603">
     <title lang="es">Renovación 911</title>
     <sub-title lang="es">Renovación 911</sub-title>
     <desc lang="es">Después de una gran inundación en la casa de Nicole y Jeff, Lindsey y Kirsten tienen la difícil tarea de restaurar su perfecta cocina exactamente a como era antes, mientras convierten el sótano empapado en un lugar frecuentado por adolescentes.</desc>
   </programme>
-  <programme start="20230917203800 -0300" stop="20230917210600 -0300" channel="0603">
+  <programme start="20230917201200 -0300" stop="20230917210600 -0300" channel="0603">
     <title lang="es">Renovación sin demolición</title>
     <sub-title lang="es">Renovación sin demolición</sub-title>
     <desc lang="es">Jenn aborda un gran proyecto con un gran presupuesto cuando lleva el sueño de una familia a la línea de meta para finalmente completar la casa. Al mismo tiempo, Jenn transforma el aburrido cuarto de lavado de una familia en un espacio espectacular.</desc>
   </programme>
-  <programme start="20230917210600 -0300" stop="20230917220000 -0300" channel="0603">
+  <programme start="20230917210600 -0300" stop="20230917220200 -0300" channel="0603">
     <title lang="es">Remodelación en pareja: un nuevo hogar</title>
     <sub-title lang="es">Remodelación en pareja: un nuevo hogar</sub-title>
     <desc lang="es">Nicole necesita la ayuda de Chip y Jo para renovar su casa de la década de 1950. Jo crea un diseño elegante pero cálido que refleja los años de Nicole viviendo en el extranjero, pero un problema del clima obliga a Jo a hacer cambios.</desc>
   </programme>
-  <programme start="20230917220000 -0300" stop="20230917230000 -0300" channel="0603">
+  <programme start="20230917220200 -0300" stop="20230917225800 -0300" channel="0603">
     <title lang="es">Remodelación en pareja: un nuevo hogar</title>
     <sub-title lang="es">Remodelación en pareja: un nuevo hogar</sub-title>
     <desc lang="es">Chip y Jo emprenden un proyecto que les llega al corazón cuando se enteran de un esfuerzo comunitario para renovar un refugio de niñas. Chip trae a su equipo de construcción y Jo reúne a sus artesanos favoritos.</desc>
   </programme>
-  <programme start="20230917230000 -0300" stop="20230917235500 -0300" channel="0603">
+  <programme start="20230917225800 -0300" stop="20230917234800 -0300" channel="0603">
     <title lang="es">Remodelación en pareja</title>
     <sub-title lang="es">Remodelación en pareja</sub-title>
     <desc lang="es">Chip es un apasionado de las reparaciones. Joanna, por su parte, tiene un ojo único para las piezas antiguas y realiza renovaciones de interiores increíbles. Ellos te muestran técnicas para mejorar por ti mismo tu hogar.</desc>
   </programme>
-  <programme start="20230917235500 -0300" stop="20230918002500 -0300" channel="0603">
+  <programme start="20230917234800 -0300" stop="20230918001500 -0300" channel="0603">
     <title lang="es">La casa de mis sueños</title>
     <sub-title lang="es">La casa de mis sueños</sub-title>
     <desc lang="es">Un hombre ha ganado un total de $600 000 en dos raspaditas diferentes. Ahora, David ayuda a este contratista y padre soltero a encontrar una casa lista para mudarse que pueda disfrutar con su hijo de cinco años en el área triestatal de Sioux Falls.</desc>
   </programme>
-  <programme start="20230917235500 -0300" stop="20230918002500 -0300" channel="0603">
+  <programme start="20230917234800 -0300" stop="20230918001500 -0300" channel="0603">
     <title lang="es">La casa de mis sueños</title>
     <sub-title lang="es">La casa de mis sueños</sub-title>
     <desc lang="es">Un hombre ha ganado un total de $600 000 en dos raspaditas diferentes. Ahora, David ayuda a este contratista y padre soltero a encontrar una casa lista para mudarse que pueda disfrutar con su hijo de cinco años en el área triestatal de Sioux Falls.</desc>
   </programme>
-  <programme start="20230918002500 -0300" stop="20230918005600 -0300" channel="0603">
+  <programme start="20230918001500 -0300" stop="20230918004200 -0300" channel="0603">
     <title lang="es">La casa de mis sueños</title>
     <sub-title lang="es">La casa de mis sueños</sub-title>
     <desc lang="es">Un hombre soltero recibe una ganancia inesperada y ahora está listo para encontrar la casa de sus sueños. David busca en el Valle Central de California un lugar tranquilo donde pueda recibir invitados, establecerse y formar su propia familia.</desc>
   </programme>
-  <programme start="20230918005600 -0300" stop="20230918014900 -0300" channel="0603">
+  <programme start="20230918004200 -0300" stop="20230918013400 -0300" channel="0603">
     <title lang="es">Las renovadoras</title>
     <sub-title lang="es">Las renovadoras</sub-title>
     <desc lang="es">Mina y Karen van a Old Southside, donde buscan transformar una pequeña casa de dos habitaciones en un hermoso búngalo en la playa con un presupuesto modesto. Si obtienen una ganancia decente, Mina planea hacer realidad su sueño de construir una sede.</desc>
   </programme>
-  <programme start="20230918014900 -0300" stop="20230918022400 -0300" channel="0603">
+  <programme start="20230918013400 -0300" stop="20230918022200 -0300" channel="0603">
     <title lang="es">Comprometidos con los bienes raíces</title>
     <sub-title lang="es">Comprometidos con los bienes raíces</sub-title>
     <desc lang="es">Unos compradores que están obsesionados con conseguir una casa en el suburbio perfecto de Atlanta se están quedando sin opciones y sin tiempo. Egypt y Mike encuentran una propiedad para renovarla y convertirla en la casa de ensueño vintage que desean.</desc>
   </programme>
-  <programme start="20230918022400 -0300" stop="20230918030800 -0300" channel="0603">
+  <programme start="20230918022200 -0300" stop="20230918030600 -0300" channel="0603">
     <title lang="es">Comprometidos con los bienes raíces</title>
     <sub-title lang="es">Comprometidos con los bienes raíces</sub-title>
     <desc lang="es">Una pareja con dos niños y una larga lista de imprescindibles para su nuevo hogar luchan por encontrar una propiedad que puedan pagar en el vecindario de sus sueños. Egypt y Mike los sacan de su zona de confort y les piden que confíen en una renovación.</desc>
   </programme>
-  <programme start="20230918030800 -0300" stop="20230918035100 -0300" channel="0603">
+  <programme start="20230918030600 -0300" stop="20230918035000 -0300" channel="0603">
     <title lang="es">Renovación 911</title>
     <sub-title lang="es">Renovación 911</sub-title>
     <desc lang="es">Cuando Kari olvidó cerrar el grifo mientras descongelaba la carne, ella y Todd quedaron con una inundación que destruyó su cocina y sótano. Lindsey y Kirsten reconstruyen y renuevan, mientras al otro lado de la ciudad, reemplazan el techo.</desc>
   </programme>
-  <programme start="20230918035100 -0300" stop="20230918043400 -0300" channel="0603">
+  <programme start="20230918035000 -0300" stop="20230918043300 -0300" channel="0603">
     <title lang="es">Remodelaciones con celebridades</title>
     <sub-title lang="es">Remodelaciones con celebridades</sub-title>
     <desc lang="es">Estrellas de Hollywood expresan su gratitud a las personas que han impactado sus vidas sorprendiéndo.</desc>
   </programme>
-  <programme start="20230918043400 -0300" stop="20230918051700 -0300" channel="0603">
+  <programme start="20230918043300 -0300" stop="20230918051700 -0300" channel="0603">
     <title lang="es">Vender para comprar</title>
     <sub-title lang="es">Vender para comprar</sub-title>
     <desc lang="es">Julie y Blake tienen tres niños de menos de tres años y necesitan un lugar más grande. Lo que buscan es una casa espaciosa en una planta, con todas las comodidades. Pero si no renuevan su casa actual y la venden a buen precio, no irán a ninguna parte.</desc>
@@ -16683,42 +15917,6 @@
     <title lang="es">Clínica de la piel</title>
     <sub-title lang="es">Clínica de la piel</sub-title>
     <desc lang="es">Con antecedentes de leucemia, la madre de Libby está preocupada por su misterioso sarpullido y el grave eccema del bebé Emerick hace que se rasque hasta sangrar.</desc>
-  </programme>
-  <programme start="20230917011500 -0300" stop="20230917021000 -0300" channel="0604">
-    <title lang="en">Red de mentiras</title>
-    <desc lang="en">Una foto impactante se vuelve viral en las escuelas locales después de que una fiesta en una casa de adolescentes se sale de control. Se produce una feroz campaña de acoso cibernético que lleva a Rehtaeh Parsons a tomar medidas desesperadas.</desc>
-  </programme>
-  <programme start="20230917021000 -0300" stop="20230917030500 -0300" channel="0604">
-    <title lang="en">Dentro del asesinato</title>
-    <sub-title lang="en">Selena</sub-title>
-    <desc lang="en">En 1995, la cantante mexicoamericana Selena Quintanilla, de 23 años, fue asesinada sin sentido en Corpus Christi, TX, por la fundadora de su club de fans, Yolanda Saldivar.</desc>
-  </programme>
-  <programme start="20230917030500 -0300" stop="20230917040100 -0300" channel="0604">
-    <title lang="en">Dentro del asesinato</title>
-    <sub-title lang="en">El juicio de la niñera</sub-title>
-    <desc lang="en">La au pair británica Louise Woodward, de 19 años, fue condenada en 1997 por el homicidio involuntario de Matthew Eappen, de 8 meses, debido a que lo sacudió violentamente mientras estaba bajo su cuidado en su casa en Newton, MA.</desc>
-  </programme>
-  <programme start="20230917040100 -0300" stop="20230917045700 -0300" channel="0604">
-    <title lang="en">Revista People investiga</title>
-    <desc lang="en">Un grupo de excursionistas descubre, en las montañas de Hollywood, la cabeza de Hervey Medellin, empleado retirado de una aerolínea. Una historia de lujuria y codicia que incluye examantes, carteles de droga y una estrella porno.</desc>
-  </programme>
-  <programme start="20230917045700 -0300" stop="20230917055400 -0300" channel="0604">
-    <title lang="en">Britney vs. Jamie: Juicios de familia</title>
-    <sub-title lang="en">La historia de Jamie</sub-title>
-    <desc lang="en">Por primera vez se discute desde dentro si Jamie Spears realmente intentó salvar la vida y la carrera de su hija estrella del pop o si realmente es culpable de mantener a Britney bajo una controvertida tutela durante trece años.</desc>
-  </programme>
-  <programme start="20230917055400 -0300" stop="20230917065100 -0300" channel="0604">
-    <title lang="en">Britney vs. Jamie: Juicios de familia</title>
-    <sub-title lang="en">La historia de Britney</sub-title>
-    <desc lang="en">A través de las redes sociales y de raras grabaciones, Britney Spears se sincera sobre el tiempo que pasó sometida a una larga y controvertida tutela y culpa a su padre, Jamie.</desc>
-  </programme>
-  <programme start="20230917065100 -0300" stop="20230917080000 -0300" channel="0604">
-    <title lang="en">Sin restricciones: la vida de Peter Nygård</title>
-    <desc lang="en">Peter Nygård usó su riqueza y poder en las Bahamas para desarrollar y ejecutar un elaborado sistema para atraer a mujeres y niñas locales a su gran hacienda frente a la playa para violarlas.</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917085000 -0300" channel="0604">
-    <title lang="en">Asesinatos en familia</title>
-    <desc lang="en">El condado de Orange, en California, es famoso por sus playas, su buen clima, el surf... y sus asesinatos. Una familia local que logró cimentar una fortuna descubrirá que su suerte ha cambiado cuando se tope cara a cara con la muerte.</desc>
   </programme>
   <programme start="20230917085000 -0300" stop="20230917094000 -0300" channel="0604">
     <title lang="en">Asesinatos en familia</title>
@@ -17170,42 +16368,6 @@
     <title lang="es">Aquí se marida</title>
     <desc lang="es">Daniel Greve, cronista gastronómico, recorrerá distintas viña de la zona central del país para conocer sus vinos y preparar una rica receta con alguna de las cepas vistas.</desc>
   </programme>
-  <programme start="20230917010000 -0300" stop="20230917020000 -0300" channel="0621">
-    <title lang="en">Cara a Cara</title>
-    <desc lang="en">Cada semana, Tomás Cox y sus invitados, nos sorprenderán con historias humanas y anécdotas, que nos harán reír y emocionarnos. (repeat).</desc>
-  </programme>
-  <programme start="20230917020000 -0300" stop="20230917023000 -0300" channel="0621">
-    <title lang="en">Pachamama, madre tierra</title>
-    <desc lang="en">Pachamama Madre Tierra muestra el encuentro de troperos, coplas, juegos tradicionales y comidas típicas y regionales con la actuación de diversos artistas regionales y el ballet Pachamama, escuela de danzas, entre otros. (repeat).</desc>
-  </programme>
-  <programme start="20230917023000 -0300" stop="20230917043000 -0300" channel="0621">
-    <title lang="en">Sin filtros</title>
-    <desc lang="en">Programa de política y actualidad chilena.</desc>
-  </programme>
-  <programme start="20230917043000 -0300" stop="20230917050000 -0300" channel="0621">
-    <title lang="en">Naturaleza y poder</title>
-    <desc lang="en">Enseñanzas Ancestrales. Programa de salud y convivencia natural.</desc>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917060000 -0300" channel="0621">
-    <title lang="en">Estilo Chic</title>
-    <desc lang="en">Dedicado a la moda, belleza y vida sana. (repeat).</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917063000 -0300" channel="0621">
-    <title lang="en">Abro hilo</title>
-    <desc lang="en">Acompañado de un invitado Felipe Cárdenas se pone a punto del humor y la conversación mediante lo que pasa en el mundo del internet, videojuegos y la tecnología. (repeat).</desc>
-  </programme>
-  <programme start="20230917063000 -0300" stop="20230917073000 -0300" channel="0621">
-    <title lang="en">Estilo Chic</title>
-    <desc lang="en">Dedicado a la moda, belleza y vida sana. (repeat).</desc>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917080000 -0300" channel="0621">
-    <title lang="en">Pachamama, madre tierra</title>
-    <desc lang="en">Pachamama Madre Tierra muestra el encuentro de troperos, coplas, juegos tradicionales y comidas típicas y regionales con la actuación de diversos artistas regionales y el ballet Pachamama, escuela de danzas, entre otros. (repeat).</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917090000 -0300" channel="0621">
-    <title lang="en">Raíces árabes</title>
-    <desc lang="en">Espacio dedicado a la prolífica colonia de inmigrantes y que cuenta con la conducción de Kiko Siade, Roberto Apud y Taissir Ghalyoun.</desc>
-  </programme>
   <programme start="20230917090000 -0300" stop="20230917100000 -0300" channel="0621">
     <title lang="en">Estilo Chic</title>
     <desc lang="en">Dedicado a la moda, belleza y vida sana.</desc>
@@ -17373,26 +16535,6 @@
   <programme start="20230918200000 -0300" stop="20230918220000 -0300" channel="0621">
     <title lang="en">Sin filtros</title>
     <desc lang="en">Programa de política y actualidad chilena.</desc>
-  </programme>
-  <programme start="20230917011000 -0300" stop="20230917023500 -0300" channel="0622">
-    <title lang="en">Il Siciliano</title>
-    <desc lang="en">Un viejo inmigrante italiano, dueño de una tienda de pelucas, realiza fiestas interminables animadas por una banda sonora de dobles para demostrar que aún se mantiene vigente desde su apogeo en la dictadura. El tránsito entre este vértigo y la soledad posterior de su protagonista es la inspiración para retratar un mundo con doble faz.</desc>
-  </programme>
-  <programme start="20230917023500 -0300" stop="20230917035500 -0300" channel="0622">
-    <title lang="en">El silencio vale oro</title>
-    <desc lang="en">Este largometraje documental nos lleva a través de los giros y vueltas de los procedimientos judiciales que enfrentaron a las empresas mineras canadienses Barrick Gold y Banro contra el autor Alain Deneault.</desc>
-  </programme>
-  <programme start="20230917035500 -0300" stop="20230917052000 -0300" channel="0622">
-    <title lang="en">Pizarro</title>
-    <desc lang="en">Esta es la historia de María José quien encuentra una carta escrita por su padre 30 años atrás. Veinte años después del asesinato de su padre, ella deja su exilio y regresa para levantar el velo y descubrir un capítulo de la historia de Colombia que ha sido silenciado por la violencia y el miedo.</desc>
-  </programme>
-  <programme start="20230917052000 -0300" stop="20230917071500 -0300" channel="0622">
-    <title lang="en">Arriba lxs que luchan</title>
-    <desc lang="en">Periodista argentino que vivió Revolución Cubana.</desc>
-  </programme>
-  <programme start="20230917071500 -0300" stop="20230917090000 -0300" channel="0622">
-    <title lang="en">Los Últimos Días del Che</title>
-    <desc lang="en">Se reconstruyen los últimos días de Che Guevara en Bolivia.</desc>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917094500 -0300" channel="0622">
     <title lang="en">Encuentro al final del mundo, ultra paine 80k</title>
@@ -18221,47 +17363,6 @@
     <sub-title lang="es">T1 Ep: 1 Libertadores</sub-title>
     <desc lang="es">Por cada historia grandiosa que la gente recuerda, existen otras que necesitan ser contadas. Nadie es capaz de revivirlas como Joe Moniaci: un hombre común y afable cuya pasión por la historia es acompañada por su gran conocimiento. En esta serie, trae relatos tan interesantes e importantes como los conocidos, proporcionando información diferente y fresca a una nueva generación de entusiastas. En los Estados Unidos todos saben el himno, conocen la estatua de la libertad, han jugado al Monopolio y saben quién fue Amelia Earhart pero, ¿qué es lo que no saben sobre los mayores íconos del país?</desc>
   </programme>
-  <programme start="20230917045000 -0300" stop="20230917053700 -0300" channel="0704">
-    <title lang="es">Isla Tiburón</title>
-    <desc lang="es">Los científicos analizan el último ataque de una cadena mortal de ataques de tiburones toro en la isla de Reunión, en el océano Índico.</desc>
-  </programme>
-  <programme start="20230917053700 -0300" stop="20230917060000 -0300" channel="0704">
-    <title lang="es">¿Cómo lo hacen?</title>
-    <desc lang="es">La ciencia detrás de la electricidad; las grúas flotantes más grandes del mundo.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917062400 -0300" channel="0704">
-    <title lang="es">Aeropuerto 24/7: Miami</title>
-    <sub-title lang="es">Búsqueda en la cavidad</sub-title>
-    <desc lang="es">El Servicio Secreto cierra el campo de aviación entero para la llegada de Presidente Obama; la Aduana y Protección de Frontera k-9 husmean carga ilícita.</desc>
-  </programme>
-  <programme start="20230917062400 -0300" stop="20230917071200 -0300" channel="0704">
-    <title lang="es">Alaska: Hombres primitivos</title>
-    <sub-title lang="es">Tierra quemada</sub-title>
-    <desc lang="es">A medida que el incendio se mueve hacia las montañas, el grupo regresa a la casa para comprobar el daño provocado por el fuego.</desc>
-  </programme>
-  <programme start="20230917071200 -0300" stop="20230917080000 -0300" channel="0704">
-    <title lang="es">Fiebre del oro: Río revuelto</title>
-    <sub-title lang="es">La nueva garra de mamut</sub-title>
-    <desc lang="es">El grupo de Dustin descubre que su equipo no puede enfrentar las rocas de Rockfall Ravine. Wes fabrica una herramienta nueva para su arsenal. Fred pone a Scott a prueba.</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917084700 -0300" channel="0704">
-    <title lang="es">100 días a lo salvaje</title>
-    <sub-title lang="es">Días de hambre</sub-title>
-    <desc lang="es">Expuestos a temperaturas gélidas y hambrientos, Adam y Evan emprenden un peligroso viaje hacia el campamento base. Oliver intenta sobrevivir solo, pese al descenso de la temperatura. Adam no soporta que Andrew y Jennifer controlen los alimentos.</desc>
-  </programme>
-  <programme start="20230917084700 -0300" stop="20230917093600 -0300" channel="0704">
-    <title lang="es">Caminando con elefantes</title>
-    <sub-title lang="es">El peligroso final del viaje</sub-title>
-    <desc lang="es">Al final de su viaje, Levison Wood sigue a los elefantes de Botswana. Después de atravesar los humedales, llegan a llegan al pueblo de Kane y son testigos de algo maravilloso.</desc>
-  </programme>
-  <programme start="20230917093600 -0300" stop="20230917102700 -0300" channel="0704">
-    <title lang="es">Pig vs. Shark</title>
-    <desc lang="es">Los famosos cerdos nadadores de las Bahamas pueden estar en peligro. Algunos creen que la población local de tiburones tigre ha adquirido gusto por el cerdo y puede estar dándose un festín con estos famosos cerdos nadadores.</desc>
-  </programme>
-  <programme start="20230917102700 -0300" stop="20230917111800 -0300" channel="0704">
-    <title lang="es">Tiburón blanco vs Mako</title>
-    <desc lang="es">El cientifico y doctor Riley Elliott esta rastreando a dos de los depredadores mas legendarios del oceano, los tiburones blancos y los makos, mientras se dirigen en su migracion anual frente a la costa de Nueva Zelanda.</desc>
-  </programme>
   <programme start="20230917111800 -0300" stop="20230917123700 -0300" channel="0704">
     <title lang="es">Jackass Shark Week 2.0</title>
     <desc lang="es">Johnny Knoxville envia a Steve-O, Chris Pontius y a los nuevos miembros del reparto de Jackass a una misión legendaria de Shark Week. Harán movimientos con tiburones que pondrán a prueba su valentía, así como los mitos comunes sobre los tiburones.</desc>
@@ -18442,56 +17543,6 @@
     <title lang="es">Joyas sobre ruedas: El auto de tus sueños</title>
     <sub-title lang="es">El Fiesta RS Turbo de Carl</sub-title>
     <desc lang="es">Un célebre vendedor de autos y un prestigioso mecánico ayudan a los fanáticos a cambiar sus vehículos y cumplir sus sueños.</desc>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917045700 -0300" channel="0705">
-    <title lang="es">Animales en riesgo: Phoenix</title>
-    <sub-title lang="es">No es fácil atraparlos</sub-title>
-    <desc lang="es">Rescatando a 12 gatos de la casa de un acumulador; los investigadores toman a seis perros de una casa cuyo propietario fue desalojado; un gato callejero con una pata lesionada encuentra una casa en el Departamento de Policía de Gilbert.</desc>
-  </programme>
-  <programme start="20230917045700 -0300" stop="20230917055100 -0300" channel="0705">
-    <title lang="es">El zoológico del Bronx</title>
-    <sub-title lang="es">El elefante de al lado</sub-title>
-    <desc lang="es">El personal del zoológico trabaja para construir una relación entre un par de elefantes asiáticos con personalidades muy diferentes, los veterinarios tratan el problema en la pata de un pollito de pavo y una castor recibe tratamiento odontológico.</desc>
-  </programme>
-  <programme start="20230917055100 -0300" stop="20230917064000 -0300" channel="0705">
-    <title lang="es">Wild Frank en México</title>
-    <desc lang="es">Frank Cuesta se embarca en una emocionante misión que le conduce hasta México con el fin de descifrar uno de los grandes enigmas de la historia: el verdadero significado de la profecía maya que presagia el fin del mundo.</desc>
-  </programme>
-  <programme start="20230917064000 -0300" stop="20230917073100 -0300" channel="0705">
-    <title lang="es">Wild Frank en México</title>
-    <desc lang="es">Frank Cuesta se aventura por el Mar Caribe y por la selva mexicana hasta que llega a Palenque para descifrar el gran enigma de las profecías mayas.</desc>
-  </programme>
-  <programme start="20230917073100 -0300" stop="20230917080000 -0300" channel="0705">
-    <title lang="es">Guardianes de borneo</title>
-    <sub-title lang="es">La escuela de la isla</sub-title>
-    <desc lang="es">Los niños de Bajau Laut están reacios en asistir a la nueva escuela construida para ellos.</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917084900 -0300" channel="0705">
-    <title lang="es">Guaridas con estilo</title>
-    <sub-title lang="es">Relajación para las chinchillas</sub-title>
-    <desc lang="es">Antonio y su equipo diseñan y construyen un sistema elaborado de túneles y torres que abarca dos habitaciones para una familia y sus siete chinchillas.</desc>
-  </programme>
-  <programme start="20230917084900 -0300" stop="20230917093800 -0300" channel="0705">
-    <title lang="es">Piscinas increíbles</title>
-    <sub-title lang="es">Una segunda oportunidad</sub-title>
-    <desc lang="es">Lucas debe reparar y remodelar una piscina inutilizable para una famosa familia de golfistas; Lucas crea una piscina con temática marina con características de fuego, un borde infinito y su primer sofá de agua.</desc>
-  </programme>
-  <programme start="20230917093800 -0300" stop="20230917103000 -0300" channel="0705">
-    <title lang="es">Mascotas revoltosas</title>
-    <sub-title lang="es">Mascotas hiperactivas</sub-title>
-    <desc lang="es">El dueño de un perro salchicha debe llevar una niveladora cada mes, para llenar los agujeros excavados por su mascota. El bulldog francés Gidget no para de cantar. A la braco de Weimar, Lola, no le gusta bañarse y Bella esconde la ropa sucia.</desc>
-  </programme>
-  <programme start="20230917103000 -0300" stop="20230917110000 -0300" channel="0705">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-  </programme>
-  <programme start="20230917110000 -0300" stop="20230917113000 -0300" channel="0705">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-  </programme>
-  <programme start="20230917113000 -0300" stop="20230917120000 -0300" channel="0705">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
   </programme>
   <programme start="20230917120000 -0300" stop="20230917123000 -0300" channel="0705">
     <title lang="es">Coyote Peterson: Aventuras salvajes</title>
@@ -18680,37 +17731,6 @@
   </programme>
   <programme start="20230917005500 -0300" stop="20230917015000 -0300" channel="0706">
     <title lang="es">Cazadores de tesoros</title>
-  </programme>
-  <programme start="20230917013600 -0300" stop="20230917020400 -0300" channel="0707">
-    <title lang="en">Derrochadores ancestrales</title>
-    <sub-title lang="en">Juego peligroso</sub-title>
-    <desc lang="en">Las posesiones más preciadas de algunas de las personas más ricas de la historia no han sido castillos, joyas o bellas artes. Sino algo más exótico, incluso en peligro de extinción, con la capacidad de morder. Conoce a los monarcas y millonarios que gastaron sus fortunas coleccionando animales salvajes.</desc>
-  </programme>
-  <programme start="20230917020400 -0300" stop="20230917030500 -0300" channel="0707">
-    <title lang="en">Al-Ándalus, el legado</title>
-    <desc lang="en">Muchas de las frutas y verduras que consumimos llegaron de la mano de los musulmanes que habitaron en la Península Ibérica durante casi 8 siglos. Además, revolucionaron la forma de cultivar las tierras de la actual España y Portugal.</desc>
-  </programme>
-  <programme start="20230917030500 -0300" stop="20230917040300 -0300" channel="0707">
-    <title lang="en">Carrera hacia la victoria</title>
-    <sub-title lang="en">Carrera a berlín</sub-title>
-    <desc lang="en">Los aliados acuerdan reunirse en Posdam para decidir cómo será el futuro después de que la guerra finalmente llegue a su fin.</desc>
-  </programme>
-  <programme start="20230917040300 -0300" stop="20230917054700 -0300" channel="0707">
-    <title lang="en">Una historia épica de las cosas cotidianas</title>
-  </programme>
-  <programme start="20230917054700 -0300" stop="20230917073200 -0300" channel="0707">
-    <title lang="en">Niños heroes de Chapultepec</title>
-    <desc lang="en">La batalla de Chapultepec fue una de las más importantes en la guerra entre México y EE. UU. Y quedó para siempre en el recuerdo de todos por haber tenido de protagonistas a seis heroicos niños mexicanos, que murieron en combate. Estos pequeños entregaron su vida por defender el territorio nacional, durante la invasión norteamericana de 1847.</desc>
-  </programme>
-  <programme start="20230917073200 -0300" stop="20230917080000 -0300" channel="0707">
-    <title lang="en">Derrochadores ancestrales</title>
-    <sub-title lang="en">Juego peligroso</sub-title>
-    <desc lang="en">Las posesiones más preciadas de algunas de las personas más ricas de la historia no han sido castillos, joyas o bellas artes. Sino algo más exótico, incluso en peligro de extinción, con la capacidad de morder. Conoce a los monarcas y millonarios que gastaron sus fortunas coleccionando animales salvajes.</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917090000 -0300" channel="0707">
-    <title lang="en">Carrera hacia la victoria</title>
-    <sub-title lang="en">Carrera a berlín</sub-title>
-    <desc lang="en">Los aliados acuerdan reunirse en Posdam para decidir cómo será el futuro después de que la guerra finalmente llegue a su fin.</desc>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917100000 -0300" channel="0707">
     <title lang="en">Programación pagada</title>
@@ -21759,69 +20779,6 @@
     <title lang="es">Rampage: devastación</title>
     <desc lang="es">El primatólogo Davis Okoye, tiene un sólido vínculo con George, el inteligente gorila de espalda plateada al que ha estado cuidando desde que nació. Pero cuando un experimento genético sale mal, este apacible simio se convierte en una embravecida criatura. Pronto se descubre que existen otros animales con la misma alteración, y estos depredadores alfa recién creados comienzan a arrasar Norteamérica.</desc>
   </programme>
-  <programme start="20230917044400 -0300" stop="20230917053300 -0300" channel="0833">
-    <title lang="es">Cold Case</title>
-    <sub-title lang="es">Shattered</sub-title>
-    <desc lang="es">Valens ayuda a Rush a buscar a su hermana secuestrada; Jeffries intenta cerrar un caso que le ha estado persiguiendo durante 17 años.</desc>
-  </programme>
-  <programme start="20230917053300 -0300" stop="20230917054500 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20230917054500 -0300" stop="20230917055600 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20230917055600 -0300" stop="20230917055700 -0300" channel="0833">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
-  </programme>
-  <programme start="20230917055700 -0300" stop="20230917060000 -0300" channel="0833">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917060900 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20230917060900 -0300" stop="20230917062400 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20230917062400 -0300" stop="20230917063600 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20230917063600 -0300" stop="20230917072900 -0300" channel="0833">
-    <title lang="es">ER</title>
-    <sub-title lang="es">Dear Abby</sub-title>
-    <desc lang="es">Las enfermeras amenazan con hacer un paro laboral. Abby recibe una carta muy especial del doctor Carter. El comportamiento del doctor Romano empeora cuando le colocan un garfio tras la pérdida de su brazo.</desc>
-  </programme>
-  <programme start="20230917072900 -0300" stop="20230917082100 -0300" channel="0833">
-    <title lang="es">ER</title>
-    <sub-title lang="es">Shifts Happen</sub-title>
-    <desc lang="es">El doctor Pratt intenta alradear sobre su trabajo, pero todo le sale al revés. La Dra. Weaver comete un grave error. Abby se encuentra en una situación desesperada y necesita dinero con urgencia.</desc>
-  </programme>
-  <programme start="20230917082100 -0300" stop="20230917091900 -0300" channel="0833">
-    <title lang="es">ER</title>
-    <sub-title lang="es">Out of Africa</sub-title>
-    <desc lang="es">La Dra. Lewis teme por un arquitecto que está perdiendo la visión. Una nueva enfermera reemplaza a Abby, quien decide regresar a estudiar.</desc>
-  </programme>
-  <programme start="20230917091900 -0300" stop="20230917101600 -0300" channel="0833">
-    <title lang="es">ER</title>
-    <sub-title lang="es">The Greater Good</sub-title>
-    <desc lang="es">El doctor Kovac se opone a los esfuerzos de Pratt para intentar salvar a un bebé prematuro. Un representante farmacéutico ofrece muestras médicas. Además, un médico psiquiatra le prescribe medicamentos a un niño maltratado.</desc>
-  </programme>
-  <programme start="20230917101600 -0300" stop="20230917111100 -0300" channel="0833">
-    <title lang="es">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="es">Ghost</sub-title>
-    <desc lang="es">Cuando una pareja rica que le lava dinero a unos narcotraficantes sudamericanos es asesinada, Alexandra Cabot (Stephanie March) regresa del programa de protección de testigos para ayudar a resolver el caso.</desc>
-  </programme>
-  <programme start="20230917111100 -0300" stop="20230917120600 -0300" channel="0833">
-    <title lang="es">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="es">Rage</sub-title>
-    <desc lang="es">Stabler lucha para controlar sus emociones mientras interroga a un hombre (Matthew Modine) sospechoso del asesinato de una joven -- un hombre que ya había sido liberado por cargos similares.</desc>
-  </programme>
   <programme start="20230917120600 -0300" stop="20230917130800 -0300" channel="0833">
     <title lang="es">Law &amp; Order: Special Victims Unit</title>
     <sub-title lang="es">Pure</sub-title>
@@ -22012,46 +20969,6 @@
     <title lang="es">Law &amp; Order: Special Victims Unit</title>
     <sub-title lang="es">Choice</sub-title>
     <desc lang="es">Los detectives interrogan a un hombre que acusa a su esposa de poner en peligro la vida de su hijo por nacer debido al consumo excesivo de bebidas alcohólicas.</desc>
-  </programme>
-  <programme start="20230917014000 -0300" stop="20230917023000 -0300" channel="0835">
-    <title lang="en">Amor eterno</title>
-    <desc lang="en">Kemal y Nihan van en busca de Karen y reciben una noticia impactante. Emir se entera que Nihan y Kemal han estado investigado que sucedió la noche del accidente.</desc>
-  </programme>
-  <programme start="20230917023000 -0300" stop="20230917032000 -0300" channel="0835">
-    <title lang="en">Amor eterno</title>
-    <desc lang="en">Después del intento de suicidio de Ozan, Zeyneo gana su primera victoria en contra de la familia Sezin. Pero Vildan no acepta la derrota. Zeynep responde a la guerra con Vildan con la ayuda de su hermano.</desc>
-  </programme>
-  <programme start="20230917032000 -0300" stop="20230917041000 -0300" channel="0835">
-    <title lang="en">Amor eterno</title>
-    <desc lang="en">Kemal sigue cada paso de Emir y encuentra a Karen en el lugar en donde él fue secuestrado pero hay otro obstaculo que le impode encontrar informacion sobre la noche del accidente. Mientras Kemal se acerca a la verdad Emir arma un nuevo juego.</desc>
-  </programme>
-  <programme start="20230917041000 -0300" stop="20230917050000 -0300" channel="0835">
-    <title lang="en">Amor eterno</title>
-    <desc lang="en">Llega el día de la subasta y Leyla y Vildan se enfrentarán para obtener la casa de sus padres. Leyla y Nihan son victimas de una trampa que les tendió Galip.</desc>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917054800 -0300" channel="0835">
-    <title lang="en">Amor eterno</title>
-    <desc lang="en">La muerte de karen afecta a Kemal y a Nihan, cuando su esposo confiesa haberla asesinado pone en claro que Emir esta involucrado en su muerte. Kemal le pide a Nihan que dejen de investigar lo sucedido la noche del accidente y que dejen de verse. Después de matar a alguien Tarik se acerca aún más a Banu.</desc>
-  </programme>
-  <programme start="20230917054800 -0300" stop="20230917063600 -0300" channel="0835">
-    <title lang="en">Te la dedico</title>
-    <sub-title lang="en">Claudia le pide a Henry que confiese su gusto por los hombres</sub-title>
-    <desc lang="en">Claudia se entera de las sospechas de Juan Darío y enfrenta a Henry, quien se ve acorralado en sus engaños. Claudia y Piñeres aceptan la propuesta de Adriana y Wilson, quienes pensaban que se lograrían librar de la gira.</desc>
-  </programme>
-  <programme start="20230917063600 -0300" stop="20230917072400 -0300" channel="0835">
-    <title lang="en">Te la dedico</title>
-    <sub-title lang="en">Adriana acepta casarse con Henry</sub-title>
-    <desc lang="en">Debido a las circunstancias, Adriana y Wilson no tienen otra alternativa más que realizar la gira.</desc>
-  </programme>
-  <programme start="20230917072400 -0300" stop="20230917081200 -0300" channel="0835">
-    <title lang="en">Te la dedico</title>
-    <sub-title lang="en">Wilson recuerda su niñez con Adriana</sub-title>
-    <desc lang="en">Mientras Adriana celebra su despedida de soltera, un despechado Wilson decide visitar su antiguo pueblo.</desc>
-  </programme>
-  <programme start="20230917081200 -0300" stop="20230917090000 -0300" channel="0835">
-    <title lang="en">Te la dedico</title>
-    <sub-title lang="en">Adriana celebra su despedida de soltera</sub-title>
-    <desc lang="en">Mientras que la vida le da una nueva oportunidad a Santiago, Wilson decide honrar a sus difuntos padres recuperando las tierras que les fueron robadas.</desc>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917095000 -0300" channel="0835">
     <title lang="en">Te la dedico</title>
@@ -22706,26 +21623,6 @@
     <title lang="es">Destino final 5</title>
     <desc lang="es">Sam Lawton tiene una premonición sobre la destrucción de un puente colgante que causaría su muerte y la de otras personas. La visión se hace realidad, pero Sam se las arregla para salvarse a sí mismo y a algunos otros de la catastrófica tragedia. Sin embargo, él y su novia Molly descubren que no están realmente a salvo: la muerte los persigue a ellos y a los que sobrevivieron al horrible accidente.</desc>
   </programme>
-  <programme start="20230917014500 -0300" stop="20230917034500 -0300" channel="0841">
-    <title lang="en">Chef a domicilio</title>
-    <desc lang="en">Carl Casper (Jon Favreau) es un chef que pierde su trabajo, por negarse a aceptar las exigencias del propietario (Dustin Hoffman); así que emprende un proyecto de venta de comida en un camión junto a su ex mujer (Sofia Vergara) y su mejor amigo (John Leguizamo). Al mismo tiempo, también intentará unir de nuevo a su familia.</desc>
-  </programme>
-  <programme start="20230917034500 -0300" stop="20230917053000 -0300" channel="0841">
-    <title lang="en">Inmortales</title>
-    <desc lang="en">Los ejércitos del rey Hiperión han quemado Grecia. El rey sangriento y enloquecido por el poder ha declarado la guerra a los hombres y no dejará que nada impide su objetivo: liberar a los Titanes durmientes con la intención de destruir a los dioses del Olimpo y toda la humanidad.</desc>
-  </programme>
-  <programme start="20230917053000 -0300" stop="20230917060000 -0300" channel="0841">
-    <title lang="en">Explorando Oppenheimer</title>
-    <desc lang="en">Eploramos la película que parte de la historia real de J. Robert Oppenheimer.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917072000 -0300" channel="0841">
-    <title lang="en">Jorge el curioso 2 seguid a ese mono</title>
-    <desc lang="en">Una nueva aventura nos espera con el mono más mono de la televisión infantil.</desc>
-  </programme>
-  <programme start="20230917072000 -0300" stop="20230917084000 -0300" channel="0841">
-    <title lang="en">Jorge el curioso 3: De regreso a la jungla</title>
-    <desc lang="en">Cuando Jorge el Curioso es conovocado para una difícil misión espacial, una travesura suya provoca un aterrizaje forzoso en África. Mientras un preocupado Ted lo busca, Jorge decide explorar valientemente la selva, donde hace nuevos amigos.</desc>
-  </programme>
   <programme start="20230917084000 -0300" stop="20230917103000 -0300" channel="0841">
     <title lang="en">Yo soy Bolt</title>
     <desc lang="en">Una mirada al legado del hombre más rápido jamás cronometrado, el velocista jamaiquino Usain Bolt. Presentando entrevistas con atletas famosos como Pelé, Neymar y Serena Williams, la película examina la ascensión de Bolt al récord mundial.</desc>
@@ -22812,56 +21709,6 @@
   <programme start="20230918194000 -0300" stop="20230918220000 -0300" channel="0841">
     <title lang="en">La máscara del Zorro</title>
     <desc lang="en">Después de 20 años, el gobernador Rafael Montero, responsable del encarcelamiento del Zorro, regresa a California junto a Elena, hija de Don Diego de la Vega, quien desconoce la identidad de su padre. Tras enterarse de la llegada de Montero, el...</desc>
-  </programme>
-  <programme start="20230917014000 -0300" stop="20230917023000 -0300" channel="0842">
-    <title lang="en">Votos fatales</title>
-    <desc lang="en">Jóvenes, ricos y religiosos, John y Nikki Hillrich se enamoran en la universidad.</desc>
-  </programme>
-  <programme start="20230917023000 -0300" stop="20230917032000 -0300" channel="0842">
-    <title lang="en">Votos fatales</title>
-    <desc lang="en">Cassie es una cantinera de espíritu libre cuando conoce al hombre de familia Brent, el rock de su roll. Pero una chispa tan intensa está condenada a explotar... y esta brillante luz se extingue en tragedia.</desc>
-  </programme>
-  <programme start="20230917032000 -0300" stop="20230917034500 -0300" channel="0842">
-    <title lang="en">It Takes a Killer</title>
-    <desc lang="en">El sueño clarividente de una mujer conduce a la policía en la costa de Florida al cadáver de una mujer oculto en los arbustos de una prístina playa. A medida que se avanza en la investigación, descubren que la víctima había sido marcada para morir por alguien a quien ella amaba y en quien confiaba.</desc>
-  </programme>
-  <programme start="20230917034500 -0300" stop="20230917040500 -0300" channel="0842">
-    <title lang="en">It Takes a Killer</title>
-    <desc lang="en">Un asesino serial ataca por todo el estado de California dejando un reguero de cadáveres en lugares al azar. La policía no logra dar con el peligroso sociópata hasta que sus demonios internos lo llevan a presentarse en el departamento del sheriff de la zona con una parte del cadáver de una de sus víctimas en el bolsillo de su chaqueta.</desc>
-  </programme>
-  <programme start="20230917040500 -0300" stop="20230917043000 -0300" channel="0842">
-    <title lang="en">It Takes a Killer</title>
-    <desc lang="en">Un depredador serial ataca hombres en bares gay dejando un reguero de cadáveres en el sudeste de Estados Unidos. La policía se esfuerza por encontrarlo hasta que el asesino deja una prueba clave en una escena del crimen y se revela su identidad.</desc>
-  </programme>
-  <programme start="20230917043000 -0300" stop="20230917051500 -0300" channel="0842">
-    <title lang="en">Enterrado en el jardín</title>
-    <sub-title lang="en">Una súplica mortal</sub-title>
-    <desc lang="en">Cuando un secreto guardado durante mucho tiempo en Florida amenaza con exponer una verdad mortal, los investigadores trabajan para desentrañar un desconcertante misterio.</desc>
-  </programme>
-  <programme start="20230917051500 -0300" stop="20230917060000 -0300" channel="0842">
-    <title lang="en">Enterrado en el jardín</title>
-    <sub-title lang="en">Pesadilla de Nueva Inglaterra</sub-title>
-    <desc lang="en">Una ola de asesinatos se extiende por una hermosa ciudad de Nueva Inglaterra cuando se hace un descubrimiento espantoso en un granero ubicado en un patio trasero.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917062500 -0300" channel="0842">
-    <title lang="en">It Takes a Killer</title>
-    <desc lang="en">Cuando balean a una mujer en el estacionamiento del edificio de su terapeuta,.</desc>
-  </programme>
-  <programme start="20230917062500 -0300" stop="20230917064500 -0300" channel="0842">
-    <title lang="en">It Takes a Killer</title>
-    <desc lang="en">Un asesino serial asedia el norte del estado de Nueva York, atacando a mujeres de la noche,.</desc>
-  </programme>
-  <programme start="20230917064500 -0300" stop="20230917073000 -0300" channel="0842">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">El asesinato de un querido oficial de policía tardará años en resolverse para que sus compañeros lo resuelvan, revelando en última instancia una conspiración nacida de la lujuria y la codicia.</desc>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917081500 -0300" channel="0842">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">Impactante doble asesinato y secuestro ponen a la policía en acción para detener a un par de amantes mortales antes de que puedan matar de nuevo. Una víctima sobreviviente relata la terrible experiencia.</desc>
-  </programme>
-  <programme start="20230917081500 -0300" stop="20230917090000 -0300" channel="0842">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">Cuando la madre de Colorado Kelsey Berreth, desapareció,.</desc>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917094500 -0300" channel="0842">
     <title lang="en">Parejas asesinas</title>
@@ -23084,96 +21931,6 @@
     <title lang="en">Enterrado en el jardín</title>
     <sub-title lang="en">Viviendo con miedo</sub-title>
     <desc lang="en">Un caso de robo de identidad en el desierto de Arizona toma un giro espeluznante cuando los investigadores hacen un descubrimiento espantoso en el lugar más improbable.</desc>
-  </programme>
-  <programme start="20230917011500 -0300" stop="20230917020500 -0300" channel="0843">
-    <title lang="en">Nuestro propio castillo</title>
-    <sub-title lang="en">Cosecha y cumpleaños</sub-title>
-    <desc lang="en">Es principios de septiembre y el otoño ha llegado al castillo.</desc>
-  </programme>
-  <programme start="20230917020500 -0300" stop="20230917025500 -0300" channel="0843">
-    <title lang="en">Nuestro propio castillo DIY</title>
-    <sub-title lang="en">Una cúpula flotante</sub-title>
-    <desc lang="en">Dick y Angel están preparándose para el invierno.</desc>
-  </programme>
-  <programme start="20230917025500 -0300" stop="20230917034500 -0300" channel="0843">
-    <title lang="en">Nuestro propio castillo</title>
-    <sub-title lang="en">Glamping</sub-title>
-    <desc lang="en">Dick y Angel abren puertas y ventanas de su castillo francés para una nueva temporada, mientras ponen manos a la obra para crear una lujosa experiencia de glamping. Si puede dejar de llover, claro.</desc>
-  </programme>
-  <programme start="20230917034500 -0300" stop="20230917041000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Alambre, alambre, pantalones en llamas</sub-title>
-    <desc lang="en">Todd intenta demostrarle a Julie que todavía tiene lo que se necesita.</desc>
-  </programme>
-  <programme start="20230917041000 -0300" stop="20230917043000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Qué no jurar</sub-title>
-    <desc lang="en">Mientras Chase demuestra que es un digno dador de regalos, Faye intenta deshacerse del hechizo de Todd.</desc>
-  </programme>
-  <programme start="20230917043000 -0300" stop="20230917045500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Falla en el lanzamiento</sub-title>
-    <desc lang="en">Todd decide derribar al vendedor de drogas del vecindario mientras que Faye se dedica al negocio de las trufas.</desc>
-  </programme>
-  <programme start="20230917045500 -0300" stop="20230917051500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Una Navidad muy Chrisley 2</sub-title>
-    <desc lang="en">Grayson tiene su propia cuenta en las redes sociales.</desc>
-  </programme>
-  <programme start="20230917051500 -0300" stop="20230917054000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Huracán Todd</sub-title>
-    <desc lang="en">A Todd lo descubren mintiendo cuando la amiga de Julie, Lea, llega a la ciudad.</desc>
-  </programme>
-  <programme start="20230917054000 -0300" stop="20230917060000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Vamos a tener abejas</sub-title>
-    <desc lang="en">Chase lucha por disculparse con Emmy, y la enfermedad de Miley conduce a una reunión inesperada para Todd.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917062000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Incitado a</sub-title>
-    <desc lang="en">Todd es presionado para hacer nuevos amigos, mientras que a Chloe le dan un significado errado de Pascua.</desc>
-  </programme>
-  <programme start="20230917062000 -0300" stop="20230917064500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Un nuevo Todd</sub-title>
-    <desc lang="en">Todd se esfuerza como embajador de la marca para una nueva línea de cócteles sin alcohol.</desc>
-  </programme>
-  <programme start="20230917064500 -0300" stop="20230917070500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Edad contra la máquina</sub-title>
-    <desc lang="en">Los niños arruinan los grandes planes de aniversario de Todd.</desc>
-  </programme>
-  <programme start="20230917070500 -0300" stop="20230917073000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Mejor en calzado</sub-title>
-    <desc lang="en">Todd organiza una subasta de solteros mientras que el negocio de zapatillas deportivas de Grayson obtiene un sorprendente impulso en las ventas.</desc>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917075000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Patriarca de la perfección</sub-title>
-    <desc lang="en">Conoce a la familia Chrisley, donde Todd Chrisley es el rey.</desc>
-  </programme>
-  <programme start="20230917075000 -0300" stop="20230917081500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Patriarca de la perfección</sub-title>
-    <desc lang="en">Conoce a la familia Chrisley, donde Todd Chrisley es el rey.</desc>
-  </programme>
-  <programme start="20230917081500 -0300" stop="20230917083500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Patriarca de la perfección</sub-title>
-    <desc lang="en">Conoce a la familia Chrisley, donde Todd Chrisley es el rey.</desc>
-  </programme>
-  <programme start="20230917083500 -0300" stop="20230917090000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Hasta luego, caimán</sub-title>
-    <desc lang="en">Chloe se siente excluida durante las vacaciones familiares.</desc>
-  </programme>
-  <programme start="20230917090000 -0300" stop="20230917092000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Bienvenido a la casa del perro</sub-title>
-    <desc lang="en">Todd paga el precio por ser un invitado grosero.</desc>
   </programme>
   <programme start="20230917092000 -0300" stop="20230917094500 -0300" channel="0843">
     <title lang="en">La familia Chrisley</title>
@@ -23451,45 +22208,6 @@
     <title lang="en">Bajo cubierta</title>
     <desc lang="en">Al capitán Lee y sus tripulantes que regresan, Kate y Ashton, se les unen seis nuevos miembros de la tripulación a bordo del lujoso M/Y Valor, mientras viajan al sudeste asiático para explorar las exóticas aguas de Tailandia.</desc>
   </programme>
-  <programme start="20230917042500 -0300" stop="20230917050500 -0300" channel="0844">
-    <title lang="en">La Brea</title>
-    <sub-title lang="en">La niebla</sub-title>
-    <desc lang="en">Cuando una niebla cae sobre el Claro, Eve lidera una defensa contra un grupo de invasores, solo para encontrarse con una amenaza más peligrosa. Josh y Riley persiguen a una mujer que puede ser la clave para detener el inminente desastre del maremoto.</desc>
-  </programme>
-  <programme start="20230917050500 -0300" stop="20230917055000 -0300" channel="0844">
-    <title lang="en">La Brea</title>
-    <sub-title lang="en">El Viaje Parte 2</sub-title>
-    <desc lang="en">Con Gavin a punto de morir, Eve y su familia intentan desesperadamente arreglar las cosas, aunque un giro inesperado amenaza con separarlos. Verónica revela un secreto que pone en peligro su relación con Lucas.</desc>
-  </programme>
-  <programme start="20230917055000 -0300" stop="20230917063000 -0300" channel="0844">
-    <title lang="en">La isla de la fantasía</title>
-    <sub-title lang="en">Gwenivere de Glendale</sub-title>
-    <desc lang="en">La fantasía de Gwen es retroceder en el tiempo y ser la princesa que anhela ser: mimada, rica y cuidada, pero pronto descubre que el rey se dispone a casarla con un príncipe cruel y ambicioso.</desc>
-  </programme>
-  <programme start="20230917063000 -0300" stop="20230917072000 -0300" channel="0844">
-    <title lang="en">Evil</title>
-    <desc lang="en">La carrera y la salud mental de la hermana Andrea están en peligro cuando lucha contra Leland.</desc>
-  </programme>
-  <programme start="20230917072000 -0300" stop="20230917080500 -0300" channel="0844">
-    <title lang="en">Evil</title>
-    <desc lang="en">Una madre soltera le pide al equipo que investigue las maneras potencialmente demoníacas en que las que la aplicación viral TipTop está aterrorizando a su familia.</desc>
-  </programme>
-  <programme start="20230917080500 -0300" stop="20230917090000 -0300" channel="0844">
-    <title lang="en">Evil</title>
-    <desc lang="en">El equipo investiga a un joven que está siendo retenido contra su voluntad para determinar si está poseído o bajo la influencia de un culto.</desc>
-  </programme>
-  <programme start="20230917090000 -0300" stop="20230917100000 -0300" channel="0844">
-    <title lang="en">Billions</title>
-    <desc lang="en">Prince renueva el equipo. Chuck se despeja la mente en el norte.</desc>
-  </programme>
-  <programme start="20230917100000 -0300" stop="20230917105000 -0300" channel="0844">
-    <title lang="en">Poker Face</title>
-    <desc lang="en">Charlie sospecha que sus nuevas amigas de la residencia han participado en la muerte de otro anciano.</desc>
-  </programme>
-  <programme start="20230917105000 -0300" stop="20230917114000 -0300" channel="0844">
-    <title lang="en">Evil</title>
-    <desc lang="en">La carrera y la salud mental de la hermana Andrea están en peligro cuando lucha contra Leland.</desc>
-  </programme>
   <programme start="20230917114000 -0300" stop="20230917122500 -0300" channel="0844">
     <title lang="en">Evil</title>
     <desc lang="en">Una madre soltera le pide al equipo que investigue las maneras potencialmente demoníacas en que las que la aplicación viral TipTop está aterrorizando a su familia.</desc>
@@ -23681,75 +22399,6 @@
   <programme start="20230918231500 -0300" stop="20230919000000 -0300" channel="0844">
     <title lang="en">FBI: Most Wanted</title>
     <desc lang="en">Cuando un padre e hijo escapan camino a su juicio, el equipo los perseguirlos antes de que roben.</desc>
-  </programme>
-  <programme start="20230917004000 -0300" stop="20230917010500 -0300" channel="0845">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Kevin fracasa en su misión de ayudar a Vanessa a conseguir una cita con un apuesto entrenador personal; Chale acepta a regañadientes los consejos de Kyle cuando pasa por allí el inspector de sanidad.</desc>
-  </programme>
-  <programme start="20230917010500 -0300" stop="20230917013000 -0300" channel="0845">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">El ex oficial de policía Kevin descubre su retiro presenta más desafíos que la vida en el trabajo.</desc>
-  </programme>
-  <programme start="20230917013000 -0300" stop="20230917015500 -0300" channel="0845">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Cuando descubre que Donna decoró la casa a su estilo, Kevin decide regresarlo.</desc>
-  </programme>
-  <programme start="20230917015500 -0300" stop="20230917022000 -0300" channel="0845">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Kevin contrata en secreto a alguien que haga sus obligaciones mientras él juega football.</desc>
-  </programme>
-  <programme start="20230917022000 -0300" stop="20230917024500 -0300" channel="0845">
-    <title lang="en">Un hombre, un plan</title>
-    <desc lang="en">Cuando Adam requiere contratar a un nuevo líder de proyectos, Andi acusa a Adam de ser un inconsciente tendencioso por entrevistar sólo a hombres para el puesto. También, Andi ayuda a Kate a luchar para obtener un lugar en el equipo masculino de soccer en la escuela.</desc>
-  </programme>
-  <programme start="20230917024500 -0300" stop="20230917031000 -0300" channel="0845">
-    <title lang="en">Un hombre, un plan</title>
-    <desc lang="en">Adam y Andi intentan caerle bien a sus vecinos, cuando ninguno de ellos asiste a su comida.</desc>
-  </programme>
-  <programme start="20230917031000 -0300" stop="20230917033500 -0300" channel="0845">
-    <title lang="en">Un hombre, un plan</title>
-    <desc lang="en">Cuando Adam y Andi son tomados por sorpresa por gastos inesperados, deciden dejar de lado un lujo para pagar sus deudas.</desc>
-  </programme>
-  <programme start="20230917033500 -0300" stop="20230917040000 -0300" channel="0845">
-    <title lang="en">Un hombre, un plan</title>
-    <desc lang="en">Cuando Adam lleva al trabajo a sus niños, ellos le contagian piojos accidentalmente. También, Andi se siente una mala madre al ser ella la única en la familia en no tener piojos.</desc>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917042500 -0300" channel="0845">
-    <title lang="en">Un hombre, un plan</title>
-    <desc lang="en">Cuando Adam nota que su padre tiene un comportamiento de falta memoria que va en aumento, él busca la manera adecuada para abordar el tema.</desc>
-  </programme>
-  <programme start="20230917042500 -0300" stop="20230917051000 -0300" channel="0845">
-    <title lang="en">Monk</title>
-    <desc lang="en">Monk es llamado para servir como jurado y es seleccionado para un caso de robo. Pero el deber como detective lo llama, cuando se entera de que un cuerpo ha sido abandonado cerca de la corte.</desc>
-  </programme>
-  <programme start="20230917051000 -0300" stop="20230917060000 -0300" channel="0845">
-    <title lang="en">Monk</title>
-    <desc lang="en">Monk se siente muy halagado cuando la estrella de Hollywood David Ruskin es elegido para interpretarlo a él en una película. Pero Natalie le preocupa que el actor se esté tomando el papel muy en serio. Mientras tanto, Monk investiga dos asesinatos que podrían estar relacionados.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917062500 -0300" channel="0845">
-    <title lang="en">The Unicorn</title>
-    <sub-title lang="en">Lo que vale es la intención</sub-title>
-    <desc lang="en">Después de que Forrest le regala una pistola de agua a Noah, Ben y Michelle se la quitan rápidamente, y el grupo tiene una discusión franca sobre la injusticia social.</desc>
-  </programme>
-  <programme start="20230917062500 -0300" stop="20230917065000 -0300" channel="0845">
-    <title lang="en">The Unicorn</title>
-    <sub-title lang="en">Hay que trabajarlo</sub-title>
-    <desc lang="en">Después de que Ben recomienda a Wade para un empleo en su lugar de trabajo, todos se sorprenden al ver lo radicalmente diferentes que son sus estilos profesionales.</desc>
-  </programme>
-  <programme start="20230917065000 -0300" stop="20230917071500 -0300" channel="0845">
-    <title lang="en">The Unicorn</title>
-    <sub-title lang="en">La primera cena</sub-title>
-    <desc lang="en">Cuando Wade decide presentar a Shannon a sus amigos, la reunión pronto da un giro incómodo.</desc>
-  </programme>
-  <programme start="20230917071500 -0300" stop="20230917074000 -0300" channel="0845">
-    <title lang="en">The Unicorn</title>
-    <sub-title lang="en">Pasar la noche</sub-title>
-    <desc lang="en">Wade quiere invitar a Shannon a pasar la noche, pero primero necesita ver cómo conversarlo con Natalie y Grace. Ben se pone celoso de la atención que Michelle le da a su trabajo académico y a su grupo de estudio.</desc>
-  </programme>
-  <programme start="20230917074000 -0300" stop="20230917080500 -0300" channel="0845">
-    <title lang="en">The Unicorn</title>
-    <sub-title lang="en">Apunta y lanza</sub-title>
-    <desc lang="en">Delia y Forrest deciden jugar al tenis para agregar camaradería a su relación, pero en lugar de ello, compiten como locos.</desc>
   </programme>
   <programme start="20230917080500 -0300" stop="20230917083000 -0300" channel="0845">
     <title lang="en">30 Rock</title>
@@ -24077,41 +22726,6 @@
     <title lang="en">Maratón Kevin puede esperar</title>
     <desc lang="en">Cuando Kevin se acerca para ayudar, Kyle lo reemplaza en casa.</desc>
   </programme>
-  <programme start="20230917010000 -0300" stop="20230917033000 -0300" channel="0151">
-    <title lang="en">Anime</title>
-    <desc lang="en">Serie animada.</desc>
-  </programme>
-  <programme start="20230917033000 -0300" stop="20230917040000 -0300" channel="0151">
-    <title lang="en">ITV Noticias</title>
-    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917050000 -0300" channel="0151">
-    <title lang="en">A la Previa School</title>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917053000 -0300" channel="0151">
-    <title lang="en">ITV Noticias</title>
-    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
-  </programme>
-  <programme start="20230917053000 -0300" stop="20230917060000 -0300" channel="0151">
-    <title lang="en">Portavoz noticias</title>
-    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917070000 -0300" channel="0151">
-    <title lang="en">Doctor en casa</title>
-    <desc lang="en">Un espacio donde todas las medicinas trabajan juntas para mejorar tu calidad de vida.</desc>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917073000 -0300" channel="0151">
-    <title lang="en">ITV Noticias</title>
-    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917083000 -0300" channel="0151">
-    <title lang="en">Hablemos de Basquet</title>
-    <desc lang="en">Toda la actualidad del basquetbol chileno, difusión e información de la LBn Chile. (repeat).</desc>
-  </programme>
-  <programme start="20230917083000 -0300" stop="20230917090000 -0300" channel="0151">
-    <title lang="en">ITV Noticias</title>
-    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
-  </programme>
   <programme start="20230917090000 -0300" stop="20230917093000 -0300" channel="0151">
     <title lang="en">Portavoz noticias</title>
     <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
@@ -24272,23 +22886,6 @@
   <programme start="20230918200000 -0300" stop="20230918210000 -0300" channel="0151">
     <title lang="en">Doble amarilla</title>
     <desc lang="en">Programa especial. (repeat).</desc>
-  </programme>
-  <programme start="20230917010000 -0300" stop="20230917050000 -0300" channel="0152">
-    <title lang="en">El matinal</title>
-    <desc lang="en">Revista matutina con segmentos de moda y farándula, entre otros.</desc>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917060000 -0300" channel="0152">
-    <title lang="en">Más noticias noche</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917070000 -0300" channel="0152">
-    <title lang="en">Asamblea Ciudadana</title>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917080000 -0300" channel="0152">
-    <title lang="en">Dr. En Casa</title>
-    <desc lang="en">Doctor en casa es un programa de salud orientado a mejorar la calidad de vida de las personas.</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917090000 -0300" channel="0152">
-    <title lang="en">Más noticias noche</title>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917130000 -0300" channel="0152">
     <title lang="en">El matinal</title>
@@ -24599,13 +23196,6 @@
     <title lang="es">Unidad Evangélica</title>
     <desc lang="es">Espacio dedicado a entregar la Palabra de Dios a los televidentes.</desc>
   </programme>
-  <programme start="20230917000000 -0300" stop="20230917073000 -0300" channel="0155">
-    <title lang="en">Cartelera nocturna</title>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917080000 -0300" channel="0155">
-    <title lang="en">Portavoz noticias</title>
-    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
-  </programme>
   <programme start="20230917080000 -0300" stop="20230917123000 -0300" channel="0155">
     <title lang="en">CNTV Infantil</title>
     <desc lang="en">Aprende de forma entretenida con videos culturales y educativos pensados especialmente para ti.</desc>
@@ -24706,28 +23296,6 @@
   <programme start="20230918204500 -0300" stop="20230918213000 -0300" channel="0155">
     <title lang="en">Conéctate TVU</title>
     <desc lang="en">(new).</desc>
-  </programme>
-  <programme start="20230917010000 -0300" stop="20230917065900 -0300" channel="0157">
-    <title lang="en">Video Música</title>
-    <desc lang="en">Espacio de la Universidad Autónoma de Chile en el que se presentan contenidos audiovisuales relacionados con la música de diferentes géneros y épocas, para que te deleites con cada interpretación.</desc>
-  </programme>
-  <programme start="20230917065900 -0300" stop="20230917070000 -0300" channel="0157">
-    <title lang="en">El tiempo - Regiones</title>
-    <desc lang="en">Con precisión y simpatía, Daniela Seguel le informa todos los días el pronóstico del tiempo de las 32 comunas de la Araucanía.</desc>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917073000 -0300" channel="0157">
-    <title lang="en">Portavoz noticias</title>
-    <desc lang="en">Programa informativo. (repeat).</desc>
-  </programme>
-  <programme start="20230917073000 -0300" stop="20230917075500 -0300" channel="0157">
-    <title lang="en">UATV noticias, resumen semanal - Franja electoral</title>
-  </programme>
-  <programme start="20230917075500 -0300" stop="20230917080000 -0300" channel="0157">
-    <title lang="en">UATV Tiempo</title>
-    <desc lang="en">Programa informativo.</desc>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917090000 -0300" channel="0157">
-    <title lang="en">CNTV infantil - Preescolar</title>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917093000 -0300" channel="0157">
     <title lang="en">CNTV Infantil - Niño</title>
@@ -24888,10 +23456,6 @@
   <programme start="20230918203000 -0300" stop="20230918210000 -0300" channel="0157">
     <title lang="en">UATV Noticias central</title>
     <desc lang="en">Programa informativo. (live).</desc>
-  </programme>
-  <programme start="20230917010000 -0300" stop="20230917090000 -0300" channel="0163">
-    <title lang="en">Cierre de estación</title>
-    <desc lang="en">Espacio que marca el final de la transmisión del canal después del himno nacional. Vuelve a disfrutar con todos los programas de nuestra grilla a partir de las primeras horas de la mañana, con los informativos, magazines de variedades, segmentos infantiles y mucho más.</desc>
   </programme>
   <programme start="20230917090000 -0300" stop="20230917100000 -0300" channel="0163">
     <title lang="en">Resumen Cablenoticias</title>
@@ -25348,46 +23912,6 @@
   <programme start="20230918230000 -0300" stop="20230919060000 -0300" channel="0115">
     <title lang="es">Cierre de transmisión</title>
     <desc lang="es">Fin de emisión.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0116">
-    <title lang="en">Cámaras por Chile</title>
-    <sub-title lang="en">Zapping Originals</sub-title>
-    <desc lang="en">Disfruta de un viaje a través de Chile junto a la mejor música programada por el equipo de Zapping.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0116">
-    <title lang="en">Cámaras por Chile</title>
-    <sub-title lang="en">Zapping Originals</sub-title>
-    <desc lang="en">Disfruta de un viaje a través de Chile junto a la mejor música programada por el equipo de Zapping.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0116">
-    <title lang="en">Cámaras por Chile</title>
-    <sub-title lang="en">Zapping Originals</sub-title>
-    <desc lang="en">Disfruta de un viaje a través de Chile junto a la mejor música programada por el equipo de Zapping.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0116">
-    <title lang="en">Cámaras por Chile</title>
-    <sub-title lang="en">Zapping Originals</sub-title>
-    <desc lang="en">Disfruta de un viaje a través de Chile junto a la mejor música programada por el equipo de Zapping.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0116">
-    <title lang="en">Cámaras por Chile</title>
-    <sub-title lang="en">Zapping Originals</sub-title>
-    <desc lang="en">Disfruta de un viaje a través de Chile junto a la mejor música programada por el equipo de Zapping.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0116">
-    <title lang="en">Cámaras por Chile</title>
-    <sub-title lang="en">Zapping Originals</sub-title>
-    <desc lang="en">Disfruta de un viaje a través de Chile junto a la mejor música programada por el equipo de Zapping.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0116">
-    <title lang="en">Cámaras por Chile</title>
-    <sub-title lang="en">Zapping Originals</sub-title>
-    <desc lang="en">Disfruta de un viaje a través de Chile junto a la mejor música programada por el equipo de Zapping.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0116">
-    <title lang="en">Cámaras por Chile</title>
-    <sub-title lang="en">Zapping Originals</sub-title>
-    <desc lang="en">Disfruta de un viaje a través de Chile junto a la mejor música programada por el equipo de Zapping.</desc>
   </programme>
   <programme start="20230917060000 -0300" stop="20230917073000 -0300" channel="0117">
     <title lang="es">Pelotón</title>
@@ -26397,334 +24921,6 @@
   <programme start="20230919023000 -0300" stop="20230919030000 -0300" channel="0316">
     <title lang="es">Yo-Kai Watch</title>
   </programme>
-  <programme start="20230917020000 -0300" stop="20230917080000 -0300" channel="0317">
-    <title lang="en">Amazon Kids</title>
-  </programme>
-  <programme start="20230917080000 -0300" stop="20230917140000 -0300" channel="0317">
-    <title lang="en">Amazon Kids</title>
-  </programme>
-  <programme start="20230917140000 -0300" stop="20230917200000 -0300" channel="0317">
-    <title lang="en">Amazon Kids</title>
-  </programme>
-  <programme start="20230917200000 -0300" stop="20230918020000 -0300" channel="0317">
-    <title lang="en">Amazon Kids</title>
-  </programme>
-  <programme start="20230918020000 -0300" stop="20230918080000 -0300" channel="0317">
-    <title lang="en">Amazon Kids</title>
-  </programme>
-  <programme start="20230918080000 -0300" stop="20230918140000 -0300" channel="0317">
-    <title lang="en">Amazon Kids</title>
-  </programme>
-  <programme start="20230918140000 -0300" stop="20230918200000 -0300" channel="0317">
-    <title lang="en">Amazon Kids</title>
-  </programme>
-  <programme start="20230918200000 -0300" stop="20230919020000 -0300" channel="0317">
-    <title lang="en">Amazon Kids</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0319">
-    <title lang="en">EnerGeek Radio</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0319">
-    <title lang="en">EnerGeek Radio</title>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0319">
-    <title lang="en">EnerGeek Radio</title>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0319">
-    <title lang="en">EnerGeek Radio</title>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0319">
-    <title lang="en">EnerGeek Radio</title>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0319">
-    <title lang="en">EnerGeek Radio</title>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0319">
-    <title lang="en">EnerGeek Radio</title>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0319">
-    <title lang="en">EnerGeek Radio</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0502">
-    <title lang="en">Easy Listening</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0502">
-    <title lang="en">Easy Listening</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0502">
-    <title lang="en">Easy Listening</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0502">
-    <title lang="en">Easy Listening</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0502">
-    <title lang="en">Easy Listening</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0502">
-    <title lang="en">Easy Listening</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0502">
-    <title lang="en">Easy Listening</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0502">
-    <title lang="en">Easy Listening</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0508">
-    <title lang="en">Euro Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0508">
-    <title lang="en">Euro Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0508">
-    <title lang="en">Euro Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0508">
-    <title lang="en">Euro Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0508">
-    <title lang="en">Euro Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0508">
-    <title lang="en">Euro Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0508">
-    <title lang="en">Euro Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0508">
-    <title lang="en">Euro Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0509">
-    <title lang="en">Nothin' But '90s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0509">
-    <title lang="en">Nothin' But '90s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0509">
-    <title lang="en">Nothin' But '90s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0509">
-    <title lang="en">Nothin' But '90s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0509">
-    <title lang="en">Nothin' But '90s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0509">
-    <title lang="en">Nothin' But '90s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0509">
-    <title lang="en">Nothin' But '90s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0509">
-    <title lang="en">Nothin' But '90s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0510">
-    <title lang="en">Smooth Jazz</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0510">
-    <title lang="en">Smooth Jazz</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0510">
-    <title lang="en">Smooth Jazz</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0510">
-    <title lang="en">Smooth Jazz</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0510">
-    <title lang="en">Smooth Jazz</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0510">
-    <title lang="en">Smooth Jazz</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0510">
-    <title lang="en">Smooth Jazz</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0510">
-    <title lang="en">Smooth Jazz</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0511">
-    <title lang="en">The SPA</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0511">
-    <title lang="en">The SPA</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0511">
-    <title lang="en">The SPA</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0511">
-    <title lang="en">The SPA</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0511">
-    <title lang="en">The SPA</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0511">
-    <title lang="en">The SPA</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0511">
-    <title lang="en">The SPA</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0511">
-    <title lang="en">The SPA</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0512">
-    <title lang="en">Today's K-POP</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0512">
-    <title lang="en">Today's K-POP</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0512">
-    <title lang="en">Today's K-POP</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0512">
-    <title lang="en">Today's K-POP</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0512">
-    <title lang="en">Today's K-POP</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0512">
-    <title lang="en">Today's K-POP</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0512">
-    <title lang="en">Today's K-POP</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0512">
-    <title lang="en">Today's K-POP</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0513">
-    <title lang="en">Y2K</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0513">
-    <title lang="en">Y2K</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0513">
-    <title lang="en">Y2K</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0513">
-    <title lang="en">Y2K</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0513">
-    <title lang="en">Y2K</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0513">
-    <title lang="en">Y2K</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0513">
-    <title lang="en">Y2K</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0513">
-    <title lang="en">Y2K</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Disfruta de la mejor selección musical en los canales temáticos de Stingray.</desc>
-  </programme>
   <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0517">
     <title lang="es">Música mañana</title>
     <desc lang="es">Grandes éxitos para activar tu mañana.</desc>
@@ -26792,628 +24988,6 @@
   <programme start="20230918220000 -0300" stop="20230919000000 -0300" channel="0517">
     <title lang="es">Vuelven los lentos</title>
     <desc lang="es">Power love ballads.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0524">
-    <title lang="en">Classic Rock</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Return to the classic rock revolution of the '60, '70s, and '80s.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0524">
-    <title lang="en">Classic Rock</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Return to the classic rock revolution of the '60, '70s, and '80s.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0524">
-    <title lang="en">Classic Rock</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Return to the classic rock revolution of the '60, '70s, and '80s.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0524">
-    <title lang="en">Classic Rock</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Return to the classic rock revolution of the '60, '70s, and '80s.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0524">
-    <title lang="en">Classic Rock</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Return to the classic rock revolution of the '60, '70s, and '80s.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0524">
-    <title lang="en">Classic Rock</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Return to the classic rock revolution of the '60, '70s, and '80s.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0524">
-    <title lang="en">Classic Rock</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Return to the classic rock revolution of the '60, '70s, and '80s.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0524">
-    <title lang="en">Classic Rock</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Return to the classic rock revolution of the '60, '70s, and '80s.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0525">
-    <title lang="en">Alternative</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">High energy, ground-breaking new sounds, with roots deep in the rock of ages. Feel the hard intensity of today's best alternative rock sound and be reminded of the beginnings of grunge.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0525">
-    <title lang="en">Alternative</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">High energy, ground-breaking new sounds, with roots deep in the rock of ages. Feel the hard intensity of today's best alternative rock sound and be reminded of the beginnings of grunge.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0525">
-    <title lang="en">Alternative</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">High energy, ground-breaking new sounds, with roots deep in the rock of ages. Feel the hard intensity of today's best alternative rock sound and be reminded of the beginnings of grunge.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0525">
-    <title lang="en">Alternative</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">High energy, ground-breaking new sounds, with roots deep in the rock of ages. Feel the hard intensity of today's best alternative rock sound and be reminded of the beginnings of grunge.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0525">
-    <title lang="en">Alternative</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">High energy, ground-breaking new sounds, with roots deep in the rock of ages. Feel the hard intensity of today's best alternative rock sound and be reminded of the beginnings of grunge.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0525">
-    <title lang="en">Alternative</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">High energy, ground-breaking new sounds, with roots deep in the rock of ages. Feel the hard intensity of today's best alternative rock sound and be reminded of the beginnings of grunge.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0525">
-    <title lang="en">Alternative</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">High energy, ground-breaking new sounds, with roots deep in the rock of ages. Feel the hard intensity of today's best alternative rock sound and be reminded of the beginnings of grunge.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0525">
-    <title lang="en">Alternative</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">High energy, ground-breaking new sounds, with roots deep in the rock of ages. Feel the hard intensity of today's best alternative rock sound and be reminded of the beginnings of grunge.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0526">
-    <title lang="en">Pop Adult</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Features the best in pop-adult contemporary music.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0526">
-    <title lang="en">Pop Adult</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Features the best in pop-adult contemporary music.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0526">
-    <title lang="en">Pop Adult</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Features the best in pop-adult contemporary music.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0526">
-    <title lang="en">Pop Adult</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Features the best in pop-adult contemporary music.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0526">
-    <title lang="en">Pop Adult</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Features the best in pop-adult contemporary music.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0526">
-    <title lang="en">Pop Adult</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Features the best in pop-adult contemporary music.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0526">
-    <title lang="en">Pop Adult</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Features the best in pop-adult contemporary music.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0526">
-    <title lang="en">Pop Adult</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Features the best in pop-adult contemporary music.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0527">
-    <title lang="en">Hit List</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Today's hits and a preview of tomorrow's sensations.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0527">
-    <title lang="en">Hit List</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Today's hits and a preview of tomorrow's sensations.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0527">
-    <title lang="en">Hit List</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Today's hits and a preview of tomorrow's sensations.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0527">
-    <title lang="en">Hit List</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Today's hits and a preview of tomorrow's sensations.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0527">
-    <title lang="en">Hit List</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Today's hits and a preview of tomorrow's sensations.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0527">
-    <title lang="en">Hit List</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Today's hits and a preview of tomorrow's sensations.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0527">
-    <title lang="en">Hit List</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Today's hits and a preview of tomorrow's sensations.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0527">
-    <title lang="en">Hit List</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Today's hits and a preview of tomorrow's sensations.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0528">
-    <title lang="en">Hot Country Music</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Las estrellas de la música country ofrecen canciones que te encantarán. Es la mezcla perfecta de lo viejo y lo nuevo.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0528">
-    <title lang="en">Hot Country Music</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Las estrellas de la música country ofrecen canciones que te encantarán. Es la mezcla perfecta de lo viejo y lo nuevo.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0528">
-    <title lang="en">Hot Country Music</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Las estrellas de la música country ofrecen canciones que te encantarán. Es la mezcla perfecta de lo viejo y lo nuevo.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0528">
-    <title lang="en">Hot Country Music</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Las estrellas de la música country ofrecen canciones que te encantarán. Es la mezcla perfecta de lo viejo y lo nuevo.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0528">
-    <title lang="en">Hot Country Music</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Las estrellas de la música country ofrecen canciones que te encantarán. Es la mezcla perfecta de lo viejo y lo nuevo.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0528">
-    <title lang="en">Hot Country Music</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Las estrellas de la música country ofrecen canciones que te encantarán. Es la mezcla perfecta de lo viejo y lo nuevo.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0528">
-    <title lang="en">Hot Country Music</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Las estrellas de la música country ofrecen canciones que te encantarán. Es la mezcla perfecta de lo viejo y lo nuevo.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0528">
-    <title lang="en">Hot Country Music</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Las estrellas de la música country ofrecen canciones que te encantarán. Es la mezcla perfecta de lo viejo y lo nuevo.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0529">
-    <title lang="en">Flashback '70s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Ya seas bailarín, rockero o amante, este canal tiene algo para ti.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0529">
-    <title lang="en">Flashback '70s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Ya seas bailarín, rockero o amante, este canal tiene algo para ti.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0529">
-    <title lang="en">Flashback '70s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Ya seas bailarín, rockero o amante, este canal tiene algo para ti.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0529">
-    <title lang="en">Flashback '70s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Ya seas bailarín, rockero o amante, este canal tiene algo para ti.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0529">
-    <title lang="en">Flashback '70s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Ya seas bailarín, rockero o amante, este canal tiene algo para ti.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0529">
-    <title lang="en">Flashback '70s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Ya seas bailarín, rockero o amante, este canal tiene algo para ti.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0529">
-    <title lang="en">Flashback '70s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Ya seas bailarín, rockero o amante, este canal tiene algo para ti.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0529">
-    <title lang="en">Flashback '70s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Ya seas bailarín, rockero o amante, este canal tiene algo para ti.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0530">
-    <title lang="en">Remember the '80s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">El inconfundible sonido synth pop te recordará todos tus mejores recuerdos de los 80.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0530">
-    <title lang="en">Remember the '80s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">El inconfundible sonido synth pop te recordará todos tus mejores recuerdos de los 80.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0530">
-    <title lang="en">Remember the '80s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">El inconfundible sonido synth pop te recordará todos tus mejores recuerdos de los 80.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0530">
-    <title lang="en">Remember the '80s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">El inconfundible sonido synth pop te recordará todos tus mejores recuerdos de los 80.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0530">
-    <title lang="en">Remember the '80s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">El inconfundible sonido synth pop te recordará todos tus mejores recuerdos de los 80.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0530">
-    <title lang="en">Remember the '80s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">El inconfundible sonido synth pop te recordará todos tus mejores recuerdos de los 80.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0530">
-    <title lang="en">Remember the '80s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">El inconfundible sonido synth pop te recordará todos tus mejores recuerdos de los 80.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0530">
-    <title lang="en">Remember the '80s</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">El inconfundible sonido synth pop te recordará todos tus mejores recuerdos de los 80.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0531">
-    <title lang="en">Hip-Hop/RnB</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Rap, Hip Hop y RnB contemporáneo. De la vieja escuela a la nueva.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0531">
-    <title lang="en">Hip-Hop/RnB</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Rap, Hip Hop y RnB contemporáneo. De la vieja escuela a la nueva.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0531">
-    <title lang="en">Hip-Hop/RnB</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Rap, Hip Hop y RnB contemporáneo. De la vieja escuela a la nueva.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0531">
-    <title lang="en">Hip-Hop/RnB</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Rap, Hip Hop y RnB contemporáneo. De la vieja escuela a la nueva.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0531">
-    <title lang="en">Hip-Hop/RnB</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Rap, Hip Hop y RnB contemporáneo. De la vieja escuela a la nueva.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0531">
-    <title lang="en">Hip-Hop/RnB</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Rap, Hip Hop y RnB contemporáneo. De la vieja escuela a la nueva.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0531">
-    <title lang="en">Hip-Hop/RnB</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Rap, Hip Hop y RnB contemporáneo. De la vieja escuela a la nueva.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0531">
-    <title lang="en">Hip-Hop/RnB</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Rap, Hip Hop y RnB contemporáneo. De la vieja escuela a la nueva.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0532">
-    <title lang="en">Soul Storm</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música soul y RnB contemporánea de artistas clásicos y nuevas canciones de artistas recientes.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0532">
-    <title lang="en">Soul Storm</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música soul y RnB contemporánea de artistas clásicos y nuevas canciones de artistas recientes.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0532">
-    <title lang="en">Soul Storm</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música soul y RnB contemporánea de artistas clásicos y nuevas canciones de artistas recientes.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0532">
-    <title lang="en">Soul Storm</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música soul y RnB contemporánea de artistas clásicos y nuevas canciones de artistas recientes.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0532">
-    <title lang="en">Soul Storm</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música soul y RnB contemporánea de artistas clásicos y nuevas canciones de artistas recientes.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0532">
-    <title lang="en">Soul Storm</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música soul y RnB contemporánea de artistas clásicos y nuevas canciones de artistas recientes.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0532">
-    <title lang="en">Soul Storm</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música soul y RnB contemporánea de artistas clásicos y nuevas canciones de artistas recientes.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0532">
-    <title lang="en">Soul Storm</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música soul y RnB contemporánea de artistas clásicos y nuevas canciones de artistas recientes.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0533">
-    <title lang="en">Greatest Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">This channel is dedicated to all-time greatest hits by the most popular bands and artists! A guaranteed crowd-pleaser for every occasion.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0533">
-    <title lang="en">Greatest Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">This channel is dedicated to all-time greatest hits by the most popular bands and artists! A guaranteed crowd-pleaser for every occasion.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0533">
-    <title lang="en">Greatest Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">This channel is dedicated to all-time greatest hits by the most popular bands and artists! A guaranteed crowd-pleaser for every occasion.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0533">
-    <title lang="en">Greatest Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">This channel is dedicated to all-time greatest hits by the most popular bands and artists! A guaranteed crowd-pleaser for every occasion.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0533">
-    <title lang="en">Greatest Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">This channel is dedicated to all-time greatest hits by the most popular bands and artists! A guaranteed crowd-pleaser for every occasion.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0533">
-    <title lang="en">Greatest Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">This channel is dedicated to all-time greatest hits by the most popular bands and artists! A guaranteed crowd-pleaser for every occasion.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0533">
-    <title lang="en">Greatest Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">This channel is dedicated to all-time greatest hits by the most popular bands and artists! A guaranteed crowd-pleaser for every occasion.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0533">
-    <title lang="en">Greatest Hits</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">This channel is dedicated to all-time greatest hits by the most popular bands and artists! A guaranteed crowd-pleaser for every occasion.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0534">
-    <title lang="en">Éxitos del Momento</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0534">
-    <title lang="en">Éxitos del Momento</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0534">
-    <title lang="en">Éxitos del Momento</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0534">
-    <title lang="en">Éxitos del Momento</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0534">
-    <title lang="en">Éxitos del Momento</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0534">
-    <title lang="en">Éxitos del Momento</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0534">
-    <title lang="en">Éxitos del Momento</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0534">
-    <title lang="en">Éxitos del Momento</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme start="20230916210000 -0300" stop="20230917030000 -0300" channel="0544">
-    <title lang="en">Qello Concerts</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917090000 -0300" channel="0544">
-    <title lang="en">Qello Concerts</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917090000 -0300" stop="20230917150000 -0300" channel="0544">
-    <title lang="en">Qello Concerts</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917150000 -0300" stop="20230917210000 -0300" channel="0544">
-    <title lang="en">Qello Concerts</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917210000 -0300" stop="20230918030000 -0300" channel="0544">
-    <title lang="en">Qello Concerts</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918030000 -0300" stop="20230918090000 -0300" channel="0544">
-    <title lang="en">Qello Concerts</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918090000 -0300" stop="20230918150000 -0300" channel="0544">
-    <title lang="en">Qello Concerts</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918150000 -0300" stop="20230918210000 -0300" channel="0544">
-    <title lang="en">Qello Concerts</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230916210000 -0300" stop="20230917030000 -0300" channel="0545">
-    <title lang="en">Karaoke</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917090000 -0300" channel="0545">
-    <title lang="en">Karaoke</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917090000 -0300" stop="20230917150000 -0300" channel="0545">
-    <title lang="en">Karaoke</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917150000 -0300" stop="20230917210000 -0300" channel="0545">
-    <title lang="en">Karaoke</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917210000 -0300" stop="20230918030000 -0300" channel="0545">
-    <title lang="en">Karaoke</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918030000 -0300" stop="20230918090000 -0300" channel="0545">
-    <title lang="en">Karaoke</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918090000 -0300" stop="20230918150000 -0300" channel="0545">
-    <title lang="en">Karaoke</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918150000 -0300" stop="20230918210000 -0300" channel="0545">
-    <title lang="en">Karaoke</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Señal temática de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0548">
-    <title lang="en">Stingray CMusic</title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0548">
-    <title lang="en">Stingray CMusic</title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0548">
-    <title lang="en">Stingray CMusic</title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0548">
-    <title lang="en">Stingray CMusic</title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0548">
-    <title lang="en">Stingray CMusic</title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0548">
-    <title lang="en">Stingray CMusic</title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0548">
-    <title lang="en">Stingray CMusic</title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0548">
-    <title lang="en">Stingray CMusic</title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917060000 -0300" channel="0549">
-    <title lang="en">NaturEscape</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917120000 -0300" channel="0549">
-    <title lang="en">NaturEscape</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917120000 -0300" stop="20230917180000 -0300" channel="0549">
-    <title lang="en">NaturEscape</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917180000 -0300" stop="20230918000000 -0300" channel="0549">
-    <title lang="en">NaturEscape</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918060000 -0300" channel="0549">
-    <title lang="en">NaturEscape</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918120000 -0300" channel="0549">
-    <title lang="en">NaturEscape</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918120000 -0300" stop="20230918180000 -0300" channel="0549">
-    <title lang="en">NaturEscape</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230918180000 -0300" stop="20230919000000 -0300" channel="0549">
-    <title lang="en">NaturEscape</title>
-    <sub-title lang="en">Stingray Music</sub-title>
-    <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230917003000 -0300" stop="20230917020000 -0300" channel="0154">
-    <title lang="en">Fair Play O'Higgins</title>
-  </programme>
-  <programme start="20230917020000 -0300" stop="20230917023000 -0300" channel="0154">
-    <title lang="en">Creadores</title>
-    <desc lang="en">El proceso creativo y la historia de autores uruguayos. Serie producida por GEN, Centro de Artes y Ciencias con el apoyo de AGADU.</desc>
-  </programme>
-  <programme start="20230917023000 -0300" stop="20230917033000 -0300" channel="0154">
-    <title lang="en">Cine Adictos</title>
-  </programme>
-  <programme start="20230917033000 -0300" stop="20230917043000 -0300" channel="0154">
-    <title lang="en">Resumen semanal de noticias</title>
-    <desc lang="en">Un resumen de las noticias mas importantes a nivel nacional e internacional. (new).</desc>
-  </programme>
-  <programme start="20230917043000 -0300" stop="20230917050000 -0300" channel="0154">
-    <title lang="en">SextaVision Especial</title>
-  </programme>
-  <programme start="20230917050000 -0300" stop="20230917053000 -0300" channel="0154">
-    <title lang="en">Sexta Visión</title>
-  </programme>
-  <programme start="20230917053000 -0300" stop="20230917060000 -0300" channel="0154">
-    <title lang="en">SextaVision Especial</title>
-  </programme>
-  <programme start="20230917060000 -0300" stop="20230917070000 -0300" channel="0154">
-    <title lang="en">Pauta Ciudadana</title>
-  </programme>
-  <programme start="20230917070000 -0300" stop="20230917080000 -0300" channel="0154">
-    <title lang="en">Resumen semanal de noticias</title>
-    <desc lang="en">Un resumen de las noticias mas importantes a nivel nacional e internacional. (new).</desc>
   </programme>
   <programme start="20230917080000 -0300" stop="20230917093000 -0300" channel="0154">
     <title lang="en">Estacion AM</title>
