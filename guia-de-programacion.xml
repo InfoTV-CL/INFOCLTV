@@ -3416,45 +3416,6 @@
     <title lang="es">El mejor programa de la semana - Tiempos violentos</title>
     <desc lang="es">Disfrute los mejores momentos de este espacio que aborda la inseguridad y la violencia.</desc>
   </programme>
-  <programme start="20230930010000 -0300" stop="20230930020000 -0300" channel="0113">
-    <title lang="en">Avivando el bolero</title>
-    <sub-title lang="en">Boleros y valsecitos</sub-title>
-    <desc lang="en">Avivando el bolero es un programa que busca recordar y revivir el género musical.</desc>
-  </programme>
-  <programme start="20230930020000 -0300" stop="20230930030000 -0300" channel="0113">
-    <title lang="en">City Tour</title>
-    <sub-title lang="en">Juan XXIII en Vitacura</sub-title>
-    <desc lang="en">Federico Sánchez y Marcelo Comparini recorren ciudades para mostrar la arquitectura patrimonial.</desc>
-  </programme>
-  <programme start="20230930030000 -0300" stop="20230930040000 -0300" channel="0113">
-    <title lang="en">Recomiendo Chile</title>
-    <sub-title lang="en">Arauco</sub-title>
-    <desc lang="en">Si algo caracteriza a la provincia de Arauco es su impresionante diversidad geográfica, cultural y gastronómica. Su fecunda costa y su imponente cordillera de Nahuelbuta, le otorga a esta zona del país un sello único. Ir precisamente en busca de esa pluralidad es el objetivo trazado por Alonso Barraza para este nuevo capítulo de Recomiendo Chile.</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930050000 -0300" channel="0113">
-    <title lang="en">Cultura sagrada</title>
-    <sub-title lang="en">Nueva Delhi</sub-title>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930060000 -0300" channel="0113">
-    <title lang="en">Plan V</title>
-    <sub-title lang="en">Carpinteria casera y carteras en un dos por tres</sub-title>
-    <desc lang="en">Acompaña a Virginia Demaria en este espacio en el que se ha propuesto volver a aprender buscando los mejores datos de belleza e ideas para realizar tanto manualidades como recetas deliciosas y sencillas.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930070000 -0300" channel="0113">
-    <title lang="en">City Tour</title>
-    <sub-title lang="en">Calle Carmen Fariña en Vitacura</sub-title>
-    <desc lang="en">Federico Sánchez y Marcelo Comparini recorren ciudades para mostrar la arquitectura patrimonial.</desc>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930080000 -0300" channel="0113">
-    <title lang="en">Cocina sin fronteras</title>
-    <sub-title lang="en">África</sub-title>
-    <desc lang="en">Mikel Zulueta va en busca de representantes de Egipto, Nigeria y Marruecos.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930090000 -0300" channel="0113">
-    <title lang="en">Cocina sin fronteras</title>
-    <sub-title lang="en">Austria</sub-title>
-    <desc lang="en">El destacado chef presenta esta serie enfocada en las tradiciones culinarias de los inmigrantes que hoy llegan a Chile.</desc>
-  </programme>
   <programme start="20230930090000 -0300" stop="20230930100000 -0300" channel="0113">
     <title lang="en">Plan V</title>
     <sub-title lang="en">Flora y fauna chilena</sub-title>
@@ -4164,10 +4125,6 @@
   <programme start="20231002040000 -0300" stop="20231002050000 -0300" channel="0121">
     <title lang="es">Como la vida misma</title>
     <desc lang="es">Sole (Sigrid Alegría) y Alonso (Diego Muñoz) bordean los 50 años y encuentran una segunda oportunidad para el amor. Así comienza el desafío de construir una nueva familia, ensamblando a los hijos de ambos pero también a los ex y hasta a los suegros.</desc>
-  </programme>
-  <programme start="20230930000000 -0300" stop="20230930080000 -0300" channel="0124">
-    <title lang="en">Notas y reportajes</title>
-    <desc lang="en">Los mejores y más interesantes reportajes de la actualidad nacional e internacional.</desc>
   </programme>
   <programme start="20230930080000 -0300" stop="20230930130000 -0300" channel="0124">
     <title lang="en">Sin Despertador</title>
@@ -5801,198 +5758,6 @@
   <programme start="20231001233000 -0300" stop="20231002000000 -0300" channel="0205">
     <title lang="es">Enfoque europa: Países, gentes, destinos</title>
   </programme>
-  <programme start="20230930013000 -0300" stop="20230930014500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930014500 -0300" stop="20230930015900 -0300" channel="0206">
-    <title lang="en">Ellas hoy</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930015900 -0300" stop="20230930020000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930020000 -0300" stop="20230930021500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (live).</desc>
-  </programme>
-  <programme start="20230930021500 -0300" stop="20230930023000 -0300" channel="0206">
-    <title lang="en">En primera plana</title>
-    <desc lang="en">Analistas y corresponsales extranjeros en París comentan lo más candente de la actualidad. (repeat).</desc>
-  </programme>
-  <programme start="20230930023000 -0300" stop="20230930024500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930024500 -0300" stop="20230930025900 -0300" channel="0206">
-    <title lang="en">En primera plana</title>
-    <desc lang="en">Analistas y corresponsales extranjeros en París comentan lo más candente de la actualidad. (repeat).</desc>
-  </programme>
-  <programme start="20230930025900 -0300" stop="20230930030000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930030000 -0300" stop="20230930031500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930031500 -0300" stop="20230930032900 -0300" channel="0206">
-    <title lang="en">Corresponsales</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930032900 -0300" stop="20230930033000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930033000 -0300" stop="20230930034500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930034500 -0300" stop="20230930035900 -0300" channel="0206">
-    <title lang="en">Carrusel de las artes</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930035900 -0300" stop="20230930040000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930041500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930041500 -0300" stop="20230930042100 -0300" channel="0206">
-    <title lang="en">Salud</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930042100 -0300" stop="20230930042900 -0300" channel="0206">
-    <title lang="en">Crónica de medio ambiente</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930042900 -0300" stop="20230930043000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930043000 -0300" stop="20230930044500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930044500 -0300" stop="20230930045900 -0300" channel="0206">
-    <title lang="en">Aquí América</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930045900 -0300" stop="20230930050000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930051000 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (live).</desc>
-  </programme>
-  <programme start="20230930051000 -0300" stop="20230930051600 -0300" channel="0206">
-    <title lang="en">Revista digital</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930051600 -0300" stop="20230930052900 -0300" channel="0206">
-    <title lang="en">África 7 días</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930052900 -0300" stop="20230930053000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930053000 -0300" stop="20230930054000 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930054000 -0300" stop="20230930054600 -0300" channel="0206">
-    <title lang="en">Esto es Francia</title>
-    <desc lang="en">Lugares de prestigio, tradiciones, artes, gastronomía y especialidades locales: esto es Francia. (repeat).</desc>
-  </programme>
-  <programme start="20230930054600 -0300" stop="20230930055900 -0300" channel="0206">
-    <title lang="en">Cultura</title>
-    <desc lang="en">¿Cómo nos relatan el mundo los cineastas, los novelistas, los artistas? France 24 sale al encuentro de una cultura comprometida con su época y te trae un segmento lleno de los colores de nuestra sociedad. (repeat).</desc>
-  </programme>
-  <programme start="20230930055900 -0300" stop="20230930060000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930061000 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930061000 -0300" stop="20230930062900 -0300" channel="0206">
-    <title lang="en">Reporteros</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930062900 -0300" stop="20230930063000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930063000 -0300" stop="20230930064000 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930064000 -0300" stop="20230930064600 -0300" channel="0206">
-    <title lang="en">Enlace</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930064600 -0300" stop="20230930065400 -0300" channel="0206">
-    <title lang="en">Los observadores</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930065400 -0300" stop="20230930065900 -0300" channel="0206">
-    <title lang="en">En foco</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930065900 -0300" stop="20230930070000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930071500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (live).</desc>
-  </programme>
-  <programme start="20230930071500 -0300" stop="20230930072000 -0300" channel="0206">
-    <title lang="en">Deportes</title>
-    <desc lang="en">(live).</desc>
-  </programme>
-  <programme start="20230930072000 -0300" stop="20230930072900 -0300" channel="0206">
-    <title lang="en">Moda</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930072900 -0300" stop="20230930073000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930074500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930074500 -0300" stop="20230930075900 -0300" channel="0206">
-    <title lang="en">La Entrevista</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930075900 -0300" stop="20230930080000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930081500 -0300" channel="0206">
-    <title lang="en">Noticias</title>
-    <desc lang="en">Un resumen completo de la actualidad internacional. (live).</desc>
-  </programme>
-  <programme start="20230930081500 -0300" stop="20230930082000 -0300" channel="0206">
-    <title lang="en">Economía</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930082000 -0300" stop="20230930085900 -0300" channel="0206">
-    <title lang="en">El Debate</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930085900 -0300" stop="20230930090000 -0300" channel="0206">
-    <title lang="en">El tiempo</title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
   <programme start="20230930090000 -0300" stop="20230930091500 -0300" channel="0206">
     <title lang="en">Noticias</title>
     <desc lang="en">Un resumen completo de la actualidad internacional. (repeat).</desc>
@@ -7210,67 +6975,6 @@
   <programme start="20231001234500 -0300" stop="20231002000000 -0300" channel="0211">
     <title lang="es">CNN Marketplace Africa, Middle East, Asia, Europe</title>
     <desc lang="es">No hay información disponible.</desc>
-  </programme>
-  <programme start="20230930013000 -0300" stop="20230930020000 -0300" channel="0212">
-    <title lang="en">The Travel Show</title>
-    <desc lang="en">The best of travel around the globe.</desc>
-  </programme>
-  <programme start="20230930020000 -0300" stop="20230930023000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230930023000 -0300" stop="20230930030000 -0300" channel="0212">
-    <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">An unvarnished version of the week's major global news stories, reliable, honest and essential viewing.</desc>
-  </programme>
-  <programme start="20230930030000 -0300" stop="20230930033000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230930033000 -0300" stop="20230930040000 -0300" channel="0212">
-    <title lang="en">Click</title>
-    <desc lang="en">A look at recent products and developments relating to the Internet.</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930043000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230930043000 -0300" stop="20230930050000 -0300" channel="0212">
-    <title lang="en">HARDtalk</title>
-    <desc lang="en">Interviews with newsmakers and personalities from around the world.</desc>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930053000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230930053000 -0300" stop="20230930060000 -0300" channel="0212">
-    <title lang="en">Wonders Of Turkey</title>
-    <sub-title lang="en">Lost Tombs</sub-title>
-    <desc lang="en">(repeat).</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930063000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230930063000 -0300" stop="20230930070000 -0300" channel="0212">
-    <title lang="en">The Briefing</title>
-    <desc lang="en">The show features the latest news, business and sport from BBC News, including a need-to-know guide to the hottest and trending stories.</desc>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930073000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930080000 -0300" channel="0212">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">The host presents an analysis of the latest business stories and global economic trends.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930083000 -0300" channel="0212">
-    <title lang="en">BBC News</title>
-    <desc lang="en">International news from the British Broadcasting Corporation.</desc>
-  </programme>
-  <programme start="20230930083000 -0300" stop="20230930090000 -0300" channel="0212">
-    <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">An unvarnished version of the week's major global news stories, reliable, honest and essential viewing.</desc>
   </programme>
   <programme start="20230930090000 -0300" stop="20230930093000 -0300" channel="0212">
     <title lang="en">BBC News</title>
@@ -14653,9 +14357,6 @@
   <programme start="20230930233000 -0300" stop="20231001000000 -0300" channel="0310">
     <title lang="es">Noches de ensueño</title>
   </programme>
-  <programme start="20231001043000 -0300" stop="20231001050000 -0300" channel="0310">
-    <title lang="es">Sonidos Relajantes</title>
-  </programme>
   <programme start="20231001063000 -0300" stop="20231001070000 -0300" channel="0310">
     <title lang="es">Amanence y brilla con los amigos de BabyTV</title>
   </programme>
@@ -14764,66 +14465,6 @@
   </programme>
   <programme start="20231001222500 -0300" stop="20231002005000 -0300" channel="0318">
     <title lang="es">Sin miedo a la verdad</title>
-  </programme>
-  <programme start="20230930013000 -0300" stop="20230930020000 -0300" channel="0320">
-    <title lang="en">Mangaka</title>
-    <desc lang="en">Mangaka, programa de televisión,.</desc>
-  </programme>
-  <programme start="20230930020000 -0300" stop="20230930023000 -0300" channel="0320">
-    <title lang="en">Orphen</title>
-    <desc lang="en">Un hechicero busca ayudar a su amiga que se convirtió en un terrible dragón.</desc>
-  </programme>
-  <programme start="20230930023000 -0300" stop="20230930030000 -0300" channel="0320">
-    <title lang="en">The Knight In The Area</title>
-    <desc lang="en">Kakeru Aizawa es el hermano menor de Suguru, un prodigio del fútbol de la selección sub-15 de Japón.</desc>
-  </programme>
-  <programme start="20230930030000 -0300" stop="20230930033000 -0300" channel="0320">
-    <title lang="en">Idaten Jump</title>
-    <desc lang="en">Las fascinantes aventuras de Sho Yamato y sus amigos, que llegan a un misterioso lugar.</desc>
-  </programme>
-  <programme start="20230930033000 -0300" stop="20230930040000 -0300" channel="0320">
-    <title lang="en">Los archivos de Kindaichi</title>
-    <desc lang="en">Un estudiante que cuando hay un caso que resolver, demuestra tener grandes dotes deductivas.</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930043000 -0300" channel="0320">
-    <title lang="en">Slayers TRI</title>
-    <desc lang="en">Lina y Gourry continúan su viaje en busca de una nueva arma que reemplace la Espada de Luz.</desc>
-  </programme>
-  <programme start="20230930043000 -0300" stop="20230930050000 -0300" channel="0320">
-    <title lang="en">Fire Force</title>
-    <desc lang="en">Una brigada de bomberos se especializa en la combustión espontánea que sufren algunas personas.</desc>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930053000 -0300" channel="0320">
-    <title lang="en">Beelzebub</title>
-    <desc lang="en">Un jóven delincuente encuentre en el río al hijo bebé del rey demonio junto a su sirvienta.</desc>
-  </programme>
-  <programme start="20230930053000 -0300" stop="20230930060000 -0300" channel="0320">
-    <title lang="en">Tsukiuta</title>
-    <desc lang="en">Doce miembros de dos grupos musicales rivales intentan coexistir en el mismo dormitorio.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930063000 -0300" channel="0320">
-    <title lang="en">Digimon</title>
-    <desc lang="en">Siete chicos son transportados a un mundo digital donde cada uno conocerá a su Digital Monster.</desc>
-  </programme>
-  <programme start="20230930063000 -0300" stop="20230930070000 -0300" channel="0320">
-    <title lang="en">Sailor Moon</title>
-    <desc lang="en">Usagi conoce a una gata que le habla de su misión como Sailor Senshi y de salvar al mundo.</desc>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930073000 -0300" channel="0320">
-    <title lang="en">Supercampeones Off Road 2002</title>
-    <desc lang="en">Tsubasa juega su último partido en el Sao Paulo contra el Brancos FC. Luego,.</desc>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930080000 -0300" channel="0320">
-    <title lang="en">Slam Dunk</title>
-    <desc lang="en">Hanamichi Sakuragi conoce un día a una chica a quien le fascina el baloncesto.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930083000 -0300" channel="0320">
-    <title lang="en">Los caballeros del zodiaco</title>
-    <desc lang="en">Seiya es un niño huérfano enviado a Grecia en donde se convirtió en uno de los Santos de Atenea.</desc>
-  </programme>
-  <programme start="20230930083000 -0300" stop="20230930090000 -0300" channel="0320">
-    <title lang="en">Orphen</title>
-    <desc lang="en">Un hechicero busca ayudar a su amiga que se convirtió en un terrible dragón.</desc>
   </programme>
   <programme start="20230930090000 -0300" stop="20230930093000 -0300" channel="0320">
     <title lang="en">The Knight In The Area</title>
@@ -15112,30 +14753,6 @@
   <programme start="20231001203000 -0300" stop="20231001210000 -0300" channel="0320">
     <title lang="en">Beelzebub</title>
     <desc lang="en">Un jóven delincuente encuentre en el río al hijo bebé del rey demonio junto a su sirvienta.</desc>
-  </programme>
-  <programme start="20230930010000 -0300" stop="20230930020000 -0300" channel="0321">
-    <title lang="en">Poco se habla</title>
-  </programme>
-  <programme start="20230930020000 -0300" stop="20230930030000 -0300" channel="0321">
-    <title lang="en">Nostalgeeks</title>
-  </programme>
-  <programme start="20230930030000 -0300" stop="20230930040000 -0300" channel="0321">
-    <title lang="en">RGB</title>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930050000 -0300" channel="0321">
-    <title lang="en">El lobby</title>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930060000 -0300" channel="0321">
-    <title lang="en">Poco se habla</title>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930070000 -0300" channel="0321">
-    <title lang="en">Nostalgeeks</title>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930080000 -0300" channel="0321">
-    <title lang="en">RGB</title>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930090000 -0300" channel="0321">
-    <title lang="en">El lobby</title>
   </programme>
   <programme start="20230930090000 -0300" stop="20230930100000 -0300" channel="0321">
     <title lang="en">Poco se habla</title>
@@ -15711,23 +15328,6 @@
     <title lang="es">TNT Sports 3</title>
     <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
   </programme>
-  <programme start="20230930013000 -0300" stop="20230930023000 -0300" channel="0404">
-    <title lang="en">Sabor a gol</title>
-    <sub-title lang="en">Coca Mendoza</sub-title>
-    <desc lang="en">El destacado Chef, Tomás Olivera, invita a un futbolista o ex futbolista con amor por la cocina, a preparar juntos su plato favorito. (repeat).</desc>
-  </programme>
-  <programme start="20230930023000 -0300" stop="20230930033000 -0300" channel="0404">
-    <title lang="en">Pulso</title>
-    <desc lang="en">Pulso. (repeat).</desc>
-  </programme>
-  <programme start="20230930033000 -0300" stop="20230930060000 -0300" channel="0404">
-    <title lang="en">Pelota Parada</title>
-    <desc lang="en">Programa de actualidad con análisis, contingencia al día e interacción con periodistas en terreno que estarán en los principales clubes chilenos y cubriendo los diferentes focos del fútbol nacional. (repeat).</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930073000 -0300" channel="0404">
-    <title lang="en">TNT Data Sports</title>
-    <desc lang="en">Espacio de actualidad informativa del deporte mundial con un especial énfasis en las estadísticas. (repeat).</desc>
-  </programme>
   <programme start="20230930073000 -0300" stop="20230930093000 -0300" channel="0404">
     <title lang="en">Todos somos técnicos</title>
     <desc lang="en">Programa de debate y análisis, basado en la experiencia y autoridad del panel.</desc>
@@ -15876,46 +15476,6 @@
   <programme start="20231001200000 -0300" stop="20231001220000 -0300" channel="0405">
     <title lang="en">Fenerbahce vs. Rizespor - Fútbol Turco Superliga</title>
   </programme>
-  <programme start="20230930013000 -0300" stop="20230930020000 -0300" channel="0407">
-    <title lang="en">High Tops: Plays of the Month</title>
-    <sub-title lang="en">Hall of Fame Class of 2023</sub-title>
-    <desc lang="en">Showcasing the best action from Class of 2023 Hall of Fame inductees including Dwyane Wade, Dirk Nowitzki, Becky Hammon, Pau Gasol and Tony Parker.</desc>
-  </programme>
-  <programme start="20230930020000 -0300" stop="20230930030000 -0300" channel="0407">
-    <title lang="en">NBA Playoff</title>
-    <sub-title lang="en">Game 6: Memphis Grizzlies at Los Angeles Lakers</sub-title>
-    <desc lang="en">Memphis Grizzlies at Los Angeles Lakers in Game 6 of a Western Conference first-round series. From Crypto.com Arena. Darvin Ham's Lakers try again to finish off Memphis after falling 116-99 in Game 5, as Grizz stars Ja Morant and Desmond Bane scored or assisted on 90 of their team's 116 points.</desc>
-  </programme>
-  <programme start="20230930030000 -0300" stop="20230930040000 -0300" channel="0407">
-    <title lang="en">NBA Playoff</title>
-    <sub-title lang="en">Game 1: Minnesota Timberwolves at Denver Nuggets</sub-title>
-    <desc lang="en">Minnesota Timberwolves at Denver Nuggets in Game 1 of a Western Conference first-round series. From Ball Arena. Two-time reigning MVP Nikola Jokic anchors top-seeded Denver against fellow big man Karl-Anthony Towns and a hungry T-Wolves squad. Minnesota won the only previous playoff meeting, in the 2004 first round en route to the team's only conference final.</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930050000 -0300" channel="0407">
-    <title lang="en">NBA Playoff</title>
-    <sub-title lang="en">Game 2: Minnesota Timberwolves at Denver Nuggets</sub-title>
-    <desc lang="en">Minnesota Timberwolves at Denver Nuggets in Game 2 of a Western Conference first-round series. From Ball Arena. Top-seeded Denver is on top 1-0 after coasting to a 29-point win in Game 1, getting 24 points, eight assists and eight boards from Jamal Murray, plus a Michael Porter Jr. double-double.</desc>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930060000 -0300" channel="0407">
-    <title lang="en">NBA Playoff</title>
-    <sub-title lang="en">Game 3: Denver Nuggets at Minnesota Timberwolves</sub-title>
-    <desc lang="en">Denver Nuggets at Minnesota Timberwolves in Game 3 of a Western Conference first-round series. From Target Center. Despite 41 points in Game 2 from third-year guard Anthony Edwards, the T-Wolves come home down 2-0 to top-seeded Denver, which got 40 from Jamaal Murray to help nail down a 122-113 win in Game 2.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930070000 -0300" channel="0407">
-    <title lang="en">NBA Playoff</title>
-    <sub-title lang="en">Game 4: Denver Nuggets at Minnesota Timberwolves</sub-title>
-    <desc lang="en">Denver Nuggets at Minnesota Timberwolves in Game 4 of a Western Conference first-round series. From Target Center. Michael Malone's top-seeded Nuggets bid for their first-ever playoff series sweep after a 120-111 win here in Game 3, keyed by Nikola Jokic's triple-double. Anthony Edwards scored 36 in defeat.</desc>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930080000 -0300" channel="0407">
-    <title lang="en">NBA Playoff</title>
-    <sub-title lang="en">Game 5: Minnesota Timberwolves at Denver Nuggets</sub-title>
-    <desc lang="en">Minnesota Timberwolves at Denver Nuggets in Game 5 of a Western Conference first-round series. From Ball Arena. Chris Finch's T-Wolves staved off elimination with a 114-108 overtime win in Game 4, keeping top-seeded Denver from recording its first-ever playoff series sweep. Nikola Jokic tallied 43 in defeat.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930090000 -0300" channel="0407">
-    <title lang="en">NBA Playoff</title>
-    <sub-title lang="en">Game 1: Brooklyn Nets at Philadelphia 76ers</sub-title>
-    <desc lang="en">Brooklyn Nets at Philadelphia 76ers in Game 1 of an Eastern Conference first-round series. From Wells Fargo Center. MVP candidate Joel Embiid and ex-Nets star James Harden lead the 76ers into their sixth straight postseason, with ex-Villanova star Mikal Bridges and ex-Sixer Seth Curry (son-in-law of Philly coach Doc Rivers) providing scoring punch for Brooklyn.</desc>
-  </programme>
   <programme start="20230930090000 -0300" stop="20230930100000 -0300" channel="0407">
     <title lang="en">NBA Playoff</title>
     <sub-title lang="en">Game 2: Brooklyn Nets at Philadelphia 76ers</sub-title>
@@ -15967,9 +15527,7 @@
     <desc lang="en">Golden State Warriors at Sacramento Kings in Game 5 of a Western Conference first-round series. From Golden 1 Center.</desc>
   </programme>
   <programme start="20230930190000 -0300" stop="20230930193000 -0300" channel="0407">
-    <title lang="en">High Tops: Plays of the Month</title>
-    <sub-title lang="en">Hall of Fame Class of 2023</sub-title>
-    <desc lang="en">Showcasing the best action from Class of 2023 Hall of Fame inductees including Dwyane Wade, Dirk Nowitzki, Becky Hammon, Pau Gasol and Tony Parker.</desc>
+    <title lang="en">High Tops: Plays of the Month (?)</title>
   </programme>
   <programme start="20230930193000 -0300" stop="20230930200000 -0300" channel="0407">
     <title lang="en">WNBA Weekly</title>
@@ -16608,9 +16166,6 @@
   <programme start="20230930200000 -0300" stop="20231001010000 -0300" channel="0427">
     <title lang="es">DAZN LALIGA</title>
   </programme>
-  <programme start="20231001010000 -0300" stop="20231001070000 -0300" channel="0427">
-    <title lang="es">DAZN LALIGA</title>
-  </programme>
   <programme start="20231001070000 -0300" stop="20231001080000 -0300" channel="0427">
     <title lang="es">Super 8</title>
   </programme>
@@ -16747,6 +16302,9 @@
     <title lang="es">Bundesliga: Mainz - Bayer Leverkusen</title>
     <title lang="en">Bundesliga/24</title>
     <desc lang="es">Un enrachado Leverkusen e invicto a lo largo de la temporada visita al Mainz, colista, que apenas ha sumado un punto tras cinco jornadas. Los de Xabi Alonso no fallaron en su último duelo ante el Heidenheim y le endosaron cuatro goles para sumar diecisiete en el total del campeonato. El Mainz de Bo Svensson ha arrancado de forma distinta. Tras su última derrota ante el Augsburgo son ya tres consecutivas. Su único punto lo obtuvieron con un empate en casa ante el Eintracht en la segunda jornada.</desc>
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
   </programme>
   <programme start="20231001004000 -0300" stop="20231001023500 -0300" channel="0428">
     <title lang="es">Bundesliga: Heidenheim - Union Berlín</title>
@@ -16757,6 +16315,9 @@
     <title lang="es">Bundesliga: Wolfsburgo - Eintracht</title>
     <title lang="en">Bundesliga/24</title>
     <desc lang="es">Tras su derrota la semana pasada, el Wolfsburgo necesita ganar para volver a puestos europeos.El Eintracht, está dos puntos por detrás,y quiere romper la racha de cuatro empates consecutivos.</desc>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
   </programme>
   <programme start="20231001043000 -0300" stop="20231001063000 -0300" channel="0428">
     <title lang="es">Serie A Calcio: Lecce - Nápoles</title>
@@ -16793,6 +16354,9 @@
     <title lang="es">Bundesliga: Mainz - Bayer Leverkusen</title>
     <title lang="en">Bundesliga/24</title>
     <desc lang="es">Un enrachado Leverkusen e invicto a lo largo de la temporada visita al Mainz, colista, que apenas ha sumado un punto tras cinco jornadas. Los de Xabi Alonso no fallaron en su último duelo ante el Heidenheim y le endosaron cuatro goles para sumar diecisiete en el total del campeonato. El Mainz de Bo Svensson ha arrancado de forma distinta. Tras su última derrota ante el Augsburgo son ya tres consecutivas. Su único punto lo obtuvieron con un empate en casa ante el Eintracht en la segunda jornada.</desc>
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
   </programme>
   <programme start="20231001133000 -0300" stop="20231001152500 -0300" channel="0428">
     <title lang="es">Serie A Calcio: Milan - Lazio</title>
@@ -17400,18 +16964,6 @@
   <programme start="20231002220000 -0300" stop="20231003070000 -0300" channel="0503">
     <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20230930010000 -0300" stop="20230930030000 -0300" channel="0504">
-    <title lang="en">Hot Ranking</title>
-    <desc lang="en">Conteo de las 21 canciones más populares.</desc>
-  </programme>
-  <programme start="20230930030000 -0300" stop="20230930040000 -0300" channel="0504">
-    <title lang="en">Formula HTV</title>
-    <desc lang="en">Un espacio que presenta los artistas que inician una carrera con gran proyección.</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930070000 -0300" channel="0504">
-    <title lang="en">HTV fiesta</title>
-    <desc lang="en">El programa que reúne los videos más alegres, divertidos y contagiosos para acompañarte en todo momento y hacer de tu vida una fiesta.</desc>
-  </programme>
   <programme start="20230930070000 -0300" stop="20230930110000 -0300" channel="0504">
     <title lang="en">HTV Raíces</title>
     <desc lang="en">Un espacio para los ritmos latinos.</desc>
@@ -17471,21 +17023,6 @@
   <programme start="20231001190000 -0300" stop="20231001210000 -0300" channel="0504">
     <title lang="en">Hot Ranking</title>
     <desc lang="en">Conteo de las 21 canciones más populares.</desc>
-  </programme>
-  <programme start="20230930003000 -0300" stop="20230930023000 -0300" channel="0518">
-    <title lang="en">En Alta</title>
-    <desc lang="en">Videos musicales de las bandas más importantes del momento.</desc>
-  </programme>
-  <programme start="20230930023000 -0300" stop="20230930043000 -0300" channel="0518">
-    <title lang="en">Lo que Quiero</title>
-    <desc lang="en">Espacio dedicado a la música y los grupos más destacados del momento.</desc>
-  </programme>
-  <programme start="20230930043000 -0300" stop="20230930050000 -0300" channel="0518">
-    <title lang="en">Q noticias</title>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930070000 -0300" channel="0518">
-    <title lang="en">Q Clásicos</title>
-    <desc lang="en">Un viaje por los éxitos más destacados de los últimos quince años.</desc>
   </programme>
   <programme start="20230930070000 -0300" stop="20230930093000 -0300" channel="0518">
     <title lang="en">Dulce Despertar</title>
@@ -18090,51 +17627,6 @@
   <programme start="20231001233600 -0300" stop="20231002003000 -0300" channel="0601">
     <title lang="es">Familia de peso</title>
   </programme>
-  <programme start="20230930044600 -0300" stop="20230930053600 -0300" channel="0602">
-    <title lang="es">Los autos más veloces del sur</title>
-    <sub-title lang="es">Reconstruirse</sub-title>
-    <desc lang="es">Eric Malone interroga al Equipo 256 respecto a la carrera contra Memphis que dividió al equipo. Malcolm Storey es expulsado.</desc>
-  </programme>
-  <programme start="20230930053600 -0300" stop="20230930062300 -0300" channel="0602">
-    <title lang="es">Joyas sobre ruedas</title>
-    <sub-title lang="es">Toyota Supra 1982</sub-title>
-    <desc lang="es">Mike restaura un Toyota Supra de 1982 de seis cilindros con un sistema de escape complicado. Ahora, resta saber si Ant puede modernizarlo sin que el modelo pierda su originalidad.</desc>
-  </programme>
-  <programme start="20230930062300 -0300" stop="20230930071000 -0300" channel="0602">
-    <title lang="es">Full Custom Garage</title>
-    <sub-title lang="es">Bills 1954</sub-title>
-    <desc lang="es">Ian aplica algunos trucos viejos a un antiguo camión.</desc>
-  </programme>
-  <programme start="20230930071000 -0300" stop="20230930080000 -0300" channel="0602">
-    <title lang="es">Invasión de Garajes</title>
-    <sub-title lang="es">El nuevo trineo de Santa</sub-title>
-    <desc lang="es">Durante 30 años, la policía de la ciudad de Calumet utilizó una vieja casa rodante para entregar comida y juguetes a las familias necesitadas durante las fiestas, pero ahora quiere un poco más de potencia.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930084700 -0300" channel="0602">
-    <title lang="es">Overhaulin'</title>
-    <sub-title lang="es">El AMC AMX de 1969 de John</sub-title>
-    <desc lang="es">El querido AMC AMX de 1969 de John está abandonado en el rancho de su familia. Su hija desea transformar esta vieja chatarra en una obra de arte rodante.</desc>
-  </programme>
-  <programme start="20230930084700 -0300" stop="20230930093400 -0300" channel="0602">
-    <title lang="es">Texas trocas</title>
-    <sub-title lang="es">Conjunto Visión</sub-title>
-    <desc lang="es">Conjunto Visión es un grupo norteño de San Antonio, reconocido en el estado de Texas. Ahora está ampliando sus horizontes a Chicago y Monterrey.</desc>
-  </programme>
-  <programme start="20230930093400 -0300" stop="20230930102100 -0300" channel="0602">
-    <title lang="es">Carreras prohibidas: el rey de las pistas, top 8</title>
-    <sub-title lang="es">Hot Air</sub-title>
-    <desc lang="es">Los ocho mejores corredores de la carrera clasificatoria tienen la oportunidad de competir en un nuevo evento, "The Great 8", por $15 000 y ganar los codiciados puntos para el campeonato.</desc>
-  </programme>
-  <programme start="20230930102100 -0300" stop="20230930111200 -0300" channel="0602">
-    <title lang="es">Los autos más veloces del sur</title>
-    <sub-title lang="es">La familia Impala</sub-title>
-    <desc lang="es">El equipo intenta transformar un Impala oxidado de 1968 en un turbo de carreras y, a medida que se acerca la carrera de Memphis 10, le piden a James Rowlett que eche una mano con el difícil proyecto.</desc>
-  </programme>
-  <programme start="20230930111200 -0300" stop="20230930120300 -0300" channel="0602">
-    <title lang="es">Chatarra de Oro</title>
-    <sub-title lang="es">A cargo</sub-title>
-    <desc lang="es">Bobby se propone reparar el exterior del coche Challenger R/T de 2015 de Andy. Por otro lado, Tommy trabaja en el Jeep Big Red.</desc>
-  </programme>
   <programme start="20230930120300 -0300" stop="20230930125100 -0300" channel="0602">
     <title lang="es">Trans Am</title>
     <sub-title lang="es">El resultado contrario</sub-title>
@@ -18666,39 +18158,6 @@
     <sub-title lang="es">La casa de mis sueños</sub-title>
     <desc lang="es">Una raspadita de un millón de dólares en Florida le dio a una mujer de California mucho dinero. Ahora, David la ayuda a encontrar un hogar para la familia de su hija para que puedan mudarse al otro lado del país y estar juntos una vez más.</desc>
   </programme>
-  <programme start="20230930014500 -0300" stop="20230930024000 -0300" channel="0604">
-    <title lang="en">Víctimas del amor</title>
-    <desc lang="en">La amistad entre una maestra de matemáticas y un vicedirector lleva a una conexión más profunda. Pero cuando un esposo posesivo pone en riesgo su relación, deciden tomar medidas drásticas.</desc>
-  </programme>
-  <programme start="20230930024000 -0300" stop="20230930033600 -0300" channel="0604">
-    <title lang="en">Víctimas del amor</title>
-    <desc lang="en">Una joven adolescente a la que no la dejan tener citas se enamora de un hombre mayor. En un intento desesperado por estar con él, se escapa de su casa. Pero cuando el amor se convierte en obsesión, ¿qué sucederá?</desc>
-  </programme>
-  <programme start="20230930033600 -0300" stop="20230930043200 -0300" channel="0604">
-    <title lang="en">Cuando el mal se disfraza</title>
-    <desc lang="en">La rica y glamorosa viuda Jean Schwarzkopf, de 72 años, está decidida a no darse por vencida. Pero los nuevos amigos de Jean no son lo que parecen, y su familia se ve arrastrada a un mundo oscuro de crimen y violencia.</desc>
-  </programme>
-  <programme start="20230930043200 -0300" stop="20230930052400 -0300" channel="0604">
-    <title lang="en">Crímenes de las chicas pesadas</title>
-    <desc lang="en">Empiezan las acusaciones cuando Kelli Underwood se muda con su mejor amiga de la escuela secundaria.</desc>
-  </programme>
-  <programme start="20230930052400 -0300" stop="20230930061600 -0300" channel="0604">
-    <title lang="en">Crímenes de las chicas pesadas</title>
-    <desc lang="en">La estrella de voleibol Stacy DeGrandchamp,.</desc>
-  </programme>
-  <programme start="20230930061600 -0300" stop="20230930070800 -0300" channel="0604">
-    <title lang="en">Prometo amarte, honrarte y traicionarte</title>
-    <sub-title lang="en">Debajo de tu piel</sub-title>
-    <desc lang="en">Vista desde afuera, la vida de Barbara y Michael Mastromarino parece perfecta.</desc>
-  </programme>
-  <programme start="20230930070800 -0300" stop="20230930080000 -0300" channel="0604">
-    <title lang="en">Red de mentiras</title>
-    <desc lang="en">La estrella del atletismo en Dallas, Shania Gray, queda traumatizada después de que la violan mientras trabajaba de niñera. Un amigo de Facebook le ofrece apoyo, pero no es lo que parece y Shania cae en una trampa que termina en tragedia.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930085000 -0300" channel="0604">
-    <title lang="en">Asesinatos en familia</title>
-    <desc lang="en">En Queens, los detectives del Departamento de Policía de Nueva York descubren un cuerpo baleado en la cajuela de un auto, e investigan una historia de hermandad y traición.</desc>
-  </programme>
   <programme start="20230930085000 -0300" stop="20230930094000 -0300" channel="0604">
     <title lang="en">Asesinatos en familia</title>
     <desc lang="en">Serie que da a conocer las investigaciones sobre los crímenes más misteriosos tejidos en casa. En este programa todo el mundo es sospechoso y todos los sospechosos comparten el mismo apellido.</desc>
@@ -19145,42 +18604,6 @@
     <title lang="es">La cocina de Silvana</title>
     <desc lang="es">Silvana Cocina, la conocida youtuber chilena, vuelve a la televisión con sus mejores recetas caseras y de la cocina internacional.</desc>
   </programme>
-  <programme start="20230930003000 -0300" stop="20230930023000 -0300" channel="0621">
-    <title lang="en">Sin filtros</title>
-    <desc lang="en">Programa de política y actualidad chilena. (repeat).</desc>
-  </programme>
-  <programme start="20230930023000 -0300" stop="20230930033000 -0300" channel="0621">
-    <title lang="en">Síganme los Buenos</title>
-    <desc lang="en">El verdadero Late Show de la televisión chilena. Invitados, panelistas, humor, conversacion y música todo a cargo de Julio César Rodríguez. (repeat).</desc>
-  </programme>
-  <programme start="20230930033000 -0300" stop="20230930040000 -0300" channel="0621">
-    <title lang="en">Abro hilo</title>
-    <desc lang="en">Acompañado de un invitado Felipe Cárdenas se pone a punto del humor y la conversación mediante lo que pasa en el mundo del internet, videojuegos y la tecnología. (repeat).</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930050000 -0300" channel="0621">
-    <title lang="en">Doctor en casa</title>
-    <desc lang="en">Un espacio donde todas las medicinas trabajan juntas para mejorar tu calidad de vida. (repeat).</desc>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930060000 -0300" channel="0621">
-    <title lang="en">Estilo Chic</title>
-    <desc lang="en">El programa está dedicado a la moda, belleza y vida sana. (repeat).</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930063000 -0300" channel="0621">
-    <title lang="en">Abro hilo</title>
-    <desc lang="en">Acompañado de un invitado Felipe Cárdenas se pone a punto del humor y la conversación mediante lo que pasa en el mundo del internet, videojuegos y la tecnología. (repeat).</desc>
-  </programme>
-  <programme start="20230930063000 -0300" stop="20230930073000 -0300" channel="0621">
-    <title lang="en">Estilo Chic</title>
-    <desc lang="en">El programa está dedicado a la moda, belleza y vida sana. (repeat).</desc>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930080000 -0300" channel="0621">
-    <title lang="en">Pachamama, madre tierra</title>
-    <desc lang="en">Pachamama Madre Tierra muestra el encuentro de troperos, coplas, juegos tradicionales y comidas típicas y regionales con la actuación de diversos artistas regionales y el ballet Pachamama, escuela de danzas, entre otros. (repeat).</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930090000 -0300" channel="0621">
-    <title lang="en">Raíces árabes</title>
-    <desc lang="en">Espacio dedicado a la prolífica colonia de inmigrantes y que cuenta con la conducción de Kiko Siade, Roberto Apud y Taissir Ghalyoun.</desc>
-  </programme>
   <programme start="20230930090000 -0300" stop="20230930100000 -0300" channel="0621">
     <title lang="en">Cara a Cara</title>
     <desc lang="en">Cada semana, Tomás Cox y sus invitados, nos sorprenderán con historias humanas y anécdotas, que nos harán reír y emocionarnos. (repeat).</desc>
@@ -19348,30 +18771,6 @@
     <title lang="en">Estilo Chic</title>
     <desc lang="en">El programa está dedicado a la moda, belleza y vida sana. (repeat).</desc>
   </programme>
-  <programme start="20230930011000 -0300" stop="20230930023500 -0300" channel="0622">
-    <title lang="en">Angry Inuk</title>
-    <desc lang="en">Las focas son uno de los principales símbolos de la lucha por los derechos de los animales.</desc>
-  </programme>
-  <programme start="20230930023500 -0300" stop="20230930041000 -0300" channel="0622">
-    <title lang="en">El Secuestro de Aramburu</title>
-    <desc lang="en">Inspirada en hechos reales, narra el secuestro y asesinato del general Pedro Eugenio Aramburu, perpetrado por un grupo organizado de Montoneros en 1970 en Argentina.</desc>
-  </programme>
-  <programme start="20230930041000 -0300" stop="20230930045500 -0300" channel="0622">
-    <title lang="en">Ciudades en transformación - Tokio</title>
-    <desc lang="en">Pronto la mayor parte de la humanidad vivirá en ciudades y las megaurbes deberán adaptarse.</desc>
-  </programme>
-  <programme start="20230930045500 -0300" stop="20230930062500 -0300" channel="0622">
-    <title lang="en">La cantuta en la boca del diablo</title>
-    <desc lang="en">Los asesinatos que hoy han condenado al ex presidente Alberto Fujimori, quedaron al descubierto y se convirtieron en un caso sólido por las acciones de personas comunes y corrientes que vencieron el miedo y enfrentaron al poder absoluto por la verdad.</desc>
-  </programme>
-  <programme start="20230930062500 -0300" stop="20230930073500 -0300" channel="0622">
-    <title lang="en">Nada queda sino nuestra ternura</title>
-    <desc lang="en">Un puente olvidado, una casa en ruinas, una melodía que uno quisiera volver a encontrar: para muchos, el conflicto armado de fines del siglo XX, en Perú, cambió para siempre el rostro del país. El territorio andino se convirtió en el espejo de una memoria fragmentada con la que es difícil reconciliarse.</desc>
-  </programme>
-  <programme start="20230930073500 -0300" stop="20230930085500 -0300" channel="0622">
-    <title lang="en">Las flores de mi familia</title>
-    <desc lang="en">Película documental sobre la relación entre una madre, Nivia, y su hija, Alicia. Nivia tiene 90 años y ha convivido durante muchos años con su hija, Alicia. Alicia lleva años siendo viuda pero encuentra a un hombre con quien quiere vivir. A partir de entonces la relación entre Nivia y Alicia es complicada, pero un perro y una paloma juegan un papel destacado en la relación entre ambas.</desc>
-  </programme>
   <programme start="20230930085500 -0300" stop="20230930103500 -0300" channel="0622">
     <title lang="en">Apátrida</title>
     <desc lang="en">En 2013, la República Dominicana le quitó la ciudadanía a todos los de padres haitianos, dejando a 200.000 personas sin nacionalidad, identidad ni país natal.</desc>
@@ -19471,50 +18870,6 @@
   <programme start="20231001194000 -0300" stop="20231001212000 -0300" channel="0622">
     <title lang="en">Fé y furia</title>
     <desc lang="en">La ola actual de conservadurismo político en Brasil también se refleja en un cambio en las fuerzas religiosas.</desc>
-  </programme>
-  <programme start="20230930011000 -0300" stop="20230930020500 -0300" channel="0701">
-    <title lang="en">Los hipopótamos del capo</title>
-    <desc lang="en">Una de las ideas más creativas de Pablo Escobar implicó a hipopótamos africanos.</desc>
-  </programme>
-  <programme start="20230930020500 -0300" stop="20230930025700 -0300" channel="0701">
-    <title lang="en">El rescate perfecto</title>
-    <desc lang="en">Una mirada al operativo militar que rescató a rehenes de retenidos por la FARC en la selva colombiana. Ingrid Betancourt y tres ciudadanos estadounidenses estuvieron entre los quince rehenes liberados.</desc>
-  </programme>
-  <programme start="20230930025700 -0300" stop="20230930034500 -0300" channel="0701">
-    <title lang="en">Cámara policial</title>
-    <desc lang="en">Un oficial se encuentra patrullando las calles de Spokane, Washington, cuando ve un conductor sospechoso. El sospechoso se niega a detenerse y lo conduce a una pelea dramática en un sex shop cercano.</desc>
-  </programme>
-  <programme start="20230930034500 -0300" stop="20230930043100 -0300" channel="0701">
-    <title lang="en">Desolado con Ed Stafford</title>
-    <desc lang="en">Ed enfrenta los peligros del delta del Okavango en Botsuana, en el sur de África. Solo y sin nada, sin comida ni agua, ni siquiera un cuchillo. Ed Stafford deberá confiar en sus propios instintos de supervivencia y en su voluntad para combatir el hambre, la sed, la fatiga y todos los obstáculos que puedan poner en peligro su vida.</desc>
-  </programme>
-  <programme start="20230930043100 -0300" stop="20230930051700 -0300" channel="0701">
-    <title lang="en">El Rastro</title>
-    <desc lang="en">Serie investigativa que sigue paso a paso casos criminales.</desc>
-  </programme>
-  <programme start="20230930051700 -0300" stop="20230930060200 -0300" channel="0701">
-    <title lang="en">Cámara policial</title>
-    <desc lang="en">En Indiana, un hombre armado aterroriza una sala de bingo VFW. En Ohio, una ladrona de tiendas con una pistola eléctrica deja un camino de destrucción a su paso.</desc>
-  </programme>
-  <programme start="20230930060200 -0300" stop="20230930064700 -0300" channel="0701">
-    <title lang="en">El rastro</title>
-    <sub-title lang="en">Episode 16</sub-title>
-  </programme>
-  <programme start="20230930064700 -0300" stop="20230930073200 -0300" channel="0701">
-    <title lang="en">Cámara policial</title>
-    <desc lang="en">En Ohio, una situación de rehenes se convierte en un tiroteo mortal.</desc>
-  </programme>
-  <programme start="20230930073200 -0300" stop="20230930080000 -0300" channel="0701">
-    <title lang="en">Aeropuerto de Sao Paulo</title>
-    <desc lang="en">Durante la inspección de vuelos, el contenido de una maleta llama la atención del control de fronteras. Un pasajero regresa de un viaje antes de lo previsto por una razón peculiar.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930082600 -0300" channel="0701">
-    <title lang="en">Aeropuerto de Sao Paulo</title>
-    <desc lang="en">El Control de fronteras encuentra más de un fondo falso en la maleta de un pasajero.</desc>
-  </programme>
-  <programme start="20230930082600 -0300" stop="20230930091400 -0300" channel="0701">
-    <title lang="en">Discovery Desafío x 2</title>
-    <desc lang="en">Dos expertos en supervivencia van juntos a peligrosas zonas del mundo. El problema es cómo dos personas con conceptos diferentes toman juntas las decisiones que deberán encarar. La cuestión es no sólo sobrevivir sino también poder convivir.</desc>
   </programme>
   <programme start="20230930091400 -0300" stop="20230930100200 -0300" channel="0701">
     <title lang="en">Desolado con Ed Stafford</title>
@@ -20377,58 +19732,6 @@
     <sub-title lang="es">T13 - Ep: 4 Cobertizos, ventiladores industriales, papel para hornear y muros de escalada</sub-title>
     <desc lang="es">¿Se ha preguntado alguna vez cómo se hace el papel de aluminio? Desde cintas adhesivas hasta lentes de contacto, averigüe cómo se hacen muchos de los artículos que son indispensables en nuestra vida diaria. Aprenda cómo se hacen los cobertizos para almacenamiento, los ventiladores industriales, el papel para hornear y los muros de escalada.</desc>
   </programme>
-  <programme start="20230930040700 -0300" stop="20230930045200 -0300" channel="0704">
-    <title lang="es">Joyas sobre ruedas</title>
-    <sub-title lang="es">Maserati 4200</sub-title>
-    <desc lang="es">Mike descubre una ganga de un superdeportivo: un Maserati 4200GT por menos de 10 000 libras. No obstante, Elvis tendrá que reparar la caja de cambios y los problemas de embrague.</desc>
-  </programme>
-  <programme start="20230930045200 -0300" stop="20230930053700 -0300" channel="0704">
-    <title lang="es">A la conquista de Alaska</title>
-    <sub-title lang="es">Punto decisivo</sub-title>
-    <desc lang="es">Una ventisca obliga a Tiffany a tomar una decisión que amenaza la vida; BJ se pone en peligro para salvar a la fundación de Jim; Danny caza por alimento.</desc>
-  </programme>
-  <programme start="20230930053700 -0300" stop="20230930060000 -0300" channel="0704">
-    <title lang="es">¿Cómo lo hacen?</title>
-    <sub-title lang="es">Moquetas de lana y juguetes lego</sub-title>
-    <desc lang="es">Cómo se producen los millones de kilómetros de alfombra que se necesitan para cubrir pisos en el mundo; los ladrillos LEGO superan a la población de la Tierra, pero ¿cómo se hacen.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930062400 -0300" channel="0704">
-    <title lang="es">Aeropuerto 24/7: Miami</title>
-    <sub-title lang="es">Seguridad nacional</sub-title>
-    <desc lang="es">Las visitas de Seguridad Nacional pasan a ser una pesadilla; pasajeros, celebridades y tripulación están impactadas por los agentes de aduanas tan lentos.</desc>
-  </programme>
-  <programme start="20230930062400 -0300" stop="20230930071200 -0300" channel="0704">
-    <title lang="es">Alaska: Hombres primitivos</title>
-    <sub-title lang="es">Una boda</sub-title>
-    <desc lang="es">La manada se prepara para la primera boda con mucho entusiasmo. Los Brown tienen problemas para ponerse al día con un proyecto muy ambicioso.</desc>
-  </programme>
-  <programme start="20230930071200 -0300" stop="20230930080000 -0300" channel="0704">
-    <title lang="es">Fiebre del oro: Río revuelto</title>
-    <sub-title lang="es">Recorrer el territorio</sub-title>
-    <desc lang="es">El equipo de Dustin debe atravesar una cascada para llegar al oro. Fred recibe a un nuevo minero, sin embargo, el camino hacia el oro se encuentra bloqueado por enormes rocas.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930084800 -0300" channel="0704">
-    <title lang="es">100 días a lo salvaje</title>
-    <sub-title lang="es">La furia</sub-title>
-    <desc lang="es">El nuevo grupo busca desesperadamente cazar alces. Oliver se niega a seguir el plan y es un obstáculo en la línea de fuego. El veterano del ejército Adam llega al campamento base e inmediatamente aborda proyectos de construcción críticos.</desc>
-  </programme>
-  <programme start="20230930084800 -0300" stop="20230930094500 -0300" channel="0704">
-    <title lang="es">Edén</title>
-    <sub-title lang="es">Galápagos: islas encantadas</sub-title>
-    <desc lang="es">Un viaje desde las murallas de lava hasta su corazón ardiente para descubrir cómo este lugar se convirtió en una de las áreas de biodiversidad más importantes del mundo.</desc>
-  </programme>
-  <programme start="20230930094500 -0300" stop="20230930103400 -0300" channel="0704">
-    <title lang="es">La leyenda del supertiburón martillo</title>
-    <desc lang="es">Los reportes sobre dos legendarios tiburones martillo de gran tamaño, Big Moe en Florida y Sunken en Bahamas, hacen que el Dr. Tristan Guttridge y Andy Casagrande cuestionen si existe un clan de tiburones martillo gigantes que comparten el mismo ADN.</desc>
-  </programme>
-  <programme start="20230930103400 -0300" stop="20230930112500 -0300" channel="0704">
-    <title lang="es">Air JawsTop Guns</title>
-    <desc lang="es">Dickie Chivell y Andy Casagrande utilizan cámaras de última generación para grabar los saltos de los tiburones voladores.</desc>
-  </programme>
-  <programme start="20230930112500 -0300" stop="20230930122000 -0300" channel="0704">
-    <title lang="es">Island of the Walking Sharks</title>
-    <desc lang="es">El biólogo y conservacionista internacional de fauna salvaje Forrest Galante viaja a los arrecifes de coral de las Islas Salomón y Papúa Nueva Guinea para investigar si los tiburones están evolucionando para caminar sobre la tierra.</desc>
-  </programme>
   <programme start="20230930122000 -0300" stop="20230930131800 -0300" channel="0704">
     <title lang="es">Caminando con elefantes</title>
     <sub-title lang="es">El peligroso final del viaje</sub-title>
@@ -20606,59 +19909,6 @@
     <title lang="es">Tarzán Americano</title>
     <sub-title lang="es">Desafío en la montaña</sub-title>
     <desc lang="es">Los concursantes deben afrontar un duro reto en las montañas de Dominica. Tendrán que escalar el arduo terreno, mientras evitan los peligros que el entorno les depara.</desc>
-  </programme>
-  <programme start="20230930040700 -0300" stop="20230930045800 -0300" channel="0705">
-    <title lang="es">Viajes salvajes con Andrew Ucles</title>
-    <sub-title lang="es">Sudamérica</sub-title>
-    <desc lang="es">Andrew viaja a Sudamérica, donde pasa un mes viviendo solo en la selva amazónica de Perú. Su plan es encontrar tantos animales como pueda e instalar cámaras de caza para registrar lo que sucede.</desc>
-  </programme>
-  <programme start="20230930045800 -0300" stop="20230930052600 -0300" channel="0705">
-    <title lang="es">Hospital de pingüinos</title>
-    <desc lang="es">El feliz matrimonio de Cedric, quien carece de ambas piernas, con su esposa Robin, enfrenta su mayor desafío. El joven Squeaker pone a prueba la paciencia de las personas y un pingüino salvaje llega con una herida que podría ser mortal.</desc>
-  </programme>
-  <programme start="20230930052600 -0300" stop="20230930055000 -0300" channel="0705">
-    <title lang="es">Hospital de pingüinos</title>
-    <desc lang="es">Un pingüino silvestre recibe tratamiento para una herida de vida o muerte, dos habitantes de la casa entran en una lucha desagradable y uno de los residentes de largo plazo celebra una ocasión especial.</desc>
-  </programme>
-  <programme start="20230930055000 -0300" stop="20230930064300 -0300" channel="0705">
-    <title lang="es">Solo y en peligro</title>
-    <sub-title lang="es">Ataque en Alaska</sub-title>
-    <desc lang="es">En un viaje de ensueño a Alaska, Greg Matthews y sus hermanos se encuentran con un oso gris; en Australia, Ella Murphy y sus amigas surfean cuando un asaltante misterioso la golpea violentamente en la cabeza.</desc>
-  </programme>
-  <programme start="20230930064300 -0300" stop="20230930073200 -0300" channel="0705">
-    <title lang="es">Hawái desconocido</title>
-    <desc lang="es">Más allá de las palmeras y los bares de Hawái que sus playas ofrecen hay espectáculos naturales extraordinarios y poco vistos.</desc>
-  </programme>
-  <programme start="20230930073200 -0300" stop="20230930080000 -0300" channel="0705">
-    <title lang="es">S.O.S. Animal</title>
-    <desc lang="es">Carla y Marilym realizan una campaña de vacunación para los animales que sufrieron, junto a sus comunidades en Minas Gerais, los efectos de la cuarentena provocada por el coronavirus en 2020.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930084600 -0300" channel="0705">
-    <title lang="es">El zoológico del Bronx: detrás de las cámaras</title>
-    <sub-title lang="es">Pinguinos enamorados</sub-title>
-    <desc lang="es">Siete pingüinos azules se unen a la exhibición de pingüinos y se mezclan fácilmente con el resto de la colonia. Un oso pardo amante de la miel comienza a reducir sus pasos y el personal se preocupa. Una tortuga parece no llevarse bien con caimanes.</desc>
-  </programme>
-  <programme start="20230930084600 -0300" stop="20230930093700 -0300" channel="0705">
-    <title lang="es">Animales en riesgo: Phoenix</title>
-    <sub-title lang="es">Rápido y furioso</sub-title>
-    <desc lang="es">Se hace un intento de rescate de dos gatos agresivos que viven en la vivienda de una persona con problemas mentales, en la que hay más de 60 gatos. Una operación a vida o muerte a un cachorro de pastor alemán para extraerle piedras del estómago.</desc>
-  </programme>
-  <programme start="20230930093700 -0300" stop="20230930103000 -0300" channel="0705">
-    <title lang="es">Animales en riesgo: Miami</title>
-    <sub-title lang="es">Colección de Miniaturas</sub-title>
-    <desc lang="es">Investigadores de crueldad animal encuentran dos perros adoptados vagando por las calles de la ciudad que necesitan ayuda.</desc>
-  </programme>
-  <programme start="20230930103000 -0300" stop="20230930110000 -0300" channel="0705">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-  </programme>
-  <programme start="20230930110000 -0300" stop="20230930113000 -0300" channel="0705">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
-  </programme>
-  <programme start="20230930113000 -0300" stop="20230930120000 -0300" channel="0705">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
   </programme>
   <programme start="20230930120000 -0300" stop="20230930122900 -0300" channel="0705">
     <title lang="es">S.O.S. Animal</title>
@@ -21025,41 +20275,6 @@
   </programme>
   <programme start="20231001230500 -0300" stop="20231002000000 -0300" channel="0706">
     <title lang="es">Triángulo de las Bermudas aguas malditas</title>
-  </programme>
-  <programme start="20230930005800 -0300" stop="20230930020400 -0300" channel="0707">
-    <title lang="en">Pueblos originarios de México</title>
-    <sub-title lang="en">Los aztecas</sub-title>
-    <desc lang="en">En muy poco tiempo, la civilización Azteca creó un gran imperio cuya metrópoli era una ciudad jardín flotante perfectamente organizada en la meseta mexicana.</desc>
-  </programme>
-  <programme start="20230930020400 -0300" stop="20230930023200 -0300" channel="0707">
-    <title lang="en">Derrochadores ancestrales</title>
-    <sub-title lang="en">Máxima seguridad</sub-title>
-    <desc lang="en">A mayor cantidad de dinero, mayor cantidad de problemas.</desc>
-  </programme>
-  <programme start="20230930023200 -0300" stop="20230930033200 -0300" channel="0707">
-    <title lang="en">Vikingos</title>
-    <desc lang="en">La última profecía de la princesa Aslaug se hace realidad cuando se prepara una vez más para dar a luz. Ragnar, Horik y su nueva aliada Lagertha zarpan hacia Wessex. Pero Ragnar y Horik tienen ideas muy diferentes sobre el propósito de este viaje.</desc>
-  </programme>
-  <programme start="20230930033200 -0300" stop="20230930042900 -0300" channel="0707">
-    <title lang="en">Coliseo</title>
-    <desc lang="en">Cuando el poderoso emperador Trajano organiza sus grandes juegos del año 107 d.C. Las combatientes suelen ser prisioneras de guerra, pero en un juego, una mujer romana llamada Mevia hace historia.</desc>
-  </programme>
-  <programme start="20230930042900 -0300" stop="20230930061000 -0300" channel="0707">
-    <title lang="en">Corea del Norte: Secretos oscuros</title>
-  </programme>
-  <programme start="20230930061000 -0300" stop="20230930070900 -0300" channel="0707">
-    <title lang="en">Héroes legendarios</title>
-    <desc lang="en">La saga de los Nibelungos tiene todos los ingredientes de una gran pieza fantástica: hazañas, un dragón, un tesoro, amor y asesinato. Pero un nuevo enfoque hecha luz sobre su verdadera heroína: Kriemhild, la esposa de Siegfried.</desc>
-  </programme>
-  <programme start="20230930070900 -0300" stop="20230930080000 -0300" channel="0707">
-    <title lang="en">Carrera hacia la victoria</title>
-    <sub-title lang="en">El dia D y mas alla</sub-title>
-    <desc lang="en">Más de 156.000 soldados británicos, estadounidenses y canadienses son transportados a través del Canal de la Mancha en la invasión marítima más grande jamás intentada; "The Big Three" se enfrentan por segunda y última vez en la ciudad de Yalta.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930090000 -0300" channel="0707">
-    <title lang="en">Carrera hacia la victoria</title>
-    <sub-title lang="en">Carrera a berlín</sub-title>
-    <desc lang="en">Los aliados acuerdan reunirse en Posdam para decidir cómo será el futuro después de que la guerra finalmente llegue a su fin.</desc>
   </programme>
   <programme start="20230930090000 -0300" stop="20230930100000 -0300" channel="0707">
     <title lang="en">Programación pagada</title>
@@ -22101,42 +21316,6 @@
   <programme start="20231001234500 -0300" stop="20231002013500 -0300" channel="0806">
     <title lang="es">Jack y Jill</title>
     <desc lang="es">Jack es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Como si fuera poco, lo que en principio iba a ser una visita de pocos días se alarga más de lo previsto, lo que obliga a Jack y Jill a intentar limar asperezas.</desc>
-  </programme>
-  <programme start="20230930065000 -0300" stop="20230930084500 -0300" channel="0807">
-    <title lang="en">Otro día para matar</title>
-    <desc lang="en">La vida de John Wick queda irremediablemente destruida, y desde entonces se dedica a vengarse de aquellos mafiosos que acabaron con todo lo más preciado que tenía. Usando sus habilidades como antiguo sicario. redoblará sus esfuerzos para hacer justicia.</desc>
-  </programme>
-  <programme start="20230930084500 -0300" stop="20230930104500 -0300" channel="0807">
-    <title lang="en">Colombiana</title>
-    <desc lang="en">Colombia, 1992. Cataleya, una niña de nueve años, tras presenciar el asesinato de sus padres, se entrena para convertirse en una asesina profesional. Después de escapar a duras penas de la masacre, se refugia en los Estados Unidos con Emilio, un tío suyo mafioso. Quince años después, ya trabaja para él como asesina a sueldo.</desc>
-  </programme>
-  <programme start="20230930104500 -0300" stop="20230930105000 -0300" channel="0807">
-    <title lang="en">Persecución de media noche de Boog y Elliot</title>
-    <desc lang="en">Boog y Elliot intentan atacar a los campistas para robarles sus bollos recién horneados.</desc>
-  </programme>
-  <programme start="20230930105000 -0300" stop="20230930112400 -0300" channel="0807">
-    <title lang="en">Casual</title>
-    <desc lang="en">Valerie, una mujer recientemente divorciada y su hija adolescente Laura, se mudan a la casa de su hermano soltero Alex, quien mantiene una despreocupada vida amorosa y la introduce a su sitio de citas por Internet.</desc>
-  </programme>
-  <programme start="20230930112400 -0300" stop="20230930120000 -0300" channel="0807">
-    <title lang="en">Casual</title>
-    <desc lang="en">El espíritu de la fiesta se apodera de todos cuando Valerie asiste a un evento de gente mucho más joven que ella, mientras que su hermano Alex sale con su nuevo amigo León y su hija Laura encabeza su propio festejo en la casa.</desc>
-  </programme>
-  <programme start="20230930120000 -0300" stop="20230930130000 -0300" channel="0807">
-    <title lang="en">Saving Hope</title>
-    <desc lang="en">Alex y Charlie cambian sus planes de boda.</desc>
-  </programme>
-  <programme start="20230930130000 -0300" stop="20230930140000 -0300" channel="0807">
-    <title lang="en">Saving Hope</title>
-    <desc lang="en">De camino a su luna de miel, Alex y Charlie son llamados a la escena de un accidente de autobús.</desc>
-  </programme>
-  <programme start="20230930140000 -0300" stop="20230930143000 -0300" channel="0807">
-    <title lang="en">Grown-Ish</title>
-    <desc lang="en">Zoey se va a la universidad y debe vivir lidiando con drogas, sexo y relaciones en el camino.</desc>
-  </programme>
-  <programme start="20230930143000 -0300" stop="20230930150000 -0300" channel="0807">
-    <title lang="en">Grown-ish</title>
-    <desc lang="en">Zoey recluta a su hermano Junior para que sea su compañero en Titanium.</desc>
   </programme>
   <programme start="20230930150000 -0300" stop="20230930153000 -0300" channel="0807">
     <title lang="en">TeveCompras Andes</title>
@@ -24231,18 +23410,6 @@
   <programme start="20231002212500 -0300" stop="20231003000000 -0300" channel="0821">
     <title lang="es">Película</title>
   </programme>
-  <programme start="20230930015100 -0300" stop="20230930040800 -0300" channel="0822">
-    <title lang="en">Van Helsing: El Cazador de Monstruos</title>
-    <desc lang="en">Hugh Jackman encarna al legendario cazador de monstruos en este tributo a los íconos del cine de terror de Universal Pictures. Van Helsing se va a Transilvania y ahí se enfrenta a Drácula, la criatura del doctor Frankenstein y un hombre lobo.</desc>
-  </programme>
-  <programme start="20230930040800 -0300" stop="20230930061100 -0300" channel="0822">
-    <title lang="en">Quiero matar a mi jefe 2</title>
-    <desc lang="en">Nick Hendricks, Dale Arbus y Kurt Buckman deciden formar una empresa, al sentirse cansados de trabajar para otros. Mientras buscan inversores, aparecen Bert Hanson y su hijo Rex, y les hacen una propuesta que requiere que ellos pidan un préstamo importante.</desc>
-  </programme>
-  <programme start="20230930061100 -0300" stop="20230930080000 -0300" channel="0822">
-    <title lang="en">Noche de juegos</title>
-    <desc lang="en">Un grupo de parejas se reúne regularmente en casa de una de ellas para distraerse jugando. Sin embargo, una noche sus juegos darán un drástico giro, cuando se encuentren investigando un caso de asesinato muy real. ¿Cómo terminará la "partida"? Este film mezcla elementos de comedia y de misterio, y su elenco cuenta con rostros muy conocidos, como Rachel McAdams ("Diario de una pasión") y Jason Bateman ("Hancock", "Juno").</desc>
-  </programme>
   <programme start="20230930080000 -0300" stop="20230930095000 -0300" channel="0822">
     <title lang="en">The Pope's Exorcist</title>
     <desc lang="en">El exorcista jefe del Papa investiga la posesion de un nino y descubre una conspiracion vaticana.</desc>
@@ -24650,26 +23817,6 @@
   <programme start="20231003024000 -0300" stop="20231003050900 -0300" channel="0824">
     <title lang="es">El hombre de acero</title>
     <desc lang="es">Transportado a la Tierra hace años desde Krypton, Clark ha crecido en una granja de Kansas. Criado con los valores de sus padres adoptivos, descubre que tiene grandes poderes que le exigirán grandes responsabilidades.</desc>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930072800 -0300" channel="0825">
-    <title lang="en">Familia al instante</title>
-    <desc lang="en">Pete y Ellie deciden formar una familia y se sienten abrumados cuando adoptan tres niños. Ellos esperaban cuidar de un pequeño niño pero cuando conocen a tres hermanos, incluyendo a una joven rebelde de 15 años, deciden adoptarlos. Pete y Ellie intentarán aprender los quehaceres de la paternidad para poder convertirse en una familia. Historia inspirada en hechos reales de la vida del escritor y director Sean Anders.</desc>
-  </programme>
-  <programme start="20230930072800 -0300" stop="20230930092800 -0300" channel="0825">
-    <title lang="en">Terminator: Génesis</title>
-    <desc lang="en">En el año 2032, la guerra del futuro se está librando, y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las...</desc>
-  </programme>
-  <programme start="20230930092800 -0300" stop="20230930114000 -0300" channel="0825">
-    <title lang="en">Bienvenido a los 40</title>
-    <desc lang="en">Debbie y Pete son un matrimonio que deberá enfrentarse a los altibajos de la vida de una familia y la vida en pareja. Así, Pete intentará por todos los medios poner en funcionamiento un negocio que ideó en su juventud, y Debbie sufrirá una crisis que le hará replantearse muchas cosas. Deberán solucionar problemas domésticos, con sus hijos, y asumir sus responsabilidades...</desc>
-  </programme>
-  <programme start="20230930114000 -0300" stop="20230930132000 -0300" channel="0825">
-    <title lang="en">She's out of my league</title>
-    <desc lang="en">Un joven agente de seguridad de un aeropuerto que es de buen corazón pero inseguro, conoce a una hermosa mujer que intenta hacer que su relación prospere a pesar de la poca fe de amigos y familia. (new).</desc>
-  </programme>
-  <programme start="20230930132000 -0300" stop="20230930140000 -0300" channel="0825">
-    <title lang="en">Modern Family</title>
-    <desc lang="en">Manny y Luke se encargan de producir el baile de invierno. Sin embargo, todo está a punto de derrumbarse gracias a un error de SMS.</desc>
   </programme>
   <programme start="20230930140000 -0300" stop="20230930143000 -0300" channel="0825">
     <title lang="en">Programación pagada</title>
@@ -25088,42 +24235,6 @@
   <programme start="20231003005500 -0300" stop="20231003033000 -0300" channel="0827">
     <title lang="es">Jurassic World: El reino caído</title>
     <desc lang="es">Una erupción volcánica amenaza a los dinosaurios que quedaron en la Isla Nublar, luego de la desaparición del parque temático 'Jurassic World'. Claire Dearing, ex gerente del parque, intentará ir a su rescate.</desc>
-  </programme>
-  <programme start="20230930013000 -0300" stop="20230930022000 -0300" channel="0828">
-    <title lang="en">Chicago P.D.</title>
-    <desc lang="en">Es un emocionante drama que acompaña a los hombres y mujeres de la exclusiva unidad de inteligencia del departamento de policía de chicago.</desc>
-  </programme>
-  <programme start="20230930022000 -0300" stop="20230930031000 -0300" channel="0828">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Casey se involucra cuando un estudiante de secundaria es la víctima de un incidente de retribución con pandillas; Severide echa una mano a Det. Holloway, que está involucrado en una operación encubierta, y observa a su hijo de 9 años de edad en el parque de bomberos.</desc>
-  </programme>
-  <programme start="20230930031000 -0300" stop="20230930040000 -0300" channel="0828">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Severide observa a si joven hijo Holloway mientras ella da testimonio en el tribunal; el equipo responde a un incendio en una galería de arte; Casey recibe un paquete sospechoso en el correo; y Brett se enfrenta a Otis, que no está tomando el cuidado de sus asuntos importantes.</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930045000 -0300" channel="0828">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Dawson se encariña con un niño que rescata de un apartamento en llamas, mientras la gran idea de Kidd para Molly's resulta ser un desastre. El teniente Severide trata de conseguir que compren máscaras nuevas para el destacamento, pero sus esfuerzos son en vano, lo que lleva al teniente Casey a usar su influencia política. Entretanto, Cruz y Brett, no muy convencida, traen un arma secreta para que Otis vea al Dr. Halstead y se haga un análisis de sangre.</desc>
-  </programme>
-  <programme start="20230930045000 -0300" stop="20230930054000 -0300" channel="0828">
-    <title lang="en">La ley y el orden UVE</title>
-    <desc lang="en">En una nueva oportunidad, se presenta el caso de una mujer con Alzheimer que comenta haber sido abusada y violada. No obstante, su enfermedad hace que el equipo mantenga algunas dudas sobre el caso; y emprenda una larga investigación de los hechos. Más tarde, los resultados dejan a todos impactados.</desc>
-  </programme>
-  <programme start="20230930054000 -0300" stop="20230930063000 -0300" channel="0828">
-    <title lang="en">La ley y el orden UVE</title>
-    <desc lang="en">Cuando una joven toma como rehén a un hombre, Benson se pone en riesgo de calmar la situación; SVU descubre la razón del secuestro.</desc>
-  </programme>
-  <programme start="20230930063000 -0300" stop="20230930071500 -0300" channel="0828">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">El Doctor Halstead, Abril y Noah deben enfrentarse con un terrible accidente que se produjo en la maratón de Chicago.Las condiciones de tener que operar al paciente en el lugar del hecho los llevará a realizar una de las cirugías más difíciles de sus vidas.</desc>
-  </programme>
-  <programme start="20230930071500 -0300" stop="20230930080000 -0300" channel="0828">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">En este episodio un niño de 8 años gravemente enfermo de cáncer no quiere luchar más por su vida. El doctor Rhodes persuade al doctor Latham de que lo acompañe en un viaje médico que les conduce por las afueras de la ciudad.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930085000 -0300" channel="0828">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">La hija del Dr. Charles se une al departamento de Epidemiología y tendrá que atender a diferentes pacientes víctimas de una rara infección. En tanto, un anciano enfermo se debate entre la vida y la muerte, y el Dr. Reese busca salvar a un drogadicto.</desc>
   </programme>
   <programme start="20230930085000 -0300" stop="20230930094000 -0300" channel="0828">
     <title lang="en">Chicago Med</title>
@@ -25829,70 +24940,6 @@
     <title lang="es">FBI: International - Temporada 2 - Alguien que ella conocía</title>
     <desc lang="es">Agentes de élite de la división internacional del FBI viajan por el mundo con la misión de proteger a los estadounidenses dondequiera que estén.</desc>
   </programme>
-  <programme start="20230930043100 -0300" stop="20230930051600 -0300" channel="0833">
-    <title lang="es">The Closer</title>
-    <sub-title lang="es">Dial M for Provenza</sub-title>
-    <desc lang="es">Provenza se mete en la piel de un asesino a sueldo para investigar el caso de un encargo de asesinato. Pronto las cosas se complican.</desc>
-  </programme>
-  <programme start="20230930051600 -0300" stop="20230930055400 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20230930055400 -0300" stop="20230930055600 -0300" channel="0833">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
-  </programme>
-  <programme start="20230930055600 -0300" stop="20230930055800 -0300" channel="0833">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
-  </programme>
-  <programme start="20230930055800 -0300" stop="20230930060000 -0300" channel="0833">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930061200 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20230930061200 -0300" stop="20230930062500 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20230930062500 -0300" stop="20230930071200 -0300" channel="0833">
-    <title lang="es">Major Crimes</title>
-    <sub-title lang="es">Dead Drop</sub-title>
-    <desc lang="es">El doctor Morales y su padre, un detective uruguayo jubilado, investigan un cadáver pesado aparecido en la copa de un árbol, a 12 metros del suelo, y rodeado de marihuana. Por otro lado, Julio Sánchez intenta obtener la custodia legal de Mark Jarvis.</desc>
-  </programme>
-  <programme start="20230930071200 -0300" stop="20230930080100 -0300" channel="0833">
-    <title lang="es">Cold Case</title>
-    <sub-title lang="es">Disco Inferno</sub-title>
-    <desc lang="es">El equipo investiga un caso de 1978 en el que veintidós personas murieron en un incendio en una discoteca famosa. Rush se aventura en el mundo de la música disco, la cocaína y el sexo.</desc>
-  </programme>
-  <programme start="20230930080100 -0300" stop="20230930085300 -0300" channel="0833">
-    <title lang="es">Cold Case</title>
-    <sub-title lang="es">Volunteers</sub-title>
-    <desc lang="es">Excavación revela los restos de un hombre y una mujer que fueron parte del movimiento contra cultura de los años 60 y que se desaparecieron en 1969.</desc>
-  </programme>
-  <programme start="20230930085300 -0300" stop="20230930095000 -0300" channel="0833">
-    <title lang="es">Cold Case</title>
-    <sub-title lang="es">The Lost Soul of Herman Lester</sub-title>
-    <desc lang="es">Rush y Valens investigan de nuevo el caso de una estrella de baloncesto escolar que fue matado a cuchillazos horas después de llevar a su equipo a triunfo.</desc>
-  </programme>
-  <programme start="20230930095000 -0300" stop="20230930103800 -0300" channel="0833">
-    <title lang="es">Cold Case</title>
-    <sub-title lang="es">Resolutions</sub-title>
-    <desc lang="es">La confesión de un conductor ebrio que se da a la fuga lleva a los detectives a descubrir que la víctima podría haber sido asesinada y no se trata de un accidente.</desc>
-  </programme>
-  <programme start="20230930103800 -0300" stop="20230930112900 -0300" channel="0833">
-    <title lang="es">Cold Case</title>
-    <sub-title lang="es">Late Returns</sub-title>
-    <desc lang="es">La investigación de un hombre asesinado está vinculada a un caso del pasado involucrando una mujer joven asesinada después de un evento político.</desc>
-  </programme>
-  <programme start="20230930112900 -0300" stop="20230930122300 -0300" channel="0833">
-    <title lang="es">Cold Case</title>
-    <sub-title lang="es">Greed</sub-title>
-    <desc lang="es">Rush y Valens investigan de nuevo un caso de 1985 en donde un adinerado corredor de bolsa fue asesinado en un aparente robo de auto.</desc>
-  </programme>
   <programme start="20230930122300 -0300" stop="20230930132800 -0300" channel="0833">
     <title lang="es">Cold Case</title>
     <sub-title lang="es">Maternal Instincts</sub-title>
@@ -26070,54 +25117,6 @@
     <title lang="es">The Mentalist</title>
     <sub-title lang="es">Byzantium</sub-title>
     <desc lang="es">Cuando un joven psíquico ofrece ayudar con una investigación de asesinato pero termina llevando a investigadores de la FBI a otras víctimas, Jane se pone sospechosa.</desc>
-  </programme>
-  <programme start="20230930011400 -0300" stop="20230930020500 -0300" channel="0835">
-    <title lang="en">¿Será que es amor?</title>
-    <sub-title lang="en">Episode 38</sub-title>
-    <desc lang="en">Eda y Serkan hacen un trato en relación con las intenciones de Balca y Ayfer recibe un regalo inesperado.</desc>
-  </programme>
-  <programme start="20230930020500 -0300" stop="20230930025700 -0300" channel="0835">
-    <title lang="en">Traicionada</title>
-    <sub-title lang="en">Episode 70</sub-title>
-    <desc lang="en">La doctora Asya vivía en armonía junto a su menor hijo y su esposo. Sin embargo, su vida cambió cuando descubre la traición de su marido.</desc>
-  </programme>
-  <programme start="20230930025700 -0300" stop="20230930034700 -0300" channel="0835">
-    <title lang="en">Mi hogar, mi destino</title>
-    <sub-title lang="en">Episode 31</sub-title>
-    <desc lang="en">Mientras operan de urgencia a Mehdi, los hombres de Fox Ahmet intentan intimidar a Bayram para que no haga la denuncia. Benal oye una conversación sobre el estado de Mehdi y quiere ir a visitarlo.</desc>
-  </programme>
-  <programme start="20230930034700 -0300" stop="20230930043800 -0300" channel="0835">
-    <title lang="en">Amor eterno</title>
-    <desc lang="en">Después de saber que su hermano es un asesino, Kemal toma una importante decision y pone a prueba a su familia. Los intentos de Emir por alejar a Nihan y a Kemal hace que se vuelvan a acercar. Emir trata de usar a la familia de Kemal en su contra.</desc>
-  </programme>
-  <programme start="20230930043800 -0300" stop="20230930052900 -0300" channel="0835">
-    <title lang="en">Te la dedico</title>
-    <sub-title lang="en">Wilson y La Mona formalizan su relación</sub-title>
-    <desc lang="en">Mona y Wilson tienen un encuentro que marca el reinicio de su relación. Adriana discute con Henry y, horas más tarde, La Chirris renuncia a su trabajo y le declara sus sentimientos a La Mona.</desc>
-  </programme>
-  <programme start="20230930052900 -0300" stop="20230930062100 -0300" channel="0835">
-    <title lang="en">Doctor Milagro</title>
-    <sub-title lang="en">Episode 70</sub-title>
-    <desc lang="en">Nazli y Ali se ponen de acuerdo para poner reglas y Kivilcim sorprende a Beliz con una noticia inesperada.</desc>
-  </programme>
-  <programme start="20230930062100 -0300" stop="20230930071200 -0300" channel="0835">
-    <title lang="en">¿Será que es amor?</title>
-    <sub-title lang="en">Episode 38</sub-title>
-    <desc lang="en">Eda y Serkan hacen un trato en relación con las intenciones de Balca y Ayfer recibe un regalo inesperado.</desc>
-  </programme>
-  <programme start="20230930071200 -0300" stop="20230930080400 -0300" channel="0835">
-    <title lang="en">Traicionada</title>
-    <sub-title lang="en">Episode 70</sub-title>
-    <desc lang="en">La doctora Asya vivía en armonía junto a su menor hijo y su esposo. Sin embargo, su vida cambió cuando descubre la traición de su marido.</desc>
-  </programme>
-  <programme start="20230930080400 -0300" stop="20230930085400 -0300" channel="0835">
-    <title lang="en">Mi hogar, mi destino</title>
-    <sub-title lang="en">Episode 31</sub-title>
-    <desc lang="en">Mientras operan de urgencia a Mehdi, los hombres de Fox Ahmet intentan intimidar a Bayram para que no haga la denuncia. Benal oye una conversación sobre el estado de Mehdi y quiere ir a visitarlo.</desc>
-  </programme>
-  <programme start="20230930085400 -0300" stop="20230930090000 -0300" channel="0835">
-    <title lang="en">Amor eterno</title>
-    <desc lang="en">Después de saber que su hermano es un asesino, Kemal toma una importante decision y pone a prueba a su familia. Los intentos de Emir por alejar a Nihan y a Kemal hace que se vuelvan a acercar. Emir trata de usar a la familia de Kemal en su contra.</desc>
   </programme>
   <programme start="20230930090000 -0300" stop="20230930095000 -0300" channel="0835">
     <title lang="en">Doctor Milagro</title>
@@ -26663,18 +25662,6 @@
     <title lang="es">La rosa de Guadalupe, relatos de impacto</title>
     <desc lang="es">Observa los relatos más polémicos, sorprendentes, crudos y reales de esta serie, donde te presentamos historias impactantes y llenas de esperanza para que tomes lo mejor de cada una de ellas.</desc>
   </programme>
-  <programme start="20230930011000 -0300" stop="20230930040000 -0300" channel="0841">
-    <title lang="en">Django sin cadenas</title>
-    <desc lang="en">Escrita y dirigida por Quentin Tarantino y con un reparto galardonado, Jamie Foxx es Django, un esclavo que, bajo la promesa de ganarse su libertad, se une al Dr. King Schultz (Christoph Waltz), un cazarrecompensas, para capturar a los criminales más buscados del Sur.</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930060000 -0300" channel="0841">
-    <title lang="en">Chef a domicilio</title>
-    <desc lang="en">Carl Casper (Jon Favreau) es un chef que pierde su trabajo, por negarse a aceptar las exigencias del propietario (Dustin Hoffman); así que emprende un proyecto de venta de comida en un camión junto a su ex mujer (Sofia Vergara) y su mejor amigo (John Leguizamo). Al mismo tiempo, también intentará unir de nuevo a su familia.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930073500 -0300" channel="0841">
-    <title lang="en">Hija de dios</title>
-    <desc lang="en">El Detective Scott Galban busca la verdad sobre la misteriosa muerte de su compañero. A su vez, descubre un peligroso secreto acerca de Isabel de la Cruz, una joven mujer local que dice haber sido testigo de un milagro y a la que le empiezan a pasar sucesos extraños.</desc>
-  </programme>
   <programme start="20230930073500 -0300" stop="20230930093000 -0300" channel="0841">
     <title lang="en">Jim: La Captura de James Foley</title>
     <desc lang="en">Un perfil del periodista James Foley, quien fue secuestrado en 2012 en Siria y se convirtió en el primer ciudadano estadounidense en ser asesinado por ISIS.</desc>
@@ -26767,51 +25754,6 @@
   <programme start="20231001200000 -0300" stop="20231001220000 -0300" channel="0841">
     <title lang="en">El hombre invisible</title>
     <desc lang="en">Cecilia reinicia su vida luego de que su abusivo ex novio se suicida. Poco a poco, ella se adapta a un mejor estilo de vida; hasta que una serie de sucesos la hacen sospechar que su ex novio no está muerto, como todos piensan, y que además tiene planes de venganza.</desc>
-  </programme>
-  <programme start="20230930014000 -0300" stop="20230930020500 -0300" channel="0842">
-    <title lang="en">It Takes a Killer</title>
-    <desc lang="en">Un despiadado triple homicidio en Nueva Orleáns (Luisiana) deja perpleja a la policía.</desc>
-  </programme>
-  <programme start="20230930020500 -0300" stop="20230930025000 -0300" channel="0842">
-    <title lang="en">A sangre fría</title>
-    <desc lang="en">Un veterano de guerra desaparece y una joven estudiante es asesinada en lo que parece ser un crimen pasional, pero al descubrir un movimiento secreto de dinero, la policía emprende búsqueda. ¿Podrán hallar al homicida antes de que ataque de nuevo?</desc>
-  </programme>
-  <programme start="20230930025000 -0300" stop="20230930033500 -0300" channel="0842">
-    <title lang="en">A sangre fría</title>
-    <desc lang="en">Los caminos de la esposa de un infante de marina, una dominatrix embarazada y una esclava sexual se cruzan, en una retorcida historia de secuestro, mentiras y homicidio.</desc>
-  </programme>
-  <programme start="20230930033500 -0300" stop="20230930042500 -0300" channel="0842">
-    <title lang="en">Licencia para matar</title>
-    <desc lang="en">Detectives en Colorado investigan a un médico naturópata después de que dos de sus pacientes desarrollaran horribles efectos secundarios por dudosos tratamientos milagrosos. Lo que descubren es una historia mortal de fraude y tratamientos médicos bárbaros e invasivos.</desc>
-  </programme>
-  <programme start="20230930042500 -0300" stop="20230930051500 -0300" channel="0842">
-    <title lang="en">Matar me hizo famoso</title>
-    <sub-title lang="en">Whitey Bulger</sub-title>
-    <desc lang="en">Whitey Bulger, fue una de las figuras más prominentes en la escena del crimen organizado de Boston.</desc>
-  </programme>
-  <programme start="20230930051500 -0300" stop="20230930060000 -0300" channel="0842">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">Una sensual maestra y su amante adolescente crean una trama que deja incrédula a la nación.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930062500 -0300" channel="0842">
-    <title lang="en">It Takes a Killer</title>
-    <desc lang="en">Una controvertida familia de ateos abandona el trabajo de su vida sin aviso.</desc>
-  </programme>
-  <programme start="20230930062500 -0300" stop="20230930064500 -0300" channel="0842">
-    <title lang="en">It takes a killer</title>
-    <desc lang="en">Una amante despechada lleva a cabo una venganza extrema cuando contrata a un grupo de indigentes para que maten a la esposa de su amante. Cuando se investiga el homicidio, ella se hace la víctima y niega haber estado involucrada, pero no habrá actuación que le permita escapar de la cruda verdad: el asesinato fue registrado por las cámaras.</desc>
-  </programme>
-  <programme start="20230930064500 -0300" stop="20230930073000 -0300" channel="0842">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">Dos profesores de catequesis se transforman en asesinos a sangre fría cuando conspiran para asesinar a la pareja de uno de ellos para obtener el dinero del seguro de vida.</desc>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930081500 -0300" channel="0842">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">Se investiga la muerte de un vendedor ambulante.</desc>
-  </programme>
-  <programme start="20230930081500 -0300" stop="20230930090000 -0300" channel="0842">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">Dos adolescentes con problemas llevan sus obsesiones oscuras al extremo cuando su romance se ve amenazado por un compañero de clase.</desc>
   </programme>
   <programme start="20230930090000 -0300" stop="20230930094500 -0300" channel="0842">
     <title lang="en">Parejas asesinas</title>
@@ -27041,83 +25983,6 @@
     <title lang="en">Accidente, suicidio, o asesinato</title>
     <sub-title lang="en">Explosión</sub-title>
     <desc lang="en">Cuando un exitoso hombre de familia es descubierto entre los escombros de una explosión mortal, los investigadores intentan determinar si fue algo planeado, un intento de ataque terrorista o algo más.</desc>
-  </programme>
-  <programme start="20230930013000 -0300" stop="20230930022500 -0300" channel="0843">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">El lanzamiento de Fredrik en París va según lo planeado hasta que un ambicioso corredor intenta reclamarle una parte al desarrollador.</desc>
-  </programme>
-  <programme start="20230930022500 -0300" stop="20230930025000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Buen tiempo</sub-title>
-    <desc lang="en">Todd y los niños filman un comercial para promocionar su bar de jugos, pero surgen problemas cuando Todd se convierte en director. Julie y su mejor amiga, Lea, buscan hacerse una cirugía de rejuvenecimiento vaginal.</desc>
-  </programme>
-  <programme start="20230930025000 -0300" stop="20230930031500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Una obra de teatro en un pesebre</sub-title>
-    <desc lang="en">Todd fija una cita para la colonoscopia de Julie, pero se mete en problemas cuando ella lo obliga a hacerse una él también. Las apuestas de Faye se salen de control y Lindsie toma medidas drásticas para hacer que renuncie.</desc>
-  </programme>
-  <programme start="20230930031500 -0300" stop="20230930034000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Rugrados</sub-title>
-    <desc lang="en">Todd se ve obligado al ir al rescate cuando Chase y Parker emprenden un proyecto de remodelar una casa para revenderla. Cuando el amigo de la infancia de Todd y cómplice de bromas, Bill, viene de visita, Julie busca consuelo en Savannah.</desc>
-  </programme>
-  <programme start="20230930034000 -0300" stop="20230930040500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Mensaje en una botella cohete</sub-title>
-    <desc lang="en">Todd invita a la familia a un resort rústico para el 4 de julio.</desc>
-  </programme>
-  <programme start="20230930040500 -0300" stop="20230930043000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Coronando alrededor</sub-title>
-    <desc lang="en">La familia Chrisley está en Las Vegas para apoyar a Savannah en el concurso de belleza Miss Teen USA. Mientras tanto, Chase tiene la tarea de vigilar a la famosa apostadora, Nanny Faye, en la ciudad del pecado.</desc>
-  </programme>
-  <programme start="20230930043000 -0300" stop="20230930051500 -0300" channel="0843">
-    <title lang="en">Bajo cubierta</title>
-    <desc lang="en">El Capitán Lee convoca una reunión de todo el personal para abordar el desenfreno de la noche anterior y le da a la tripulación un ultimátum.</desc>
-  </programme>
-  <programme start="20230930051500 -0300" stop="20230930060000 -0300" channel="0843">
-    <title lang="en">Bajo cubierta</title>
-    <desc lang="en">Poniendo el último alquiler en riesgo, Kate condena a Kevin a fracasar cuando le permite presentar el pastel erótico solicitado por su huésped principal, sabiendo que ella ya se fue a dormir.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930062500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Amor y matrimonio</sub-title>
-    <desc lang="en">Cuando Todd y Julie se preparan para hacer un video de "un día en la vida" por su aniversario, las grietas en su matrimonio comienzan a hacerse notar y luchan por reinventarse como la pareja "perfecta".</desc>
-  </programme>
-  <programme start="20230930062500 -0300" stop="20230930065000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Día deportivo</sub-title>
-    <desc lang="en">Cada verano, los Chrisley asisten a la barbacoa anual de día del deportivo de un amigo de la familia y todos los años son puestos en vergüenza.</desc>
-  </programme>
-  <programme start="20230930065000 -0300" stop="20230930071500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Héroe local</sub-title>
-    <desc lang="en">Los Chrisley se dirigen a su casa del lago en Carolina del Sur, la cual también resulta que se encuentra en la ciudad donde creció Todd.</desc>
-  </programme>
-  <programme start="20230930071500 -0300" stop="20230930074000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Perfección de tono</sub-title>
-    <desc lang="en">Chase y Savannah se acaban de graduar de la escuela secundaria y ya se está preparando la celebración.</desc>
-  </programme>
-  <programme start="20230930074000 -0300" stop="20230930080500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Restaurante Imposible</sub-title>
-    <desc lang="en">Los espectadores disfrutarán de otra delicia navideña cuando la familia Chrisley les da la bienvenida a su hogar de fantasía invernal, impecablemente decorado, y se preparan para la deliciosa cena de Navidad de Julie.</desc>
-  </programme>
-  <programme start="20230930080500 -0300" stop="20230930082500 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Deportes consentidos</sub-title>
-    <desc lang="en">Todd deja a Savannah en la universidad en Nashville, pero al típico estilo de Todd, encuentra una manera de vigilarla.</desc>
-  </programme>
-  <programme start="20230930082500 -0300" stop="20230930085000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Logros de coronación</sub-title>
-    <desc lang="en">Decepcionado por haberse perdido la coronación de Savannah como Miss Tennessee Teen USA, Todd planea una fiesta para celebrar. La tensión aumenta cuando queda claro que la fiesta es más para Todd que para Savannah.</desc>
-  </programme>
-  <programme start="20230930085000 -0300" stop="20230930091000 -0300" channel="0843">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">La ira de Todd</sub-title>
-    <desc lang="en">Cuando Chase afirma su independencia al hacerse un tatuaje de un versículo de la Biblia, Todd intenta todo lo que está en su poder para convencer a Chase de que se lo remueva.</desc>
   </programme>
   <programme start="20230930091000 -0300" stop="20230930093500 -0300" channel="0843">
     <title lang="en">La familia Chrisley</title>
@@ -27428,47 +26293,6 @@
     <title lang="en">The Voice</title>
     <desc lang="en">Reba McEntire, Niall Horan,.</desc>
   </programme>
-  <programme start="20230930043000 -0300" stop="20230930051500 -0300" channel="0844">
-    <title lang="en">Suits: La clave del éxito</title>
-    <desc lang="en">Harvey es obligado a trabajar junto con Louis en un caso complicado que incluye la sorpresiva muerte de su testigo estrella. Por otro lado, Mike trabaja en un caso que le exige tomar una difícil decisión.</desc>
-  </programme>
-  <programme start="20230930051500 -0300" stop="20230930060000 -0300" channel="0844">
-    <title lang="en">Suits: La clave del éxito</title>
-    <desc lang="en">Harvey debe echar a un ejecutivo a pedido de su cliente Mike no está de acuerdo con el despido.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930064500 -0300" channel="0844">
-    <title lang="en">FBI: Most Wanted</title>
-    <desc lang="en">El equipo persigue a un hombre de negocios buscado por asesinato y malversación de fondos. Además, Jess aprovecha el nido vacío para cortejar a Sara.</desc>
-  </programme>
-  <programme start="20230930064500 -0300" stop="20230930073000 -0300" channel="0844">
-    <title lang="en">FBI: Most Wanted</title>
-    <desc lang="en">El equipo persigue a un hombre abusivo que, alterado, busca a su ex novia, quien intenta deshacerse de él para siempre. Por otra parte, Jess y Sarah planean unas vacaciones de ensueño juntos.</desc>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930081500 -0300" channel="0844">
-    <title lang="en">House M.D</title>
-    <desc lang="en">Un joven gitano llega con un inexplicable problema respiratorio, en tanto House debe lidiar con Cuddy y una nueva doctora para recuperar su sitio en el estacionamiento, haciendo todo lo posible por lograrlo. Mientras, la familia del enfermo se...</desc>
-  </programme>
-  <programme start="20230930081500 -0300" stop="20230930090000 -0300" channel="0844">
-    <title lang="en">House M.D</title>
-    <desc lang="en">House se enfrenta al caso de una víctima de violación. La joven rechaza ser tratada por cualquier médico que no sea él. Alegando que hay algo en él que le hace saber que padeció un sufrimiento similar.</desc>
-  </programme>
-  <programme start="20230930090000 -0300" stop="20230930095000 -0300" channel="0844">
-    <title lang="en">Cardinal</title>
-    <desc lang="en">Los detectives descubren la identidad de Red y su conexión con Algonquin Bay. Entretanto, la persona que le disparó busca terminar el trabajo.</desc>
-  </programme>
-  <programme start="20230930095000 -0300" stop="20230930104000 -0300" channel="0844">
-    <title lang="en">Cardinal</title>
-    <desc lang="en">Ray debe lidiar con un infractor, Cardinal averigua más en Toronto.</desc>
-  </programme>
-  <programme start="20230930104000 -0300" stop="20230930112500 -0300" channel="0844">
-    <title lang="en">Cardinal</title>
-    <sub-title lang="en">Kevin</sub-title>
-    <desc lang="en">Cardinal y Delorme vinculan pruebas de un nuevo crimen a un asesinato ritualista y los recuerdos de Terri ayudan a hacer una conexión con un posible sospechoso.</desc>
-  </programme>
-  <programme start="20230930112500 -0300" stop="20230930121000 -0300" channel="0844">
-    <title lang="en">Cardinal</title>
-    <desc lang="en">John y Lisa corren a buscar a Ray antes de que mate a Terri y su hermano.</desc>
-  </programme>
   <programme start="20230930121000 -0300" stop="20230930131000 -0300" channel="0844">
     <title lang="en">Billions</title>
     <desc lang="en">El hábil y experimentado fiscal Chuck Rhoades, junto con el brillante y ambicioso rey de los fondos de cobertura Bobby Axelrod, se encuentran en un explosivo curso de colisión, cuando cada uno emplea su inteligencia, poder e influencia para superar la táctica del otro.</desc>
@@ -27650,64 +26474,6 @@
   <programme start="20231001235500 -0300" stop="20231002004500 -0300" channel="0844">
     <title lang="en">Poker Face</title>
     <desc lang="en">Charlie se ve envuelto en una disputa entre un viejo piloto de carreras y un joven impulsivo.</desc>
-  </programme>
-  <programme start="20230930010000 -0300" stop="20230930014500 -0300" channel="0845">
-    <title lang="en">Monk</title>
-    <desc lang="en">Un buen samaritano es testigo de un asesinato al estilo de culto, pero la evidencia no tiene sentido. El Sr. Monk se hace pasar por miembro de una secta para resolver el crimen.</desc>
-  </programme>
-  <programme start="20230930014500 -0300" stop="20230930022500 -0300" channel="0845">
-    <title lang="en">Monk</title>
-    <desc lang="en">Cuando el banco de Monk es robado, él se desespera por ayudar en la investigación, pero el capitán Stottlemeyer no lo deja, por lo cual Monk termina ocupa una posición inusual en el banco.</desc>
-  </programme>
-  <programme start="20230930022500 -0300" stop="20230930025000 -0300" channel="0845">
-    <title lang="en">Kevin puede esperar</title>
-    <desc lang="en">Kevin reivindica su promesa de comprarle un anillo formal a Donna, pero su plan sale mal.</desc>
-  </programme>
-  <programme start="20230930025000 -0300" stop="20230930031000 -0300" channel="0845">
-    <title lang="en">Un hombre, un plan</title>
-    <desc lang="en">Cuando Adam y Don se dan cuenta de que necesitan generar más negocios, filman un comercial para anunciar su compañía. También, Andi toma valor para pedirle un aumento a su jefe, Bob.</desc>
-  </programme>
-  <programme start="20230930031000 -0300" stop="20230930033000 -0300" channel="0845">
-    <title lang="en">The Unicorn</title>
-    <sub-title lang="en">Anna y el unicornio</sub-title>
-    <desc lang="en">Wade está cautivado, sus hijas, divertidas y sus amigos, entusiasmados cuando tiene su primer enamoramiento luego de haber quedado solo.</desc>
-  </programme>
-  <programme start="20230930033000 -0300" stop="20230930035000 -0300" channel="0845">
-    <title lang="en">The Odd Couple</title>
-    <desc lang="en">Félix conoce en un bar a una mujer a la que le gusta divertirse, Natasha, y la lleva a su casa para lo que intenta ser una aventura de una sola noche, y Oscar lleva las cosas al siguiente nivel con Charlotte.</desc>
-  </programme>
-  <programme start="20230930035000 -0300" stop="20230930041500 -0300" channel="0845">
-    <title lang="en">Odd Mom Out</title>
-    <sub-title lang="en">Oda a Joy</sub-title>
-    <desc lang="en">Joy lucha con la idea de decirle a Brooke que Joy Green es un monstruo.</desc>
-  </programme>
-  <programme start="20230930041500 -0300" stop="20230930060000 -0300" channel="0845">
-    <title lang="en">Experta en bodas</title>
-    <desc lang="en">Jennifer Lopez protagoniza como una mujer que se preocupa tanto por organizar las bodas de los ricos y famosos, que nunca ha tenido tiempo para el amor. Eso es, hasta que conoce a un apuesto doctor, quien está comprometido con su clienta actual.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930062500 -0300" channel="0845">
-    <title lang="en">Kevin puede esperar</title>
-    <desc lang="en">Kevin reivindica su promesa de comprarle un anillo formal a Donna, pero su plan sale mal.</desc>
-  </programme>
-  <programme start="20230930062500 -0300" stop="20230930064500 -0300" channel="0845">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Cuando Donna quiere que su piscina sea reubicada, Kevin opta por quitar el enorme árbol vecino.</desc>
-  </programme>
-  <programme start="20230930064500 -0300" stop="20230930071000 -0300" channel="0845">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">El acto de heroísmo de Kevin es ensombrecido por el rescate de un gato por parte de Kyle.</desc>
-  </programme>
-  <programme start="20230930071000 -0300" stop="20230930073500 -0300" channel="0845">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">La oferta de utilizar el condominio de un amigo es la oferta más cara de lo pensado para Kevin.</desc>
-  </programme>
-  <programme start="20230930073500 -0300" stop="20230930080000 -0300" channel="0845">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Kevin y un viejo némesis confrontan por las fechas de boda de sus hijos.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930082500 -0300" channel="0845">
-    <title lang="en">30 Rock</title>
-    <desc lang="en">Liz descubre que Jack está saboteando la programación de otoño de NBC, Jenna le pide a Liz que sea su dama de honor, y Kenneth y Hazel invitan a cenar a Tracy.</desc>
   </programme>
   <programme start="20230930082500 -0300" stop="20230930085000 -0300" channel="0845">
     <title lang="en">30 Rock</title>
@@ -27965,52 +26731,6 @@
     <title lang="en">The Office</title>
     <desc lang="en">Dunder Mifflin se enfrenta a una grave crisis cuando un empleado imprime un dibujo obsceno. Por otro lado, Michael se prepara para dar una rueda de prensa en la que pretende obtener el perdón de su cliente más importante, mientras Kelly le enseña a sus compañeros a atender llamadas conflictivas.</desc>
   </programme>
-  <programme start="20230930020000 -0300" stop="20230930023000 -0300" channel="0151">
-    <title lang="en">ITV Noticias</title>
-    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
-  </programme>
-  <programme start="20230930023000 -0300" stop="20230930033000 -0300" channel="0151">
-    <title lang="en">Iquique al día</title>
-    <desc lang="en">Programa de entrevisas con personalidades de la comunidad.</desc>
-  </programme>
-  <programme start="20230930033000 -0300" stop="20230930040000 -0300" channel="0151">
-    <title lang="en">ITV Noticias</title>
-    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930043000 -0300" channel="0151">
-    <title lang="en">En palco</title>
-  </programme>
-  <programme start="20230930043000 -0300" stop="20230930050000 -0300" channel="0151">
-    <title lang="en">Latidos tonos trazos</title>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930053000 -0300" channel="0151">
-    <title lang="en">ITV Noticias</title>
-    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
-  </programme>
-  <programme start="20230930053000 -0300" stop="20230930060000 -0300" channel="0151">
-    <title lang="en">Portavoz noticias</title>
-    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930070000 -0300" channel="0151">
-    <title lang="en">Doctor en casa</title>
-    <desc lang="en">Un espacio donde todas las medicinas trabajan juntas para mejorar tu calidad de vida.</desc>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930073000 -0300" channel="0151">
-    <title lang="en">ITV Noticias</title>
-    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930083000 -0300" channel="0151">
-    <title lang="en">Forever TV</title>
-    <desc lang="en">Programa dedicado a nuestros adultos mayores, con la mejor música y anécdotas de todos los tiempos.</desc>
-  </programme>
-  <programme start="20230930083000 -0300" stop="20230930090000 -0300" channel="0151">
-    <title lang="en">ITV Noticias</title>
-    <desc lang="en">Noticias regionales, nacionales e internacionales.</desc>
-  </programme>
-  <programme start="20230930090000 -0300" stop="20230930093000 -0300" channel="0151">
-    <title lang="en">Portavoz noticias</title>
-    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
-  </programme>
   <programme start="20230930093000 -0300" stop="20230930103000 -0300" channel="0151">
     <title lang="en">WO</title>
   </programme>
@@ -28154,23 +26874,6 @@
   <programme start="20231001190000 -0300" stop="20231001220000 -0300" channel="0151">
     <title lang="en">Anime</title>
     <desc lang="en">Serie animada.</desc>
-  </programme>
-  <programme start="20230930010000 -0300" stop="20230930050000 -0300" channel="0152">
-    <title lang="en">El matinal</title>
-    <desc lang="en">Revista matutina con segmentos de moda y farándula, entre otros.</desc>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930060000 -0300" channel="0152">
-    <title lang="en">Más noticias noche</title>
-  </programme>
-  <programme start="20230930060000 -0300" stop="20230930070000 -0300" channel="0152">
-    <title lang="en">Asamblea Ciudadana</title>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930080000 -0300" channel="0152">
-    <title lang="en">Dr. En Casa</title>
-    <desc lang="en">Doctor en casa es un programa de salud orientado a mejorar la calidad de vida de las personas.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930090000 -0300" channel="0152">
-    <title lang="en">Más noticias noche</title>
   </programme>
   <programme start="20230930090000 -0300" stop="20230930130000 -0300" channel="0152">
     <title lang="en">El matinal</title>
@@ -28507,13 +27210,6 @@
     <title lang="es">Entrevistas Bío Bío TV</title>
     <desc lang="es">Programa de entrevistas realizado desde el locutorio de Radio Bío Bío en Santiago.</desc>
   </programme>
-  <programme start="20230930013000 -0300" stop="20230930073000 -0300" channel="0155">
-    <title lang="en">Cartelera nocturna</title>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930080000 -0300" channel="0155">
-    <title lang="en">Portavoz noticias</title>
-    <desc lang="en">Entérate de los acontecimientos más importantes del día.</desc>
-  </programme>
   <programme start="20230930080000 -0300" stop="20230930120000 -0300" channel="0155">
     <title lang="en">CNTV Infantil</title>
     <desc lang="en">Aprende de forma entretenida con videos culturales y educativos pensados especialmente para ti.</desc>
@@ -28581,37 +27277,6 @@
   </programme>
   <programme start="20231001203000 -0300" stop="20231001213000 -0300" channel="0155">
     <title lang="en">Conéctate TVU - Resumen</title>
-  </programme>
-  <programme start="20230930013000 -0300" stop="20230930063000 -0300" channel="0157">
-    <title lang="en">Video Música</title>
-    <desc lang="en">Espacio de la Universidad Autónoma de Chile en el que se presentan contenidos audiovisuales relacionados con la música de diferentes géneros y épocas, para que te deleites con cada interpretación.</desc>
-  </programme>
-  <programme start="20230930063000 -0300" stop="20230930065900 -0300" channel="0157">
-    <title lang="en">La voz de América</title>
-    <desc lang="en">La Voz de América es una fuente informativa y noticiosa que cuenta con un equipo de profesionales con independencia editorial y con credibilidad en la información, ganada a través de los años. (repeat).</desc>
-  </programme>
-  <programme start="20230930065900 -0300" stop="20230930070000 -0300" channel="0157">
-    <title lang="en">El tiempo - Regiones</title>
-    <desc lang="en">Con precisión y simpatía, Daniela Seguel le informa todos los días el pronóstico del tiempo de las 32 comunas de la Araucanía.</desc>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930073000 -0300" channel="0157">
-    <title lang="en">Portavoz noticias</title>
-    <desc lang="en">Programa informativo. (repeat).</desc>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930075500 -0300" channel="0157">
-    <title lang="en">UATV Noticias central</title>
-    <desc lang="en">Programa informativo. (repeat).</desc>
-  </programme>
-  <programme start="20230930075500 -0300" stop="20230930080000 -0300" channel="0157">
-    <title lang="en">UATV Tiempo</title>
-    <desc lang="en">Programa informativo.</desc>
-  </programme>
-  <programme start="20230930080000 -0300" stop="20230930090000 -0300" channel="0157">
-    <title lang="en">CNTV infantil - Preescolar</title>
-  </programme>
-  <programme start="20230930090000 -0300" stop="20230930093000 -0300" channel="0157">
-    <title lang="en">CNTV Infantil - Niño</title>
-    <desc lang="en">Videos educativos, infantiles y culturales para todo público, disponibles para ver online y descargar. Material educativo gratuito y de libre uso escolar.</desc>
   </programme>
   <programme start="20230930093000 -0300" stop="20230930095500 -0300" channel="0157">
     <title lang="en">CNTV infantil - Pre adolescente</title>
@@ -28773,10 +27438,6 @@
   </programme>
   <programme start="20231001203000 -0300" stop="20231001210000 -0300" channel="0157">
     <title lang="en">UATV noticias, resumen semanal - Franja electoral</title>
-  </programme>
-  <programme start="20230930010000 -0300" stop="20230930090000 -0300" channel="0163">
-    <title lang="en">Cierre de estación</title>
-    <desc lang="en">Espacio que marca el final de la transmisión del canal después del himno nacional. Vuelve a disfrutar con todos los programas de nuestra grilla a partir de las primeras horas de la mañana, con los informativos, magazines de variedades, segmentos infantiles y mucho más.</desc>
   </programme>
   <programme start="20230930090000 -0300" stop="20230930100000 -0300" channel="0163">
     <title lang="en">Cablenoticias</title>
@@ -36343,34 +35004,6 @@
     <title lang="en">NaturEscape</title>
     <sub-title lang="en">Stingray Music</sub-title>
     <desc lang="en">Música temática a través de las señales de Stingray Music.</desc>
-  </programme>
-  <programme start="20230930003000 -0300" stop="20230930023000 -0300" channel="0154">
-    <title lang="en">Cinevision 7</title>
-  </programme>
-  <programme start="20230930023000 -0300" stop="20230930030000 -0300" channel="0154">
-    <title lang="en">Sexta Visión</title>
-  </programme>
-  <programme start="20230930030000 -0300" stop="20230930033000 -0300" channel="0154">
-    <title lang="en">SextaVision Especial</title>
-  </programme>
-  <programme start="20230930033000 -0300" stop="20230930040000 -0300" channel="0154">
-    <title lang="en">Sextavision Noticias</title>
-  </programme>
-  <programme start="20230930040000 -0300" stop="20230930050000 -0300" channel="0154">
-    <title lang="en">Memories</title>
-  </programme>
-  <programme start="20230930050000 -0300" stop="20230930053000 -0300" channel="0154">
-    <title lang="en">SextaVision Especial</title>
-  </programme>
-  <programme start="20230930053000 -0300" stop="20230930070000 -0300" channel="0154">
-    <title lang="en">Fair Play O'Higgins</title>
-  </programme>
-  <programme start="20230930070000 -0300" stop="20230930073000 -0300" channel="0154">
-    <title lang="en">Sextavision Noticias</title>
-  </programme>
-  <programme start="20230930073000 -0300" stop="20230930080000 -0300" channel="0154">
-    <title lang="en">Cartoons</title>
-    <desc lang="en">Una compilación de dibujos animados para niños que les enseñará lecciones importantes de la vida. También hará que los niños aprendan por medio de la diversión así como los personajes infantiles que entretienen y enseñan. Un programa de animación de calidad.</desc>
   </programme>
   <programme start="20230930080000 -0300" stop="20230930093000 -0300" channel="0154">
     <title lang="en">Estacion AM</title>
