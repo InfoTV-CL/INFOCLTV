@@ -26369,22 +26369,30 @@
     <title lang="en">Solo los valientes</title>
     <desc lang="en">Basada en una historia real, narra las vivencias de los Granite Mountain Hotshots, un grupo de bomberos que tuvieron que enfrentarse el incendio forestal en Arizona en 2013, considerado uno de los más catastróficos de la historia.</desc>
   </programme>
-  <programme start="20231002003000 -0300" stop="20231002023000 -0300" channel="0826">
+  <programme start="20231001233000 -0300" stop="20231002013000 -0300" channel="0826">
     <title lang="es">La guerra de los mundos</title>
     <desc lang="es">Ray Ferrier es un trabajador portuario divorciado y un padre lejos de ser perfecto. Cuando su ex mujer y su nuevo esposo le llevan a su hijo adolescente Robbie y su hija mejor Rachel para que pasen el fin de semana con él, Ray y sus hijos son testigos de una extraña tormenta eléctrica, que anticipa la llegada de inmensos seres que acaban con todo a su paso: el primer ataque alienígena contra la Tierra.</desc>
   </programme>
-  <programme start="20231002023000 -0300" stop="20231002043000 -0300" channel="0826">
+  <programme start="20231002013000 -0300" stop="20231002033000 -0300" channel="0826">
     <title lang="es">12 desafíos</title>
     <desc lang="es">Danny Fisher, un oficial de la policía, detiene al ladrón Miles Jackson cuando intenta escapar con un multimillonario botín. Después de fugarse de prisión, el criminal busca su venganza al someterlo a una serie de desafíos que deberá resolver si quiere salvar a su novia.</desc>
   </programme>
-  <programme start="20231002043000 -0300" stop="20231002060000 -0300" channel="0826">
+  <programme start="20231002033000 -0300" stop="20231002050000 -0300" channel="0826">
     <title lang="es">Poder sin límites</title>
     <desc lang="es">Tres jóvenes amigos de Portland se ven expuestos a una misteriosa sustancia en un bosque y, como resultado, empiezan a desarrollar increíbles poderes como mover objetos e incluso volar. Entonces deciden trabajar juntos para perfeccionar sus habilidades, pero la dificultad para controlar tan tentadores poderes les creará una serie de problemas personales.</desc>
   </programme>
-  <programme start="20231002060000 -0300" stop="20231002070000 -0300" channel="0826">
+  <programme start="20231002050000 -0300" stop="20231002060000 -0300" channel="0826">
     <title lang="es">Bones</title>
     <sub-title lang="es">T9 - Ep: 11 La chispa en el parque</sub-title>
     <desc lang="es">Inspirado en la vida real de los antropólogos forenses, disfruta de aventuras que tienen mucha investigación, humor y emociones. Resalta la humanidad en contraposición al mundo de los científicos. Inmerso en el caso de un gimnasta asesinado, el equipo, que al principio sospecha de un compañero de él, luego descubre que el gimnasta llevaba una doble vida.</desc>
+  </programme>
+  <programme start="20231002060000 -0300" stop="20231002063000 -0300" channel="0826">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20231002063000 -0300" stop="20231002070000 -0300" channel="0826">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20231002070000 -0300" stop="20231002073000 -0300" channel="0826">
     <title lang="es">Infomercial</title>
@@ -26394,79 +26402,79 @@
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
-  <programme start="20231002080000 -0300" stop="20231002083000 -0300" channel="0826">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20231002083000 -0300" stop="20231002090000 -0300" channel="0826">
+  <programme start="20231002080000 -0300" stop="20231002090000 -0300" channel="0826">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20231002090000 -0300" stop="20231002100000 -0300" channel="0826">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20231002100000 -0300" stop="20231002110000 -0300" channel="0826">
     <title lang="es">9-1-1</title>
     <sub-title lang="es">T1 - Ep: 1 Piloto</sub-title>
     <desc lang="es">Explora las experiencias de alta presión de la policía, los paramédicos y los bomberos que están inmersos en las situaciones más aterradoras, impactantes y desgarradoras. Deben intentar salvar a la sociedad mientras tratan de resolver los problemas de sus propias vidas. ¿Cuál es su emergencia? Abby Clark pasa sus días atendiendo llamadas de emergencia del 911, mientras la detective Athena Grant, de las fuerzas policiales, y Bobby Nash, con su equipo de audaces bomberos rescatistas, nos develan el resto de la historia.</desc>
   </programme>
-  <programme start="20231002110000 -0300" stop="20231002130000 -0300" channel="0826">
+  <programme start="20231002100000 -0300" stop="20231002120000 -0300" channel="0826">
     <title lang="es">Shakespeare apasionado</title>
     <desc lang="es">Finales del siglo XVI, William Shakespeare, precoz y talentoso dramaturgo de la escena londinense, necesita ponerle fin a la crisis creativa que padece. A pesar de los intentos y la presión que recibe por parte de los administradores de salas de teatro, no logra concentrarse en su última obra. Hasta que conoce a su nueva musa, la bella Lady Viola, con quien vive un secreto romance que hará que sus palabras fluyan como nunca antes. La película se llevo 7 oscars en 1998.</desc>
   </programme>
-  <programme start="20231002130000 -0300" stop="20231002150000 -0300" channel="0826">
+  <programme start="20231002120000 -0300" stop="20231002140000 -0300" channel="0826">
     <title lang="es">Familia al instante</title>
     <desc lang="es">La emoción y alegría de convertirse en padres llega de pronto para Pete y Ellie, una joven pareja que decide compartir su felicidad y sumar a su familia a Juan, Lita y Lizzy, tres hermanos. Pero con ello también comienzan muchos berrinches, portazos, cenas accidentadas, responsabilidades triples y, sobre todo, una gran familia.</desc>
   </programme>
-  <programme start="20231002150000 -0300" stop="20231002160000 -0300" channel="0826">
+  <programme start="20231002140000 -0300" stop="20231002150000 -0300" channel="0826">
     <title lang="es">Grey's Anatomy</title>
     <sub-title lang="es">T3 - Ep: 24 Probando, 1-2-3</sub-title>
     <desc lang="es">Meredith Grey, hija de una cirujana general de renombre llamada Ellis Grey, integra un grupo de jóvenes doctores en el Hospital Seattle Grace. Allí, al igual que sus colegas, Meredith lucha por equilibrar su vida personal con su agitado trabajo. Los internos finalmente hacen sus exámenes médicos de primer año, el examen más importante de sus carreras, y uno de ellos está poco preparado. Callie sospecha cada vez más acerca de George e Izzie. Los doctores tratan a un paciente llamado Dale. Tres escaladores también son tratados mientras que Cristina escribe sus votos nupciales y Adele quiere que Addison le guarde un secreto que no quiere que Richard sepa.</desc>
   </programme>
-  <programme start="20231002160000 -0300" stop="20231002170000 -0300" channel="0826">
+  <programme start="20231002150000 -0300" stop="20231002160000 -0300" channel="0826">
     <title lang="es">Criminal Minds</title>
     <sub-title lang="es">T13 - Ep: 11 A toda marcha</sub-title>
     <desc lang="es">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías locales en la búsqueda y captura de los asesinos en serie. Cada uno de los agentes de este grupo elite tiene personalidades diferentes que se complementan para formar el equipo y ellos tendrán que pensar como el ignoto para poder entenderlo hasta saber cuál será su próximo paso, porque suele suceder que el homicida múltiple que aterroriza a una ciudad, también está anhelando ser detenido. El equipo descubre un mundo de secretos en un pueblo de Virginia al investigar un atentado en contra de la esposa del jefe de policía.</desc>
   </programme>
-  <programme start="20231002170000 -0300" stop="20231002192000 -0300" channel="0826">
+  <programme start="20231002160000 -0300" stop="20231002182000 -0300" channel="0826">
     <title lang="es">Maze Runner: La cura mortal</title>
     <desc lang="es">Junto a su grupo de Gladers, Thomas debe entrar en la legendaria Last City, el laberinto más mortífero de todos, que es manejado por la organización CRUEL, la cual asegura haber encontrado la cura para la Lllamarada. Quien consiga salir de ahí con vida conocerá las respuestas a las preguntas que los Gladers se han estado haciendo desde que llegaron por primera vez al laberinto.</desc>
   </programme>
-  <programme start="20231002192000 -0300" stop="20231002210000 -0300" channel="0826">
+  <programme start="20231002182000 -0300" stop="20231002200000 -0300" channel="0826">
     <title lang="es">Jumper</title>
     <desc lang="es">David Rice ha crecido con el misterioso poder de teletransportarse a cualquier lugar del mundo que imagine. Hasta ahora ha utilizado sus poderes para escapar de su pasado, alimentar su fortuna y permanecer completamente independiente. Pero cuando David descubre a otro joven igual que él, un exaltado trotamundos llamado Griffin, la verdad de su existencia se revela. Es parte de una larga línea de anomalías genéticas conocidas como 'saltadores', que además nunca están a salvo. Ahora David ha sido identificado por la organización secreta dedicada a matarlo, al igual que a todos los que poseen su condición.</desc>
   </programme>
-  <programme start="20231002210000 -0300" stop="20231002213000 -0300" channel="0826">
+  <programme start="20231002200000 -0300" stop="20231002203000 -0300" channel="0826">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">T14 - Ep: 14 El Sr. Spritz va a Washington</sub-title>
     <desc lang="es">Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel. Cuando el aeropuerto de Springfield cambia las trayectorias de vuelo de los aviones, enviándolos en dirección de la casa de los Simpson, la familia convence a Krusty a postularse como legislador para cambiar las rutas aéreas. Sin embargo, una vez en su banca de legislador, Krusty deberá lidiar con la burocracia y el conservadurismo del lugar.</desc>
   </programme>
-  <programme start="20231002213000 -0300" stop="20231002220000 -0300" channel="0826">
+  <programme start="20231002203000 -0300" stop="20231002210000 -0300" channel="0826">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">T14 - Ep: 11 Emancipación</sub-title>
     <desc lang="es">Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel. Cuando Bart descubre la existencia de un embarazoso comercial de televisión en el que actuó de bebé y que el dinero ganado fue derrochado por Homero, lo demanda para lograr la emancipación y se va de la casa. Fuera de su hogar, Bart hará de muchos amigos, incluyendo una banda de rock, con la cual se irá de gira.</desc>
   </programme>
-  <programme start="20231002220000 -0300" stop="20231003003000 -0300" channel="0826">
+  <programme start="20231002210000 -0300" stop="20231002233000 -0300" channel="0826">
     <title lang="es">Solo los valientes</title>
     <desc lang="es">La lucha del heroico cuerpo de bomberos Granite Mountain Hotshots contra un terrible incendio sucedido en Prescott, Arizona, en junio de 2013. Este equipo de bomberos locales se convierte en uno de los equipos de lucha contra incendios más heroicos de la nación, que lucharon con esperanza, determinación y sacrificio durante este incendio fatal.</desc>
   </programme>
-  <programme start="20231003003000 -0300" stop="20231003023000 -0300" channel="0826">
+  <programme start="20231002233000 -0300" stop="20231003013000 -0300" channel="0826">
     <title lang="es">Horizonte profundo</title>
     <desc lang="es">En abril de 2010, la plataforma de perforación Deepwater Horizon explota en el Golfo de México, encendiendo una bola de fuego masiva que mata a varios miembros de la tripulación. El jefe técnico de electrónica, Mike Williams, y sus colegas se encuentran luchando por sobrevivir mientras el calor y las llamas se vuelven sofocantes y abrumadoras. Juntos, los compañeros de trabajo deben usar su ingenio para salir vivo en medio de todo el caos.</desc>
   </programme>
-  <programme start="20231003023000 -0300" stop="20231003040000 -0300" channel="0826">
+  <programme start="20231003013000 -0300" stop="20231003030000 -0300" channel="0826">
     <title lang="es">Adultos primerizos</title>
     <desc lang="es">Un empresario joven y ambicioso ve tambalear su vida al sufrir un revés en su proyecto profesional. Para resguardarse, se muda a la casa de su hermana, quien está embarazada y vive con su marido y su hijo de tres años. Al hallarse en un contexto familiar y verse forzado a cuidar de su sobrino, empieza a replantear sus propios intereses y objetivos.</desc>
   </programme>
-  <programme start="20231003040000 -0300" stop="20231003060000 -0300" channel="0826">
+  <programme start="20231003030000 -0300" stop="20231003050000 -0300" channel="0826">
     <title lang="es">Ven y encuéntrame</title>
     <desc lang="es">Cuando su novia desaparece, David decide rastrear su paradero, antes de darse cuenta de que quizá ella no es la persona que parecía ser.</desc>
   </programme>
-  <programme start="20231003060000 -0300" stop="20231003070000 -0300" channel="0826">
+  <programme start="20231003050000 -0300" stop="20231003060000 -0300" channel="0826">
     <title lang="es">9-1-1</title>
     <sub-title lang="es">T1 - Ep: 1 Piloto</sub-title>
     <desc lang="es">Explora las experiencias de alta presión de la policía, los paramédicos y los bomberos que están inmersos en las situaciones más aterradoras, impactantes y desgarradoras. Deben intentar salvar a la sociedad mientras tratan de resolver los problemas de sus propias vidas. ¿Cuál es su emergencia? Abby Clark pasa sus días atendiendo llamadas de emergencia del 911, mientras la detective Athena Grant, de las fuerzas policiales, y Bobby Nash, con su equipo de audaces bomberos rescatistas, nos develan el resto de la historia.</desc>
+  </programme>
+  <programme start="20231003060000 -0300" stop="20231003063000 -0300" channel="0826">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20231003063000 -0300" stop="20231003070000 -0300" channel="0826">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20231003070000 -0300" stop="20231003073000 -0300" channel="0826">
     <title lang="es">Infomercial</title>
@@ -26476,60 +26484,52 @@
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
-  <programme start="20231003080000 -0300" stop="20231003083000 -0300" channel="0826">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20231003083000 -0300" stop="20231003090000 -0300" channel="0826">
+  <programme start="20231003080000 -0300" stop="20231003090000 -0300" channel="0826">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
   <programme start="20231003090000 -0300" stop="20231003100000 -0300" channel="0826">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller, para facilitar tu jornada diaria. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20231003100000 -0300" stop="20231003110000 -0300" channel="0826">
     <title lang="es">9-1-1</title>
     <sub-title lang="es">T1 - Ep: 2 Déjalo ir</sub-title>
     <desc lang="es">Explora las experiencias de alta presión de la policía, los paramédicos y los bomberos que están inmersos en las situaciones más aterradoras, impactantes y desgarradoras. Deben intentar salvar a la sociedad mientras tratan de resolver los problemas de sus propias vidas. Una noche en un parque de diversiones da un giro mortal. Abby está aliviada al conseguir ayuda para cuidar a su madre, y se acerca a Buck. Por otro lado, Athena y Hen cubren una invasión de morada, mientras la discusión de una pareja lleva a Bobby a un dramático rescate.</desc>
   </programme>
-  <programme start="20231003110000 -0300" stop="20231003130000 -0300" channel="0826">
+  <programme start="20231003100000 -0300" stop="20231003120000 -0300" channel="0826">
     <title lang="es">Red de corrupción</title>
     <desc lang="es">Cuando Chris, un mensajero en bicicleta, ve lo que parece ser un asesinato, su primer instinto es parar de trabajar y correr. Pero cuando su curiosidad lo llama, se da cuenta que el autor del crimen es Yates, un miembro muy conocido del Parlamento, y se propone chantajearlo. Por esto, Chris es silenciado y su hermana Danni comienza investigar lo que le sucedió, descubriendo el soborno y la corrupción dentro de la comunidad de mensajería y más allá. Danni debe esforzarse en sus límites mentales y físicos a fin de encontrar justicia para su hermano.</desc>
   </programme>
-  <programme start="20231003130000 -0300" stop="20231003150000 -0300" channel="0826">
+  <programme start="20231003120000 -0300" stop="20231003140000 -0300" channel="0826">
     <title lang="es">Mesa 19</title>
     <desc lang="es">Eloise, después de haber sido relevada de las tareas de dama de honor y de haber sido abandona por el mejor amigo del novio, decide asistir a la boda igual, sólo para encontrarse sentada con cinco no deseados en la temida mesa 19.</desc>
   </programme>
-  <programme start="20231003150000 -0300" stop="20231003160000 -0300" channel="0826">
+  <programme start="20231003140000 -0300" stop="20231003150000 -0300" channel="0826">
     <title lang="es">Grey's Anatomy</title>
     <sub-title lang="es">T3 - Ep: 25 Casi lo tuvimos todo</sub-title>
     <desc lang="es">Meredith Grey, hija de una cirujana general de renombre llamada Ellis Grey, integra un grupo de jóvenes doctores en el Hospital Seattle Grace. Allí, al igual que sus colegas, Meredith lucha por equilibrar su vida personal con su agitado trabajo. Llega el día de la boda de Cristina y Burke. Richard elige al nuevo jefe y al jefe de residentes. Los internos reciben los resultados de sus exámenes, Callie lanza una bomba sobre George.</desc>
   </programme>
-  <programme start="20231003160000 -0300" stop="20231003170000 -0300" channel="0826">
+  <programme start="20231003150000 -0300" stop="20231003160000 -0300" channel="0826">
     <title lang="es">Criminal Minds</title>
     <sub-title lang="es">T13 - Ep: 12 Luna de mal augurio</sub-title>
     <desc lang="es">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías locales en la búsqueda y captura de los asesinos en serie. Cada uno de los agentes de este grupo elite tiene personalidades diferentes que se complementan para formar el equipo y ellos tendrán que pensar como el ignoto para poder entenderlo hasta saber cuál será su próximo paso, porque suele suceder que el homicida múltiple que aterroriza a una ciudad, también está anhelando ser detenido. El BAU llega a Nueva York para investigar una serie de escalofriantes asesinatos en el Central Park.</desc>
   </programme>
-  <programme start="20231003170000 -0300" stop="20231003192000 -0300" channel="0826">
+  <programme start="20231003160000 -0300" stop="20231003182000 -0300" channel="0826">
     <title lang="es">Solo los valientes</title>
     <desc lang="es">La lucha del heroico cuerpo de bomberos Granite Mountain Hotshots contra un terrible incendio sucedido en Prescott, Arizona, en junio de 2013. Este equipo de bomberos locales se convierte en uno de los equipos de lucha contra incendios más heroicos de la nación, que lucharon con esperanza, determinación y sacrificio durante este incendio fatal.</desc>
   </programme>
-  <programme start="20231003192000 -0300" stop="20231003210000 -0300" channel="0826">
+  <programme start="20231003182000 -0300" stop="20231003200000 -0300" channel="0826">
     <title lang="es">El fin de los tiempos</title>
     <desc lang="es">Para Elliot Moore, profesor de ciencias en un instituto de Filadelfia, lo más importante de todo es encontrar el modo de escapar de este misterioso y letal fenómeno. Aunque él y su mujer Alma están atravesando una crisis en su matrimonio, se ponen en camino, primero en tren, luego en coche, con Julian, amigo de Elliot y profesor de Matemáticas y Jess, la hija de ocho años de edad de éste, hacia las tierras de labranza de Pennsylvania, donde esperan estar a salvo de los horribles y cada vez más frecuentes ataques.</desc>
   </programme>
-  <programme start="20231003210000 -0300" stop="20231003213000 -0300" channel="0826">
+  <programme start="20231003200000 -0300" stop="20231003203000 -0300" channel="0826">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">T14 - Ep: 15 El presidente ejecutivo... ¡Doh!</sub-title>
     <desc lang="es">Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel. En el día de San Valentín, cuando Homero asiste a un curso universitario sobre cómo tener éxito en el mundo corporativo, rápidamente se convierte en el propietario de la planta de energía nuclear y despide al Señor Burns. Sin embargo, pronto se dará cuenta que estar a cargo de la planta significa estar lejos de su familia.</desc>
   </programme>
-  <programme start="20231003213000 -0300" stop="20231003220000 -0300" channel="0826">
+  <programme start="20231003203000 -0300" stop="20231003210000 -0300" channel="0826">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">T14 - Ep: 16 Reencuentro con el firmamento</sub-title>
     <desc lang="es">Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel. Cuando un cineasta británico se dirige a la Escuela Primaria de Springfield para producir un documental sobre la misma, Lisa intenta salvar el cielo nocturno de la contaminación lumínica y provoca una ola delictiva. Mientras tanto, Bart pretende recuperar su reputación de 'chico popular' e intenta robar el adorno del capot del coche de Tony el Gordo.</desc>
   </programme>
-  <programme start="20231003220000 -0300" stop="20231004003000 -0300" channel="0826">
+  <programme start="20231003210000 -0300" stop="20231003233000 -0300" channel="0826">
     <title lang="es">La guerra de los mundos</title>
     <desc lang="es">Ray Ferrier es un trabajador portuario divorciado y un padre lejos de ser perfecto. Cuando su ex mujer y su nuevo esposo le llevan a su hijo adolescente Robbie y su hija mejor Rachel para que pasen el fin de semana con él, Ray y sus hijos son testigos de una extraña tormenta eléctrica, que anticipa la llegada de inmensos seres que acaban con todo a su paso: el primer ataque alienígena contra la Tierra.</desc>
   </programme>
