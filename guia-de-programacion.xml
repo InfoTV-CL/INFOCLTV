@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="INFO TV CL" generator-info-url="http://www.theuselessweb.com">
   <channel id="9999">
     <display-name lang="en">TEMPLATE</display-name>
     <icon src="https://i.ibb.co/Zf4rYBC/9999.png" />
@@ -12615,6 +12615,647 @@
     <title lang="en">Muppet Babies</title>
     <desc lang="en">Más de 30 años después de que los Muppet Babies se ganaron los corazones de los niños y las familias de todo el mundo, la serie de televisión reinventada de Disney Junior narra las divertidas payasadas de un joven Kermit the Frog, Piggy, Fozzie Bear, Gonzo, Animal y Summer Penguin. Bajo la atenta mirada de Miss Nanny, los Muppet Babies usan su imaginación para embarcarse en innumerables aventuras que los llevan a los rincones más lejanos del universo y demuestran a los jóvenes espectadores el poder y el potencial del juego imaginativo.</desc>
   </programme>
+  <programme start="20231014050000 -0300" stop="20231014051500 -0300" channel="0312">
+    <title lang="en">Inventar Pakapaka pregunta</title>
+    <desc lang="en">Los consejeros y consejeras de Inventar Pakapaka entrevistan a un invitado o invitada especial.</desc>
+  </programme>
+  <programme start="20231014051500 -0300" stop="20231014053000 -0300" channel="0312">
+    <title lang="en">Inteligencia animal</title>
+    <desc lang="en">Un viaje al mundo de los animales de Latinoamérica lleno de preguntas, trivias e historias sorprendentes.</desc>
+  </programme>
+  <programme start="20231014053000 -0300" stop="20231014060000 -0300" channel="0312">
+    <title lang="en">Ring ring</title>
+    <desc lang="en">Se visita la casa de chicos para ver una película en familia.</desc>
+  </programme>
+  <programme start="20231014060000 -0300" stop="20231014061500 -0300" channel="0312">
+    <title lang="en">Cuentos de terror para Franco</title>
+    <desc lang="en">Las aventuras de un grupo de niños que son absorbidos por un tenebroso libro que los transporta a un mundo fantástico de miedos y pesadillas.</desc>
+  </programme>
+  <programme start="20231014061500 -0300" stop="20231014064500 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba</title>
+    <desc lang="en">Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, donde retrocedió doscientos años en el tiempo para recorrer la historia argentina.</desc>
+  </programme>
+  <programme start="20231014064500 -0300" stop="20231014070000 -0300" channel="0312">
+    <title lang="en">Polinópolis</title>
+    <desc lang="en">En Polinópolis, un grupo increíblemente diverso de amigos se enfrenta a sus primeras experiencias en la vida... ¡y de las maneras más extrañas e inesperadas.</desc>
+  </programme>
+  <programme start="20231014070000 -0300" stop="20231014071500 -0300" channel="0312">
+    <title lang="en">Siesta Z</title>
+    <desc lang="en">Una pequeña niña que sufre narcolepsia sueña con historias fantásticas basadas en obras de la literatura extranjera y nacional.</desc>
+  </programme>
+  <programme start="20231014071500 -0300" stop="20231014073000 -0300" channel="0312">
+    <title lang="en">La orquestita</title>
+  </programme>
+  <programme start="20231014073000 -0300" stop="20231014080000 -0300" channel="0312">
+    <title lang="en">Soñadores</title>
+    <desc lang="en">Esta serie de animación, destinada a chicos y chicas de 6 a 9 años, invita a conocer los sueños y deseos de niños y niñas que asisten a una escuela muy especial.</desc>
+  </programme>
+  <programme start="20231014080000 -0300" stop="20231014081500 -0300" channel="0312">
+    <title lang="en">Tina y Tony</title>
+    <desc lang="en">El pueblo Cookie es una tierra llena de coloridos sueños y aventuras, donde la elefanta Tina y el hipopótamo Tony juegan y aprenden de sus increíbles amigos: conejos curiosos, osos deportistas, zorros astutos y muchos más.</desc>
+  </programme>
+  <programme start="20231014081500 -0300" stop="20231014083000 -0300" channel="0312">
+    <title lang="en">El pequeño Pompón</title>
+    <desc lang="en">Pompon, un oso de seis años, es travieso, alegre, juguetón y tiene un talento increíble que su mejor amiga Rita y sus padres disfrutan enormemente: puede sacar algo extra de lo ordinario.</desc>
+  </programme>
+  <programme start="20231014083000 -0300" stop="20231014084500 -0300" channel="0312">
+    <title lang="en">OOMM - Yoga para chicos</title>
+    <desc lang="en">Un programa para que los niños disfruten de los beneficios de la tradicional disciplina física y de meditación del yoga. Ocho vacas de diferentes razas y un gato gurú hacen diferentes posiciones para que los niños puedan hacer en casa.</desc>
+  </programme>
+  <programme start="20231014084500 -0300" stop="20231014090000 -0300" channel="0312">
+    <title lang="en">Los fantásticos viajes de Ruka</title>
+    <desc lang="en">Un curioso niño llamado Ruka se sumerge en el sorprendente mundo marino acompañado de su singular amigo, la tortuga Nuna. Juntos descubren criaturas y fenómenos del océano, y enfrentan la contaminación y el cambio climático buscando soluciones.</desc>
+  </programme>
+  <programme start="20231014090000 -0300" stop="20231014091500 -0300" channel="0312">
+    <title lang="en">Contámelo a mi</title>
+    <desc lang="en">Max, Mel, Mobi y Mindi descubren cómo resolver problemas con la ayuda de amigos y las matemáticas.</desc>
+  </programme>
+  <programme start="20231014091500 -0300" stop="20231014093000 -0300" channel="0312">
+    <title lang="en">Ernest y Celestine</title>
+    <desc lang="en">No está bien visto que un oso se haga amigo de una ratita. Y sin embargo, Ernest, payaso y músico, aloja en su casa a Célestine, pequeña huerfanita, apasionada por el dibujo y la escritura.</desc>
+  </programme>
+  <programme start="20231014093000 -0300" stop="20231014094500 -0300" channel="0312">
+    <title lang="en">Pichintún</title>
+    <desc lang="en">Una serie que rescata la vida cotidiana de niños y niñas de Chile, los lugares que habitan y sus tradiciones.</desc>
+  </programme>
+  <programme start="20231014094500 -0300" stop="20231014100000 -0300" channel="0312">
+    <title lang="en">Amigos</title>
+    <desc lang="en">Dos grandes amigos llamados Santi y Elbiz viven muchas aventuras en una pequeña ciudad del interior de Argentina a lo largo de un año.</desc>
+  </programme>
+  <programme start="20231014100000 -0300" stop="20231014101500 -0300" channel="0312">
+    <title lang="en">Medialuna y los reinos de las piedras mágicas</title>
+    <desc lang="en">Medialuna vive nuevas aventuras acompañada de Yunuén, con quien conocerá a cuatro amigos con piedras mágicas: Koy, Wayra, Amaru y Jauke.</desc>
+  </programme>
+  <programme start="20231014101500 -0300" stop="20231014103000 -0300" channel="0312">
+    <title lang="en">Taina</title>
+    <desc lang="en">Taina Morales es una joven latina de 15 años que sueña con ser cantante y actriz, pero deberá aprender a conjugar su formación artística con la relación que mantiene con sus familiares y amigos.</desc>
+  </programme>
+  <programme start="20231014103000 -0300" stop="20231014104500 -0300" channel="0312">
+    <title lang="en">Misho y Robin</title>
+    <desc lang="en">Misho es un curioso gato que junto a su mejor amigo Robin, un sabio petirrojo, van en busca de divertidas aventuras.</desc>
+  </programme>
+  <programme start="20231014104500 -0300" stop="20231014110000 -0300" channel="0312">
+    <title lang="en">Kiwi y Strit</title>
+    <desc lang="en">Kiwi y Strit son muy diferentes, pero siempre permanecen juntos y viven muchas aventuras en lo profundo del bosque al pie de una colina.</desc>
+  </programme>
+  <programme start="20231014110000 -0300" stop="20231014111500 -0300" channel="0312">
+    <title lang="en">Rita y Cocodrilo</title>
+    <desc lang="en">Rita es una niña de cuatro años con mucho carácter que protagoniza divertidas aventuras con su hambriento amigo el cocodrilo, quien vive en la bañera.</desc>
+  </programme>
+  <programme start="20231014111500 -0300" stop="20231014113000 -0300" channel="0312">
+    <title lang="en">Lyn y Babas</title>
+    <desc lang="en">Una curiosa niña y su mejor amigo, un caracol, se embarcan en maravillosas aventuras sobre la naturaleza, la fauna y la flora.</desc>
+  </programme>
+  <programme start="20231014113000 -0300" stop="20231014114500 -0300" channel="0312">
+    <title lang="en">Petit</title>
+    <desc lang="en">Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
+  </programme>
+  <programme start="20231014114500 -0300" stop="20231014120000 -0300" channel="0312">
+    <title lang="en">Paprika</title>
+    <desc lang="en">Una mujer que trabaja como científica de día y como detective de noche investiga el robo de un dispositivo poderoso que puede destruir las mentes de las personas.</desc>
+  </programme>
+  <programme start="20231014120000 -0300" stop="20231014121500 -0300" channel="0312">
+    <title lang="en">¡No exageres, Enzo!</title>
+    <desc lang="en">Las aventuras de Lorenzo, o Enzo, como le dicen sus amigos, un niño con mucha imaginación que saca a relucir el lado divertido de la vida.</desc>
+  </programme>
+  <programme start="20231014121500 -0300" stop="20231014123000 -0300" channel="0312">
+    <title lang="en">Chambi y Max: Refugio animal</title>
+    <desc lang="en">Después de vivir varias aventuras juntos, Chambi y Max regresan para ser parte de un refugio animal, hogar de perros y gatos hasta ser adoptados.</desc>
+  </programme>
+  <programme start="20231014123000 -0300" stop="20231014124500 -0300" channel="0312">
+    <title lang="en">¡Listo el Pollo!</title>
+    <desc lang="en">Dos niños enseñan, aprenden y se divierten cocinando ricos platos para ellos y para sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces.</desc>
+  </programme>
+  <programme start="20231014124500 -0300" stop="20231014130000 -0300" channel="0312">
+    <title lang="en">Muchas manos en el plato</title>
+    <desc lang="en">Una mirada dinámica y divertida a la gastronomía de las diversas culturas existentes en toda Argentina.</desc>
+  </programme>
+  <programme start="20231014130000 -0300" stop="20231014133000 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba</title>
+    <desc lang="en">Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, donde retrocedió doscientos años en el tiempo para recorrer la historia argentina.</desc>
+  </programme>
+  <programme start="20231014133000 -0300" stop="20231014134500 -0300" channel="0312">
+    <title lang="en">Shaun, el cordero</title>
+    <desc lang="en">Shaun es un cordero inteligente y creativo, que conduce a sus amigos a continuas aventuras, y transforma la paz de la granja en un caos absoluto.</desc>
+  </programme>
+  <programme start="20231014134500 -0300" stop="20231014140000 -0300" channel="0312">
+    <title lang="en">Petit</title>
+    <desc lang="en">Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
+  </programme>
+  <programme start="20231014140000 -0300" stop="20231014150000 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba y Nina</title>
+    <desc lang="en">Zamba y su amiga Nina buscan las respuestas a las preguntas que todos y todas se hacen más de una vez. Satélites, fósiles y océanos son algunos de los enigmas que Zamba y Nina investigarán junto reconocidos científicos del país para aprender.</desc>
+  </programme>
+  <programme start="20231014150000 -0300" stop="20231014151500 -0300" channel="0312">
+    <title lang="en">Alén de la Patagonia</title>
+    <desc lang="en">Alén es una niña de 10 años, curiosa y alegre, con su perro Ayún, visita todos los veranos a su abuela. Junto a Beto, su amigo, viven divertidas situaciones explorando la naturaleza del lugar, conociendo su gente, mitos y leyendas.</desc>
+  </programme>
+  <programme start="20231014151500 -0300" stop="20231014153000 -0300" channel="0312">
+    <title lang="en">OOMM - Yoga para chicos</title>
+    <desc lang="en">Un programa para que los niños disfruten de los beneficios de la tradicional disciplina física y de meditación del yoga. Ocho vacas de diferentes razas y un gato gurú hacen diferentes posiciones para que los niños puedan hacer en casa.</desc>
+  </programme>
+  <programme start="20231014153000 -0300" stop="20231014154500 -0300" channel="0312">
+    <title lang="en">Minimalitos</title>
+    <desc lang="en">Animales que van al jardín de infantes, juegan con sus amigos, aprenden cosas nuevas y se divierten un montón.</desc>
+  </programme>
+  <programme start="20231014154500 -0300" stop="20231014160000 -0300" channel="0312">
+    <title lang="en">Minimalitos</title>
+    <desc lang="en">Animales que van al jardín de infantes, juegan con sus amigos, aprenden cosas nuevas y se divierten un montón.</desc>
+  </programme>
+  <programme start="20231014160000 -0300" stop="20231014161500 -0300" channel="0312">
+    <title lang="en">Los Motorjón</title>
+    <desc lang="en">Una familia de conejos recorre el mundo en una casa rodante muy especial.</desc>
+  </programme>
+  <programme start="20231014161500 -0300" stop="20231014163000 -0300" channel="0312">
+    <title lang="en">Los Motorjón</title>
+    <desc lang="en">Una familia de conejos recorre el mundo en una casa rodante muy especial.</desc>
+  </programme>
+  <programme start="20231014163000 -0300" stop="20231014164500 -0300" channel="0312">
+    <title lang="en">Amigos</title>
+    <desc lang="en">Dos grandes amigos llamados Santi y Elbiz viven muchas aventuras en una pequeña ciudad del interior de Argentina a lo largo de un año.</desc>
+  </programme>
+  <programme start="20231014164500 -0300" stop="20231014170000 -0300" channel="0312">
+    <title lang="en">Amigos</title>
+    <desc lang="en">Dos grandes amigos llamados Santi y Elbiz viven muchas aventuras en una pequeña ciudad del interior de Argentina a lo largo de un año.</desc>
+  </programme>
+  <programme start="20231014170000 -0300" stop="20231014180000 -0300" channel="0312">
+    <title lang="en">Petit</title>
+    <desc lang="en">Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
+  </programme>
+  <programme start="20231014180000 -0300" stop="20231014181500 -0300" channel="0312">
+    <title lang="en">Misho y Robin</title>
+    <desc lang="en">Misho es un curioso gato que junto a su mejor amigo Robin, un sabio petirrojo, van en busca de divertidas aventuras.</desc>
+  </programme>
+  <programme start="20231014181500 -0300" stop="20231014183000 -0300" channel="0312">
+    <title lang="en">Rita y Cocodrilo</title>
+    <desc lang="en">Rita es una niña de cuatro años con mucho carácter que protagoniza divertidas aventuras con su hambriento amigo el cocodrilo, quien vive en la bañera.</desc>
+  </programme>
+  <programme start="20231014183000 -0300" stop="20231014184500 -0300" channel="0312">
+    <title lang="en">Medialuna y los reinos de las piedras mágicas</title>
+    <desc lang="en">Medialuna vive nuevas aventuras acompañada de Yunuén, con quien conocerá a cuatro amigos con piedras mágicas: Koy, Wayra, Amaru y Jauke.</desc>
+  </programme>
+  <programme start="20231014184500 -0300" stop="20231014190000 -0300" channel="0312">
+    <title lang="en">Shaun, el cordero</title>
+    <desc lang="en">Shaun es un cordero inteligente y creativo, que conduce a sus amigos a continuas aventuras, y transforma la paz de la granja en un caos absoluto.</desc>
+  </programme>
+  <programme start="20231014190000 -0300" stop="20231014191500 -0300" channel="0312">
+    <title lang="en">Contámelo a mi</title>
+    <desc lang="en">Max, Mel, Mobi y Mindi descubren cómo resolver problemas con la ayuda de amigos y las matemáticas.</desc>
+  </programme>
+  <programme start="20231014191500 -0300" stop="20231014193000 -0300" channel="0312">
+    <title lang="en">Contámelo a mi</title>
+    <desc lang="en">Max, Mel, Mobi y Mindi descubren cómo resolver problemas con la ayuda de amigos y las matemáticas.</desc>
+  </programme>
+  <programme start="20231014193000 -0300" stop="20231014194500 -0300" channel="0312">
+    <title lang="en">OOMM - Yoga para chicos</title>
+    <desc lang="en">Un programa para que los niños disfruten de los beneficios de la tradicional disciplina física y de meditación del yoga. Ocho vacas de diferentes razas y un gato gurú hacen diferentes posiciones para que los niños puedan hacer en casa.</desc>
+  </programme>
+  <programme start="20231014194500 -0300" stop="20231014200000 -0300" channel="0312">
+    <title lang="en">Petit</title>
+    <desc lang="en">Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
+  </programme>
+  <programme start="20231014200000 -0300" stop="20231014201500 -0300" channel="0312">
+    <title lang="en">Chambi y Max: Refugio animal</title>
+    <desc lang="en">Después de vivir varias aventuras juntos, Chambi y Max regresan para ser parte de un refugio animal, hogar de perros y gatos hasta ser adoptados.</desc>
+  </programme>
+  <programme start="20231014201500 -0300" stop="20231014203000 -0300" channel="0312">
+    <title lang="en">Muchas manos en el plato</title>
+    <desc lang="en">Una mirada dinámica y divertida a la gastronomía de las diversas culturas existentes en toda Argentina.</desc>
+  </programme>
+  <programme start="20231014203000 -0300" stop="20231014204500 -0300" channel="0312">
+    <title lang="en">¡Listo el Pollo!</title>
+    <desc lang="en">Dos niños enseñan, aprenden y se divierten cocinando ricos platos para ellos y para sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces.</desc>
+  </programme>
+  <programme start="20231014204500 -0300" stop="20231014210000 -0300" channel="0312">
+    <title lang="en">Inteligencia animal</title>
+    <desc lang="en">Un viaje al mundo de los animales de Latinoamérica lleno de preguntas, trivias e historias sorprendentes.</desc>
+  </programme>
+  <programme start="20231014210000 -0300" stop="20231014213000 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba</title>
+    <desc lang="en">Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, donde retrocedió doscientos años en el tiempo para recorrer la historia argentina.</desc>
+  </programme>
+  <programme start="20231014213000 -0300" stop="20231014214500 -0300" channel="0312">
+    <title lang="en">Siesta Z</title>
+    <desc lang="en">Una pequeña niña que sufre narcolepsia sueña con historias fantásticas basadas en obras de la literatura extranjera y nacional.</desc>
+  </programme>
+  <programme start="20231014214500 -0300" stop="20231014220000 -0300" channel="0312">
+    <title lang="en">Rosarito y sus pizarras mágicas</title>
+    <desc lang="en">En un pequeño pueblo de La Rioja, Argentina, vive Rosarito. Es una niña intrépida, charlatana y perseverante, a la que, cuando algo se le mete en la cabeza, no hay quien le haga cambiar de idea.</desc>
+  </programme>
+  <programme start="20231014220000 -0300" stop="20231014221500 -0300" channel="0312">
+    <title lang="en">Soñadores</title>
+    <desc lang="en">Esta serie de animación, destinada a chicos y chicas de 6 a 9 años, invita a conocer los sueños y deseos de niños y niñas que asisten a una escuela muy especial.</desc>
+  </programme>
+  <programme start="20231014221500 -0300" stop="20231014223000 -0300" channel="0312">
+    <title lang="en">La orquestita</title>
+  </programme>
+  <programme start="20231014223000 -0300" stop="20231014224500 -0300" channel="0312">
+    <title lang="en">Pim y Pom en el museo</title>
+    <desc lang="en">Dos gatos curiosos, Pim y Pom, llevan a los niños a un viaje fascinante por el mundo del arte. Exploran desde las pinturas del siglo XVII hasta las obras abstractas modernas en los museos de Holanda.</desc>
+  </programme>
+  <programme start="20231014224500 -0300" stop="20231014230000 -0300" channel="0312">
+    <title lang="en">Lihuén</title>
+    <desc lang="en">Lihuén es una criatura pequeña, redonda y luminosa que posee el don de poder elegir dónde y cuándo materializarse. Esta cualidad la lleva a recorrer diferentes lugares de Argentina, donde conocerá diferentes mitos y leyendas.</desc>
+  </programme>
+  <programme start="20231014230000 -0300" stop="20231014231500 -0300" channel="0312">
+    <title lang="en">Lihuén</title>
+    <desc lang="en">Lihuén es una criatura pequeña, redonda y luminosa que posee el don de poder elegir dónde y cuándo materializarse. Esta cualidad la lleva a recorrer diferentes lugares de Argentina, donde conocerá diferentes mitos y leyendas.</desc>
+  </programme>
+  <programme start="20231014231500 -0300" stop="20231014233000 -0300" channel="0312">
+    <title lang="en">Alén de la Patagonia</title>
+    <desc lang="en">Alén es una niña de 10 años, curiosa y alegre, con su perro Ayún, visita todos los veranos a su abuela. Junto a Beto, su amigo, viven divertidas situaciones explorando la naturaleza del lugar, conociendo su gente, mitos y leyendas.</desc>
+  </programme>
+  <programme start="20231014233000 -0300" stop="20231014234500 -0300" channel="0312">
+    <title lang="en">Paprika</title>
+    <desc lang="en">Una mujer que trabaja como científica de día y como detective de noche investiga el robo de un dispositivo poderoso que puede destruir las mentes de las personas.</desc>
+  </programme>
+  <programme start="20231014234500 -0300" stop="20231015000000 -0300" channel="0312">
+    <title lang="en">Paprika</title>
+    <desc lang="en">Una mujer que trabaja como científica de día y como detective de noche investiga el robo de un dispositivo poderoso que puede destruir las mentes de las personas.</desc>
+  </programme>
+  <programme start="20231015000000 -0300" stop="20231015001500 -0300" channel="0312">
+    <title lang="en">Polinópolis</title>
+    <desc lang="en">En Polinópolis, un grupo increíblemente diverso de amigos se enfrenta a sus primeras experiencias en la vida... ¡y de las maneras más extrañas e inesperadas.</desc>
+  </programme>
+  <programme start="20231015001500 -0300" stop="20231015003000 -0300" channel="0312">
+    <title lang="en">Polinópolis</title>
+    <desc lang="en">En Polinópolis, un grupo increíblemente diverso de amigos se enfrenta a sus primeras experiencias en la vida... ¡y de las maneras más extrañas e inesperadas.</desc>
+  </programme>
+  <programme start="20231015003000 -0300" stop="20231015004500 -0300" channel="0312">
+    <title lang="en">Inteligencia animal</title>
+    <desc lang="en">Un viaje al mundo de los animales de Latinoamérica lleno de preguntas, trivias e historias sorprendentes.</desc>
+  </programme>
+  <programme start="20231015004500 -0300" stop="20231015010000 -0300" channel="0312">
+    <title lang="en">OOMM - Yoga para chicos</title>
+    <desc lang="en">Un programa para que los niños disfruten de los beneficios de la tradicional disciplina física y de meditación del yoga. Ocho vacas de diferentes razas y un gato gurú hacen diferentes posiciones para que los niños puedan hacer en casa.</desc>
+  </programme>
+  <programme start="20231015010000 -0300" stop="20231015011500 -0300" channel="0312">
+    <title lang="en">Experimentores</title>
+  </programme>
+  <programme start="20231015011500 -0300" stop="20231015013000 -0300" channel="0312">
+    <title lang="en">Experimentores</title>
+  </programme>
+  <programme start="20231015013000 -0300" stop="20231015020000 -0300" channel="0312">
+    <title lang="en">Annedroids</title>
+    <desc lang="en">Anne crea robots asistentes para que ayuden en sus experimentos científicos en la parte posterior del depósito de chatarra de su padre.</desc>
+  </programme>
+  <programme start="20231015020000 -0300" stop="20231015023000 -0300" channel="0312">
+    <title lang="en">Queremos decir</title>
+  </programme>
+  <programme start="20231015023000 -0300" stop="20231015030000 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba</title>
+    <desc lang="en">Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, donde retrocedió doscientos años en el tiempo para recorrer la historia argentina.</desc>
+  </programme>
+  <programme start="20231015030000 -0300" stop="20231015033000 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba</title>
+    <desc lang="en">Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, donde retrocedió doscientos años en el tiempo para recorrer la historia argentina.</desc>
+  </programme>
+  <programme start="20231015033000 -0300" stop="20231015040000 -0300" channel="0312">
+    <title lang="en">Soñadores</title>
+    <desc lang="en">Esta serie de animación, destinada a chicos y chicas de 6 a 9 años, invita a conocer los sueños y deseos de niños y niñas que asisten a una escuela muy especial.</desc>
+  </programme>
+  <programme start="20231015040000 -0300" stop="20231015041500 -0300" channel="0312">
+    <title lang="en">¡Listo el Pollo!</title>
+    <desc lang="en">Dos niños enseñan, aprenden y se divierten cocinando ricos platos para ellos y para sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces.</desc>
+  </programme>
+  <programme start="20231015041500 -0300" stop="20231015043000 -0300" channel="0312">
+    <title lang="en">Muchas manos en el plato</title>
+    <desc lang="en">Una mirada dinámica y divertida a la gastronomía de las diversas culturas existentes en toda Argentina.</desc>
+  </programme>
+  <programme start="20231015043000 -0300" stop="20231015044500 -0300" channel="0312">
+    <title lang="en">Inventar Pakapaka pregunta</title>
+    <desc lang="en">Los consejeros y consejeras de Inventar Pakapaka entrevistan a un invitado o invitada especial.</desc>
+  </programme>
+  <programme start="20231015044500 -0300" stop="20231015051500 -0300" channel="0312">
+    <title lang="en">Annedroids</title>
+    <desc lang="en">Anne crea robots asistentes para que ayuden en sus experimentos científicos en la parte posterior del depósito de chatarra de su padre.</desc>
+  </programme>
+  <programme start="20231015051500 -0300" stop="20231015053000 -0300" channel="0312">
+    <title lang="en">Alén de la Patagonia</title>
+    <desc lang="en">Alén es una niña de 10 años, curiosa y alegre, con su perro Ayún, visita todos los veranos a su abuela. Junto a Beto, su amigo, viven divertidas situaciones explorando la naturaleza del lugar, conociendo su gente, mitos y leyendas.</desc>
+  </programme>
+  <programme start="20231015053000 -0300" stop="20231015054500 -0300" channel="0312">
+    <title lang="en">Hostal Morrison II</title>
+    <desc lang="en">En Hostal Morrison, nada de lo que pasa es normal. Celeste y su familia de monstruos, siguen en la extraordinaria aventura de entender a los humanos.</desc>
+  </programme>
+  <programme start="20231015054500 -0300" stop="20231015060000 -0300" channel="0312">
+    <title lang="en">Hostal Morrison II</title>
+    <desc lang="en">En Hostal Morrison, nada de lo que pasa es normal. Celeste y su familia de monstruos, siguen en la extraordinaria aventura de entender a los humanos.</desc>
+  </programme>
+  <programme start="20231015060000 -0300" stop="20231015061500 -0300" channel="0312">
+    <title lang="en">Polinópolis</title>
+    <desc lang="en">En Polinópolis, un grupo increíblemente diverso de amigos se enfrenta a sus primeras experiencias en la vida... ¡y de las maneras más extrañas e inesperadas.</desc>
+  </programme>
+  <programme start="20231015061500 -0300" stop="20231015063000 -0300" channel="0312">
+    <title lang="en">Cuentos de terror para Franco</title>
+    <desc lang="en">Las aventuras de un grupo de niños que son absorbidos por un tenebroso libro que los transporta a un mundo fantástico de miedos y pesadillas.</desc>
+  </programme>
+  <programme start="20231015063000 -0300" stop="20231015064500 -0300" channel="0312">
+    <title lang="en">Cuentos de terror para Franco</title>
+    <desc lang="en">Las aventuras de un grupo de niños que son absorbidos por un tenebroso libro que los transporta a un mundo fantástico de miedos y pesadillas.</desc>
+  </programme>
+  <programme start="20231015064500 -0300" stop="20231015070000 -0300" channel="0312">
+    <title lang="en">Ciro Todorov</title>
+    <desc lang="en">Ciro Torodov es un niño bastante lúgubre. Duerme de día y vive de noche. El gallo que canta a la mañana es su principal problema.</desc>
+  </programme>
+  <programme start="20231015070000 -0300" stop="20231015071500 -0300" channel="0312">
+    <title lang="en">Ciro Todorov</title>
+    <desc lang="en">Ciro Torodov es un niño bastante lúgubre. Duerme de día y vive de noche. El gallo que canta a la mañana es su principal problema.</desc>
+  </programme>
+  <programme start="20231015071500 -0300" stop="20231015074500 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba</title>
+    <desc lang="en">Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, donde retrocedió doscientos años en el tiempo para recorrer la historia argentina.</desc>
+  </programme>
+  <programme start="20231015074500 -0300" stop="20231015080000 -0300" channel="0312">
+    <title lang="en">Petit</title>
+    <desc lang="en">Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
+  </programme>
+  <programme start="20231015080000 -0300" stop="20231015081500 -0300" channel="0312">
+    <title lang="en">Tina y Tony</title>
+    <desc lang="en">El pueblo Cookie es una tierra llena de coloridos sueños y aventuras, donde la elefanta Tina y el hipopótamo Tony juegan y aprenden de sus increíbles amigos: conejos curiosos, osos deportistas, zorros astutos y muchos más.</desc>
+  </programme>
+  <programme start="20231015081500 -0300" stop="20231015083000 -0300" channel="0312">
+    <title lang="en">El pequeño Pompón</title>
+    <desc lang="en">Pompon, un oso de seis años, es travieso, alegre, juguetón y tiene un talento increíble que su mejor amiga Rita y sus padres disfrutan enormemente: puede sacar algo extra de lo ordinario.</desc>
+  </programme>
+  <programme start="20231015083000 -0300" stop="20231015084500 -0300" channel="0312">
+    <title lang="en">OOMM - Yoga para chicos</title>
+    <desc lang="en">Un programa para que los niños disfruten de los beneficios de la tradicional disciplina física y de meditación del yoga. Ocho vacas de diferentes razas y un gato gurú hacen diferentes posiciones para que los niños puedan hacer en casa.</desc>
+  </programme>
+  <programme start="20231015084500 -0300" stop="20231015090000 -0300" channel="0312">
+    <title lang="en">Los fantásticos viajes de Ruka</title>
+    <desc lang="en">Un curioso niño llamado Ruka se sumerge en el sorprendente mundo marino acompañado de su singular amigo, la tortuga Nuna. Juntos descubren criaturas y fenómenos del océano, y enfrentan la contaminación y el cambio climático buscando soluciones.</desc>
+  </programme>
+  <programme start="20231015090000 -0300" stop="20231015091500 -0300" channel="0312">
+    <title lang="en">Contámelo a mi</title>
+    <desc lang="en">Max, Mel, Mobi y Mindi descubren cómo resolver problemas con la ayuda de amigos y las matemáticas.</desc>
+  </programme>
+  <programme start="20231015091500 -0300" stop="20231015093000 -0300" channel="0312">
+    <title lang="en">Ernest y Celestine</title>
+    <desc lang="en">No está bien visto que un oso se haga amigo de una ratita. Y sin embargo, Ernest, payaso y músico, aloja en su casa a Célestine, pequeña huerfanita, apasionada por el dibujo y la escritura.</desc>
+  </programme>
+  <programme start="20231015093000 -0300" stop="20231015094500 -0300" channel="0312">
+    <title lang="en">Pichintún</title>
+    <desc lang="en">Una serie que rescata la vida cotidiana de niños y niñas de Chile, los lugares que habitan y sus tradiciones.</desc>
+  </programme>
+  <programme start="20231015094500 -0300" stop="20231015100000 -0300" channel="0312">
+    <title lang="en">Amigos</title>
+    <desc lang="en">Dos grandes amigos llamados Santi y Elbiz viven muchas aventuras en una pequeña ciudad del interior de Argentina a lo largo de un año.</desc>
+  </programme>
+  <programme start="20231015100000 -0300" stop="20231015101500 -0300" channel="0312">
+    <title lang="en">Las aventuras de Medialuna</title>
+    <desc lang="en">La princesa Medialuna vive nuevas aventuras mientras explora, experimenta y aprende conceptos sobre ciencias.</desc>
+  </programme>
+  <programme start="20231015101500 -0300" stop="20231015103000 -0300" channel="0312">
+    <title lang="en">Taina</title>
+    <desc lang="en">Taina Morales es una joven latina de 15 años que sueña con ser cantante y actriz, pero deberá aprender a conjugar su formación artística con la relación que mantiene con sus familiares y amigos.</desc>
+  </programme>
+  <programme start="20231015103000 -0300" stop="20231015104500 -0300" channel="0312">
+    <title lang="en">Misho y Robin</title>
+    <desc lang="en">Misho es un curioso gato que junto a su mejor amigo Robin, un sabio petirrojo, van en busca de divertidas aventuras.</desc>
+  </programme>
+  <programme start="20231015104500 -0300" stop="20231015110000 -0300" channel="0312">
+    <title lang="en">Kiwi y Strit</title>
+    <desc lang="en">Kiwi y Strit son muy diferentes, pero siempre permanecen juntos y viven muchas aventuras en lo profundo del bosque al pie de una colina.</desc>
+  </programme>
+  <programme start="20231015110000 -0300" stop="20231015111500 -0300" channel="0312">
+    <title lang="en">Rita y Cocodrilo</title>
+    <desc lang="en">Rita es una niña de cuatro años con mucho carácter que protagoniza divertidas aventuras con su hambriento amigo el cocodrilo, quien vive en la bañera.</desc>
+  </programme>
+  <programme start="20231015111500 -0300" stop="20231015113000 -0300" channel="0312">
+    <title lang="en">Lyn y Babas</title>
+    <desc lang="en">Una curiosa niña y su mejor amigo, un caracol, se embarcan en maravillosas aventuras sobre la naturaleza, la fauna y la flora.</desc>
+  </programme>
+  <programme start="20231015113000 -0300" stop="20231015114500 -0300" channel="0312">
+    <title lang="en">Petit</title>
+    <desc lang="en">Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
+  </programme>
+  <programme start="20231015114500 -0300" stop="20231015120000 -0300" channel="0312">
+    <title lang="en">Paprika</title>
+    <desc lang="en">Olivia y Stan viven en la fantástica y colorida isla de los gemelos Paprika. Stan es un pequeño tigre valiente que corre a toda velocidad en su silla de ruedas, mientras que su hermana es organizada, muy creativa y analítica.</desc>
+  </programme>
+  <programme start="20231015120000 -0300" stop="20231015121500 -0300" channel="0312">
+    <title lang="en">¡No exageres, Enzo!</title>
+    <desc lang="en">Las aventuras de Lorenzo, o Enzo, como le dicen sus amigos, un niño con mucha imaginación que saca a relucir el lado divertido de la vida.</desc>
+  </programme>
+  <programme start="20231015121500 -0300" stop="20231015123000 -0300" channel="0312">
+    <title lang="en">Chambi y Max: Refugio animal</title>
+    <desc lang="en">Después de vivir varias aventuras juntos, Chambi y Max regresan para ser parte de un refugio animal, hogar de perros y gatos hasta ser adoptados.</desc>
+  </programme>
+  <programme start="20231015123000 -0300" stop="20231015124500 -0300" channel="0312">
+    <title lang="en">¡Listo el Pollo!</title>
+    <desc lang="en">Dos niños enseñan, aprenden y se divierten cocinando ricos platos para ellos y para sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces.</desc>
+  </programme>
+  <programme start="20231015124500 -0300" stop="20231015130000 -0300" channel="0312">
+    <title lang="en">Muchas manos en el plato</title>
+    <desc lang="en">Una mirada dinámica y divertida a la gastronomía de las diversas culturas existentes en toda Argentina.</desc>
+  </programme>
+  <programme start="20231015130000 -0300" stop="20231015133000 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba</title>
+    <desc lang="en">Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, donde retrocedió doscientos años en el tiempo para recorrer la historia argentina.</desc>
+  </programme>
+  <programme start="20231015133000 -0300" stop="20231015134500 -0300" channel="0312">
+    <title lang="en">Shaun, el cordero : Frutas variadas</title>
+    <desc lang="en">Las tentativas de Shaun para coger algunas manzanas de un árbol que da para un patio donde se hallan dos traviesos puercos se transforman en una guerra sin tregua entre las ovejas y los cerdos.</desc>
+  </programme>
+  <programme start="20231015134500 -0300" stop="20231015140000 -0300" channel="0312">
+    <title lang="en">Petit</title>
+    <desc lang="en">Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
+  </programme>
+  <programme start="20231015140000 -0300" stop="20231015150000 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba y Nina</title>
+    <desc lang="en">Zamba y su amiga Nina buscan las respuestas a las preguntas que todos y todas se hacen más de una vez. Satélites, fósiles y océanos son algunos de los enigmas que Zamba y Nina investigarán junto reconocidos científicos del país para aprender.</desc>
+  </programme>
+  <programme start="20231015150000 -0300" stop="20231015151500 -0300" channel="0312">
+    <title lang="en">Alén de la Patagonia</title>
+    <desc lang="en">Alén es una niña de 10 años, curiosa y alegre, con su perro Ayún, visita todos los veranos a su abuela. Junto a Beto, su amigo, viven divertidas situaciones explorando la naturaleza del lugar, conociendo su gente, mitos y leyendas.</desc>
+  </programme>
+  <programme start="20231015151500 -0300" stop="20231015153000 -0300" channel="0312">
+    <title lang="en">OOMM - Yoga para chicos</title>
+    <desc lang="en">Un programa para que los niños disfruten de los beneficios de la tradicional disciplina física y de meditación del yoga. Ocho vacas de diferentes razas y un gato gurú hacen diferentes posiciones para que los niños puedan hacer en casa.</desc>
+  </programme>
+  <programme start="20231015153000 -0300" stop="20231015154500 -0300" channel="0312">
+    <title lang="en">Minimalitos : Momentos fotográficos</title>
+    <desc lang="en">Juana prepara un sorpresa para los minimalitos mientras recuerda los primeros momentos compartidos.</desc>
+  </programme>
+  <programme start="20231015154500 -0300" stop="20231015160000 -0300" channel="0312">
+    <title lang="en">Minimalitos : Momentos fotográficos</title>
+    <desc lang="en">Juana prepara un sorpresa para los minimalitos mientras recuerda los primeros momentos compartidos.</desc>
+  </programme>
+  <programme start="20231015160000 -0300" stop="20231015161500 -0300" channel="0312">
+    <title lang="en">Los Motorjón</title>
+    <desc lang="en">Una familia de conejos recorre el mundo en una casa rodante muy especial.</desc>
+  </programme>
+  <programme start="20231015161500 -0300" stop="20231015163000 -0300" channel="0312">
+    <title lang="en">Los Motorjón</title>
+    <desc lang="en">Una familia de conejos recorre el mundo en una casa rodante muy especial.</desc>
+  </programme>
+  <programme start="20231015163000 -0300" stop="20231015164500 -0300" channel="0312">
+    <title lang="en">Amigos : Felpudo</title>
+    <desc lang="en">Santi va a dormir a la casa de un amigo y es su primera vez fuera de casa. Elbiz inventa una historia de miedo para asustarlo.</desc>
+  </programme>
+  <programme start="20231015164500 -0300" stop="20231015170000 -0300" channel="0312">
+    <title lang="en">Amigos : Felpudo</title>
+    <desc lang="en">Santi va a dormir a la casa de un amigo y es su primera vez fuera de casa. Elbiz inventa una historia de miedo para asustarlo.</desc>
+  </programme>
+  <programme start="20231015170000 -0300" stop="20231015171500 -0300" channel="0312">
+    <title lang="en">Petit</title>
+    <desc lang="en">Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
+  </programme>
+  <programme start="20231015171500 -0300" stop="20231015173000 -0300" channel="0312">
+    <title lang="en">Los fantásticos viajes de Ruka</title>
+    <desc lang="en">Un curioso niño llamado Ruka se sumerge en el sorprendente mundo marino acompañado de su singular amigo, la tortuga Nuna. Juntos descubren criaturas y fenómenos del océano, y enfrentan la contaminación y el cambio climático buscando soluciones.</desc>
+  </programme>
+  <programme start="20231015173000 -0300" stop="20231015174500 -0300" channel="0312">
+    <title lang="en">Kiwi y Strit</title>
+    <desc lang="en">Kiwi y Strit son muy diferentes, pero siempre permanecen juntos y viven muchas aventuras en lo profundo del bosque al pie de una colina.</desc>
+  </programme>
+  <programme start="20231015174500 -0300" stop="20231015180000 -0300" channel="0312">
+    <title lang="en">Kiwi y Strit</title>
+    <desc lang="en">Kiwi y Strit son muy diferentes, pero siempre permanecen juntos y viven muchas aventuras en lo profundo del bosque al pie de una colina.</desc>
+  </programme>
+  <programme start="20231015180000 -0300" stop="20231015181500 -0300" channel="0312">
+    <title lang="en">Misho y Robin</title>
+    <desc lang="en">Misho es un curioso gato que junto a su mejor amigo Robin, un sabio petirrojo, van en busca de divertidas aventuras.</desc>
+  </programme>
+  <programme start="20231015181500 -0300" stop="20231015183000 -0300" channel="0312">
+    <title lang="en">Rita y Cocodrilo</title>
+    <desc lang="en">Rita es una niña de cuatro años con mucho carácter que protagoniza divertidas aventuras con su hambriento amigo el cocodrilo, quien vive en la bañera.</desc>
+  </programme>
+  <programme start="20231015183000 -0300" stop="20231015184500 -0300" channel="0312">
+    <title lang="en">Medialuna y las noches mágicas : El eclipse</title>
+    <desc lang="en">La bruja Gualichu insiste en llevar a cabo su malvado hechizo para detener un eclipse y así evitar que Medialuna despierte durante el día.</desc>
+  </programme>
+  <programme start="20231015184500 -0300" stop="20231015190000 -0300" channel="0312">
+    <title lang="en">Shaun, el cordero : La fiesta</title>
+    <desc lang="en">El granjero tira a la basura un viejo tocadiscos y las ovejas aprovechan para armar una fiesta en el granero. Todos los animales de la granja asisten menos los cerdos, a los que no les permiten entrar.</desc>
+  </programme>
+  <programme start="20231015190000 -0300" stop="20231015191500 -0300" channel="0312">
+    <title lang="en">Contámelo a mi</title>
+    <desc lang="en">Max, Mel, Mobi y Mindi descubren cómo resolver problemas con la ayuda de amigos y las matemáticas.</desc>
+  </programme>
+  <programme start="20231015191500 -0300" stop="20231015193000 -0300" channel="0312">
+    <title lang="en">Contámelo a mi</title>
+    <desc lang="en">Max, Mel, Mobi y Mindi descubren cómo resolver problemas con la ayuda de amigos y las matemáticas.</desc>
+  </programme>
+  <programme start="20231015193000 -0300" stop="20231015194500 -0300" channel="0312">
+    <title lang="en">OOMM - Yoga para chicos</title>
+    <desc lang="en">Un programa para que los niños disfruten de los beneficios de la tradicional disciplina física y de meditación del yoga. Ocho vacas de diferentes razas y un gato gurú hacen diferentes posiciones para que los niños puedan hacer en casa.</desc>
+  </programme>
+  <programme start="20231015194500 -0300" stop="20231015200000 -0300" channel="0312">
+    <title lang="en">Petit</title>
+    <desc lang="en">Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
+  </programme>
+  <programme start="20231015200000 -0300" stop="20231015201500 -0300" channel="0312">
+    <title lang="en">Chambi y Max: Refugio animal</title>
+    <desc lang="en">Después de vivir varias aventuras juntos, Chambi y Max regresan para ser parte de un refugio animal, hogar de perros y gatos hasta ser adoptados.</desc>
+  </programme>
+  <programme start="20231015201500 -0300" stop="20231015203000 -0300" channel="0312">
+    <title lang="en">Muchas manos en el plato</title>
+    <desc lang="en">Una mirada dinámica y divertida a la gastronomía de las diversas culturas existentes en toda Argentina.</desc>
+  </programme>
+  <programme start="20231015203000 -0300" stop="20231015204500 -0300" channel="0312">
+    <title lang="en">¡Listo el Pollo!</title>
+    <desc lang="en">Dos niños enseñan, aprenden y se divierten cocinando ricos platos para ellos y para sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces.</desc>
+  </programme>
+  <programme start="20231015204500 -0300" stop="20231015210000 -0300" channel="0312">
+    <title lang="en">Inteligencia animal</title>
+    <desc lang="en">Un viaje al mundo de los animales de Latinoamérica lleno de preguntas, trivias e historias sorprendentes.</desc>
+  </programme>
+  <programme start="20231015210000 -0300" stop="20231015213000 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba</title>
+    <desc lang="en">Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, donde retrocedió doscientos años en el tiempo para recorrer la historia argentina.</desc>
+  </programme>
+  <programme start="20231015213000 -0300" stop="20231015214500 -0300" channel="0312">
+    <title lang="en">Siesta Z : Teseo y el minotauro</title>
+    <desc lang="en">Siesta sueña con Teseo, un joven valiente que busca liberar a su pueblo y elige ser llevado hasta el laberinto donde vive el Minotauro, un terrible monstruo que devora hombres.</desc>
+  </programme>
+  <programme start="20231015214500 -0300" stop="20231015220000 -0300" channel="0312">
+    <title lang="en">Rosarito y sus pizarras mágicas</title>
+    <desc lang="en">En un pequeño pueblo de La Rioja, Argentina, vive Rosarito. Es una niña intrépida, charlatana y perseverante, a la que, cuando algo se le mete en la cabeza, no hay quien le haga cambiar de idea.</desc>
+  </programme>
+  <programme start="20231015220000 -0300" stop="20231015223000 -0300" channel="0312">
+    <title lang="en">Soñadores</title>
+    <desc lang="en">Esta serie de animación, destinada a chicos y chicas de 6 a 9 años, invita a conocer los sueños y deseos de niños y niñas que asisten a una escuela muy especial.</desc>
+  </programme>
+  <programme start="20231015223000 -0300" stop="20231015224500 -0300" channel="0312">
+    <title lang="en">Pim y Pom en el museo</title>
+    <desc lang="en">Dos gatos curiosos, Pim y Pom, llevan a los niños a un viaje fascinante por el mundo del arte. Exploran desde las pinturas del siglo XVII hasta las obras abstractas modernas en los museos de Holanda.</desc>
+  </programme>
+  <programme start="20231015224500 -0300" stop="20231015230000 -0300" channel="0312">
+    <title lang="en">Lihuén</title>
+    <desc lang="en">Lihuén es una criatura pequeña, redonda y luminosa que posee el don de poder elegir dónde y cuándo materializarse. Esta cualidad la lleva a recorrer diferentes lugares de Argentina, donde conocerá diferentes mitos y leyendas.</desc>
+  </programme>
+  <programme start="20231015230000 -0300" stop="20231015231500 -0300" channel="0312">
+    <title lang="en">Lihuén</title>
+    <desc lang="en">Lihuén es una criatura pequeña, redonda y luminosa que posee el don de poder elegir dónde y cuándo materializarse. Esta cualidad la lleva a recorrer diferentes lugares de Argentina, donde conocerá diferentes mitos y leyendas.</desc>
+  </programme>
+  <programme start="20231015231500 -0300" stop="20231015233000 -0300" channel="0312">
+    <title lang="en">Alén de la Patagonia</title>
+    <desc lang="en">Alén es una niña de 10 años, curiosa y alegre, con su perro Ayún, visita todos los veranos a su abuela. Junto a Beto, su amigo, viven divertidas situaciones explorando la naturaleza del lugar, conociendo su gente, mitos y leyendas.</desc>
+  </programme>
+  <programme start="20231015233000 -0300" stop="20231015234500 -0300" channel="0312">
+    <title lang="en">Paprika</title>
+    <desc lang="en">Olivia y Stan viven en la fantástica y colorida isla de los gemelos Paprika. Stan es un pequeño tigre valiente que corre a toda velocidad en su silla de ruedas, mientras que su hermana es organizada, muy creativa y analítica.</desc>
+  </programme>
+  <programme start="20231015234500 -0300" stop="20231016000000 -0300" channel="0312">
+    <title lang="en">Paprika</title>
+    <desc lang="en">Olivia y Stan viven en la fantástica y colorida isla de los gemelos Paprika. Stan es un pequeño tigre valiente que corre a toda velocidad en su silla de ruedas, mientras que su hermana es organizada, muy creativa y analítica.</desc>
+  </programme>
+  <programme start="20231016000000 -0300" stop="20231016001500 -0300" channel="0312">
+    <title lang="en">La orquestita</title>
+  </programme>
+  <programme start="20231016001500 -0300" stop="20231016003000 -0300" channel="0312">
+    <title lang="en">La orquestita</title>
+  </programme>
+  <programme start="20231016003000 -0300" stop="20231016004500 -0300" channel="0312">
+    <title lang="en">Inteligencia animal</title>
+    <desc lang="en">Un viaje al mundo de los animales de Latinoamérica lleno de preguntas, trivias e historias sorprendentes.</desc>
+  </programme>
+  <programme start="20231016004500 -0300" stop="20231016010000 -0300" channel="0312">
+    <title lang="en">Oom Moo-Yoga para niños : Se desintoxica</title>
+    <desc lang="en">El gato Guru invita a Willy a realizar un ejercicio de yoga que le ayudará a hacer la digestión y sentirse más puro.</desc>
+  </programme>
+  <programme start="20231016010000 -0300" stop="20231016011500 -0300" channel="0312">
+    <title lang="en">Experimentores</title>
+  </programme>
+  <programme start="20231016011500 -0300" stop="20231016013000 -0300" channel="0312">
+    <title lang="en">Experimentores</title>
+  </programme>
+  <programme start="20231016013000 -0300" stop="20231016020000 -0300" channel="0312">
+    <title lang="en">Annedroids</title>
+    <desc lang="en">Anne crea robots asistentes para que ayuden en sus experimentos científicos en la parte posterior del depósito de chatarra de su padre.</desc>
+  </programme>
+  <programme start="20231016020000 -0300" stop="20231016023000 -0300" channel="0312">
+    <title lang="en">Queremos decir</title>
+  </programme>
+  <programme start="20231016023000 -0300" stop="20231016030000 -0300" channel="0312">
+    <title lang="en">Zamba y la cultura</title>
+  </programme>
+  <programme start="20231016030000 -0300" stop="20231016033000 -0300" channel="0312">
+    <title lang="en">La asombrosa excursión de Zamba y Nina</title>
+    <desc lang="en">Zamba y su amiga Nina buscan las respuestas a las preguntas que todos y todas se hacen más de una vez. Satélites, fósiles y océanos son algunos de los enigmas que Zamba y Nina investigarán junto reconocidos científicos del país para aprender.</desc>
+  </programme>
+  <programme start="20231016033000 -0300" stop="20231016034500 -0300" channel="0312">
+    <title lang="en">Polinópolis</title>
+    <desc lang="en">En Polinópolis, un grupo increíblemente diverso de amigos se enfrenta a sus primeras experiencias en la vida... ¡y de las maneras más extrañas e inesperadas.</desc>
+  </programme>
+  <programme start="20231016034500 -0300" stop="20231016040000 -0300" channel="0312">
+    <title lang="en">Polinópolis</title>
+    <desc lang="en">En Polinópolis, un grupo increíblemente diverso de amigos se enfrenta a sus primeras experiencias en la vida... ¡y de las maneras más extrañas e inesperadas.</desc>
+  </programme>
+  <programme start="20231016040000 -0300" stop="20231016041500 -0300" channel="0312">
+    <title lang="en">Muchas manos en el plato</title>
+    <desc lang="en">Una mirada dinámica y divertida a la gastronomía de las diversas culturas existentes en toda Argentina.</desc>
+  </programme>
+  <programme start="20231016041500 -0300" stop="20231016043000 -0300" channel="0312">
+    <title lang="en">¡Listo el Pollo!</title>
+    <desc lang="en">Dos niños enseñan, aprenden y se divierten cocinando ricos platos para ellos y para sus amigos, como picadas, bizcochos, chipá, ñoquis, pizza y tortas dulces.</desc>
+  </programme>
+  <programme start="20231016043000 -0300" stop="20231016050000 -0300" channel="0312">
+    <title lang="en">Ring ring</title>
+    <desc lang="en">Se visita la casa de chicos para ver una película en familia.</desc>
+  </programme>
   <programme start="20231014003000 -0300" stop="20231014010000 -0300" channel="0310">
     <title lang="en">Noches de ensueño</title>
   </programme>
@@ -12767,6 +13408,9 @@
   </programme>
   <programme start="20231015143000 -0300" stop="20231015150000 -0300" channel="0310">
     <title lang="en">Yoyo, el mago</title>
+  </programme>
+  <programme start="20231015150000 -0300" stop="20231015153000 -0300" channel="0310">
+    <title lang="en">Walter &amp; Dude</title>
   </programme>
   <programme start="20231014004500 -0300" stop="20231014013000 -0300" channel="0318">
     <title lang="en">1000 Maneras de Morir</title>
@@ -15271,6 +15915,84 @@
     <title lang="en">UEFA Champions League: Oporto - Barcelona</title>
     <desc lang="en">| ★★★★☆ | Deportes, Fútbol internacional. Argumento: El Barcelona afronta el, a priori, desplazamiento más complicado de la fase de grupos de la Champions. Los de Xavi Hernández debutaron con goleada ante el Ámberes y quieren repetir buena actuación frente a un Oporto que también ganó en el estreno.</desc>
   </programme>
+  <programme start="20231014203000 -0300" stop="20231014210000 -0300" channel="0430">
+    <title lang="en">Hilos : Ronaldinho - Ronaldinho</title>
+  </programme>
+  <programme start="20231014210000 -0300" stop="20231014220000 -0300" channel="0430">
+    <title lang="en">Marca femenina</title>
+  </programme>
+  <programme start="20231014220000 -0300" stop="20231014223000 -0300" channel="0430">
+    <title lang="en">DSports Historias - Definiciones en la Copa Sudamericana</title>
+  </programme>
+  <programme start="20231014223000 -0300" stop="20231014230000 -0300" channel="0430">
+    <title lang="en">Hilos : Lewis Hamilton - Lewis Hamilton</title>
+  </programme>
+  <programme start="20231014230000 -0300" stop="20231015000000 -0300" channel="0430">
+    <title lang="en">Más que Fútbol Chile</title>
+  </programme>
+  <programme start="20231015000000 -0300" stop="20231015010000 -0300" channel="0430">
+    <title lang="en">Más que fútbol Chile</title>
+  </programme>
+  <programme start="20231015010000 -0300" stop="20231015013000 -0300" channel="0430">
+    <title lang="en">Magazine Copa Sudamericana</title>
+  </programme>
+  <programme start="20231015013000 -0300" stop="20231015020000 -0300" channel="0430">
+    <title lang="en">Todo en 30</title>
+  </programme>
+  <programme start="20231015020000 -0300" stop="20231015030000 -0300" channel="0430">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015030000 -0300" stop="20231015040000 -0300" channel="0430">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20231015040000 -0300" stop="20231015060000 -0300" channel="0430">
+    <title lang="en">Villarreal vs. Las Palmas : Fútbol Español La Liga - Villarreal vs. La</title>
+  </programme>
+  <programme start="20231015060000 -0300" stop="20231015080000 -0300" channel="0430">
+    <title lang="en">City TV - Premier League: Arsenal vs. Manchester City</title>
+  </programme>
+  <programme start="20231015080000 -0300" stop="20231015090000 -0300" channel="0430">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20231015090000 -0300" stop="20231015100000 -0300" channel="0430">
+    <title lang="en">Marca femenina</title>
+  </programme>
+  <programme start="20231015100000 -0300" stop="20231015120000 -0300" channel="0430">
+    <title lang="en">Athletic Bilbao vs. Almería : Fútbol Español La Liga - Athletic Bilbao</title>
+  </programme>
+  <programme start="20231015120000 -0300" stop="20231015123000 -0300" channel="0430">
+    <title lang="en">DSports Historias - Copa Sudamericana 2019: Independiente vs. Colón</title>
+  </programme>
+  <programme start="20231015123000 -0300" stop="20231015143000 -0300" channel="0430">
+    <title lang="en">Defensa y Justicia vs. L.D.U. de Quito : Fútbol CONMEBOL Sudamericana</title>
+  </programme>
+  <programme start="20231015143000 -0300" stop="20231015150000 -0300" channel="0430">
+    <title lang="en">DSports Historias - Semifinales Copa Sudamericana 2020</title>
+  </programme>
+  <programme start="20231015150000 -0300" stop="20231015170000 -0300" channel="0430">
+    <title lang="en">Real Madrid vs. Osasuna : Fútbol Español La Liga - Real Madrid vs. Osa</title>
+  </programme>
+  <programme start="20231015170000 -0300" stop="20231015180000 -0300" channel="0430">
+    <title lang="en">FIFA Women&amp;apos;s World Cup 2023 - Tournament Review Film</title>
+  </programme>
+  <programme start="20231015180000 -0300" stop="20231015190000 -0300" channel="0430">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015190000 -0300" stop="20231015210000 -0300" channel="0430">
+    <title lang="en">Fortaleza vs. Corinthians : Fútbol CONMEBOL Sudamericana - Fortaleza v</title>
+  </programme>
+  <programme start="20231015210000 -0300" stop="20231015230000 -0300" channel="0430">
+    <title lang="en">Atlético Madrid vs. Real Sociedad : Fútbol Español La Liga - Atlético</title>
+  </programme>
+  <programme start="20231015230000 -0300" stop="20231015233000 -0300" channel="0430">
+    <title lang="en">Hilos : Lewis Hamilton - Lewis Hamilton</title>
+  </programme>
+  <programme start="20231015233000 -0300" stop="20231016000000 -0300" channel="0430">
+    <title lang="en">DSports Historias - LaLiga 2010-11: Messi vs. Ronaldo</title>
+  </programme>
+  <programme start="20231016000000 -0300" stop="20231016020000 -0300" channel="0430">
+    <title lang="en">Alaves vs. Real Betis : Fútbol Español La Liga - Alaves vs. Real Betis</title>
+  </programme>
   <programme start="20231014010000 -0300" stop="20231014013000 -0300" channel="0431">
     <title lang="en">Magazine CONMEBOL Sudamericana: Semifinal - Vuelta</title>
     <desc lang="en">Ep: Semifinal Vuelta. No hay información disponible.</desc>
@@ -15822,6 +16544,198 @@
   <programme start="20231016003000 -0300" stop="20231016023000 -0300" channel="0433">
     <title lang="en">Copa América Futsal Femenina: Argentina vs. Brasil, Final</title>
     <desc lang="en">Ep: Argentina vs. Brasil, Final. Disfrute de la VIII edición del certamen Copa América Futsal Femenina 2023.</desc>
+  </programme>
+  <programme start="20231014203000 -0300" stop="20231014210000 -0300" channel="0437">
+    <title lang="en">De ciclismo se habla así</title>
+  </programme>
+  <programme start="20231014210000 -0300" stop="20231014220000 -0300" channel="0437">
+    <title lang="en">Marca femenina</title>
+  </programme>
+  <programme start="20231014220000 -0300" stop="20231014233000 -0300" channel="0437">
+    <title lang="en">De fútbol se habla así Colombia</title>
+  </programme>
+  <programme start="20231014233000 -0300" stop="20231015000000 -0300" channel="0437">
+    <title lang="en">DSports noticias Colombia</title>
+  </programme>
+  <programme start="20231015000000 -0300" stop="20231015013000 -0300" channel="0437">
+    <title lang="en">De fútbol se habla así Colombia</title>
+  </programme>
+  <programme start="20231015013000 -0300" stop="20231015020000 -0300" channel="0437">
+    <title lang="en">DSports noticias Colombia</title>
+  </programme>
+  <programme start="20231015020000 -0300" stop="20231015030000 -0300" channel="0437">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015030000 -0300" stop="20231015040000 -0300" channel="0437">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20231015040000 -0300" stop="20231015060000 -0300" channel="0437">
+    <title lang="en">Villarreal vs. Las Palmas : Fútbol Español La Liga - Villarreal vs. La</title>
+  </programme>
+  <programme start="20231015060000 -0300" stop="20231015080000 -0300" channel="0437">
+    <title lang="en">City TV - Premier League: Arsenal vs. Manchester City</title>
+  </programme>
+  <programme start="20231015080000 -0300" stop="20231015090000 -0300" channel="0437">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20231015090000 -0300" stop="20231015100000 -0300" channel="0437">
+    <title lang="en">Marca femenina</title>
+  </programme>
+  <programme start="20231015100000 -0300" stop="20231015110000 -0300" channel="0437">
+    <title lang="en">De fútbol se habla así Colombia</title>
+  </programme>
+  <programme start="20231015110000 -0300" stop="20231015120000 -0300" channel="0437">
+    <title lang="en">Íntimos - Faryd Mondragón</title>
+  </programme>
+  <programme start="20231015120000 -0300" stop="20231015123000 -0300" channel="0437">
+    <title lang="en">DSports noticias Colombia</title>
+  </programme>
+  <programme start="20231015123000 -0300" stop="20231015143000 -0300" channel="0437">
+    <title lang="en">Defensa y Justicia vs. L.D.U. de Quito : Fútbol CONMEBOL Sudamericana</title>
+  </programme>
+  <programme start="20231015143000 -0300" stop="20231015150000 -0300" channel="0437">
+    <title lang="en">DSports Historias - Semifinales Copa Sudamericana 2020</title>
+  </programme>
+  <programme start="20231015150000 -0300" stop="20231015170000 -0300" channel="0437">
+    <title lang="en">Real Madrid vs. Osasuna : Fútbol Español La Liga - Real Madrid vs. Osa</title>
+  </programme>
+  <programme start="20231015170000 -0300" stop="20231015180000 -0300" channel="0437">
+    <title lang="en">FIFA Women&amp;apos;s World Cup 2023 - Tournament Review Film</title>
+  </programme>
+  <programme start="20231015180000 -0300" stop="20231015190000 -0300" channel="0437">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015190000 -0300" stop="20231015210000 -0300" channel="0437">
+    <title lang="en">Fortaleza vs. Corinthians : Fútbol CONMEBOL Sudamericana - Fortaleza v</title>
+  </programme>
+  <programme start="20231015210000 -0300" stop="20231015230000 -0300" channel="0437">
+    <title lang="en">Atlético Madrid vs. Real Sociedad : Fútbol Español La Liga - Atlético</title>
+  </programme>
+  <programme start="20231015230000 -0300" stop="20231016000000 -0300" channel="0437">
+    <title lang="en">DSports noticias Colombia - Edwin Cardona</title>
+  </programme>
+  <programme start="20231016000000 -0300" stop="20231016013000 -0300" channel="0437">
+    <title lang="en">De fútbol se habla así Colombia</title>
+  </programme>
+  <programme start="20231014220000 -0300" stop="20231014230000 -0300" channel="0438">
+    <title lang="en">De fútbol se habla así</title>
+  </programme>
+  <programme start="20231014230000 -0300" stop="20231015000000 -0300" channel="0438">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015000000 -0300" stop="20231015010000 -0300" channel="0438">
+    <title lang="en">De fútbol se habla así</title>
+  </programme>
+  <programme start="20231015010000 -0300" stop="20231015020000 -0300" channel="0438">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015020000 -0300" stop="20231015030000 -0300" channel="0438">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015030000 -0300" stop="20231015040000 -0300" channel="0438">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20231015040000 -0300" stop="20231015060000 -0300" channel="0438">
+    <title lang="en">Villarreal vs. Las Palmas : Fútbol Español La Liga - Villarreal vs. La</title>
+  </programme>
+  <programme start="20231015060000 -0300" stop="20231015080000 -0300" channel="0438">
+    <title lang="en">City TV - Premier League: Arsenal vs. Manchester City</title>
+  </programme>
+  <programme start="20231015080000 -0300" stop="20231015090000 -0300" channel="0438">
+    <title lang="en">Fútbol Total</title>
+  </programme>
+  <programme start="20231015090000 -0300" stop="20231015100000 -0300" channel="0438">
+    <title lang="en">Marca femenina</title>
+  </programme>
+  <programme start="20231015100000 -0300" stop="20231015120000 -0300" channel="0438">
+    <title lang="en">Athletic Bilbao vs. Almería : Fútbol Español La Liga - Athletic Bilbao</title>
+  </programme>
+  <programme start="20231015120000 -0300" stop="20231015123000 -0300" channel="0438">
+    <title lang="en">DSports Historias - Copa Sudamericana 2019: Independiente vs. Colón</title>
+  </programme>
+  <programme start="20231015123000 -0300" stop="20231015143000 -0300" channel="0438">
+    <title lang="en">Defensa y Justicia vs. L.D.U. de Quito : Fútbol CONMEBOL Sudamericana</title>
+  </programme>
+  <programme start="20231015143000 -0300" stop="20231015150000 -0300" channel="0438">
+    <title lang="en">DSports Historias - Semifinales Copa Sudamericana 2020</title>
+  </programme>
+  <programme start="20231015150000 -0300" stop="20231015170000 -0300" channel="0438">
+    <title lang="en">Real Madrid vs. Osasuna : Fútbol Español La Liga - Real Madrid vs. Osa</title>
+  </programme>
+  <programme start="20231015170000 -0300" stop="20231015180000 -0300" channel="0438">
+    <title lang="en">FIFA Women&amp;apos;s World Cup 2023 - Tournament Review Film</title>
+  </programme>
+  <programme start="20231015180000 -0300" stop="20231015190000 -0300" channel="0438">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015190000 -0300" stop="20231015210000 -0300" channel="0438">
+    <title lang="en">Fortaleza vs. Corinthians : Fútbol CONMEBOL Sudamericana - Fortaleza v</title>
+  </programme>
+  <programme start="20231015210000 -0300" stop="20231015230000 -0300" channel="0438">
+    <title lang="en">Atlético Madrid vs. Real Sociedad : Fútbol Español La Liga - Atlético</title>
+  </programme>
+  <programme start="20231015230000 -0300" stop="20231015233000 -0300" channel="0438">
+    <title lang="en">Hilos : Lewis Hamilton - Lewis Hamilton</title>
+  </programme>
+  <programme start="20231015233000 -0300" stop="20231016000000 -0300" channel="0438">
+    <title lang="en">DSports Historias - LaLiga 2010-11: Messi vs. Ronaldo</title>
+  </programme>
+  <programme start="20231016000000 -0300" stop="20231016020000 -0300" channel="0438">
+    <title lang="en">Alaves vs. Real Betis : Fútbol Español La Liga - Alaves vs. Real Betis</title>
+  </programme>
+  <programme start="20231016020000 -0300" stop="20231016023000 -0300" channel="0438">
+    <title lang="en">Hilos : Greg Popovich - Greg Popovich</title>
+  </programme>
+  <programme start="20231016023000 -0300" stop="20231016030000 -0300" channel="0438">
+    <title lang="en">Magazine Copa Sudamericana</title>
+  </programme>
+  <programme start="20231015000000 -0300" stop="20231015020000 -0300" channel="0436">
+    <title lang="en">Bolivia vs. Ecuador : Eliminatorias para la Copa Mundial de la FIFA 20</title>
+  </programme>
+  <programme start="20231015020000 -0300" stop="20231015023000 -0300" channel="0436">
+    <title lang="en">Atlas, el sueño de todos</title>
+  </programme>
+  <programme start="20231015023000 -0300" stop="20231015030000 -0300" channel="0436">
+    <title lang="en">Magazine Copa Sudamericana</title>
+  </programme>
+  <programme start="20231015030000 -0300" stop="20231015040000 -0300" channel="0436">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015040000 -0300" stop="20231015060000 -0300" channel="0436">
+    <title lang="en">City TV - Premier League: Arsenal vs. Manchester City</title>
+  </programme>
+  <programme start="20231015060000 -0300" stop="20231015080000 -0300" channel="0436">
+    <title lang="en">Athletic Bilbao vs. Almería : Fútbol Español La Liga - Athletic Bilbao</title>
+  </programme>
+  <programme start="20231015080000 -0300" stop="20231015090000 -0300" channel="0436">
+    <title lang="en">DSports noticias</title>
+  </programme>
+  <programme start="20231015090000 -0300" stop="20231015100000 -0300" channel="0436">
+    <title lang="en">FIFA Women&amp;apos;s World Cup 2023 - Tournament Review Film</title>
+  </programme>
+  <programme start="20231015100000 -0300" stop="20231015120000 -0300" channel="0436">
+    <title lang="en">Bolivia vs. Ecuador : Eliminatorias para la Copa Mundial de la FIFA 20</title>
+  </programme>
+  <programme start="20231015120000 -0300" stop="20231015123000 -0300" channel="0436">
+    <title lang="en">DSports Historias - Semifinales Copa Sudamericana 2020</title>
+  </programme>
+  <programme start="20231015123000 -0300" stop="20231015143000 -0300" channel="0436">
+    <title lang="en">Fortaleza vs. Corinthians : Fútbol CONMEBOL Sudamericana - Fortaleza v</title>
+  </programme>
+  <programme start="20231015143000 -0300" stop="20231015162000 -0300" channel="0436">
+    <title lang="en">Atlético Madrid vs. Real Sociedad : Fútbol Español La Liga - Atlético</title>
+  </programme>
+  <programme start="20231015162000 -0300" stop="20231015183000 -0300" channel="0436">
+    <title lang="en">Fútbol Argentino Federal A</title>
+  </programme>
+  <programme start="20231015183000 -0300" stop="20231015190000 -0300" channel="0436">
+    <title lang="en">Hilos : Ronaldinho - Ronaldinho</title>
+  </programme>
+  <programme start="20231015190000 -0300" stop="20231015210000 -0300" channel="0436">
+    <title lang="en">Peñarol vs. Boca : Baloncesto Nacional de Argentina - Peñarol vs. Boca</title>
+  </programme>
+  <programme start="20231015210000 -0300" stop="20231015230000 -0300" channel="0436">
+    <title lang="en">Real Madrid vs. Osasuna : Fútbol Español La Liga - Real Madrid vs. Osa</title>
   </programme>
   <programme start="20231014010000 -0300" stop="20231014020000 -0300" channel="0503">
     <title lang="en">Franz Ferdinand at Rockenheim Festival 2013</title>
@@ -20969,100 +21883,100 @@
     <desc lang="en">Después de la desaparición del Rey, su mujer despiadada toma el control del reino, manteniendo escondida en el palacio a su hijastra de 18 años de edad, la hermosa Blancanieves. Todo cambia cuando la princesa atrae la atención de un príncipe azul y rico, y la reina celosa destierra a la niña en un bosque cercano. Acogida por un grupo de enanos rebeldes pero de buen corazón, Blancanieves se transforma en una mujer joven y valiente decidida a salvar a su país de la Reina.</desc>
   </programme>
   <programme start="20231014003700 -0300" stop="20231014021700 -0300" channel="0813">
-    <title lang="en">Una singularidad desnuda</title>
-    <desc lang="en">Cuando un exitoso defensor público de Nueva York pierde su primer caso, un antiguo cliente lo mete en un robo de drogas en un esfuerzo por vencer al sistema roto en su propio juego.</desc>
+    <title lang="en">00:37 - Una singularidad desnuda (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014021700 -0300" stop="20231014041700 -0300" channel="0813">
-    <title lang="en">Reminiscencia</title>
-    <desc lang="en">Un científico descubre una forma de revivir el pasado y utiliza la tecnología para buscar su amor perdido hace mucho tiempo.</desc>
+    <title lang="en">02:17 - Reminiscencia (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014041700 -0300" stop="20231014060000 -0300" channel="0813">
-    <title lang="en">Hermanastros</title>
-    <desc lang="en">Brennan Huff tiene treinta y nueve años, vive con su madre, Nancy y suele conseguir empleos esporádicos. Dale Doback es un desempleado terminal de cuarenta años que vive con su padre, Robert. Cuando la mamá de Huff y el papá de Dale se casan, los hombres se ven obligados a compartir casa. El narcisismo de ambos y su vagancia agresiva enseguida los llevan a una competitividad que pone en peligro el matrimonio.</desc>
+    <title lang="en">04:17 - Hermanastros (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014060000 -0300" stop="20231014080000 -0300" channel="0813">
-    <title lang="en">Jack, el cazagigantes</title>
-    <desc lang="en">La paz existente entre humanos y gigantes llega a su fin cuando los gigantes secuestran a una princesa humana. Un grupo de hombres, encabezado por un joven granjero, tendrá que partir a su rescate.</desc>
+    <title lang="en">06:00 - Jack, el cazagigantes (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014080000 -0300" stop="20231014094500 -0300" channel="0813">
-    <title lang="en">Los tipos malos</title>
-    <desc lang="en">Después de toda una vida de atracos legendarios, los criminales notorios Mr. Wolf, Mr. Snake, Mr. Piranha, Mr. Shark y Ms. Tarántula finalmente son capturados. Para evitar una sentencia de prisión, los animales forajidos deben llevar a cabo su estafa más desafiante hasta el momento: convertirse en ciudadanos modelo. Bajo la tutela de su mentor, el profesor Marmalade, la dudosa pandilla se dispone a engañar al mundo de que se están volviendo buenos.</desc>
+    <title lang="en">08:00 - Los tipos malos (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014094500 -0300" stop="20231014120700 -0300" channel="0813">
-    <title lang="en">Rápidos y furiosos 5in control</title>
-    <desc lang="en">Desde que Brian O'Conner y Mia sacaron a Dom Toretto de la cárcel, se han visto obligados a huir y cruzar muchas fronteras para evitar a la policía. Atrapados en Río de Janeiro, una vez más tienen que darse a la fuga si quieren conservar la libertad. Pero los tres saben muy bien que la única posibilidad que tienen de poner fin a esta situación es enfrentarse de una vez por todas al empresario corrupto que quiere verlos muertos. Sin embargo, éste no es el único que les sigue la pista.</desc>
+    <title lang="en">09:45 - Rápidos y furiosos 5in control (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014120700 -0300" stop="20231014143700 -0300" channel="0813">
-    <title lang="en">Flash</title>
-    <desc lang="en">Accidentalmente, Barry altera el futuro cuando utiliza sus superpoderes para hacer un viaje en el tiempo al pasado y cambiar los acontecimientos. Ahora, ha quedado atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que llamar para detenerlo.</desc>
+    <title lang="en">12:07 - Flash (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014143700 -0300" stop="20231014164500 -0300" channel="0813">
-    <title lang="en">Pasante de moda</title>
-    <desc lang="en">La joven dueña de un exitoso negocio online dedicado a la moda acepta a regañadientes que la compañía contrate como becario a un hombre de 70 años. Poco a poco, irá dándose cuenta de que ese hombre es alguien indispensable para la empresa.</desc>
+    <title lang="en">14:37 - Pasante de moda (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014164500 -0300" stop="20231014192900 -0300" channel="0813">
-    <title lang="en">Elvis</title>
-    <desc lang="en">Explora la vida y la música de la leyenda del rock Elvis Presley a través de su relación con el coronel Tom Parker, su enigmático mánager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de 20 años, desde el ascenso del artista a la fama hasta su estrellato sin precedentes.</desc>
+    <title lang="en">16:45 - Elvis (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014192900 -0300" stop="20231014220000 -0300" channel="0813">
-    <title lang="en">Flash</title>
-    <desc lang="en">Accidentalmente, Barry altera el futuro cuando utiliza sus superpoderes para hacer un viaje en el tiempo al pasado y cambiar los acontecimientos. Ahora, ha quedado atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que llamar para detenerlo.</desc>
+    <title lang="en">19:29 - Flash (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014220000 -0300" stop="20231014235500 -0300" channel="0813">
-    <title lang="en">La noche del demonio: La puerta roja</title>
-    <desc lang="en">Para finalmente poner a sus demonios a descansar, Josh y su hijo Dalton deben enfrentarse al pasado oscuro de su familia y un sin número de espantosos terrores que se esconden detrás de la puerta roja.</desc>
+    <title lang="en">22:00 - La noche del demonio: La puerta roja (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014235500 -0300" stop="20231015015500 -0300" channel="0813">
-    <title lang="en">Cóctel explosivo</title>
-    <desc lang="en">Eva era lo más importante en la turbulenta vida de su madre, Scarlet. Pero sus enemigos obligaron a Scarlet a huir abandonándolo todo, incluida a su hija. Años más tarde, Eva se convierte en una asesina a sangre fría siguiendo los pasos de su progenitora.</desc>
+    <title lang="en">23:55 - Cóctel explosivo (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015015500 -0300" stop="20231015040300 -0300" channel="0813">
-    <title lang="en">Guasón</title>
-    <desc lang="en">Arthur Fleck vive en la ciudad de Gotham con su madre, y lo único que lo mantiene activo y feliz es hacer reír a la gente vistiéndose como payaso. Sin embargo, sus problemas mentales hacen que los demás se burlen de él y lo vean como un bicho raro. Una serie de hechos trágicos lo llevará a incrementar su odio hacia una sociedad que lo ignora y discrimina.</desc>
+    <title lang="en">01:55 - Guasón (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015040300 -0300" stop="20231015060000 -0300" channel="0813">
-    <title lang="en">Annabelle 2: La creación</title>
-    <desc lang="en">Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer acogen en su casa a una monja enfermera y a un grupo de niñas, tratando de convertir su casa en un acogedor orfanato. Sin embargo, las nuevas inquilinas se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco.</desc>
+    <title lang="en">04:03 - Annabelle 2: La creación (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015060000 -0300" stop="20231015084100 -0300" channel="0813">
-    <title lang="en">Duna</title>
-    <desc lang="en">Paul Atreides, un joven brillante y talentoso, debe viajar a Arrakis, también llamado 'Dune', que se ha convertido en el planeta más importante del universo. Su misión: asegurar el futuro de su familia y su pueblo. Una gigantesca lucha que acabará en una guerra interestelar.</desc>
+    <title lang="en">06:00 - Duna (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015084100 -0300" stop="20231015103000 -0300" channel="0813">
-    <title lang="en">Pasaje al paraíso</title>
-    <desc lang="en">Una pareja divorciada se une y viaja a Bali para evitar que su hija cometa el mismo error que creen que cometieron hace veinticinco años.</desc>
+    <title lang="en">08:41 - Pasaje al paraíso (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015103000 -0300" stop="20231015130200 -0300" channel="0813">
-    <title lang="en">Jurassic World: Dominio</title>
-    <desc lang="en">Años después de la destrucción de Isla Nublar, los dinosaurios viven y cazan junto a los humanos. Este equilibrio determinará, si los humanos seguirán siendo los depredadores máximos en un planeta que comparten con las criaturas temibles.</desc>
+    <title lang="en">10:30 - Jurassic World: Dominio (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015130200 -0300" stop="20231015152100 -0300" channel="0813">
-    <title lang="en">¡Shazam!</title>
-    <desc lang="en">En Filadelfia, Billy Batson es un niño abandonado que está demostrando ser una molestia para Child Services y las autoridades con su obstinada búsqueda de su madre perdida. Sin embargo, en su último hogar de acogida, Billy hace un nuevo amigo, Freddy, y se encuentra seleccionado por el Mago Shazam para ser su nuevo campeón. Ahora dotado de la capacidad de convertirse instantáneamente en un superhéroe adulto al pronunciar el nombre del mago, Billy explora alegremente sus nuevos poderes con Freddy. Sin embargo, Billy pronto se entera de que tiene un enemigo mortal, el Dr. Thaddeus Sivana, quien anteriormente fue rechazado por el mago y ha aceptado el poder de los Siete Pecados Capitales. Ahora perseguido por este científico loco por su propio poder, Billy debe enfrentar las responsabilidades de su vocación mientras aprende el poder de una magia especial con su verdadera familia que Sivana nunca podrá entender.</desc>
+    <title lang="en">13:02 - ¡Shazam! (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015152100 -0300" stop="20231015173600 -0300" channel="0813">
-    <title lang="en">El rey Arturo: la leyenda de la espada</title>
-    <desc lang="en">Arturo es un joven intrépido que dirige a su pandilla por los callejones de Londonium. Tras sacar la espada de Excalibur, se verá obligado a tomar algunas duras decisiones. Junto a una misteriosa mujer llamada Guinevere, deberá aprender a manejar la espada, vencer a sus demonios y unir al pueblo para derrotar al tirano Vortigern, quien robó su corona y asesinó a sus padres antes de convertirse en rey.</desc>
+    <title lang="en">15:21 - El rey Arturo: la leyenda de la espada (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015173600 -0300" stop="20231015192600 -0300" channel="0813">
-    <title lang="en">Pasaje al paraíso</title>
-    <desc lang="en">Una pareja divorciada se une y viaja a Bali para evitar que su hija cometa el mismo error que creen que cometieron hace veinticinco años.</desc>
+    <title lang="en">17:36 - Pasaje al paraíso (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015192600 -0300" stop="20231015220000 -0300" channel="0813">
-    <title lang="en">Jurassic World: Dominio</title>
-    <desc lang="en">Años después de la destrucción de Isla Nublar, los dinosaurios viven y cazan junto a los humanos. Este equilibrio determinará, si los humanos seguirán siendo los depredadores máximos en un planeta que comparten con las criaturas temibles.</desc>
+    <title lang="en">19:26 - Jurassic World: Dominio (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015220000 -0300" stop="20231015223200 -0300" channel="0813">
-    <title lang="en">Twisted Metal: NTHLAW1</title>
-    <desc lang="en">T1 Ep: 3 NTHLAW1. En una tierra desolada y postapocalíptica, un forastero llamado John Doe debe entregar un misterioso paquete para obtener, a cambio, una mejor calidad de vida. Contará con la ayuda de una ladrona de autos, mientras se enfrenta a merodeadores salvajes y otros peligros en la carretera. T1 Ep: 3 NTHLAW1. John y Quiet caen en una trampa inesperada, mientras que el Agente Stone pone a prueba la lealtad de sus nuevos reclutas.</desc>
+    <title lang="en">22:00 - Twisted Metal (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015223200 -0300" stop="20231015230400 -0300" channel="0813">
-    <title lang="en">Twisted Metal: NTHLAW1</title>
-    <desc lang="en">T1 Ep: 3 NTHLAW1. En una tierra desolada y postapocalíptica, un forastero llamado John Doe debe entregar un misterioso paquete para obtener, a cambio, una mejor calidad de vida. Contará con la ayuda de una ladrona de autos, mientras se enfrenta a merodeadores salvajes y otros peligros en la carretera. T1 Ep: 3 NTHLAW1. John y Quiet caen en una trampa inesperada, mientras que el Agente Stone pone a prueba la lealtad de sus nuevos reclutas.</desc>
+    <title lang="en">22:32 - Twisted Metal (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231015230400 -0300" stop="20231016010400 -0300" channel="0813">
-    <title lang="en">Megalodón 2: El gran abismo</title>
-    <desc lang="en">Un equipo de investigación inicia una misión que va a explorar las profundidades más abismales del mar. Pero su viaje se convierte en caos cuando un malévolo operativo minero amenaza su misión y los obliga a librar una batalla de alto riesgo por la supervivencia. Enfrentados a colosales Megalodones y a implacables saqueadores medioambientales, el equipo correr más rápido, ser más astuto y nadar a mayor velocidad que sus despiadados depredadores en una trepidante carrera contra el tiempo.</desc>
+    <title lang="en">23:04 - Megalodón 2: El gran abismo (?)</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231014003100 -0300" stop="20231014020900 -0300" channel="0814">
     <title lang="en">65: al borde de la extinción</title>
@@ -23333,69 +24247,81 @@
     <title lang="es">Walker</title>
     <desc lang="es">Un enérgico oficial Pérez confunde a Cordell con un sospechoso. Trey se ofrece a ayudar a Liam con un proyecto. Colton lucha con sus sentimientos por Stella.</desc>
   </programme>
-  <programme start="20231014145000 -0300" stop="20231014155000 -0300" channel="0833">
+  <programme start="20231014150600 -0300" stop="20231014160500 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Al ser confrontado por los Davidson, Liam comparte un antiguo documento que podría poner en problemas a la familia Walker. Bonham revela una verdad del pasado para encubrir otra y Cordell tiene noticias que quisiera compartir con la familia.</desc>
   </programme>
-  <programme start="20231014155000 -0300" stop="20231014165300 -0300" channel="0833">
+  <programme start="20231014160500 -0300" stop="20231014170400 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Cordell llega a un punto de inflexión con Denise. La tensión entre la familia Walker y la familia Davidson llega a su punto álgido.</desc>
   </programme>
-  <programme start="20231014165300 -0300" stop="20231014175600 -0300" channel="0833">
+  <programme start="20231014170400 -0300" stop="20231014180300 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Mientras Geri se esfuerza por mantener alta la moral de la familia Walker, Cordell y Cassie buscan pistas que puedan ayudar a Bonham.</desc>
   </programme>
-  <programme start="20231014175600 -0300" stop="20231014185700 -0300" channel="0833">
+  <programme start="20231014180300 -0300" stop="20231014185900 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Cordell y la familia Walker asisten a una feria, pero no todo es diversión cuando Cassie se encuentra con rostros de su pasado. Abeline intenta aclarar las cosas con Geri, y Colton intenta un nuevo enfoque con Stella.</desc>
   </programme>
-  <programme start="20231014185700 -0300" stop="20231014195800 -0300" channel="0833">
+  <programme start="20231014185900 -0300" stop="20231014195900 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Cordell necesita la ayuda de alguien de su pasado, pero no sabe si podrá confiar en esa persona. Mientras tanto, Trey les muestra a James y August una nueva forma de lidiar con algunas de las frustraciones de la vida.</desc>
   </programme>
-  <programme start="20231014195800 -0300" stop="20231014205900 -0300" channel="0833">
+  <programme start="20231014195900 -0300" stop="20231014210000 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Los Walker dejan los problemas a un lado para celebrar el aniversario de Abeline y Bonham. Cassie encuentra un pedazo de su pasado y Cordell necesita un favor de Geri.</desc>
   </programme>
-  <programme start="20231014205900 -0300" stop="20231014220000 -0300" channel="0833">
+  <programme start="20231014210000 -0300" stop="20231014220000 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Twyla es elegida para ayudar a los Rangers en un caso mientras ella y Cordell comienzan a acercarse. Mientras tanto, Stella reevalúa sus sentimientos por Todd y Colton, y Geri tiene un gesto de paz con Denise.</desc>
   </programme>
-  <programme start="20231014220000 -0300" stop="20231014230000 -0300" channel="0833">
-    <title lang="es">Hora H</title>
-    <desc lang="es">Los estrenos de las nuevas temporadas y series de lo más destacado de HBO, en un bloque exclusivo de programación.</desc>
+  <programme start="20231014220000 -0300" stop="20231014222900 -0300" channel="0833">
+    <title lang="es">Starstruck</title>
+    <desc lang="es">Una relación borracha se vuelve mucho más complicada para Jessie cuando descubre que su aventura de una noche es en realidad una estrella de cine. Lo que pensó que se convertiría en una anécdota divertida pronto se convierte en otra cosa.</desc>
   </programme>
-  <programme start="20231014230000 -0300" stop="20231015000800 -0300" channel="0833">
+  <programme start="20231014222900 -0300" stop="20231014233700 -0300" channel="0833">
     <title lang="es">Reyka</title>
     <desc lang="es">Después de que un hombre misterioso salvara a Reyka, el equipo de investigación descubre nuevas conexiones con los cadáveres.</desc>
   </programme>
-  <programme start="20231015000800 -0300" stop="20231015010800 -0300" channel="0833">
+  <programme start="20231014233700 -0300" stop="20231015004300 -0300" channel="0833">
     <title lang="es">Reyka</title>
     <desc lang="es">Atormentada por el pasado, una brillante perfiladora criminal llamada Reyka investiga una serie de asesinatos cometidos por el mismo asesino entre las plantaciones de caña de azúcar en una provincia de Sudáfrica.</desc>
   </programme>
-  <programme start="20231015010800 -0300" stop="20231015020100 -0300" channel="0833">
+  <programme start="20231015004300 -0300" stop="20231015013200 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Cordell y James hacen un descubrimiento impactante. Mientras tanto, Stella y August pasan una tarde traumática y Liam lleva una preocupación hasta la casa de los Davidson.</desc>
   </programme>
-  <programme start="20231015020100 -0300" stop="20231015025100 -0300" channel="0833">
+  <programme start="20231015013200 -0300" stop="20231015021900 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Stella y Colton planean una cena familiar para los Walker y los Davidson. Mientras tanto, Liam encuentra un aliado impensado tratando de probar que los Davidson tramaban algo el día que Cordell corrió la carrera por el rancho.</desc>
   </programme>
-  <programme start="20231015025100 -0300" stop="20231015033800 -0300" channel="0833">
+  <programme start="20231015021900 -0300" stop="20231015030600 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Después de que Gale le cuenta a Geri la verdad sobre su pasado, Cordell se ve obligado a revivir una parte de su propio pasado que había enterrado hace tiempo, y Trey considera la última propuesta del capitán James.</desc>
   </programme>
-  <programme start="20231015033800 -0300" stop="20231015042500 -0300" channel="0833">
+  <programme start="20231015030600 -0300" stop="20231015035600 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Walker se da cuenta de que su vida está en riesgo y se enfrenta al capitán James, quien le confiesa la verdadera razón por la que Micki estaba encubierto. Los Davidson regresan a casa, lo que pone nerviosa a Abeline.</desc>
   </programme>
-  <programme start="20231015042500 -0300" stop="20231015051000 -0300" channel="0833">
+  <programme start="20231015035600 -0300" stop="20231015044200 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">A Walker le preocupa que Micki vaya demasiado a cubierto y quiere vigilarla de cerca. El capitán James y el nuevo fiscal de distrito trabajan juntos para cerrar el caso y llevar a Micki a casa.</desc>
   </programme>
-  <programme start="20231015051000 -0300" stop="20231015060000 -0300" channel="0833">
+  <programme start="20231015044200 -0300" stop="20231015052900 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Walker invita a Gale Davidson a participar en el concurso de cocina para hacer las pases con las familias. Micki y Trey trabajan para remendar su relación cuando regresen a casa después de su operación encubierta.</desc>
+  </programme>
+  <programme start="20231015052900 -0300" stop="20231015054300 -0300" channel="0833">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
+  </programme>
+  <programme start="20231015054300 -0300" stop="20231015055800 -0300" channel="0833">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
+  </programme>
+  <programme start="20231015055800 -0300" stop="20231015060000 -0300" channel="0833">
+    <title lang="es">TNT Buzz</title>
+    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
   </programme>
   <programme start="20231015060000 -0300" stop="20231015065400 -0300" channel="0833">
     <title lang="es">Hollywood One on One</title>
@@ -32615,6 +33541,269 @@
     <title lang="en">Será anunciado</title>
     <desc lang="en">Sin información.</desc>
   </programme>
+  <programme start="20231013210000 -0300" stop="20231013213000 -0300" channel="0159">
+    <title lang="en">Centro cultural Padre las Casas</title>
+  </programme>
+  <programme start="20231013213000 -0300" stop="20231013220000 -0300" channel="0159">
+    <title lang="en">Temuco de noche</title>
+  </programme>
+  <programme start="20231013220000 -0300" stop="20231013223000 -0300" channel="0159">
+    <title lang="en">Global 3000</title>
+    <desc lang="en">El magacín de DW sobre la globalización trata temas de interés para todos los habitantes del planeta, en especial cómo la gente afronta las oportunidades y los riesgos que conlleva la globalización.</desc>
+  </programme>
+  <programme start="20231013223000 -0300" stop="20231013230000 -0300" channel="0159">
+    <title lang="en">Araucania Outdoor</title>
+    <desc lang="en">Una aventura para descubrir las bondades de la región de la Araucanía.</desc>
+  </programme>
+  <programme start="20231013230000 -0300" stop="20231013233000 -0300" channel="0159">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Espacio informativo de los canales regionales asociados a Arcatel que en 30 minutos sintetiza las principales noticias de las regiones del país.</desc>
+  </programme>
+  <programme start="20231013233000 -0300" stop="20231014000000 -0300" channel="0159">
+    <title lang="en">Ufro deportes</title>
+    <desc lang="en">Lo más importante de la actividad deportiva.</desc>
+  </programme>
+  <programme start="20231014000000 -0300" stop="20231014003000 -0300" channel="0159">
+    <title lang="en">Ufro deportes</title>
+    <desc lang="en">Lo más importante de la actividad deportiva.</desc>
+  </programme>
+  <programme start="20231014003000 -0300" stop="20231014013000 -0300" channel="0159">
+    <title lang="en">Araucania 360º</title>
+  </programme>
+  <programme start="20231014013000 -0300" stop="20231014023000 -0300" channel="0159">
+    <title lang="en">Break ufroclásica</title>
+    <desc lang="en">Fina selección musical clásica, comprendida entre los siglos XX y XXI.</desc>
+  </programme>
+  <programme start="20231014080000 -0300" stop="20231014083000 -0300" channel="0159">
+    <title lang="en">CNTV Pre escolar</title>
+    <desc lang="en">Television cultural y educativa para niños, niñas y familia.</desc>
+  </programme>
+  <programme start="20231014083000 -0300" stop="20231014090000 -0300" channel="0159">
+    <title lang="en">CNTV Pre escolar</title>
+    <desc lang="en">Television cultural y educativa para niños, niñas y familia.</desc>
+  </programme>
+  <programme start="20231014090000 -0300" stop="20231014093000 -0300" channel="0159">
+    <title lang="en">CNTV Niños</title>
+    <desc lang="en">Cápsulas elaboradas a partir de secuencias y planos de animaciones CNTV Infantil, donde se invita a despertar la curiosidad, a hacer preguntas, a descubrir y explorar el entorno.</desc>
+  </programme>
+  <programme start="20231014093000 -0300" stop="20231014100000 -0300" channel="0159">
+    <title lang="en">CNTV Pre adolescente</title>
+    <desc lang="en">Television cultural y educativa para niños, niñas y familia.</desc>
+  </programme>
+  <programme start="20231014100000 -0300" stop="20231014103000 -0300" channel="0159">
+    <title lang="en">El pequeño teatro de papel</title>
+  </programme>
+  <programme start="20231014103000 -0300" stop="20231014110000 -0300" channel="0159">
+    <title lang="en">Fuerza latina</title>
+    <desc lang="en">Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan.</desc>
+  </programme>
+  <programme start="20231014110000 -0300" stop="20231014113000 -0300" channel="0159">
+    <title lang="en">Somos Ufro</title>
+    <desc lang="en">Conocemos el quehacer de la Universidad de La Frontera, y la importancia de formar profesionales con visión de futuro.</desc>
+  </programme>
+  <programme start="20231014113000 -0300" stop="20231014120000 -0300" channel="0159">
+    <title lang="en">Enlaces</title>
+    <desc lang="en">Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política.</desc>
+  </programme>
+  <programme start="20231014120000 -0300" stop="20231014123000 -0300" channel="0159">
+    <title lang="en">Araucania 360º</title>
+  </programme>
+  <programme start="20231014123000 -0300" stop="20231014130000 -0300" channel="0159">
+    <title lang="en">Araucania 360º</title>
+  </programme>
+  <programme start="20231014130000 -0300" stop="20231014133000 -0300" channel="0159">
+    <title lang="en">Araucania 360º</title>
+  </programme>
+  <programme start="20231014133000 -0300" stop="20231014140000 -0300" channel="0159">
+    <title lang="en">Araucania 360º</title>
+  </programme>
+  <programme start="20231014140000 -0300" stop="20231014143000 -0300" channel="0159">
+    <title lang="en">La ruta orgánica</title>
+  </programme>
+  <programme start="20231014143000 -0300" stop="20231014150000 -0300" channel="0159">
+    <title lang="en">Emprende</title>
+    <desc lang="en">Programa que pretende cautivar, motivar e interesar a los emprendedores a salir adelante. La idea es apoyar a las pequeñas, medianas y grandes empresas que se vieron afectados por la pandemia.</desc>
+  </programme>
+  <programme start="20231014150000 -0300" stop="20231014153000 -0300" channel="0159">
+    <title lang="en">Global 3000</title>
+    <desc lang="en">El magacín de DW sobre la globalización trata temas de interés para todos los habitantes del planeta, en especial cómo la gente afronta las oportunidades y los riesgos que conlleva la globalización.</desc>
+  </programme>
+  <programme start="20231014153000 -0300" stop="20231014160000 -0300" channel="0159">
+    <title lang="en">Sobre libros</title>
+    <desc lang="en">Conocimiento del arte y la literatura.</desc>
+  </programme>
+  <programme start="20231014160000 -0300" stop="20231014163000 -0300" channel="0159">
+    <title lang="en">Noticiero UES TV</title>
+    <desc lang="en">Espacio universitario que te trae todas las novedades de los hechos ocurridos en Chile recientemente, y abarca informaciones desde distintos puntos de vista, siempre enfocados en la veracidad y objetividad.</desc>
+  </programme>
+  <programme start="20231014163000 -0300" stop="20231014170000 -0300" channel="0159">
+    <title lang="en">Noticiero UES TV</title>
+    <desc lang="en">Espacio universitario que te trae todas las novedades de los hechos ocurridos en Chile recientemente, y abarca informaciones desde distintos puntos de vista, siempre enfocados en la veracidad y objetividad.</desc>
+  </programme>
+  <programme start="20231014170000 -0300" stop="20231014173000 -0300" channel="0159">
+    <title lang="en">Conciencia pública</title>
+    <desc lang="en">Espacio para promover el conocimiento científico que se genera en las universidades públicas y estatales de Chile.</desc>
+  </programme>
+  <programme start="20231014173000 -0300" stop="20231014180000 -0300" channel="0159">
+    <title lang="en">Sobre libros</title>
+    <desc lang="en">Conocimiento del arte y la literatura.</desc>
+  </programme>
+  <programme start="20231014180000 -0300" stop="20231014183000 -0300" channel="0159">
+    <title lang="en">Cuando llega la tarde</title>
+    <desc lang="en">Espacio de conversación y análisis de la contingencia nacional y regional con profesionales de la Universidad de La Frontera.</desc>
+  </programme>
+  <programme start="20231014183000 -0300" stop="20231014190000 -0300" channel="0159">
+    <title lang="en">Cuando llega la tarde</title>
+    <desc lang="en">Espacio de conversación y análisis de la contingencia nacional y regional con profesionales de la Universidad de La Frontera.</desc>
+  </programme>
+  <programme start="20231014190000 -0300" stop="20231014193000 -0300" channel="0159">
+    <title lang="en">Enfoque Europa</title>
+    <desc lang="en">Magazine dedicado a informar acerca de la diversidad de los pueblos, sus culturas y paisajes, haciendo hincapié en la convivencia y los conflictos. También presenta historias directas de la vida de las personas en Europa.</desc>
+  </programme>
+  <programme start="20231014193000 -0300" stop="20231014200000 -0300" channel="0159">
+    <title lang="en">Cuestión de actitud</title>
+  </programme>
+  <programme start="20231014200000 -0300" stop="20231014203000 -0300" channel="0159">
+    <title lang="en">Araucania Outdoor</title>
+    <desc lang="en">Una aventura para descubrir las bondades de la región de la Araucanía.</desc>
+  </programme>
+  <programme start="20231014203000 -0300" stop="20231014210000 -0300" channel="0159">
+    <title lang="en">Cultura.21</title>
+    <desc lang="en">Espacio que presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atención el espíritu del momento.</desc>
+  </programme>
+  <programme start="20231014210000 -0300" stop="20231014213000 -0300" channel="0159">
+    <title lang="en">Filarmónica Teatro Municipal Temuco</title>
+    <desc lang="en">Orquesta filarmónica de Temuco desde el Teatro Municipal Camilo Salvo.</desc>
+  </programme>
+  <programme start="20231014213000 -0300" stop="20231014220000 -0300" channel="0159">
+    <title lang="en">Filarmónica Teatro Municipal Temuco</title>
+    <desc lang="en">Orquesta filarmónica de Temuco desde el Teatro Municipal Camilo Salvo.</desc>
+  </programme>
+  <programme start="20231014220000 -0300" stop="20231014223000 -0300" channel="0159">
+    <title lang="en">Euromaxx</title>
+    <desc lang="en">Espacio que nos muestra las nuevas facetas del viejo continente. Conozca la impresionante diversidad de la vida y cultura en Europa: moda, gastronomía, arquitectura, arte y espectáculos en un solo formato.</desc>
+  </programme>
+  <programme start="20231014223000 -0300" stop="20231014230000 -0300" channel="0159">
+    <title lang="en">Mi historia, mi oficio</title>
+    <desc lang="en">Recorrido por las tradiciones manualesy artesanales de la Araucanía.</desc>
+  </programme>
+  <programme start="20231014230000 -0300" stop="20231014233000 -0300" channel="0159">
+    <title lang="en">Portavoz noticias</title>
+    <desc lang="en">Espacio informativo de los canales regionales asociados a Arcatel que en 30 minutos sintetiza las principales noticias de las regiones del país.</desc>
+  </programme>
+  <programme start="20231014233000 -0300" stop="20231015000000 -0300" channel="0159">
+    <title lang="en">Somos Ufro</title>
+    <desc lang="en">Conocemos el quehacer de la Universidad de La Frontera, y la importancia de formar profesionales con visión de futuro.</desc>
+  </programme>
+  <programme start="20231015000000 -0300" stop="20231015003000 -0300" channel="0159">
+    <title lang="en">Doctores en linea</title>
+    <desc lang="en">Especialistas del Hospital Dr. Hernán Henríquez Aravena responde en linea las consultas de la ciudadanía.</desc>
+  </programme>
+  <programme start="20231015003000 -0300" stop="20231015013000 -0300" channel="0159">
+    <title lang="en">Doctores en linea</title>
+    <desc lang="en">Especialistas del Hospital Dr. Hernán Henríquez Aravena responde en linea las consultas de la ciudadanía.</desc>
+  </programme>
+  <programme start="20231015013000 -0300" stop="20231015023000 -0300" channel="0159">
+    <title lang="en">Break ufroclásica</title>
+    <desc lang="en">Fina selección musical clásica, comprendida entre los siglos XX y XXI.</desc>
+  </programme>
+  <programme start="20231015080000 -0300" stop="20231015083000 -0300" channel="0159">
+    <title lang="en">CNTV Pre escolar</title>
+    <desc lang="en">Television cultural y educativa para niños, niñas y familia.</desc>
+  </programme>
+  <programme start="20231015083000 -0300" stop="20231015090000 -0300" channel="0159">
+    <title lang="en">CNTV Pre escolar</title>
+    <desc lang="en">Television cultural y educativa para niños, niñas y familia.</desc>
+  </programme>
+  <programme start="20231015090000 -0300" stop="20231015093000 -0300" channel="0159">
+    <title lang="en">CNTV Niños</title>
+    <desc lang="en">Cápsulas elaboradas a partir de secuencias y planos de animaciones CNTV Infantil, donde se invita a despertar la curiosidad, a hacer preguntas, a descubrir y explorar el entorno.</desc>
+  </programme>
+  <programme start="20231015093000 -0300" stop="20231015100000 -0300" channel="0159">
+    <title lang="en">CNTV Pre adolescente</title>
+    <desc lang="en">Television cultural y educativa para niños, niñas y familia.</desc>
+  </programme>
+  <programme start="20231015100000 -0300" stop="20231015103000 -0300" channel="0159">
+    <title lang="en">El pequeño teatro de papel</title>
+  </programme>
+  <programme start="20231015103000 -0300" stop="20231015110000 -0300" channel="0159">
+    <title lang="en">Cultura.21</title>
+    <desc lang="en">Espacio que presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atención el espíritu del momento.</desc>
+  </programme>
+  <programme start="20231015110000 -0300" stop="20231015113000 -0300" channel="0159">
+    <title lang="en">Somos Ufro</title>
+    <desc lang="en">Conocemos el quehacer de la Universidad de La Frontera, y la importancia de formar profesionales con visión de futuro.</desc>
+  </programme>
+  <programme start="20231015113000 -0300" stop="20231015120000 -0300" channel="0159">
+    <title lang="en">En forma</title>
+    <desc lang="en">Magazine informativo que brinda al espectador conocimientos acerca de cómo llevar una vida sana y prevenir enfermedades, a través de la medicina tradicional en la cual figuran las terapias alternativas.</desc>
+  </programme>
+  <programme start="20231015120000 -0300" stop="20231015123000 -0300" channel="0159">
+    <title lang="en">Araucania 360º</title>
+  </programme>
+  <programme start="20231015123000 -0300" stop="20231015130000 -0300" channel="0159">
+    <title lang="en">Araucania 360º</title>
+  </programme>
+  <programme start="20231015130000 -0300" stop="20231015133000 -0300" channel="0159">
+    <title lang="en">Araucania 360º</title>
+  </programme>
+  <programme start="20231015133000 -0300" stop="20231015140000 -0300" channel="0159">
+    <title lang="en">Araucania 360º</title>
+  </programme>
+  <programme start="20231015140000 -0300" stop="20231015143000 -0300" channel="0159">
+    <title lang="en">Sobre libros</title>
+    <desc lang="en">Conocimiento del arte y la literatura.</desc>
+  </programme>
+  <programme start="20231015143000 -0300" stop="20231015150000 -0300" channel="0159">
+    <title lang="en">Cuestión de actitud</title>
+  </programme>
+  <programme start="20231015150000 -0300" stop="20231015153000 -0300" channel="0159">
+    <title lang="en">Visión futuro</title>
+    <desc lang="en">Visión futuro les acompaña semanalmente en el fascinante viaje por el mundo de la Ciencia. El magacín para quienes quieren conocer nuestro universo y su funcionamiento.</desc>
+  </programme>
+  <programme start="20231015153000 -0300" stop="20231015160000 -0300" channel="0159">
+    <title lang="en">Conciencia pública</title>
+    <desc lang="en">Espacio para promover el conocimiento científico que se genera en las universidades públicas y estatales de Chile.</desc>
+  </programme>
+  <programme start="20231015160000 -0300" stop="20231015163000 -0300" channel="0159">
+    <title lang="en">Noticiero UES TV</title>
+    <desc lang="en">Espacio universitario que te trae todas las novedades de los hechos ocurridos en Chile recientemente, y abarca informaciones desde distintos puntos de vista, siempre enfocados en la veracidad y objetividad.</desc>
+  </programme>
+  <programme start="20231015163000 -0300" stop="20231015170000 -0300" channel="0159">
+    <title lang="en">Noticiero UES TV</title>
+    <desc lang="en">Espacio universitario que te trae todas las novedades de los hechos ocurridos en Chile recientemente, y abarca informaciones desde distintos puntos de vista, siempre enfocados en la veracidad y objetividad.</desc>
+  </programme>
+  <programme start="20231015170000 -0300" stop="20231015173000 -0300" channel="0159">
+    <title lang="en">Doctores en linea</title>
+    <desc lang="en">Especialistas del Hospital Dr. Hernán Henríquez Aravena responde en linea las consultas de la ciudadanía.</desc>
+  </programme>
+  <programme start="20231015173000 -0300" stop="20231015180000 -0300" channel="0159">
+    <title lang="en">Doctores en linea</title>
+    <desc lang="en">Especialistas del Hospital Dr. Hernán Henríquez Aravena responde en linea las consultas de la ciudadanía.</desc>
+  </programme>
+  <programme start="20231015180000 -0300" stop="20231015183000 -0300" channel="0159">
+    <title lang="en">Cuando llega la tarde</title>
+    <desc lang="en">Espacio de conversación y análisis de la contingencia nacional y regional con profesionales de la Universidad de La Frontera.</desc>
+  </programme>
+  <programme start="20231015183000 -0300" stop="20231015190000 -0300" channel="0159">
+    <title lang="en">Cuando llega la tarde</title>
+    <desc lang="en">Espacio de conversación y análisis de la contingencia nacional y regional con profesionales de la Universidad de La Frontera.</desc>
+  </programme>
+  <programme start="20231015190000 -0300" stop="20231015193000 -0300" channel="0159">
+    <title lang="en">Eco Latinoamérica</title>
+    <desc lang="en">Una serie de reportajes que presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región.</desc>
+  </programme>
+  <programme start="20231015193000 -0300" stop="20231015200000 -0300" channel="0159">
+    <title lang="en">Emprende</title>
+    <desc lang="en">Programa que pretende cautivar, motivar e interesar a los emprendedores a salir adelante. La idea es apoyar a las pequeñas, medianas y grandes empresas que se vieron afectados por la pandemia.</desc>
+  </programme>
+  <programme start="20231015200000 -0300" stop="20231015203000 -0300" channel="0159">
+    <title lang="en">La ruta orgánica</title>
+  </programme>
+  <programme start="20231015203000 -0300" stop="20231015210000 -0300" channel="0159">
+    <title lang="en">Fuerza latina</title>
+    <desc lang="en">Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan.</desc>
+  </programme>
   <programme start="20231014060000 -0300" stop="20231014090000 -0300" channel="0164">
     <title lang="en">SuperHits Patagonia</title>
   </programme>
@@ -32776,5 +33965,137 @@
   </programme>
   <programme start="20231015235900 -0300" stop="20231016000000 -0300" channel="0173">
     <title lang="en">Cine Nocturno Contivisión</title>
+  </programme>
+  <programme start="20231014210000 -0300" stop="20231014220000 -0300" channel="0434">
+    <title lang="en">Fight News</title>
+  </programme>
+  <programme start="20231014220000 -0300" stop="20231014230000 -0300" channel="0434">
+    <title lang="en">Top Rank Classic Fights</title>
+  </programme>
+  <programme start="20231014230000 -0300" stop="20231015010000 -0300" channel="0434">
+    <title lang="en">Fight Review - Bellator 300, preliminares</title>
+  </programme>
+  <programme start="20231015010000 -0300" stop="20231015030000 -0300" channel="0434">
+    <title lang="en">Gromda Fight Club</title>
+  </programme>
+  <programme start="20231015030000 -0300" stop="20231015033000 -0300" channel="0434">
+    <title lang="en">Greatest Classics - Roy Jones Jr. vs. Danny García</title>
+  </programme>
+  <programme start="20231015033000 -0300" stop="20231015070000 -0300" channel="0434">
+    <title lang="en">GLORY 89</title>
+  </programme>
+  <programme start="20231015070000 -0300" stop="20231015110000 -0300" channel="0434">
+    <title lang="en">Martial Arts - Preliminares Bellator 300 San Diego</title>
+  </programme>
+  <programme start="20231015110000 -0300" stop="20231015143000 -0300" channel="0434">
+    <title lang="en">GLORY 89</title>
+  </programme>
+  <programme start="20231015143000 -0300" stop="20231015153000 -0300" channel="0434">
+    <title lang="en">Será anunciado</title>
+  </programme>
+  <programme start="20231015153000 -0300" stop="20231015193000 -0300" channel="0434">
+    <title lang="en">Kickboxing : Enfusion 126 - Enfusion 126</title>
+  </programme>
+  <programme start="20231015193000 -0300" stop="20231015200000 -0300" channel="0434">
+    <title lang="en">Greatest Hits: Miguel Cotto</title>
+  </programme>
+  <programme start="20231015200000 -0300" stop="20231015220000 -0300" channel="0434">
+    <title lang="en">Martial Arts - Preliminares Bellator 300 San Diego</title>
+  </programme>
+  <programme start="20231015220000 -0300" stop="20231015230000 -0300" channel="0434">
+    <title lang="en">DIRECTV Boxing Nights</title>
+  </programme>
+  <programme start="20231015230000 -0300" stop="20231016000000 -0300" channel="0434">
+    <title lang="en">Ranking Fight - Los mejores KO de septiembre</title>
+  </programme>
+  <programme start="20231016000000 -0300" stop="20231016003000 -0300" channel="0434">
+    <title lang="en">Boxeo - 2003: Floyd Mayweather Jr. vs. Phillip N&amp;apos;dou</title>
+  </programme>
+  <programme start="20231016003000 -0300" stop="20231016030000 -0300" channel="0434">
+    <title lang="en">Gromda Fight Club</title>
+  </programme>
+  <programme start="20231014213000 -0300" stop="20231014223000 -0300" channel="0435">
+    <title lang="en">Formula E - Review 2023</title>
+  </programme>
+  <programme start="20231014223000 -0300" stop="20231014233000 -0300" channel="0435">
+    <title lang="en">FIA Karting Championship - Franciacorta</title>
+  </programme>
+  <programme start="20231014233000 -0300" stop="20231015000000 -0300" channel="0435">
+    <title lang="en">European Rally Championship - Ronda 8, Hungría</title>
+  </programme>
+  <programme start="20231015000000 -0300" stop="20231015003000 -0300" channel="0435">
+    <title lang="en">DSports Motor</title>
+  </programme>
+  <programme start="20231015003000 -0300" stop="20231015010000 -0300" channel="0435">
+    <title lang="en">FastZone</title>
+  </programme>
+  <programme start="20231015010000 -0300" stop="20231015020000 -0300" channel="0435">
+    <title lang="en">Campeonato Británico de Superbikes - Donington, ronda 10</title>
+  </programme>
+  <programme start="20231015020000 -0300" stop="20231015030000 -0300" channel="0435">
+    <title lang="en">GT World Challenge Highlights - Barcelona, resumen</title>
+  </programme>
+  <programme start="20231015030000 -0300" stop="20231015033000 -0300" channel="0435">
+    <title lang="en">European Rally Championship - Ronda 8, Hungría</title>
+  </programme>
+  <programme start="20231015033000 -0300" stop="20231015040000 -0300" channel="0435">
+    <title lang="en">Automovilismo - TCR España: Estoril, carrera 2</title>
+  </programme>
+  <programme start="20231015040000 -0300" stop="20231015043000 -0300" channel="0435">
+    <title lang="en">DSports Motor</title>
+  </programme>
+  <programme start="20231015043000 -0300" stop="20231015050000 -0300" channel="0435">
+    <title lang="en">DSports Motor</title>
+  </programme>
+  <programme start="20231015050000 -0300" stop="20231015060000 -0300" channel="0435">
+    <title lang="en">Campeonato Mundial Rally - Chile: Resumen</title>
+  </programme>
+  <programme start="20231015060000 -0300" stop="20231015070000 -0300" channel="0435">
+    <title lang="en">FIM Speedway GP Highlights - Polonia, ronda 10</title>
+  </programme>
+  <programme start="20231015070000 -0300" stop="20231015073000 -0300" channel="0435">
+    <title lang="en">Porsche Carrera Cup</title>
+  </programme>
+  <programme start="20231015073000 -0300" stop="20231015083000 -0300" channel="0435">
+    <title lang="en">GT World Challenge Highlights - Barcelona, resumen</title>
+  </programme>
+  <programme start="20231015083000 -0300" stop="20231015093000 -0300" channel="0435">
+    <title lang="en">World Rallycross - World RX 2023: Ciudad del Cabo, carrera 1</title>
+  </programme>
+  <programme start="20231015093000 -0300" stop="20231015103000 -0300" channel="0435">
+    <title lang="en">World Rallycross - World RX 2023: Ciudad del Cabo, carrera 2</title>
+  </programme>
+  <programme start="20231015103000 -0300" stop="20231015110000 -0300" channel="0435">
+    <title lang="en">Rally América</title>
+  </programme>
+  <programme start="20231015110000 -0300" stop="20231015113000 -0300" channel="0435">
+    <title lang="en">Behind the Gate - Copa de las Naciones</title>
+  </programme>
+  <programme start="20231015113000 -0300" stop="20231015123000 -0300" channel="0435">
+    <title lang="en">Fórmula Regional Europea - Zandvoort, carrera 1</title>
+  </programme>
+  <programme start="20231015123000 -0300" stop="20231015133000 -0300" channel="0435">
+    <title lang="en">Campeonato Mundial Rally - Chile: Resumen</title>
+  </programme>
+  <programme start="20231015133000 -0300" stop="20231015173000 -0300" channel="0435">
+    <title lang="en">IMSA Weathertech Sportscar Championship - Petit Le Mans: Part 1</title>
+  </programme>
+  <programme start="20231015173000 -0300" stop="20231015200000 -0300" channel="0435">
+    <title lang="en">Automovilismo NASCAR Xfinity Racing Series - Alsco Uniforms 302</title>
+  </programme>
+  <programme start="20231015200000 -0300" stop="20231016000000 -0300" channel="0435">
+    <title lang="en">IMSA Weathertech Sportscar Championship - Petit Le Mans: Part 2</title>
+  </programme>
+  <programme start="20231016000000 -0300" stop="20231016003000 -0300" channel="0435">
+    <title lang="en">Porsche Carrera Cup</title>
+  </programme>
+  <programme start="20231016003000 -0300" stop="20231016010000 -0300" channel="0435">
+    <title lang="en">Behind the Gate - Copa de las Naciones</title>
+  </programme>
+  <programme start="20231016010000 -0300" stop="20231016013000 -0300" channel="0435">
+    <title lang="en">FastZone</title>
+  </programme>
+  <programme start="20231016013000 -0300" stop="20231016020000 -0300" channel="0435">
+    <title lang="en">European Rally Championship - Ronda 8, Hungría</title>
   </programme>
 </tv>
