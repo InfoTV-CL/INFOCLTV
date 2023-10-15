@@ -7,7 +7,7 @@
   </channel>
   <channel id="9998">
     <display-name lang="en">NO TX</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/Zf4rYBC/9999.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0000">
@@ -117,7 +117,7 @@
   </channel>
   <channel id="0201">
     <display-name lang="en">Canal 24 Horas</display-name>
-    <icon src="https://i.ibb.co/W3vyhT8/0201.png" />
+    <icon src="https://i.ibb.co/P9tPb2k/0201.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0202">
@@ -652,17 +652,17 @@
   </channel>
   <channel id="0151">
     <display-name lang="en">Iquique TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/PNpD8NW/0151.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0152">
     <display-name lang="en">Antofagasta TV</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/8MfVy96/0152.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0153">
     <display-name lang="en">Canal 9 Bío-Bío Televisión - Biobío</display-name>
-    <icon src="https://i.ibb.co/TBj2MgN/0154.png" />
+    <icon src="https://i.ibb.co/7vSy9tG/0153.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0155">
@@ -872,7 +872,7 @@
   </channel>
   <channel id="0154">
     <display-name lang="en">Sexta Visión</display-name>
-    <icon src="" />
+    <icon src="https://i.ibb.co/TBj2MgN/0154.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
   <channel id="0156">
@@ -14205,9 +14205,6 @@
   <programme start="20231015233000 -0300" stop="20231016000000 -0300" channel="0310">
     <title lang="en">Noches de ensueño</title>
   </programme>
-  <programme start="20231016043000 -0300" stop="20231016050000 -0300" channel="0310">
-    <title lang="en">Sonidos Relajantes</title>
-  </programme>
   <programme start="20231016070000 -0300" stop="20231016073000 -0300" channel="0310">
     <title lang="en">El momento de los buenos días</title>
   </programme>
@@ -26458,57 +26455,37 @@
     <title lang="es">Walker</title>
     <desc lang="es">Walker se da cuenta de que su vida está en riesgo y se enfrenta al capitán James, quien le confiesa la verdadera razón por la que Micki estaba encubierto. Los Davidson regresan a casa, lo que pone nerviosa a Abeline.</desc>
   </programme>
-  <programme start="20231015044200 -0300" stop="20231015052900 -0300" channel="0833">
+  <programme start="20231015042500 -0300" stop="20231015051000 -0300" channel="0833">
+    <title lang="es">Walker</title>
+    <desc lang="es">A Walker le preocupa que Micki vaya demasiado a cubierto y quiere vigilarla de cerca. El capitán James y el nuevo fiscal de distrito trabajan juntos para cerrar el caso y llevar a Micki a casa.</desc>
+  </programme>
+  <programme start="20231015051000 -0300" stop="20231015060000 -0300" channel="0833">
     <title lang="es">Walker</title>
     <desc lang="es">Walker invita a Gale Davidson a participar en el concurso de cocina para hacer las pases con las familias. Micki y Trey trabajan para remendar su relación cuando regresen a casa después de su operación encubierta.</desc>
   </programme>
-  <programme start="20231015052900 -0300" stop="20231015054300 -0300" channel="0833">
+  <programme start="20231015060000 -0300" stop="20231015065400 -0300" channel="0833">
     <title lang="es">Hollywood One on One</title>
     <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
   </programme>
-  <programme start="20231015054300 -0300" stop="20231015055800 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20231015055800 -0300" stop="20231015060000 -0300" channel="0833">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
-  </programme>
-  <programme start="20231015060000 -0300" stop="20231015061800 -0300" channel="0833">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.</desc>
-  </programme>
-  <programme start="20231015061800 -0300" stop="20231015062300 -0300" channel="0833">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
-  </programme>
-  <programme start="20231015062300 -0300" stop="20231015062500 -0300" channel="0833">
-    <title lang="es">TNT Buzz</title>
-    <desc lang="es">Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
-  </programme>
-  <programme start="20231015062500 -0300" stop="20231015071700 -0300" channel="0833">
+  <programme start="20231015065400 -0300" stop="20231015074500 -0300" channel="0833">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Jane organiza su propia operación encubierta utilizando a Van Pelt como carnada mientras el equipo investiga el asesinato de una joven mesera en el Valle de Napa.</desc>
   </programme>
-  <programme start="20231015071700 -0300" stop="20231015080700 -0300" channel="0833">
+  <programme start="20231015074500 -0300" stop="20231015083600 -0300" channel="0833">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Cuando el cuerpo de una chica preparatoriana desaparece en la playa, Patrick Jane idea una trampa para enfrentar a los surfistas entre ellos y que revelen lo que sucedió.</desc>
   </programme>
-  <programme start="20231015080700 -0300" stop="20231015090600 -0300" channel="0833">
+  <programme start="20231015083600 -0300" stop="20231015092900 -0300" channel="0833">
     <title lang="es">The Mentalist</title>
     <desc lang="es">El equipo descubre que un adinerado banquero inversionista, encontrado muerto dentro de un cuarto de seguridad, tenía una vida doble y le robaba a sus clientes. Patrick manipula a los sospechosos para descubrir al culpable.</desc>
   </programme>
-  <programme start="20231015090600 -0300" stop="20231015095700 -0300" channel="0833">
+  <programme start="20231015092900 -0300" stop="20231015102300 -0300" channel="0833">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Una niña hallada cubierta en sangre y con el arma homicida en su mano es la principal sospechosa de la muerte de su mejor amiga, pero ella no recuerda nada del incidente y Jane cree que es inocente.</desc>
   </programme>
-  <programme start="20231015095700 -0300" stop="20231015105400 -0300" channel="0833">
+  <programme start="20231015102300 -0300" stop="20231015111200 -0300" channel="0833">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Patrick usa sus habilidades para atrapar al asesino del dueño de un casino.</desc>
-  </programme>
-  <programme start="20231015105400 -0300" stop="20231015115000 -0300" channel="0833">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Patrick realiza una sesión para probar que un supuesto psíquico, quien predijo que la víctima de un asesinato estaba en peligro, es falso y es el homicida.</desc>
   </programme>
   <programme start="20231015115000 -0300" stop="20231015125600 -0300" channel="0833">
     <title lang="es">The Mentalist</title>
@@ -30825,16 +30802,12 @@
     <desc lang="en">Conoce a fondo a los deportistas y equipos que estarán en los próximos juegos Panamericanos y Parapanamericanos, Santiago 2023. Comparte sus historias, motivaciones y mucho más en Camino a Santiago 2023, por el 13.</desc>
   </programme>
   <programme start="20231015100000 -0300" stop="20231015110000 -0300" channel="0122">
-    <title lang="en">Central de noticias</title>
-    <desc lang="en">Se presenta una revisión de la información principal de Chile y el mundo desde la sala de redacción.</desc>
-  </programme>
-  <programme start="20231015110000 -0300" stop="20231015120000 -0300" channel="0122">
-    <title lang="en">Mesa Central</title>
-    <desc lang="en">Un panel de columnistas expertos lleva adelante un análisis de los sucesos de la semana.</desc>
-  </programme>
-  <programme start="20231015120000 -0300" stop="20231015130000 -0300" channel="0122">
     <title lang="en">Teletrece a la hora</title>
     <desc lang="en">Un espacio que ofrece toda la información actual de lo que ocurre a nivel nacional e internacional.</desc>
+  </programme>
+  <programme start="20231015110000 -0300" stop="20231015130000 -0300" channel="0122">
+    <title lang="en">Mesa Central</title>
+    <desc lang="en">Un panel de columnistas expertos lleva adelante un análisis de los sucesos de la semana.</desc>
   </programme>
   <programme start="20231015130000 -0300" stop="20231015150000 -0300" channel="0122">
     <title lang="en">Teletrece Tarde</title>
@@ -30936,16 +30909,12 @@
     <desc lang="en">Conoce a fondo a los deportistas y equipos que estarán en los próximos juegos Panamericanos y Parapanamericanos, Santiago 2023. Comparte sus historias, motivaciones y mucho más en Camino a Santiago 2023, por el 13.</desc>
   </programme>
   <programme start="20231016100000 -0300" stop="20231016110000 -0300" channel="0122">
-    <title lang="en">Central de noticias</title>
-    <desc lang="en">Se presenta una revisión de la información principal de Chile y el mundo desde la sala de redacción.</desc>
-  </programme>
-  <programme start="20231016110000 -0300" stop="20231016120000 -0300" channel="0122">
-    <title lang="en">Mesa Central</title>
-    <desc lang="en">Un panel de columnistas expertos lleva adelante un análisis de los sucesos de la semana.</desc>
-  </programme>
-  <programme start="20231016120000 -0300" stop="20231016130000 -0300" channel="0122">
     <title lang="en">Teletrece a la hora</title>
     <desc lang="en">Un espacio que ofrece toda la información actual de lo que ocurre a nivel nacional e internacional.</desc>
+  </programme>
+  <programme start="20231016110000 -0300" stop="20231016130000 -0300" channel="0122">
+    <title lang="en">Mesa Central</title>
+    <desc lang="en">Un panel de columnistas expertos lleva adelante un análisis de los sucesos de la semana.</desc>
   </programme>
   <programme start="20231016130000 -0300" stop="20231016150000 -0300" channel="0122">
     <title lang="en">Teletrece Tarde</title>
