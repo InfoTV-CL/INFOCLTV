@@ -1615,6 +1615,22 @@
     <title lang="en">Meganoticias Reportajes</title>
     <desc lang="en">Selección de los reportajes más relevantes que se han dado en Meganoticias.</desc>
   </programme>
+  <programme start="20231105060000 -0300" stop="20231105070000 -0300" channel="0122">
+    <title lang="en">Transmisión Conjunta 13</title>
+    <desc lang="en">Programas, informativos, cultura, noticias, espectaculos. 07:00-08:00.</desc>
+  </programme>
+  <programme start="20231106060000 -0300" stop="20231106070000 -0300" channel="0122">
+    <title lang="en">Transmisión Conjunta 13</title>
+    <desc lang="en">Programas, informativos, cultura, noticias, espectaculos. 07:00-08:00.</desc>
+  </programme>
+  <programme start="20231105060000 -0300" stop="20231105073000 -0300" channel="0117">
+    <title lang="en">Pelotón</title>
+    <desc lang="en">Un programa en el que los participantes se someten a una fuerte instrucción militar con el fin de ganar cincuenta millones de pesos chilenos. 07:30-08:30.</desc>
+  </programme>
+  <programme start="20231106060000 -0300" stop="20231106073000 -0300" channel="0117">
+    <title lang="en">Pelotón</title>
+    <desc lang="en">Un programa en el que los participantes se someten a una fuerte instrucción militar con el fin de ganar cincuenta millones de pesos chilenos. 07:30-08:30.</desc>
+  </programme>
   <programme start="20231105010000 -0300" stop="20231105033000 -0300" channel="0151">
     <title lang="en">Anime</title>
     <desc lang="en">Serie animada.</desc>
