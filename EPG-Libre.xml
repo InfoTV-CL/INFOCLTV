@@ -2697,27 +2697,30 @@
     <desc lang="en">Los mejores videoclips para acompañar el día.</desc>
   </programme>
   <programme start="20231106210000 -0300" stop="20231106213000 -0300" channel="0153">
+    <title lang="en">Tomás Mosciatti, la entrevista</title>
+    <desc lang="en">El periodista Tomás Mosciatti analiza la actualidad social y política de Chile y el mundo junto a expertos invitados. El público podrá informarse al completo a través de un debate que despliega los acontecimientos diarios más destacados.</desc>
+  </programme>
+  <programme start="20231106213000 -0300" stop="20231106223000 -0300" channel="0153">
+    <title lang="en">El Tablón</title>
+    <desc lang="en">Debate político sin pauta de la actualidad regional y nacional.</desc>
+  </programme>
+  <programme start="20231106223000 -0300" stop="20231106224500 -0300" channel="0153">
+    <title lang="en">La voz de las sombras</title>
+    <desc lang="en">Espacio que presenta los misterios, mitos y leyendas de diversas regiones de nuestro país.</desc>
+  </programme>
+  <programme start="20231106224500 -0300" stop="20231106234500 -0300" channel="0153">
+    <title lang="en">Aquí Casuales! The Show</title>
+    <desc lang="en">En este talk show vas a poder conocer artistas, actores, directores, influencers, activistas y gente que la está rompiendo en su medio. Platicaremos casual con nuestros invitados, les pondremos retos y los podrás conocer como nunca antes.</desc>
+  </programme>
+  <programme start="20231106234500 -0300" stop="20231107000000 -0300" channel="0153">
+    <title lang="en">Efemérides</title>
+  </programme>
+  <programme start="20231107000000 -0300" stop="20231107003000 -0300" channel="0153">
     <title lang="en">La hora del gnomo</title>
     <desc lang="en">Programa de entrevistas y música en vivo a diferentes artistas regionales desde Casa de Salud en Concepción.</desc>
   </programme>
-  <programme start="20231106213000 -0300" stop="20231106214500 -0300" channel="0153">
-    <title lang="en">Efemérides</title>
-  </programme>
-  <programme start="20231106214500 -0300" stop="20231106234500 -0300" channel="0153">
-    <title lang="en">Lo mejor - Matinal nuestra casa</title>
-    <desc lang="en">Vive los mejores momentos de Matinal nuestra casa. El matinal de la región del Bío Bío. Interesantes invitados y los temas que te importan y entretienen.</desc>
-  </programme>
-  <programme start="20231106234500 -0300" stop="20231107003000 -0300" channel="0153">
-    <title lang="en">Noticias - Edición central</title>
-    <desc lang="en">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios en Chile y el mundo para que el público se informe de la forma más completa.</desc>
-  </programme>
-  <programme start="20231107003000 -0300" stop="20231107011000 -0300" channel="0153">
-    <title lang="en">Frente Regional</title>
-    <desc lang="en">Diálogo franco y directo con personajes que aportan a la región y el país.</desc>
-  </programme>
-  <programme start="20231107011000 -0300" stop="20231107013000 -0300" channel="0153">
-    <title lang="en">La voz de las sombras</title>
-    <desc lang="en">Espacio que presenta los misterios, mitos y leyendas de diversas regiones de nuestro país.</desc>
+  <programme start="20231107003000 -0300" stop="20231107013000 -0300" channel="0153">
+    <title lang="en">Cartones publicitarios</title>
   </programme>
   <programme start="20231107013000 -0300" stop="20231107020000 -0300" channel="0153">
     <title lang="en">Entrevista BBTV / Espectáculos</title>
@@ -2743,65 +2746,81 @@
   <programme start="20231107040000 -0300" stop="20231107050000 -0300" channel="0153">
     <title lang="en">Cartones publicitarios</title>
   </programme>
-  <programme start="20231107093000 -0300" stop="20231107103000 -0300" channel="0153">
+  <programme start="20231107063000 -0300" stop="20231107073000 -0300" channel="0153">
     <title lang="en">Infórmate primero</title>
     <desc lang="en">Noticias de la región del Bío Bío y los mejores videoclips para comenzar el día.</desc>
   </programme>
-  <programme start="20231107103000 -0300" stop="20231107111500 -0300" channel="0153">
+  <programme start="20231107073000 -0300" stop="20231107081500 -0300" channel="0153">
     <title lang="en">Noticias - Edición matinal</title>
   </programme>
-  <programme start="20231107111500 -0300" stop="20231107153000 -0300" channel="0153">
+  <programme start="20231107081500 -0300" stop="20231107123000 -0300" channel="0153">
     <title lang="en">Nuestra casa</title>
     <desc lang="en">El matinal de la región del Bío Bío con interesantes invitados y los temas que te importan y entretienen.</desc>
   </programme>
-  <programme start="20231107153000 -0300" stop="20231107160000 -0300" channel="0153">
+  <programme start="20231107123000 -0300" stop="20231107130000 -0300" channel="0153">
     <title lang="en">Efemérides</title>
   </programme>
-  <programme start="20231107160000 -0300" stop="20231107164500 -0300" channel="0153">
-    <title lang="en">Video Hits</title>
-    <desc lang="en">Los mejores videoclips para acompañar el día.</desc>
+  <programme start="20231107130000 -0300" stop="20231107131500 -0300" channel="0153">
+    <title lang="en">Entrevistas BioBio TV</title>
+    <desc lang="en">Las entrevistas más importantes, de la mano de nuestros periodistas.</desc>
   </programme>
-  <programme start="20231107164500 -0300" stop="20231107173000 -0300" channel="0153">
+  <programme start="20231107131500 -0300" stop="20231107134500 -0300" channel="0153">
+    <title lang="en">Comentario</title>
+  </programme>
+  <programme start="20231107134500 -0300" stop="20231107143000 -0300" channel="0153">
     <title lang="en">Noticias Mediodía</title>
     <desc lang="en">Noticias de la región y el país con el respaldo de radio Bío Bío.</desc>
   </programme>
-  <programme start="20231107173000 -0300" stop="20231107180000 -0300" channel="0153">
-    <title lang="en">Frente Regional</title>
-    <desc lang="en">Diálogo franco y directo con personajes que aportan a la región y el país.</desc>
+  <programme start="20231107143000 -0300" stop="20231107153000 -0300" channel="0153">
+    <title lang="en">El Tablón</title>
+    <desc lang="en">Debate político sin pauta de la actualidad regional y nacional.</desc>
   </programme>
-  <programme start="20231107180000 -0300" stop="20231107183000 -0300" channel="0153">
+  <programme start="20231107153000 -0300" stop="20231107160000 -0300" channel="0153">
     <title lang="en">Entrevistas BioBio TV</title>
     <desc lang="en">Las entrevistas más importantes, de la mano de nuestros periodistas.</desc>
   </programme>
-  <programme start="20231107183000 -0300" stop="20231107190000 -0300" channel="0153">
-    <title lang="en">Efemérides</title>
-  </programme>
-  <programme start="20231107190000 -0300" stop="20231107193000 -0300" channel="0153">
+  <programme start="20231107160000 -0300" stop="20231107163000 -0300" channel="0153">
     <title lang="en">Bloque infantil</title>
     <desc lang="en">Contenido infantil entregado por el Consejo Nacional de Televisión CNTV.</desc>
   </programme>
-  <programme start="20231107193000 -0300" stop="20231107200000 -0300" channel="0153">
-    <title lang="en">iGadget</title>
-    <desc lang="en">Lo más destacado de la tecnología.</desc>
+  <programme start="20231107163000 -0300" stop="20231107180000 -0300" channel="0153">
+    <title lang="en">Video Hits</title>
+    <desc lang="en">Los mejores videoclips para acompañar el día.</desc>
   </programme>
-  <programme start="20231107200000 -0300" stop="20231107210000 -0300" channel="0153">
-    <title lang="en">Aquí Casuales! The Show</title>
-    <desc lang="en">En este talk show vas a poder conocer artistas, actores, directores, influencers, activistas y gente que la está rompiendo en su medio. Platicaremos casual con nuestros invitados, les pondremos retos y los podrás conocer como nunca antes.</desc>
+  <programme start="20231107180000 -0300" stop="20231107183000 -0300" channel="0153">
+    <title lang="en">La hora del gnomo</title>
+    <desc lang="en">Programa de entrevistas y música en vivo a diferentes artistas regionales desde Casa de Salud en Concepción.</desc>
   </programme>
-  <programme start="20231107210000 -0300" stop="20231107213000 -0300" channel="0153">
-    <title lang="en">Entrevistas BioBio TV</title>
-    <desc lang="en">Las entrevistas más importantes, de la mano de nuestros periodistas.</desc>
-  </programme>
-  <programme start="20231107213000 -0300" stop="20231107214500 -0300" channel="0153">
+  <programme start="20231107183000 -0300" stop="20231107184500 -0300" channel="0153">
     <title lang="en">Efemérides</title>
   </programme>
-  <programme start="20231107214500 -0300" stop="20231107234500 -0300" channel="0153">
+  <programme start="20231107184500 -0300" stop="20231107204500 -0300" channel="0153">
     <title lang="en">Lo mejor - Matinal nuestra casa</title>
     <desc lang="en">Vive los mejores momentos de Matinal nuestra casa. El matinal de la región del Bío Bío. Interesantes invitados y los temas que te importan y entretienen.</desc>
   </programme>
-  <programme start="20231107234500 -0300" stop="20231108003000 -0300" channel="0153">
+  <programme start="20231107204500 -0300" stop="20231107213000 -0300" channel="0153">
     <title lang="en">Noticias - Edición central</title>
     <desc lang="en">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios en Chile y el mundo para que el público se informe de la forma más completa.</desc>
+  </programme>
+  <programme start="20231107213000 -0300" stop="20231107221000 -0300" channel="0153">
+    <title lang="en">Frente Regional</title>
+    <desc lang="en">Diálogo franco y directo con personajes que aportan a la región y el país.</desc>
+  </programme>
+  <programme start="20231107221000 -0300" stop="20231107223000 -0300" channel="0153">
+    <title lang="en">La voz de las sombras</title>
+    <desc lang="en">Espacio que presenta los misterios, mitos y leyendas de diversas regiones de nuestro país.</desc>
+  </programme>
+  <programme start="20231107223000 -0300" stop="20231107230000 -0300" channel="0153">
+    <title lang="en">Entrevista BBTV / Espectáculos</title>
+    <desc lang="en">Un programa de entrevistas con diversas personalidades que debaten sobre la realidad. El público podrá informarse al completo sobre los hechos más destacados junto a invitados que ofrecen sus conocimientos y experiencias.</desc>
+  </programme>
+  <programme start="20231107230000 -0300" stop="20231107233000 -0300" channel="0153">
+    <title lang="en">Noticias - Edición noche</title>
+    <desc lang="en">Manténgase informado de todo el acontecer local e internacional.</desc>
+  </programme>
+  <programme start="20231107233000 -0300" stop="20231108000000 -0300" channel="0153">
+    <title lang="en">La vida misma</title>
+    <desc lang="en">Un espacio donde se descubren las interioridades de grandes personalidades en una producción concebida exclusivamente para quienes desean hurgar en las profundidades más íntimas de nuestros invitados.</desc>
   </programme>
   <programme start="20231106000000 -0300" stop="20231106073000 -0300" channel="0155">
     <title lang="en">Cartelera nocturna</title>
