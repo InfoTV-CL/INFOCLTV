@@ -3351,12 +3351,16 @@
     <desc lang="en">Un noticiero nacional accesible, hecho para todas las regiones.</desc>
   </programme>
   <programme start="20231108060000 -0300" stop="20231108070000 -0300" channel="0110">
-    <title lang="en">Programa Pagado</title>
-    <desc lang="en">Bloque que muestra diversos productos para la venta.</desc>
-  </programme>
-  <programme start="20231108070000 -0300" stop="20231108080000 -0300" channel="0110">
     <title lang="en">Forever</title>
     <desc lang="en">Espacio del recuerdo donde su conductor Hernán Aravena ''Nanito'' nos lleva a un viaje en el tiempo con los artistas destacados que marcaron una época.</desc>
+  </programme>
+  <programme start="20231108070000 -0300" stop="20231108073000 -0300" channel="0110">
+    <title lang="en">El despertar de la Fé</title>
+    <desc lang="en">Espacio religioso.</desc>
+  </programme>
+  <programme start="20231108073000 -0300" stop="20231108080000 -0300" channel="0110">
+    <title lang="en">La hora del milagro</title>
+    <desc lang="en">Espacio religioso.</desc>
   </programme>
   <programme start="20231108080000 -0300" stop="20231108130000 -0300" channel="0110">
     <title lang="en">Tu conexión matinal</title>
@@ -3367,8 +3371,8 @@
     <desc lang="en">Espacio del recuerdo donde su conductor Hernán Aravena ''Nanito'' nos lleva a un viaje en el tiempo con los artistas destacados que marcaron una época.</desc>
   </programme>
   <programme start="20231108140000 -0300" stop="20231108150000 -0300" channel="0110">
-    <title lang="en">Programa Pagado</title>
-    <desc lang="en">Bloque que muestra diversos productos para la venta.</desc>
+    <title lang="en">Tardes virales</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231108150000 -0300" stop="20231108160000 -0300" channel="0110">
     <title lang="en">CNTV Infantil</title>
@@ -3383,12 +3387,12 @@
     <desc lang="en">Programa local.</desc>
   </programme>
   <programme start="20231108190000 -0300" stop="20231108200000 -0300" channel="0110">
-    <title lang="en">CNTV Infantil</title>
-    <desc lang="en">Programación infantil desarrollada para CNTV con contenido para infantes, pre escolar y pre adolescentes.</desc>
+    <title lang="en">Tu conexión matinal</title>
+    <desc lang="en">Espacio matutino que da voz a las regiones, con todo el acontecer de la actualidad nacional, entrevistas y entretenidas secciones.</desc>
   </programme>
   <programme start="20231108200000 -0300" stop="20231108210000 -0300" channel="0110">
-    <title lang="en">Teleserie</title>
-    <desc lang="en">Bloque donde se presenta un nuevo capítulo de la teleserie en emisión.</desc>
+    <title lang="en">Cuando me enamoro</title>
+    <desc lang="en">Jerónimo cree equivocadamente que Renata tuvo una relación con su medio hermano Rafael, quien aparentemente se suicidó debido a ello.</desc>
   </programme>
   <programme start="20231108210000 -0300" stop="20231108220000 -0300" channel="0110">
     <title lang="en">Portavoz Noticias</title>
@@ -3402,29 +3406,33 @@
     <title lang="en">Problemas y soluciones</title>
     <desc lang="en">Programa en el que los televidentes comparten sus problemáticas y se plantean soluciones para esa problemática.</desc>
   </programme>
-  <programme start="20231109000000 -0300" stop="20231109010000 -0300" channel="0110">
-    <title lang="en">Iglesia Universal</title>
-    <desc lang="en">La Iglesia Universal del Reino de Dios presenta palabras de fe e historias de personas que lograron vencer diversos obstáculos en sus vidas, por medio de la palabra de Dios y su amor incondicional.</desc>
+  <programme start="20231109000000 -0300" stop="20231109003000 -0300" channel="0110">
+    <title lang="en">Congreso para el progreso</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
-  <programme start="20231109010000 -0300" stop="20231109030000 -0300" channel="0110">
+  <programme start="20231109003000 -0300" stop="20231109010000 -0300" channel="0110">
+    <title lang="en">Los vicios tienen cura</title>
+    <desc lang="en">No hay información disponible.</desc>
+  </programme>
+  <programme start="20231109010000 -0300" stop="20231109050000 -0300" channel="0110">
     <title lang="en">Tu conexión matinal</title>
     <desc lang="en">Espacio matutino que da voz a las regiones, con todo el acontecer de la actualidad nacional, entrevistas y entretenidas secciones.</desc>
   </programme>
-  <programme start="20231109030000 -0300" stop="20231109050000 -0300" channel="0110">
-    <title lang="en">La Previa</title>
-    <desc lang="en">Prende tu tarde con los mejores videoclips y la simpatía de sus conductores.</desc>
-  </programme>
   <programme start="20231109050000 -0300" stop="20231109060000 -0300" channel="0110">
-    <title lang="en">Portavoz Noticias</title>
-    <desc lang="en">Un noticiero nacional accesible, hecho para todas las regiones.</desc>
+    <title lang="en">Retrohits</title>
+    <desc lang="en">Programa de videoclips con lo mejor de la década de los 80s.</desc>
   </programme>
   <programme start="20231109060000 -0300" stop="20231109070000 -0300" channel="0110">
-    <title lang="en">Programa Pagado</title>
-    <desc lang="en">Bloque que muestra diversos productos para la venta.</desc>
-  </programme>
-  <programme start="20231109070000 -0300" stop="20231109080000 -0300" channel="0110">
     <title lang="en">Forever</title>
     <desc lang="en">Espacio del recuerdo donde su conductor Hernán Aravena ''Nanito'' nos lleva a un viaje en el tiempo con los artistas destacados que marcaron una época.</desc>
+  </programme>
+  <programme start="20231109070000 -0300" stop="20231109073000 -0300" channel="0110">
+    <title lang="en">El despertar de la Fé</title>
+    <desc lang="en">Espacio religioso.</desc>
+  </programme>
+  <programme start="20231109073000 -0300" stop="20231109080000 -0300" channel="0110">
+    <title lang="en">La hora del milagro</title>
+    <desc lang="en">Espacio religioso.</desc>
   </programme>
   <programme start="20231109080000 -0300" stop="20231109130000 -0300" channel="0110">
     <title lang="en">Tu conexión matinal</title>
@@ -3435,8 +3443,8 @@
     <desc lang="en">Espacio del recuerdo donde su conductor Hernán Aravena ''Nanito'' nos lleva a un viaje en el tiempo con los artistas destacados que marcaron una época.</desc>
   </programme>
   <programme start="20231109140000 -0300" stop="20231109150000 -0300" channel="0110">
-    <title lang="en">Programa Pagado</title>
-    <desc lang="en">Bloque que muestra diversos productos para la venta.</desc>
+    <title lang="en">Tardes virales</title>
+    <desc lang="en">No hay información disponible.</desc>
   </programme>
   <programme start="20231109150000 -0300" stop="20231109160000 -0300" channel="0110">
     <title lang="en">CNTV Infantil</title>
@@ -3451,12 +3459,12 @@
     <desc lang="en">Programa local.</desc>
   </programme>
   <programme start="20231109190000 -0300" stop="20231109200000 -0300" channel="0110">
-    <title lang="en">CNTV Infantil</title>
-    <desc lang="en">Programación infantil desarrollada para CNTV con contenido para infantes, pre escolar y pre adolescentes.</desc>
+    <title lang="en">Tu conexión matinal</title>
+    <desc lang="en">Espacio matutino que da voz a las regiones, con todo el acontecer de la actualidad nacional, entrevistas y entretenidas secciones.</desc>
   </programme>
   <programme start="20231109200000 -0300" stop="20231109210000 -0300" channel="0110">
-    <title lang="en">Teleserie</title>
-    <desc lang="en">Bloque donde se presenta un nuevo capítulo de la teleserie en emisión.</desc>
+    <title lang="en">Cuando me enamoro</title>
+    <desc lang="en">Jerónimo cree equivocadamente que Renata tuvo una relación con su medio hermano Rafael, quien aparentemente se suicidó debido a ello.</desc>
   </programme>
   <programme start="20231109210000 -0300" stop="20231109220000 -0300" channel="0110">
     <title lang="en">Portavoz Noticias</title>
